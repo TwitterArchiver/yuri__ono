@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2054220406052258004",
+    "created_at": "2026-05-12T15:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054220406052258004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054220406052258004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053842418924126415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: 我现在用最直白，最直接，最不绕弯子的话告诉你，我想退学。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2054220406052258004",
+        "created_at": "2026-05-12T15:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054220406052258004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054220406052258004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053842418924126415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: 我现在用最直白，最直接，最不绕弯子的话告诉你，我想退学。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2053842418924126415",
+        "created_at": "2026-05-11T14:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053842418924126415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053842418924126415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15349,
+          "like_count": 397,
+          "quote_count": 6,
+          "reply_count": 67,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "我现在用最直白，最直接，最不绕弯子的话告诉你，我想退学。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 321,
+          "like_count": 3330,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 757
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 215,
+          "like_count": 7213,
+          "listed_count": 4,
+          "media_count": 286,
+          "tweet_count": 2814
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

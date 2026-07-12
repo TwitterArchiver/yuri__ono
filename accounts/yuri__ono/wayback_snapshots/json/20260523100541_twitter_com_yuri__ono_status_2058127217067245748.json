@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2058119444912632287",
+    "created_at": "2026-05-23T10:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058127217067245748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2001551604760420352",
+          "start": 0,
+          "username": "shdt675774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058127217067245748",
+    "in_reply_to_user_id": "2001551604760420352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058119444912632287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shdt675774 龙，你怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2058119444912632287",
+        "created_at": "2026-05-23T10:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058127217067245748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2001551604760420352",
+              "start": 0,
+              "username": "shdt675774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058127217067245748",
+        "in_reply_to_user_id": "2001551604760420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058119444912632287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shdt675774 龙，你怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001551604760420352",
+        "conversation_id": "2058119444912632287",
+        "created_at": "2026-05-23T09:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058119444912632287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058119444912632287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "龙儿这个心酸呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 小号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 388,
+          "like_count": 4052,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 997
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T07:14:36.000Z",
+        "description": "我对男的：😂😂😂\n我对女的：😂😂😂\n我对福瑞：😹😹😹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirito78",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kirito78",
+                "start": 0,
+                "url": "https://t.co/HVCnfYsoD4"
+              }
+            ]
+          }
+        },
+        "id": "2001551604760420352",
+        "location": "关都",
+        "name": "小火龙",
+        "pinned_tweet_id": "2030221178644693230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050223753330663424/CiaVG-Qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 126,
+          "like_count": 3514,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/HVCnfYsoD4",
+        "username": "shdt675774",
+        "verified": false
+      }
+    ]
+  }
+}

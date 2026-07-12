@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "2052422915929632943",
+    "created_at": "2026-05-07T16:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052422915929632943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052422915929632943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 330
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052022997633151207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 你们能懂那种危机感吗 读书读不过别人 画画画不过别人 体育音乐之类一窍不通 长相也很普通 我自己都找不出自己有什么吸引人的地方 连身边的好朋友都有她自己更好的朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2052422915929632943",
+        "created_at": "2026-05-07T16:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052422915929632943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052422915929632943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 330
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052022997633151207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 你们能懂那种危机感吗 读书读不过别人 画画画不过别人 体育音乐之类一窍不通 长相也很普通 我自己都找不出自己有什么吸引人的地方 连身边的好朋友都有她自己更好的朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2052022997633151207",
+        "created_at": "2026-05-06T13:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052022997633151207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052022997633151207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 63463,
+          "like_count": 2240,
+          "quote_count": 45,
+          "reply_count": 122,
+          "retweet_count": 330
+        },
+        "reply_settings": "everyone",
+        "text": "你们能懂那种危机感吗 读书读不过别人 画画画不过别人 体育音乐之类一窍不通 长相也很普通 我自己都找不出自己有什么吸引人的地方 连身边的好朋友都有她自己更好的朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 313,
+          "like_count": 3026,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 695
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9173,
+          "following_count": 5,
+          "like_count": 1148,
+          "listed_count": 26,
+          "media_count": 105,
+          "tweet_count": 2190
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

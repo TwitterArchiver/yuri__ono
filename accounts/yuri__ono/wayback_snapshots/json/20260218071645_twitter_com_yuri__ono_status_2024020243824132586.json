@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2023814161172754641",
+    "created_at": "2026-02-18T07:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024020243824132586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830775691375218688",
+          "start": 0,
+          "username": "YunoQiu56649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024020243824132586",
+    "in_reply_to_user_id": "1830775691375218688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023814161172754641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunoQiu56649 看崩溃了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_2023813479606747136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBYHoxebgAAc_gQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023813628693241856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBYHxc3a4AAfyr3.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2023814161172754641",
+        "created_at": "2026-02-18T07:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024020243824132586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830775691375218688",
+              "start": 0,
+              "username": "YunoQiu56649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024020243824132586",
+        "in_reply_to_user_id": "1830775691375218688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023814161172754641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunoQiu56649 看崩溃了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023813479606747136",
+            "3_2023813628693241856"
+          ]
+        },
+        "author_id": "1830775691375218688",
+        "conversation_id": "2023814161172754641",
+        "created_at": "2026-02-17T17:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T18:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023814161172754641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vum1LDg2z",
+              "end": 77,
+              "expanded_url": "https://x.com/YunoQiu56649/status/2023814161172754641/photo/1",
+              "media_key": "3_2023813479606747136",
+              "start": 54,
+              "url": "https://t.co/7vum1LDg2z"
+            },
+            {
+              "display_url": "pic.x.com/7vum1LDg2z",
+              "end": 77,
+              "expanded_url": "https://x.com/YunoQiu56649/status/2023814161172754641/photo/1",
+              "media_key": "3_2023813628693241856",
+              "start": 54,
+              "url": "https://t.co/7vum1LDg2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023814161172754641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 748,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看得出来是很压抑了，哪怕对方说了有对象都要硬撩，我想着用看看（）来赶人来着\n……\n诶不是你真发啊，畏惧了😰 https://t.co/7vum1LDg2z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 257,
+          "like_count": 1594,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 324
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "互fo求求了喵~🥺｜除了初始头像外无视成分回fo🤓锁推的回不了喵｜生产日期07.04.02｜拒绝键政😡搞性别对立的也滚😡｜HRT2026.1.12｜中焦 中抑｜如果感觉我的言论冒犯到了你 请和我说 我道歉🥹｜给这当QQ空间用了 QQ不能说的在这说 记录日常喵(负能量慎入)💤｜看我的帖不喜勿喷，喷我也要发😋",
+        "id": "1830775691375218688",
+        "location": "天堂",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥",
+        "pinned_tweet_id": "2008910689658966299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 802,
+          "like_count": 3772,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 6803
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      }
+    ]
+  }
+}

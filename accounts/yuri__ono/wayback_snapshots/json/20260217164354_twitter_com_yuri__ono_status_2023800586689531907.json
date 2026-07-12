@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023114162768060416"
+      ],
+      "media_source_tweet_id": [
+        "2023114172628914205"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2023800586689531907",
+    "created_at": "2026-02-17T16:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T17:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023800586689531907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995076111328509952",
+          "start": 3,
+          "username": "o_Ouser123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9M0mbhALkc",
+          "end": 39,
+          "expanded_url": "https://x.com/o_Ouser123/status/2023114172628914205/photo/1",
+          "media_key": "3_2023114162768060416",
+          "start": 16,
+          "url": "https://t.co/9M0mbhALkc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023800586689531907",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 273
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023114172628914205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o_Ouser123: https://t.co/9M0mbhALkc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_2023114162768060416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBOLnLPaIAAjxbN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023114162768060416"
+          ],
+          "media_source_tweet_id": [
+            "2023114172628914205"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2023800586689531907",
+        "created_at": "2026-02-17T16:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023800586689531907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995076111328509952",
+              "start": 3,
+              "username": "o_Ouser123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9M0mbhALkc",
+              "end": 39,
+              "expanded_url": "https://x.com/o_Ouser123/status/2023114172628914205/photo/1",
+              "media_key": "3_2023114162768060416",
+              "start": 16,
+              "url": "https://t.co/9M0mbhALkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023800586689531907",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023114172628914205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o_Ouser123: https://t.co/9M0mbhALkc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023114162768060416"
+          ]
+        },
+        "author_id": "1995076111328509952",
+        "conversation_id": "2023114172628914205",
+        "created_at": "2026-02-15T19:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T20:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023114172628914205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9M0mbhALkc",
+              "end": 23,
+              "expanded_url": "https://x.com/o_Ouser123/status/2023114172628914205/photo/1",
+              "media_key": "3_2023114162768060416",
+              "start": 0,
+              "url": "https://t.co/9M0mbhALkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023114172628914205",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 262502,
+          "like_count": 4267,
+          "quote_count": 58,
+          "reply_count": 76,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9M0mbhALkc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 254,
+          "like_count": 1546,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 319
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T10:23:16.000Z",
+        "description": "只回应好听话和钱 不礼貌性回关有时候不想回评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/user123ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/user123ovo",
+                "start": 0,
+                "url": "https://t.co/nxkujmqrNK"
+              }
+            ]
+          }
+        },
+        "id": "1995076111328509952",
+        "name": "我有被爱妄想症",
+        "pinned_tweet_id": "2012418617401548963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010002942137712640/osx2RvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 145,
+          "like_count": 7030,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 2338
+        },
+        "url": "https://t.co/nxkujmqrNK",
+        "username": "o_Ouser123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2067662297607118908",
+    "created_at": "2026-06-19T02:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067791228247380383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058319321441411072",
+          "start": 0,
+          "username": "7oveforever14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067791228247380383",
+    "in_reply_to_user_id": "2058319321441411072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067662297607118908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7oveforever14 麦当劳是对的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067662287310032897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHP5TaWEAEpDAx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2067662297607118908",
+        "created_at": "2026-06-19T02:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067791228247380383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058319321441411072",
+              "start": 0,
+              "username": "7oveforever14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067791228247380383",
+        "in_reply_to_user_id": "2058319321441411072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067662297607118908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7oveforever14 麦当劳是对的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067662287310032897"
+          ]
+        },
+        "author_id": "2058319321441411072",
+        "conversation_id": "2067662297607118908",
+        "created_at": "2026-06-18T17:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067662297607118908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IwFDMUlCFH",
+              "end": 30,
+              "expanded_url": "https://x.com/7oveforever14/status/2067662297607118908/photo/1",
+              "media_key": "3_2067662287310032897",
+              "start": 7,
+              "url": "https://t.co/IwFDMUlCFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067662297607118908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦当劳是对的 https://t.co/IwFDMUlCFH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 739,
+          "like_count": 5154,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1798
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T22:54:47.000Z",
+        "description": "ip意大利 水瓶座 isfp-t冒险家\n我喜欢轻松自在的氛围\n回应有礼貌的正常人https://t.co/HhgNZjxKr1\n欢迎萌萌的小女孩们\n中意时差慢6h\n聊天纯绿 别辱骂别破防\n不看各种照片",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo41845",
+                "end": 63,
+                "expanded_url": "https://ngl.link/ovo41845",
+                "start": 40,
+                "url": "https://t.co/HhgNZjxKr1"
+              }
+            ]
+          }
+        },
+        "id": "2058319321441411072",
+        "name": "ovo",
+        "pinned_tweet_id": "2060169756691353744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063236660062543872/PWeiXiaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 130,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1121
+        },
+        "url": "",
+        "username": "7oveforever14",
+        "verified": false
+      }
+    ]
+  }
+}

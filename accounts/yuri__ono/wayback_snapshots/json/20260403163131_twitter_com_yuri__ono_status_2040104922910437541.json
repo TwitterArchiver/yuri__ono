@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2040104922910437541",
+    "created_at": "2026-04-03T16:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040104922910437541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820594914339799040",
+          "start": 3,
+          "username": "2CROW19"
+        },
+        {
+          "end": 21,
+          "id": "1888306609174302720",
+          "start": 13,
+          "username": "001_ov0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040104922910437541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039967966150918239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2CROW19: @001_ov0 没意义的歌 删了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2040104922910437541",
+        "created_at": "2026-04-03T16:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040104922910437541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820594914339799040",
+              "start": 3,
+              "username": "2CROW19"
+            },
+            {
+              "end": 21,
+              "id": "1888306609174302720",
+              "start": 13,
+              "username": "001_ov0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040104922910437541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039967966150918239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2CROW19: @001_ov0 没意义的歌 删了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820594914339799040",
+        "conversation_id": "2039952690445513213",
+        "created_at": "2026-04-03T07:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039967966150918239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1888306609174302720",
+              "start": 0,
+              "username": "001_ov0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039967966150918239",
+        "in_reply_to_user_id": "1888306609174302720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039952690445513213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@001_ov0 没意义的歌 删了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 285,
+          "like_count": 2390,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 528
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "东方树叶梦男",
+        "id": "1820594914339799040",
+        "location": "🚪50 仅限每周四 平时免费",
+        "name": "永恆",
+        "pinned_tweet_id": "2039234554259812540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034274699413438465/-Vx8v5kZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 113,
+          "like_count": 2848,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1699
+        },
+        "username": "2CROW19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T19:19:23.000Z",
+        "description": "不会做饭不爱搞抽象的黄推不是好老师😋\n不关注我的看了私信也不回 优先回口令",
+        "id": "1888306609174302720",
+        "location": "🚪520/1314 不线下 其他业务不入🚪一切免谈",
+        "name": "001",
+        "pinned_tweet_id": "2021468091386036654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900254978515869696/lofGjn6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 91,
+          "like_count": 326,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 316
+        },
+        "username": "001_ov0",
+        "verified": false
+      }
+    ]
+  }
+}

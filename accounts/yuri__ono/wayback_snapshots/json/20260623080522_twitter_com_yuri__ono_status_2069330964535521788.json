@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069330958428569600",
+        "3_2069330958424371200"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2069330964535521788",
+    "created_at": "2026-06-23T08:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069330964535521788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6juRLssw0X",
+          "end": 72,
+          "expanded_url": "https://x.com/yuri__ono/status/2069330964535521788/photo/1",
+          "media_key": "3_2069330958428569600",
+          "start": 49,
+          "url": "https://t.co/6juRLssw0X"
+        },
+        {
+          "display_url": "pic.x.com/6juRLssw0X",
+          "end": 72,
+          "expanded_url": "https://x.com/yuri__ono/status/2069330964535521788/photo/1",
+          "media_key": "3_2069330958424371200",
+          "start": 49,
+          "url": "https://t.co/6juRLssw0X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069330964535521788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和妈妈出去次饭逛着逛着发现一家店可以打耳洞然后阿帕次阿帕次一下就打了三个 今天真的很梦幻啊我说（ https://t.co/6juRLssw0X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 527,
+        "media_key": "3_2069330958428569600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe9ivvagAAkWGX.jpg",
+        "width": 358
+      },
+      {
+        "height": 727,
+        "media_key": "3_2069330958424371200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe9ivuacAAYW51.jpg",
+        "width": 393
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069330958428569600",
+            "3_2069330958424371200"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2069330964535521788",
+        "created_at": "2026-06-23T08:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069330964535521788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6juRLssw0X",
+              "end": 72,
+              "expanded_url": "https://x.com/yuri__ono/status/2069330964535521788/photo/1",
+              "media_key": "3_2069330958428569600",
+              "start": 49,
+              "url": "https://t.co/6juRLssw0X"
+            },
+            {
+              "display_url": "pic.x.com/6juRLssw0X",
+              "end": 72,
+              "expanded_url": "https://x.com/yuri__ono/status/2069330964535521788/photo/1",
+              "media_key": "3_2069330958424371200",
+              "start": 49,
+              "url": "https://t.co/6juRLssw0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069330964535521788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和妈妈出去次饭逛着逛着发现一家店可以打耳洞然后阿帕次阿帕次一下就打了三个 今天真的很梦幻啊我说（ https://t.co/6juRLssw0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 782,
+          "like_count": 5361,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1989
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2054583706078355791",
+    "created_at": "2026-05-13T15:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T16:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054583706078355791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893671443566903296",
+          "start": 3,
+          "username": "Lin_su1102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054583706078355791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049473626597154862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lin_su1102: 这里是鳞溯\n我又被ban了上一个自介……\n我有双相/精分/焦虑……正在治疗中\n我这里会有一些让人不舒服的内容但我会打预警！不喜欢请屏蔽不要举报我……\n我是你们最恨的餐券妹！\n🚪52 仅聊天无朋友圈消息看到就会回\n互fo互转大欢迎！\n喜欢我的话请给…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049473622251880448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHExZp7bQAAWv-8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2049473622167916544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHExZpnaEAAUcZx.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049473623933759488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHExZwMasAAoY4m.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2054583706078355791",
+        "created_at": "2026-05-13T15:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054583706078355791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893671443566903296",
+              "start": 3,
+              "username": "Lin_su1102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054583706078355791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049473626597154862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lin_su1102: 这里是鳞溯\n我又被ban了上一个自介……\n我有双相/精分/焦虑……正在治疗中\n我这里会有一些让人不舒服的内容但我会打预警！不喜欢请屏蔽不要举报我……\n我是你们最恨的餐券妹！\n🚪52 仅聊天无朋友圈消息看到就会回\n互fo互转大欢迎！\n喜欢我的话请给…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049473622251880448",
+            "3_2049473622167916544",
+            "3_2049473623933759488"
+          ]
+        },
+        "author_id": "1893671443566903296",
+        "conversation_id": "2049473626597154862",
+        "created_at": "2026-04-29T12:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049473626597154862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kn5gYg5mxL",
+              "end": 165,
+              "expanded_url": "https://x.com/Lin_su1102/status/2049473626597154862/photo/1",
+              "media_key": "3_2049473622251880448",
+              "start": 142,
+              "url": "https://t.co/kn5gYg5mxL"
+            },
+            {
+              "display_url": "pic.x.com/kn5gYg5mxL",
+              "end": 165,
+              "expanded_url": "https://x.com/Lin_su1102/status/2049473626597154862/photo/1",
+              "media_key": "3_2049473622167916544",
+              "start": 142,
+              "url": "https://t.co/kn5gYg5mxL"
+            },
+            {
+              "display_url": "pic.x.com/kn5gYg5mxL",
+              "end": 165,
+              "expanded_url": "https://x.com/Lin_su1102/status/2049473626597154862/photo/1",
+              "media_key": "3_2049473623933759488",
+              "start": 142,
+              "url": "https://t.co/kn5gYg5mxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049473626597154862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1586,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这里是鳞溯\n我又被ban了上一个自介……\n我有双相/精分/焦虑……正在治疗中\n我这里会有一些让人不舒服的内容但我会打预警！不喜欢请屏蔽不要举报我……\n我是你们最恨的餐券妹！\n🚪52 仅聊天无朋友圈消息看到就会回\n互fo互转大欢迎！\n喜欢我的话请给我钱……这些钱用来改善我和猫猫的生活 https://t.co/kn5gYg5mxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 321,
+          "like_count": 3356,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 765
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T14:37:21.000Z",
+        "description": "我是鳞溯  \n我秽土转生了这是鳞溯2.0 你们可以接着叫我小溯 欢迎互fo🚪52，我接伤口定制https://t.co/bIAzkK1JXL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linsu_1102",
+                "end": 70,
+                "expanded_url": "https://ngl.link/linsu_1102",
+                "start": 47,
+                "url": "https://t.co/bIAzkK1JXL"
+              }
+            ]
+          }
+        },
+        "id": "1893671443566903296",
+        "location": "Tokyo-to, Japan",
+        "name": "溯（接伤口定制）",
+        "pinned_tweet_id": "2049473626597154862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910981379568918528/eXWWa22__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 115,
+          "like_count": 5789,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 945
+        },
+        "username": "Lin_su1102",
+        "verified": false
+      }
+    ]
+  }
+}

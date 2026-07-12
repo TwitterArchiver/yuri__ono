@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2020779686234877983",
+    "created_at": "2026-02-09T17:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T18:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020919471364596007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1765747893766623232",
+          "start": 0,
+          "username": "yi302030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020919471364596007",
+    "in_reply_to_user_id": "1765747893766623232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020779686234877983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi302030 若你早与他人两心同～"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36091,
+        "height": 720,
+        "media_key": "13_2020779589166096384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020779589166096384/img/IUKw55HRsVexp0nZ.jpg",
+        "public_metrics": {
+          "view_count": 233
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020779589166096384/vid/avc1/286x270/nQx004g9FwpjeoGd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020779589166096384/vid/avc1/382x360/GpTyHWb6ARBlG3nm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020779589166096384/vid/avc1/764x720/SuJJqiBWu_96Ic4T.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020779589166096384/pl/meukEQCEM4KfSa2R.m3u8"
+          }
+        ],
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2020779686234877983",
+        "created_at": "2026-02-09T17:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T18:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020919471364596007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1765747893766623232",
+              "start": 0,
+              "username": "yi302030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020919471364596007",
+        "in_reply_to_user_id": "1765747893766623232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020779686234877983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi302030 若你早与他人两心同～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020779589166096384"
+          ]
+        },
+        "author_id": "1765747893766623232",
+        "conversation_id": "2020779686234877983",
+        "created_at": "2026-02-09T08:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020779686234877983"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "唱歌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPPDxMQcUI",
+              "end": 37,
+              "expanded_url": "https://x.com/yi302030/status/2020779686234877983/video/1",
+              "media_key": "13_2020779589166096384",
+              "start": 14,
+              "url": "https://t.co/UPPDxMQcUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020779686234877983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 801,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人听过这个歌吗\n\n#唱歌 https://t.co/UPPDxMQcUI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 250,
+          "like_count": 1410,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 287
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T14:34:46.000Z",
+        "description": "INFP 天蝎 男的 直的 喜欢视奸粉丝｜录本请私信授权｜希望会是个有意义的树洞 匿名信链接https://t.co/cuggsv4VXO ｜自用VPN：https://t.co/sAwiAf8aqK｜接转推｜黄色废料@xiaochuan0923",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "xiaochuan0923"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%80%BF",
+                "end": 69,
+                "expanded_url": "https://ngl.link/%E6%80%BF",
+                "start": 46,
+                "url": "https://t.co/cuggsv4VXO"
+              },
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 100,
+                "expanded_url": "http://pilot.damoplane.com/#/register?code=yPTlMcVE",
+                "start": 77,
+                "url": "https://t.co/sAwiAf8aqK"
+              }
+            ]
+          }
+        },
+        "id": "1765747893766623232",
+        "location": "无门槛 除互关不加v",
+        "name": "怿",
+        "pinned_tweet_id": "2018245115865927837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904592827390054400/jUtJBSO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11383,
+          "following_count": 377,
+          "like_count": 14693,
+          "listed_count": 16,
+          "media_count": 959,
+          "tweet_count": 5253
+        },
+        "username": "yi302030",
+        "verified": false
+      }
+    ]
+  }
+}

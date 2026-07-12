@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2064747688575582501",
+    "created_at": "2026-06-11T15:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065093370616381670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1790436003645386752",
+          "start": 0,
+          "username": "Y91NWctYgN53066"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065093370616381670",
+    "in_reply_to_user_id": "1790436003645386752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064781698752020604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y91NWctYgN53066 我也爱你(｡ì _ í｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2064747688575582501",
+        "created_at": "2026-06-11T15:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065093370616381670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790436003645386752",
+              "start": 0,
+              "username": "Y91NWctYgN53066"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065093370616381670",
+        "in_reply_to_user_id": "1790436003645386752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064781698752020604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y91NWctYgN53066 我也爱你(｡ì _ í｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790436003645386752",
+        "conversation_id": "2064747688575582501",
+        "created_at": "2026-06-10T18:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064781698752020604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064781698752020604",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064747688575582501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 我讨厌你喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 630,
+          "like_count": 4916,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1569
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T17:36:31.000Z",
+        "description": "188/520/1314/5200 拥有美丽可爱迷人性感的小狗～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anan47219",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anan47219",
+                "start": 0,
+                "url": "https://t.co/R4cSeb6rFx"
+              }
+            ]
+          }
+        },
+        "id": "1790436003645386752",
+        "location": "0.68km",
+        "name": "小安摇摆不定",
+        "pinned_tweet_id": "1962133419686806007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975534025638092803/9weXBGuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 21,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 910
+        },
+        "url": "https://t.co/R4cSeb6rFx",
+        "username": "Y91NWctYgN53066",
+        "verified": false
+      }
+    ]
+  }
+}

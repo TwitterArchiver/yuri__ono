@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2058592281893142836",
+    "created_at": "2026-05-24T16:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058592281893142836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000016069550043136",
+          "start": 3,
+          "username": "nng10494601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058592281893142836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058262552405291506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nng10494601: 我喜欢和有教养但是没素质的人做朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2058592281893142836",
+        "created_at": "2026-05-24T16:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058592281893142836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000016069550043136",
+              "start": 3,
+              "username": "nng10494601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058592281893142836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058262552405291506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nng10494601: 我喜欢和有教养但是没素质的人做朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000016069550043136",
+        "conversation_id": "2058262552405291506",
+        "created_at": "2026-05-23T19:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058262552405291506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058262552405291506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 36271,
+          "like_count": 597,
+          "quote_count": 7,
+          "reply_count": 69,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢和有教养但是没素质的人做朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 428,
+          "like_count": 4310,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1093
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T01:32:51.000Z",
+        "description": "好想变成一只无忧无虑的小猫咪(￣∇￣)\nhttps://t.co/LNfGEZf7oy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meiweijiyi",
+                "end": 43,
+                "expanded_url": "http://ngl.link/meiweijiyi",
+                "start": 20,
+                "url": "https://t.co/LNfGEZf7oy"
+              }
+            ]
+          }
+        },
+        "id": "2000016069550043136",
+        "location": "Los Angeles, CA",
+        "name": "UraNN",
+        "pinned_tweet_id": "2058515431112278294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058178214988754945/eRfcXJDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 19,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 272
+        },
+        "username": "nng10494601",
+        "verified": false
+      }
+    ]
+  }
+}

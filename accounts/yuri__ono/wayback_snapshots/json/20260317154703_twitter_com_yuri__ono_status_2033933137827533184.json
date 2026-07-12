@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2033933137827533184",
+    "created_at": "2026-03-17T15:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T16:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033933137827533184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1777142685276725248",
+          "start": 3,
+          "username": "xiaoyang06231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033933137827533184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031989824354492855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyang06231: “我讨厌你”不就是撒娇吗🤷‍♀️真讨厌就不会搭理你了.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2033933137827533184",
+        "created_at": "2026-03-17T15:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033933137827533184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1777142685276725248",
+              "start": 3,
+              "username": "xiaoyang06231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033933137827533184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031989824354492855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyang06231: “我讨厌你”不就是撒娇吗🤷‍♀️真讨厌就不会搭理你了.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777142685276725248",
+        "conversation_id": "2031989824354492855",
+        "created_at": "2026-03-12T07:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031989824354492855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031989824354492855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 70034,
+          "like_count": 1167,
+          "quote_count": 40,
+          "reply_count": 46,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "“我讨厌你”不就是撒娇吗🤷‍♀️真讨厌就不会搭理你了.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 267,
+          "like_count": 1975,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 432
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T01:13:39.000Z",
+        "description": "",
+        "id": "1777142685276725248",
+        "name": "用老公蛋炒饭",
+        "pinned_tweet_id": "1971915940620390658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020804265594560512/39oOc7cp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 124,
+          "like_count": 2612,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 322
+        },
+        "username": "xiaoyang06231",
+        "verified": false
+      }
+    ]
+  }
+}

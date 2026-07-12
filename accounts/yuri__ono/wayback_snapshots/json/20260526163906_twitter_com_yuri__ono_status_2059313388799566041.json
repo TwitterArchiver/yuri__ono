@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2059312972238033206",
+    "created_at": "2026-05-26T16:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T17:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059313388799566041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2056416287535116288",
+          "start": 0,
+          "username": "Thscbo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059313388799566041",
+    "in_reply_to_user_id": "2056416287535116288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059312972238033206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thscbo 晚安呀 像希腊雕塑般的身材 好完美(｡･ω･｡)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2059312965682438144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQmO0jboAAS2cQ.jpg",
+        "width": 1822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2059312972238033206",
+        "created_at": "2026-05-26T16:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059313388799566041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2056416287535116288",
+              "start": 0,
+              "username": "Thscbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059313388799566041",
+        "in_reply_to_user_id": "2056416287535116288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059312972238033206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thscbo 晚安呀 像希腊雕塑般的身材 好完美(｡･ω･｡)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059312965682438144"
+          ]
+        },
+        "author_id": "2056416287535116288",
+        "conversation_id": "2059312972238033206",
+        "created_at": "2026-05-26T16:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059312972238033206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIM1YVTpNr",
+              "end": 36,
+              "expanded_url": "https://x.com/Thscbo/status/2059312972238033206/photo/1",
+              "media_key": "3_2059312965682438144",
+              "start": 13,
+              "url": "https://t.co/XIM1YVTpNr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059312972238033206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家晚安(。-ω-)💤咪 https://t.co/XIM1YVTpNr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 458,
+          "like_count": 4481,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1210
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T16:47:28.000Z",
+        "description": "",
+        "id": "2056416287535116288",
+        "location": "谢谢你在世界的角落找到了我·-·",
+        "name": "Thscbo",
+        "pinned_tweet_id": "2059209972878389345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057518815286845440/qcxpA1ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 25,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "username": "Thscbo",
+        "verified": false
+      }
+    ]
+  }
+}

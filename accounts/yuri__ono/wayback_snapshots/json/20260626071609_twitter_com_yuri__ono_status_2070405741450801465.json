@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2070304238853640387",
+    "created_at": "2026-06-26T07:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070405741450801465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2068718420116533248",
+          "start": 0,
+          "username": "4jpg6AdQ4BOGuKW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070405741450801465",
+    "in_reply_to_user_id": "2068718420116533248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070304238853640387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4jpg6AdQ4BOGuKW 朋友收到感动哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1888,
+        "media_key": "3_2070304236089589760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsyu9kbQAACfUG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2070304238853640387",
+        "created_at": "2026-06-26T07:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070405741450801465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2068718420116533248",
+              "start": 0,
+              "username": "4jpg6AdQ4BOGuKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070405741450801465",
+        "in_reply_to_user_id": "2068718420116533248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070304238853640387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4jpg6AdQ4BOGuKW 朋友收到感动哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070304236089589760"
+          ]
+        },
+        "author_id": "2068718420116533248",
+        "conversation_id": "2070304238853640387",
+        "created_at": "2026-06-26T00:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070304238853640387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2lHAuQ04Fq",
+              "end": 58,
+              "expanded_url": "https://x.com/4jpg6AdQ4BOGuKW/status/2070304238853640387/photo/1",
+              "media_key": "3_2070304236089589760",
+              "start": 35,
+              "url": "https://t.co/2lHAuQ04Fq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070304238853640387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给外地朋友的惊喜，过去好几天了居然还没有拿！气死我了！(ﾉ｀⊿´)ﾉ https://t.co/2lHAuQ04Fq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 861,
+          "like_count": 5509,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 2190
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T15:32:48.000Z",
+        "description": "我想发啥就发啥\n压力我的恭喜你怀了本咪的孩子😈\n家里有三只同类😺\n每日专心经营自己的宅咪生活……😸",
+        "id": "2068718420116533248",
+        "name": "Estrella",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068997643079135232/NVLs-OGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "4jpg6AdQ4BOGuKW",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1989949574635802674",
+    "created_at": "2025-11-16T16:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T17:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990090529925914751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842423358216142849",
+          "start": 0,
+          "username": "keeganlike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990090529925914751",
+    "in_reply_to_user_id": "1842423358216142849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989949574635802674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keeganlike 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1425,
+        "media_key": "3_1989949568172412928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G524lsvb0AAVxnu.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1989949574635802674",
+        "created_at": "2025-11-16T16:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T17:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990090529925914751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842423358216142849",
+              "start": 0,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990090529925914751",
+        "in_reply_to_user_id": "1842423358216142849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989949574635802674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keeganlike 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989949568172412928"
+          ]
+        },
+        "author_id": "1842423358216142849",
+        "conversation_id": "1989949574635802674",
+        "created_at": "2025-11-16T06:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989949574635802674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fMdYLzUfv1",
+              "end": 31,
+              "expanded_url": "https://x.com/keeganlike/status/1989949574635802674/photo/1",
+              "media_key": "3_1989949568172412928",
+              "start": 8,
+              "url": "https://t.co/fMdYLzUfv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989949574635802674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 79315,
+          "like_count": 353,
+          "quote_count": 0,
+          "reply_count": 113,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个流量谁接😋 https://t.co/fMdYLzUfv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 120,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 77
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "🫧 istp 泛 我很温良 和我交朋友吧！推广自辨",
+        "id": "1842423358216142849",
+        "name": "泡泡",
+        "pinned_tweet_id": "1988599291901001760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939713975027163136/nI9UOskh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25083,
+          "following_count": 291,
+          "like_count": 10697,
+          "listed_count": 24,
+          "media_count": 534,
+          "tweet_count": 7875
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

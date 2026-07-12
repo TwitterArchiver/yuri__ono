@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044429063964798976"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2044429073401909553",
+    "created_at": "2026-04-15T14:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044429073401909553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BZBovuK3Sh",
+          "end": 32,
+          "expanded_url": "https://x.com/yuri__ono/status/2044429073401909553/photo/1",
+          "media_key": "3_2044429063964798976",
+          "start": 9,
+          "url": "https://t.co/BZBovuK3Sh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044429073401909553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请这样和我说话。 https://t.co/BZBovuK3Sh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 531,
+        "media_key": "3_2044429063964798976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9FZt4bMAAqeZj.jpg",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044429063964798976"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2044429073401909553",
+        "created_at": "2026-04-15T14:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044429073401909553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZBovuK3Sh",
+              "end": 32,
+              "expanded_url": "https://x.com/yuri__ono/status/2044429073401909553/photo/1",
+              "media_key": "3_2044429063964798976",
+              "start": 9,
+              "url": "https://t.co/BZBovuK3Sh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044429073401909553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请这样和我说话。 https://t.co/BZBovuK3Sh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 305,
+          "like_count": 2575,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 583
+        },
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

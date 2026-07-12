@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2018719952384254385",
+    "created_at": "2026-02-04T00:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T01:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018851143296909531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1649270356102840320",
+          "start": 0,
+          "username": "jiupeijiupei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018851143296909531",
+    "in_reply_to_user_id": "1649270356102840320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018850800173547697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiupeijiupei 我不行了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2018719952384254385",
+        "created_at": "2026-02-04T00:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018851143296909531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1649270356102840320",
+              "start": 0,
+              "username": "jiupeijiupei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018851143296909531",
+        "in_reply_to_user_id": "1649270356102840320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018850800173547697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiupeijiupei 我不行了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649270356102840320",
+        "conversation_id": "2018719952384254385",
+        "created_at": "2026-02-04T00:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018850800173547697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018850800173547697",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018719952384254385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 我好难受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 244,
+          "like_count": 1320,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 267
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T04:34:37.000Z",
+        "description": "以名为伤痛之方，治名为呼吸之病。",
+        "id": "1649270356102840320",
+        "name": "どく药师丸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744596940262649856/WNfW4Ik7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 648,
+          "like_count": 416,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 1353
+        },
+        "username": "jiupeijiupei",
+        "verified": false
+      }
+    ]
+  }
+}

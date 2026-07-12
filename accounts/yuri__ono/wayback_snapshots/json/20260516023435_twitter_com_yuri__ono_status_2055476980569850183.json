@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2055476980569850183",
+    "created_at": "2026-05-16T02:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055476980569850183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dorothy1614926…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/dorothy1614926/status/2055354415541100708",
+          "start": 8,
+          "url": "https://t.co/Rwwyczu9Bu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055476980569850183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055354415541100708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "坏了。这集是我 https://t.co/Rwwyczu9Bu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2055476980569850183",
+        "created_at": "2026-05-16T02:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055476980569850183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dorothy1614926…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/dorothy1614926/status/2055354415541100708",
+              "start": 8,
+              "url": "https://t.co/Rwwyczu9Bu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055476980569850183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055354415541100708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坏了。这集是我 https://t.co/Rwwyczu9Bu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877473083063201792",
+        "conversation_id": "2055354415541100708",
+        "created_at": "2026-05-15T18:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055354415541100708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055354415541100708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想被别人挂在简介w喵……感觉自己每天回复或者发推，又不太敢和喜欢的推友私聊，和大家的关系建立的都不是很深呢……也没能形成自己的社交圈子……真的好想成为对别人来说重要的人呢……好想被大家了解，也好想了解大家，帮助大家……想要被喜欢喵……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 来找我聊天我会很开心 小号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 337,
+          "like_count": 3559,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 822
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T21:50:55.000Z",
+        "description": "🌸可愛のこいし、閉じた恋の瞳、ただ無邪気な小天使の文椛ちゃんなのににゃ～🌸｜东方众｜磕觉恋｜精神状态良好，超温柔～｜无证含🍥｜互fo｜如果有不开心的事都可以找椛椛聊天噢～｜最最最最可爱的妹妹&恋人❤️@maxC47884317783｜世另我？@wenhuamengyue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 100,
+                "username": "maxC47884317783"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "wenhuamengyue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dorothy16149261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dorothy16149261",
+                "start": 0,
+                "url": "https://t.co/apd2CBfCuO"
+              }
+            ]
+          }
+        },
+        "id": "1877473083063201792",
+        "location": "看看你身后喵",
+        "name": "文椛🌸 恋🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029794137164369924/mmgEnuwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 601,
+          "like_count": 6630,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1623
+        },
+        "url": "https://t.co/apd2CBfCuO",
+        "username": "dorothy1614926",
+        "verified": false
+      }
+    ]
+  }
+}

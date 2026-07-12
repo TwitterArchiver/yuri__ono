@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1991428222458974665",
+    "created_at": "2025-12-06T16:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T17:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997347376957477118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1589508609578176512",
+          "start": 0,
+          "username": "mifanmiaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997347376957477118",
+    "in_reply_to_user_id": "1589508609578176512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991428222458974665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mifanmiaomiao 宝宝你身材好好！好完美的曲线😙😙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991428210634973184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6L5aBKW4AAwVR9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1991428222458974665",
+        "created_at": "2025-12-06T16:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T17:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997347376957477118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589508609578176512",
+              "start": 0,
+              "username": "mifanmiaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997347376957477118",
+        "in_reply_to_user_id": "1589508609578176512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991428222458974665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mifanmiaomiao 宝宝你身材好好！好完美的曲线😙😙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991428210634973184"
+          ]
+        },
+        "author_id": "1589508609578176512",
+        "conversation_id": "1991428222458974665",
+        "created_at": "2025-11-20T08:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T09:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991428222458974665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bW21VtJGNl",
+              "end": 55,
+              "expanded_url": "https://x.com/mifanmiaomiao/status/1991428222458974665/photo/1",
+              "media_key": "3_1991428210634973184",
+              "start": 32,
+              "url": "https://t.co/bW21VtJGNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991428222458974665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2763,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱发裸照是我的怪癖...(ᵒ̴̶̷̤́◞౪◟ ᵒ̴̶̷̤̀ ) https://t.co/bW21VtJGNl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1996987976237359543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 161,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 144
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T06:42:57.000Z",
+        "description": "（大部分时间在搞/写黄色）欢迎互转互粉互赞~正在努力学英语润出去....偶尔会写点抽象的满足自己！！~~~发照片，会给互fo画画（不过技术不太好）希望你会喜欢٩(•̤̀ᵕ•̤́๑)ᵒᵏᵎ欢迎宝宝们来找我私信聊天！！",
+        "id": "1589508609578176512",
+        "name": "米花糖",
+        "pinned_tweet_id": "1991428222458974665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834354554081280/n3YoaBrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 638,
+          "like_count": 4154,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 970
+        },
+        "username": "mifanmiaomiao",
+        "verified": false
+      }
+    ]
+  }
+}

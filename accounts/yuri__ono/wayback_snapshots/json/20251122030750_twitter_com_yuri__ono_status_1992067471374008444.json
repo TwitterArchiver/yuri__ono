@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1992067471374008444",
+    "created_at": "2025-11-22T03:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T04:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992067471374008444"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992067471374008444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多时候我都觉得白天和黑夜并没有区别。躺在床上闭了双眼，草木窸窣生长，我听见他们叫嚣着。温润的春夜与春日里，连同艳阳天，烘烤出苦涩的气息。那是一场急雨，一个点，一次留下的信号。土腥味停留在鼻尖，我意识到春天的短暂，寒冷与炎热的漫长。虫子匍匐在草木间，忽然觉得心跳也如虫鸣般喧嚷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1992067471374008444",
+        "created_at": "2025-11-22T03:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992067471374008444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992067471374008444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多时候我都觉得白天和黑夜并没有区别。躺在床上闭了双眼，草木窸窣生长，我听见他们叫嚣着。温润的春夜与春日里，连同艳阳天，烘烤出苦涩的气息。那是一场急雨，一个点，一次留下的信号。土腥味停留在鼻尖，我意识到春天的短暂，寒冷与炎热的漫长。虫子匍匐在草木间，忽然觉得心跳也如虫鸣般喧嚷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 132,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 96
+        },
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

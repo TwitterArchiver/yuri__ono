@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2022718818607624508",
+    "created_at": "2026-02-14T17:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022718818607624508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/codyhunk/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/codyhunk/status/2022568706602340787",
+          "start": 3,
+          "url": "https://t.co/jhS8iQ9AAV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022718818607624508",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022568706602340787",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我： https://t.co/jhS8iQ9AAV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_2022568683168796672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGbgFYbEAAm2qe.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2022718818607624508",
+        "created_at": "2026-02-14T17:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022718818607624508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/codyhunk/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/codyhunk/status/2022568706602340787",
+              "start": 3,
+              "url": "https://t.co/jhS8iQ9AAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022718818607624508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022568706602340787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我： https://t.co/jhS8iQ9AAV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022568683168796672"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022568706602340787",
+        "created_at": "2026-02-14T07:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022568706602340787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkGLEvNtbx",
+              "end": 28,
+              "expanded_url": "https://x.com/codyhunk/status/2022568706602340787/photo/1",
+              "media_key": "3_2022568683168796672",
+              "start": 5,
+              "url": "https://t.co/nkGLEvNtbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022568706602340787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 95428,
+          "like_count": 778,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "当你被爱 https://t.co/nkGLEvNtbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 251,
+          "like_count": 1470,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 302
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11071,
+          "following_count": 1692,
+          "like_count": 23027,
+          "listed_count": 29,
+          "media_count": 5078,
+          "tweet_count": 8020
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1987199895732949196",
+    "created_at": "2025-11-08T16:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T17:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987200931424051214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1580875072809897986",
+          "start": 0,
+          "username": "evervr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987200931424051214",
+    "in_reply_to_user_id": "1580875072809897986",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987199895732949196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@evervr7 姐姐我也想看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1987199895732949196",
+        "created_at": "2025-11-08T16:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987200931424051214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1580875072809897986",
+              "start": 0,
+              "username": "evervr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987200931424051214",
+        "in_reply_to_user_id": "1580875072809897986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987199895732949196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evervr7 姐姐我也想看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580875072809897986",
+        "conversation_id": "1987199895732949196",
+        "created_at": "2025-11-08T16:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987199895732949196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987199895732949196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 979,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的是服了，不玩又睡不着，玩吧又打不过，打不过又只能被凿。真的肿的红通通的不信可以私发😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 欢迎互fo",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 95,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T10:56:11.000Z",
+        "description": "日常～",
+        "id": "1580875072809897986",
+        "name": "selin_se",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941879520027365376/N5Fce2jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50126,
+          "following_count": 0,
+          "like_count": 85,
+          "listed_count": 82,
+          "media_count": 61,
+          "tweet_count": 134
+        },
+        "username": "evervr7",
+        "verified": false
+      }
+    ]
+  }
+}

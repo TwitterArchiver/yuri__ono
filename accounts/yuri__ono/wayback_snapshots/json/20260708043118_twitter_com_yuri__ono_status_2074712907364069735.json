@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2074551250092425553",
+    "created_at": "2026-07-08T04:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074712907364069735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059417612367667200",
+          "start": 0,
+          "username": "AFooDieA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074712907364069735",
+    "in_reply_to_user_id": "2059417612367667200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074596848602665054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AFooDieA 终于建好啦～我的大房子～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_2074596845377265664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpy1tTboAAnNrE.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2074551250092425553",
+        "created_at": "2026-07-08T04:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074712907364069735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059417612367667200",
+              "start": 0,
+              "username": "AFooDieA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074712907364069735",
+        "in_reply_to_user_id": "2059417612367667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074596848602665054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AFooDieA 终于建好啦～我的大房子～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074596845377265664"
+          ]
+        },
+        "author_id": "2059417612367667200",
+        "conversation_id": "2074551250092425553",
+        "created_at": "2026-07-07T20:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T21:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074596848602665054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vFT6louEWq",
+              "end": 56,
+              "expanded_url": "https://x.com/AFooDieA/status/2074596848602665054/photo/1",
+              "media_key": "3_2074596845377265664",
+              "start": 33,
+              "url": "https://t.co/vFT6louEWq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074596848602665054",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074551250092425553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 我从小玩到大 还是只会火柴盒 顶多加个盖子 https://t.co/vFT6louEWq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 909,
+          "like_count": 5691,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2352
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T23:34:22.000Z",
+        "description": "185/160 05  喜欢躺一整天",
+        "id": "2059417612367667200",
+        "name": "海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070496797940961280/USC6zZIF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "AFooDieA",
+        "verified": false
+      }
+    ]
+  }
+}

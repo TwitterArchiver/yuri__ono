@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2049168445887909955",
+    "created_at": "2026-04-28T16:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049168445887909955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2049019770281034086",
+          "start": 8,
+          "url": "https://t.co/u3ELUVnTie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049168445887909955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049019770281034086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "震撼首发！！！ https://t.co/u3ELUVnTie"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2049168445887909955",
+        "created_at": "2026-04-28T16:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049168445887909955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2049019770281034086",
+              "start": 8,
+              "url": "https://t.co/u3ELUVnTie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049168445887909955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049019770281034086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "震撼首发！！！ https://t.co/u3ELUVnTie"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2049019770281034086",
+        "created_at": "2026-04-28T06:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049019770281034086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049019770281034086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2598,
+          "like_count": 107,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道吗，鸭嘴兽是世界上唯一又会下蛋又会产奶的动物，这意味着它们可以靠自己做蛋挞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 307,
+          "like_count": 2885,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 667
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\nAsakiii @w0sh1Asak1 \n香香梨 @Kikunashi30712\n璟江别 @cy79p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 52,
+                "start": 37,
+                "username": "Kikunashi30712"
+              },
+              {
+                "end": 63,
+                "start": 57,
+                "username": "cy79p"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2581,
+          "following_count": 1487,
+          "like_count": 40629,
+          "listed_count": 7,
+          "media_count": 1745,
+          "tweet_count": 11887
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

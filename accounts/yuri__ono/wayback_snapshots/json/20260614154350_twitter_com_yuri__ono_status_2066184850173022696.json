@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066184841465602048",
+        "3_2066184841478258688"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2066184850173022696",
+    "created_at": "2026-06-14T15:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066184850173022696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JElMxkcgnu",
+          "end": 65,
+          "expanded_url": "https://x.com/yuri__ono/status/2066184850173022696/photo/1",
+          "media_key": "3_2066184841465602048",
+          "start": 42,
+          "url": "https://t.co/JElMxkcgnu"
+        },
+        {
+          "display_url": "pic.x.com/JElMxkcgnu",
+          "end": 65,
+          "expanded_url": "https://x.com/yuri__ono/status/2066184850173022696/photo/1",
+          "media_key": "3_2066184841478258688",
+          "start": 42,
+          "url": "https://t.co/JElMxkcgnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066184850173022696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人四月时期…\n有点喜欢这两张遂发之 等我看丑了就删掉了TT 今晚依旧焦虑的睡不着 https://t.co/JElMxkcgnu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1626,
+        "media_key": "3_2066184841465602048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyQKovaoAA2zpW.jpg",
+        "width": 1990
+      },
+      {
+        "height": 1626,
+        "media_key": "3_2066184841478258688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyQKoybwAAyg6q.jpg",
+        "width": 1308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066184841465602048",
+            "3_2066184841478258688"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2066184850173022696",
+        "created_at": "2026-06-14T15:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066184850173022696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JElMxkcgnu",
+              "end": 65,
+              "expanded_url": "https://x.com/yuri__ono/status/2066184850173022696/photo/1",
+              "media_key": "3_2066184841465602048",
+              "start": 42,
+              "url": "https://t.co/JElMxkcgnu"
+            },
+            {
+              "display_url": "pic.x.com/JElMxkcgnu",
+              "end": 65,
+              "expanded_url": "https://x.com/yuri__ono/status/2066184850173022696/photo/1",
+              "media_key": "3_2066184841478258688",
+              "start": 42,
+              "url": "https://t.co/JElMxkcgnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066184850173022696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人四月时期…\n有点喜欢这两张遂发之 等我看丑了就删掉了TT 今晚依旧焦虑的睡不着 https://t.co/JElMxkcgnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 648,
+          "like_count": 4991,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1613
+        },
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

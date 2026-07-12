@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2052790706461442456",
+    "created_at": "2026-05-10T14:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053488933443719575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917804398824022016",
+          "start": 0,
+          "username": "lne_li19885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053488933443719575",
+    "in_reply_to_user_id": "1917804398824022016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052799733094085046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lne_li19885 我好开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2052790706461442456",
+        "created_at": "2026-05-10T14:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053488933443719575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917804398824022016",
+              "start": 0,
+              "username": "lne_li19885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053488933443719575",
+        "in_reply_to_user_id": "1917804398824022016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052799733094085046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lne_li19885 我好开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917804398824022016",
+        "conversation_id": "2052790706461442456",
+        "created_at": "2026-05-08T17:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052799733094085046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052799733094085046",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052790706461442456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 我也喜欢你呀宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 316,
+          "like_count": 3135,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 725
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T04:53:03.000Z",
+        "description": "🤍ྀི⁃ ⩊ ⁃ 纯0 喜欢女生 男的勿扰",
+        "id": "1917804398824022016",
+        "name": "Painkiller",
+        "pinned_tweet_id": "2043610651600290210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029979417678860288/Ii2ARh4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 140,
+          "like_count": 2209,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 918
+        },
+        "username": "lne_li19885",
+        "verified": false
+      }
+    ]
+  }
+}

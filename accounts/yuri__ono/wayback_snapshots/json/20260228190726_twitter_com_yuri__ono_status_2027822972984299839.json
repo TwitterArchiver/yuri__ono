@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2027118853432762654",
+    "created_at": "2026-02-28T19:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T20:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027822972984299839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2026702020267196421",
+          "start": 0,
+          "username": "wu7571182936161"
+        },
+        {
+          "end": 24,
+          "id": "1671821091738886144",
+          "start": 17,
+          "username": "_04x_d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027822972984299839",
+    "in_reply_to_user_id": "2026702020267196421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027130882964815912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu7571182936161 @_04x_d 这有啥好比较的你去死吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2027118853432762654",
+        "created_at": "2026-02-28T19:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T20:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027822972984299839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026702020267196421",
+              "start": 0,
+              "username": "wu7571182936161"
+            },
+            {
+              "end": 24,
+              "id": "1671821091738886144",
+              "start": 17,
+              "username": "_04x_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027822972984299839",
+        "in_reply_to_user_id": "2026702020267196421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027130882964815912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu7571182936161 @_04x_d 这有啥好比较的你去死吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026702020267196421",
+        "conversation_id": "2027118853432762654",
+        "created_at": "2026-02-26T21:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T22:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027130882964815912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671821091738886144",
+              "start": 0,
+              "username": "_04x_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027130882964815912",
+        "in_reply_to_user_id": "1671821091738886144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027118853432762654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_04x_d 蚊子吸我一口都比你割一道伤口流的血多😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 259,
+          "like_count": 1690,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 370
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T16:53:20.000Z",
+        "description": "我很伤心",
+        "id": "2026702020267196421",
+        "name": "YU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026703188397625344/7EM-N_c-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "wu7571182936161",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T10:04:27.000Z",
+        "description": "251 @_j14q1\n                                                                                          查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "_j14q1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki71720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki71720",
+                "start": 0,
+                "url": "https://t.co/Ex198DUJ36"
+              }
+            ]
+          }
+        },
+        "id": "1671821091738886144",
+        "name": "死体",
+        "pinned_tweet_id": "2015420686177906843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013525475642019840/pScrwFXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 340,
+          "like_count": 10140,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 2400
+        },
+        "url": "https://t.co/Ex198DUJ36",
+        "username": "_04x_d",
+        "verified": false
+      }
+    ]
+  }
+}

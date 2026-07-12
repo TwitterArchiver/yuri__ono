@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1989045526621237372",
+    "created_at": "2025-11-14T17:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T18:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989378724975014349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980539279622492160",
+          "start": 0,
+          "username": "Pardon_Love_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989378724975014349",
+    "in_reply_to_user_id": "1980539279622492160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989045526621237372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pardon_Love_ 长得好牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989045510162780160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5qCWmNWkAAj6vb.jpg",
+        "width": 1486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1989045526621237372",
+        "created_at": "2025-11-14T17:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T18:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989378724975014349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980539279622492160",
+              "start": 0,
+              "username": "Pardon_Love_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989378724975014349",
+        "in_reply_to_user_id": "1980539279622492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989045526621237372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pardon_Love_ 长得好牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989045510162780160"
+          ]
+        },
+        "author_id": "1980539279622492160",
+        "conversation_id": "1989045526621237372",
+        "created_at": "2025-11-13T18:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T19:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989045526621237372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5BWCt2mpSG",
+              "end": 46,
+              "expanded_url": "https://x.com/Pardon_Love_/status/1989045526621237372/photo/1",
+              "media_key": "3_1989045510162780160",
+              "start": 23,
+              "url": "https://t.co/5BWCt2mpSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989045526621237372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2096,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习美美的轮廓对你们来说会是一个漂亮的女孩吗？ https://t.co/5BWCt2mpSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 欢迎互fo",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 110,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 54
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T07:39:09.000Z",
+        "description": "※疯狂习近平乐队官方账号 420吸毒磕药强奸骚逼希特勒吸屌者旋转喷屎机感觉到鸡巴血脑屏障迷幻进食障碍外星黑鬼耶稣犹太叛徒变性肛交操逼冰毒可卡因核聚变毒气大麻婊子肥胖阴道的味道艾滋强奸犯哥们天生就是艺术家：小宝贝主人公主爸爸：@巴塔耶 @萨德 @CABR_Lies",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "CABR_Lies"
+              }
+            ]
+          }
+        },
+        "id": "1980539279622492160",
+        "name": "卐疯狂习近平卍",
+        "pinned_tweet_id": "1980608441220841525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988227803876343808/rJbnZi-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 11,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 318
+        },
+        "username": "Pardon_Love_",
+        "verified": false
+      }
+    ]
+  }
+}

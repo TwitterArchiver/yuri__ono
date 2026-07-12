@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1989364805522866419",
+    "created_at": "2025-11-14T16:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T17:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989371772958015977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944355696755236864",
+          "start": 0,
+          "username": "GahsbYnicer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989371772958015977",
+    "in_reply_to_user_id": "1944355696755236864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989364805522866419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GahsbYnicer 喘得好可爱🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 714596,
+        "height": 1280,
+        "media_key": "13_1989363989995003904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989363989995003904/img/mvxKuoT9Y0_Q-p1Q.jpg",
+        "public_metrics": {
+          "view_count": 80
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989363989995003904/vid/avc1/320x690/0ccsUx6gPpGa1lIf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989363989995003904/vid/avc1/480x1036/IJk12_ejc4hDa4b8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989363989995003904/vid/avc1/592x1280/4Kf9K2pHg7q9ILPb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989363989995003904/pl/W5_MDmcr5-JmeBFA.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1989364805522866419",
+        "created_at": "2025-11-14T16:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T17:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989371772958015977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944355696755236864",
+              "start": 0,
+              "username": "GahsbYnicer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989371772958015977",
+        "in_reply_to_user_id": "1944355696755236864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989364805522866419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GahsbYnicer 喘得好可爱🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989363989995003904"
+          ]
+        },
+        "author_id": "1944355696755236864",
+        "conversation_id": "1989364805522866419",
+        "created_at": "2025-11-14T16:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T17:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989364805522866419"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "男喘"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "匿名手冲"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFJH7iMILG",
+              "end": 79,
+              "expanded_url": "https://x.com/GahsbYnicer/status/1989364805522866419/video/1",
+              "media_key": "13_1989363989995003904",
+              "start": 56,
+              "url": "https://t.co/gFJH7iMILG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989364805522866419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次拍匿名手冲 拍到最后直接喷出来了呜呜呜呜 脸好红好羞耻蛙趣 色死了🥵🥵🥵 #手冲实录 #男喘 #匿名手冲 https://t.co/gFJH7iMILG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 欢迎互fo",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 107,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 50
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:18:25.000Z",
+        "description": "性别男 取向女 匿名提问 https://t.co/8kvoiPkAjX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gahsbynicer",
+                "end": 36,
+                "expanded_url": "https://ngl.link/gahsbynicer",
+                "start": 13,
+                "url": "https://t.co/8kvoiPkAjX"
+              }
+            ]
+          }
+        },
+        "id": "1944355696755236864",
+        "name": "小不点兔",
+        "pinned_tweet_id": "1986274953793331651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964577009369337856/aZIZSfUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3214,
+          "following_count": 17,
+          "like_count": 1675,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 194
+        },
+        "username": "GahsbYnicer",
+        "verified": false
+      }
+    ]
+  }
+}

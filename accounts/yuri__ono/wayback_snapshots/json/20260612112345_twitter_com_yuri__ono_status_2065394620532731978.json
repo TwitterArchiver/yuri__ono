@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2064373553206808938",
+    "created_at": "2026-06-12T11:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065394620532731978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010312682042429440",
+          "start": 0,
+          "username": "yukiiiiii004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065394620532731978",
+    "in_reply_to_user_id": "2010312682042429440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064373553206808938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiiiiii004 Yuki这个萌啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064373546730840064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYgzaCa4AAFW5z.jpg",
+        "width": 1466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2064373553206808938",
+        "created_at": "2026-06-12T11:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065394620532731978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010312682042429440",
+              "start": 0,
+              "username": "yukiiiiii004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065394620532731978",
+        "in_reply_to_user_id": "2010312682042429440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064373553206808938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiiiiii004 Yuki这个萌啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064373546730840064"
+          ]
+        },
+        "author_id": "2010312682042429440",
+        "conversation_id": "2064373553206808938",
+        "created_at": "2026-06-09T15:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064373553206808938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qYwCJF5GBH",
+              "end": 89,
+              "expanded_url": "https://x.com/yukiiiiii004/status/2064373553206808938/photo/1",
+              "media_key": "3_2064373546730840064",
+              "start": 66,
+              "url": "https://t.co/qYwCJF5GBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064373553206808938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2930,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有毛绒耳朵就好了 \n被凶了我就飞机耳装可怜 \n不答应我的要求我就飞机耳装可怜 \n不让我缠着我就飞机耳装可怜 \n总之我就飞机耳装可怜 https://t.co/qYwCJF5GBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 632,
+          "like_count": 4934,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1579
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T11:27:57.000Z",
+        "description": "Yuki /小季 ‖ intj ‖不私联不线下\n每个人的夸夸都会带给我幸福！",
+        "id": "2010312682042429440",
+        "name": "Yuki",
+        "pinned_tweet_id": "2058231053568102500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034629215069605888/AT-GTw_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4575,
+          "following_count": 49,
+          "like_count": 1153,
+          "listed_count": 6,
+          "media_count": 48,
+          "tweet_count": 576
+        },
+        "username": "yukiiiiii004",
+        "verified": false
+      }
+    ]
+  }
+}

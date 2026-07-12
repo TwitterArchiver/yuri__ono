@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2057093817657180485",
+    "created_at": "2026-05-20T16:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057143008752243019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1355396203005890561",
+          "start": 0,
+          "username": "ERBOOOO"
+        },
+        {
+          "end": 25,
+          "id": "2039986041218592768",
+          "start": 9,
+          "username": "7xEcuUp3Sf61887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057143008752243019",
+    "in_reply_to_user_id": "1355396203005890561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057093817657180485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ERBOOOO @7xEcuUp3Sf61887 我笑疯了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2057093810396811264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxD6-5bUAAeyUS.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2057093817657180485",
+        "created_at": "2026-05-20T16:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057143008752243019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1355396203005890561",
+              "start": 0,
+              "username": "ERBOOOO"
+            },
+            {
+              "end": 25,
+              "id": "2039986041218592768",
+              "start": 9,
+              "username": "7xEcuUp3Sf61887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057143008752243019",
+        "in_reply_to_user_id": "1355396203005890561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057093817657180485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ERBOOOO @7xEcuUp3Sf61887 我笑疯了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057093810396811264"
+          ]
+        },
+        "author_id": "1355396203005890561",
+        "conversation_id": "2057093817657180485",
+        "created_at": "2026-05-20T13:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057093817657180485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iqpcy98F8f",
+              "end": 23,
+              "expanded_url": "https://x.com/ERBOOOO/status/2057093817657180485/photo/1",
+              "media_key": "3_2057093810396811264",
+              "start": 0,
+              "url": "https://t.co/iqpcy98F8f"
+            },
+            {
+              "display_url": "x.com/xiongdd_dd/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/xiongdd_dd/status/2056911682757366013",
+              "start": 24,
+              "url": "https://t.co/uITrZLMmmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057093817657180485",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15545,
+          "like_count": 235,
+          "quote_count": 6,
+          "reply_count": 51,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056911682757366013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/iqpcy98F8f https://t.co/uITrZLMmmb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 小号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 379,
+          "like_count": 3940,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 963
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-30T06:03:39.000Z",
+        "description": "全网第一不好惹的人",
+        "id": "1355396203005890561",
+        "name": "仓鼠糍粑",
+        "pinned_tweet_id": "2033346172832879022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006384670129455105/xS1aD1P7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5421,
+          "following_count": 203,
+          "like_count": 21134,
+          "listed_count": 18,
+          "media_count": 536,
+          "tweet_count": 4090
+        },
+        "username": "ERBOOOO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜因為我是消腫逼所以才用正體字 人在江浙滬｜直fo就是感覺你有意思 請別害怕｜DM○｜我們當一輩子小朋友吧（中文/日本語/English）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4Ga5J"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2050051962616627690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 78,
+          "like_count": 3229,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 850
+        },
+        "url": "https://t.co/5WmYE4Ga5J",
+        "username": "7xEcuUp3Sf61887",
+        "verified": false
+      }
+    ]
+  }
+}

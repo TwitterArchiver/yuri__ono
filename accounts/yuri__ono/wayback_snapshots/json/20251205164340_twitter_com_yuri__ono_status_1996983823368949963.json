@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1996772513888829941",
+    "created_at": "2025-12-05T16:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T17:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996983823368949963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1986368605576175618",
+          "start": 0,
+          "username": "Imsdaddy21"
+        },
+        {
+          "end": 25,
+          "id": "1971270623012978694",
+          "start": 12,
+          "username": "african_man3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996983823368949963",
+    "in_reply_to_user_id": "1986368605576175618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996772513888829941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Imsdaddy21 @african_man3 这是啥雷霆视角。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1996772513888829941",
+        "created_at": "2025-12-05T16:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996983823368949963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1986368605576175618",
+              "start": 0,
+              "username": "Imsdaddy21"
+            },
+            {
+              "end": 25,
+              "id": "1971270623012978694",
+              "start": 12,
+              "username": "african_man3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996983823368949963",
+        "in_reply_to_user_id": "1986368605576175618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996772513888829941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Imsdaddy21 @african_man3 这是啥雷霆视角。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986368605576175618",
+        "conversation_id": "1996772513888829941",
+        "created_at": "2025-12-05T02:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996772513888829941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996772513888829941",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 25762,
+          "like_count": 444,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "Chudai 🌀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 157,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 140
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T09:42:43.000Z",
+        "description": "Yes, I'm daddy 😙💖",
+        "id": "1986368605576175618",
+        "name": "Imsdaddy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986377278721568768/Z6gKXRao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102101,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 106,
+          "media_count": 174,
+          "tweet_count": 225
+        },
+        "username": "Imsdaddy21",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-25T17:48:59.000Z",
+        "description": "Collection of gay videos , fan account no copyright infringement intended .Don't report ask to delete ..",
+        "id": "1971270623012978694",
+        "name": "AFRICAN MAN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971271788953993217/7-Sco5P4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102987,
+          "following_count": 3,
+          "like_count": 28,
+          "listed_count": 120,
+          "media_count": 439,
+          "tweet_count": 3499
+        },
+        "username": "african_man3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2069969588872433860",
+    "created_at": "2026-06-25T03:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T04:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069991647539269848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935542833701965824",
+          "start": 0,
+          "username": "shiyue357172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069991647539269848",
+    "in_reply_to_user_id": "1935542833701965824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069969588872433860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiyue357172 我告老师了呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2069969555389325313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoCV-zaoAEdp-b.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2069969588872433860",
+        "created_at": "2026-06-25T03:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069991647539269848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935542833701965824",
+              "start": 0,
+              "username": "shiyue357172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069991647539269848",
+        "in_reply_to_user_id": "1935542833701965824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069969588872433860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiyue357172 我告老师了呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069969555389325313"
+          ]
+        },
+        "author_id": "1935542833701965824",
+        "conversation_id": "2069969588872433860",
+        "created_at": "2026-06-25T02:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069969588872433860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzYkYcZZ5j",
+              "end": 36,
+              "expanded_url": "https://x.com/shiyue357172/status/2069969588872433860/photo/1",
+              "media_key": "3_2069969555389325313",
+              "start": 13,
+              "url": "https://t.co/BzYkYcZZ5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069969588872433860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别这么说别这么说别这么说 https://t.co/BzYkYcZZ5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 840,
+          "like_count": 5442,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 2126
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T03:39:23.000Z",
+        "description": "谁会不想做最特殊又唯一的那个",
+        "id": "1935542833701965824",
+        "location": "绝对是个好地方",
+        "name": "宅宅爱",
+        "pinned_tweet_id": "2068657860737998861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062362375009992704/FX-CzpmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 71,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "shiyue357172",
+        "verified": false
+      }
+    ]
+  }
+}

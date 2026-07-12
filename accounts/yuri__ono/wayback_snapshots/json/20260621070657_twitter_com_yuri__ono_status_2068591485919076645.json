@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2068371588144419278",
+    "created_at": "2026-06-21T07:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068591485919076645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2001551604760420352",
+          "start": 0,
+          "username": "shdt675774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068591485919076645",
+    "in_reply_to_user_id": "2001551604760420352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068371588144419278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shdt675774 生日快乐呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068371565578985472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRU-u3aoAAfai0.jpg",
+        "width": 818
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068371565570629632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRU-u1bIAAhT2K.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068371565570637824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRU-u1bQAAqz2K.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2068371588144419278",
+        "created_at": "2026-06-21T07:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068591485919076645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2001551604760420352",
+              "start": 0,
+              "username": "shdt675774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068591485919076645",
+        "in_reply_to_user_id": "2001551604760420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068371588144419278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shdt675774 生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068371565578985472",
+            "3_2068371565570629632",
+            "3_2068371565570637824"
+          ]
+        },
+        "author_id": "2001551604760420352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068371588144419278",
+        "created_at": "2026-06-20T16:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068371588144419278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pwlxJ2rSp7",
+              "end": 31,
+              "expanded_url": "https://x.com/shdt675774/status/2068371588144419278/photo/1",
+              "media_key": "3_2068371565578985472",
+              "start": 8,
+              "url": "https://t.co/pwlxJ2rSp7"
+            },
+            {
+              "display_url": "pic.x.com/pwlxJ2rSp7",
+              "end": 31,
+              "expanded_url": "https://x.com/shdt675774/status/2068371588144419278/photo/1",
+              "media_key": "3_2068371565570629632",
+              "start": 8,
+              "url": "https://t.co/pwlxJ2rSp7"
+            },
+            {
+              "display_url": "pic.x.com/pwlxJ2rSp7",
+              "end": 31,
+              "expanded_url": "https://x.com/shdt675774/status/2068371588144419278/photo/1",
+              "media_key": "3_2068371565570637824",
+              "start": 8,
+              "url": "https://t.co/pwlxJ2rSp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068371588144419278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3876,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "告别20岁的脸 https://t.co/pwlxJ2rSp7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 765,
+          "like_count": 5250,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1907
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T07:14:36.000Z",
+        "description": "我对男的：😂😂😂\n我对女的：😂😂😂\n我对福瑞：😹😹😹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirito78",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kirito78",
+                "start": 0,
+                "url": "https://t.co/HVCnfYsoD4"
+              }
+            ]
+          }
+        },
+        "id": "2001551604760420352",
+        "location": "关都",
+        "name": "小火龙",
+        "pinned_tweet_id": "2030221178644693230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050223753330663424/CiaVG-Qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 198,
+          "like_count": 6156,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 715
+        },
+        "url": "https://t.co/HVCnfYsoD4",
+        "username": "shdt675774",
+        "verified": false
+      }
+    ]
+  }
+}

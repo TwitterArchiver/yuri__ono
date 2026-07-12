@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997296292662538241"
+      ],
+      "media_source_tweet_id": [
+        "1997296540222943555"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1997717577867591914",
+    "created_at": "2025-12-07T17:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T18:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997717577867591914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1473246767584280576",
+          "start": 3,
+          "username": "WATArkgk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1NnerNkw7K",
+          "end": 37,
+          "expanded_url": "https://x.com/WATArkgk/status/1997296540222943555/photo/1",
+          "media_key": "3_1997296292662538241",
+          "start": 14,
+          "url": "https://t.co/1NnerNkw7K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997717577867591914",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1196
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997296540222943555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WATArkgk: https://t.co/1NnerNkw7K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2478,
+        "media_key": "3_1997296292662538241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fSZWNa8AEpxjH.jpg",
+        "width": 1860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997296292662538241"
+          ],
+          "media_source_tweet_id": [
+            "1997296540222943555"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "1997717577867591914",
+        "created_at": "2025-12-07T17:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T18:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997717577867591914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1473246767584280576",
+              "start": 3,
+              "username": "WATArkgk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NnerNkw7K",
+              "end": 37,
+              "expanded_url": "https://x.com/WATArkgk/status/1997296540222943555/photo/1",
+              "media_key": "3_1997296292662538241",
+              "start": 14,
+              "url": "https://t.co/1NnerNkw7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997717577867591914",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1196
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997296540222943555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WATArkgk: https://t.co/1NnerNkw7K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997296292662538241"
+          ]
+        },
+        "author_id": "1473246767584280576",
+        "conversation_id": "1997296540222943555",
+        "created_at": "2025-12-06T13:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997296540222943555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NnerNkw7K",
+              "end": 23,
+              "expanded_url": "https://x.com/WATArkgk/status/1997296540222943555/photo/1",
+              "media_key": "3_1997296292662538241",
+              "start": 0,
+              "url": "https://t.co/1NnerNkw7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997296540222943555",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1742,
+          "impression_count": 152020,
+          "like_count": 16374,
+          "quote_count": 172,
+          "reply_count": 0,
+          "retweet_count": 1196
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1NnerNkw7K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 176,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 156
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T10:59:41.000Z",
+        "description": "눈볶이가게 💚🩷(본계: @WATA_uu_ )장르계아님",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "WATA_uu_"
+              }
+            ]
+          }
+        },
+        "id": "1473246767584280576",
+        "location": "I.패티 님 H. 모라닌님",
+        "name": "낙서계",
+        "pinned_tweet_id": "1905942867052253273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902244188567240704/dL7GhgxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3859,
+          "following_count": 39,
+          "like_count": 8120,
+          "listed_count": 20,
+          "media_count": 441,
+          "tweet_count": 25767
+        },
+        "username": "WATArkgk",
+        "verified": false
+      }
+    ]
+  }
+}

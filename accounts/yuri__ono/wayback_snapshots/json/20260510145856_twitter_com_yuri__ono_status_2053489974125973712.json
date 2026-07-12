@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2053445172219072614",
+    "created_at": "2026-05-10T14:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053489974125973712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028846216944242688",
+          "start": 0,
+          "username": "YingZaisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053489974125973712",
+    "in_reply_to_user_id": "2028846216944242688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053445172219072614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YingZaisama 你为什么这么萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13943,
+        "height": 1280,
+        "media_key": "7_2053445141931937792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053445141931937792/pu/img/s4JIf6glkBIshzCm.jpg",
+        "public_metrics": {
+          "view_count": 51
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053445141931937792/pu/vid/avc1/320x568/JU4loqLzuJFBGrTI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053445141931937792/pu/vid/avc1/480x852/iuXi46B32oRX9zT6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053445141931937792/pu/vid/avc1/720x1280/29S6ebd_8EpnrwOj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053445141931937792/pu/pl/4ATh2VT5JgerS2dH.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2053445172219072614",
+        "created_at": "2026-05-10T14:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053489974125973712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028846216944242688",
+              "start": 0,
+              "username": "YingZaisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053489974125973712",
+        "in_reply_to_user_id": "2028846216944242688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053445172219072614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingZaisama 你为什么这么萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053445141931937792"
+          ]
+        },
+        "author_id": "2028846216944242688",
+        "conversation_id": "2053445172219072614",
+        "created_at": "2026-05-10T12:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053445172219072614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAbd1XERgj",
+              "end": 45,
+              "expanded_url": "https://x.com/YingZaisama/status/2053445172219072614/video/1",
+              "media_key": "7_2053445141931937792",
+              "start": 22,
+              "url": "https://t.co/bAbd1XERgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053445172219072614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有这种改皮换面的特效，我一天也活不下去😇 https://t.co/bAbd1XERgj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 316,
+          "like_count": 3146,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 730
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T14:53:45.000Z",
+        "description": "猫头鹰教教主👑   信仰猫头鹰吧！猫头鹰猫头鹰猫头鹰猫头鹰猫头鹰🦉！献上你们的灵魂和情感，猫头鹰会赐予你能改变一切的力量.....⚠️阴暗死宅（重度二次元）我只是一只猫头鹰，也只是一只猫头鹰. 「中二病严重患者」⚠️❌ 坚定的纯爱主义者.⚠️照片高P线下查无此人⚠️双重人格（）⚠️",
+        "id": "2028846216944242688",
+        "location": "不存在的理想乡",
+        "name": "死宅鷹仔",
+        "pinned_tweet_id": "2050920228562051430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052016213266681856/nlvLmBWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 318,
+          "like_count": 3488,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1774
+        },
+        "username": "YingZaisama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2040787962070508011",
+    "created_at": "2026-04-05T16:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040828550492881243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2038467824096858112",
+          "start": 0,
+          "username": "Azzzzovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040828550492881243",
+    "in_reply_to_user_id": "2038467824096858112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040787962070508011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azzzzovo 抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040787952784257025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJV1JuaMAEBNOZ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2040787962070508011",
+        "created_at": "2026-04-05T16:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040828550492881243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2038467824096858112",
+              "start": 0,
+              "username": "Azzzzovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040828550492881243",
+        "in_reply_to_user_id": "2038467824096858112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040787962070508011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azzzzovo 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040787952784257025"
+          ]
+        },
+        "author_id": "2038467824096858112",
+        "conversation_id": "2040787962070508011",
+        "created_at": "2026-04-05T13:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040787962070508011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDuu6vZE4r",
+              "end": 33,
+              "expanded_url": "https://x.com/Azzzzovo/status/2040787962070508011/photo/1",
+              "media_key": "3_2040787952784257025",
+              "start": 10,
+              "url": "https://t.co/eDuu6vZE4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040787962070508011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 673,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这人骗了我2200 https://t.co/eDuu6vZE4r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 287,
+          "like_count": 2441,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 537
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T04:10:52.000Z",
+        "description": "稚稚｜10 shtwt 药物滥用｜双相 进食障碍 睡眠障碍等｜🚪52好友位 88回复 188 388…｜我喜欢可爱的女孩子 看成分回fo前世@meiguzhi0606",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "meiguzhi0606"
+              }
+            ]
+          }
+        },
+        "id": "2038467824096858112",
+        "name": "哪吒子打死我",
+        "pinned_tweet_id": "2038486442226385391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038480356605820928/H7-dtMXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 137,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 196
+        },
+        "username": "Azzzzovo",
+        "verified": false
+      }
+    ]
+  }
+}

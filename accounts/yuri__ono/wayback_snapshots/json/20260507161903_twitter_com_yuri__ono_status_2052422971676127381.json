@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2051779552876347444",
+    "created_at": "2026-05-07T16:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052422971676127381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014098182184009728",
+          "start": 0,
+          "username": "HuffmanAlm86735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052422971676127381",
+    "in_reply_to_user_id": "2014098182184009728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051779552876347444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuffmanAlm86735 萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11032,
+        "height": 1920,
+        "media_key": "13_2051779401529090048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051779401529090048/img/hgimkXvwlcpD6U86.jpg",
+        "public_metrics": {
+          "view_count": 30
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051779401529090048/vid/avc1/320x568/nciG17Pa1co0p_e_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051779401529090048/vid/avc1/480x852/3q3z8xEj-QxRnyBk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051779401529090048/vid/avc1/720x1280/jiVsU9N5GIPhNjs2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051779401529090048/pl/tN3M1Ybr-jtkO5ti.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2051779552876347444",
+        "created_at": "2026-05-07T16:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052422971676127381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014098182184009728",
+              "start": 0,
+              "username": "HuffmanAlm86735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052422971676127381",
+        "in_reply_to_user_id": "2014098182184009728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051779552876347444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuffmanAlm86735 萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051779401529090048"
+          ]
+        },
+        "author_id": "2014098182184009728",
+        "conversation_id": "2051779552876347444",
+        "created_at": "2026-05-05T21:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051779552876347444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0d2jnMWckG",
+              "end": 47,
+              "expanded_url": "https://x.com/HuffmanAlm86735/status/2051779552876347444/video/1",
+              "media_key": "13_2051779401529090048",
+              "start": 24,
+              "url": "https://t.co/0d2jnMWckG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051779552876347444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发之前的视频。\nos现在有点困 喝完水就睡觉了 https://t.co/0d2jnMWckG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 313,
+          "like_count": 3028,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 696
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T22:10:25.000Z",
+        "description": "os我的号终于回来了\n我是小愿\n我不会o了 如果是因为od关注我 那么请取关\n过上正常人生活",
+        "id": "2014098182184009728",
+        "location": "天天天国地狱国",
+        "name": "衣原体＾",
+        "pinned_tweet_id": "2036521587453911530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051226650554302464/9JfMjoZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 228,
+          "like_count": 4786,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 740
+        },
+        "username": "HuffmanAlm86735",
+        "verified": false
+      }
+    ]
+  }
+}

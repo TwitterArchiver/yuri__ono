@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2072953313864372330",
+    "created_at": "2026-07-04T06:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T07:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073298571768819904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2023093097895440384",
+          "start": 0,
+          "username": "AerteBei74687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073298571768819904",
+    "in_reply_to_user_id": "2023093097895440384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073117673060499734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AerteBei74687 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2072953313864372330",
+        "created_at": "2026-07-04T06:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073298571768819904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2023093097895440384",
+              "start": 0,
+              "username": "AerteBei74687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073298571768819904",
+        "in_reply_to_user_id": "2023093097895440384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073117673060499734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AerteBei74687 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023093097895440384",
+        "conversation_id": "2072953313864372330",
+        "created_at": "2026-07-03T18:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073117673060499734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073117673060499734",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072953313864372330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 能把我无语住的只有两种情况一种对面是个傻比另一种对面说的对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 889,
+          "like_count": 5656,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 2299
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T17:53:01.000Z",
+        "description": "If you feel unhappy, you can tell me, although it may not help you much",
+        "id": "2023093097895440384",
+        "name": "Listen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072932794570067968/PfwlFtoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 49,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "AerteBei74687",
+        "verified": false
+      }
+    ]
+  }
+}

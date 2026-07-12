@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2058367133034438753",
+    "created_at": "2026-05-24T14:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058557441705730470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922702397887131649",
+          "start": 0,
+          "username": "tutu65537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058557441705730470",
+    "in_reply_to_user_id": "1922702397887131649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058367133034438753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tutu65537 还有人类么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058367126248022016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDJ_uFa4AA-8Kc.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2058367133034438753",
+        "created_at": "2026-05-24T14:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058557441705730470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1922702397887131649",
+              "start": 0,
+              "username": "tutu65537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058557441705730470",
+        "in_reply_to_user_id": "1922702397887131649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058367133034438753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tutu65537 还有人类么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058367126248022016"
+          ]
+        },
+        "author_id": "1922702397887131649",
+        "conversation_id": "2058367133034438753",
+        "created_at": "2026-05-24T01:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058367133034438753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoXTFaZdYW",
+              "end": 31,
+              "expanded_url": "https://x.com/tutu65537/status/2058367133034438753/photo/1",
+              "media_key": "3_2058367126248022016",
+              "start": 8,
+              "url": "https://t.co/HoXTFaZdYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058367133034438753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 44987,
+          "like_count": 165,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特好难看 https://t.co/HoXTFaZdYW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 424,
+          "like_count": 4248,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1076
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T17:16:09.000Z",
+        "description": "喜欢笔电男大@AkasakaRentsuki 笔电男高@houro1024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "AkasakaRentsuki"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "houro1024"
+              }
+            ]
+          }
+        },
+        "id": "1922702397887131649",
+        "location": "猫原",
+        "name": "土土",
+        "pinned_tweet_id": "2055327332467118148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056210759059914752/srfPI4JN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 384,
+          "like_count": 7149,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 6761
+        },
+        "username": "tutu65537",
+        "verified": false
+      }
+    ]
+  }
+}

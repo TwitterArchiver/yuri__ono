@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2006576127830294990",
+    "created_at": "2026-01-09T17:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T18:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009678638577565857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1997228580846342144",
+          "start": 0,
+          "username": "oYIxQuyEUD50681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009678638577565857",
+    "in_reply_to_user_id": "1997228580846342144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006576127830294990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oYIxQuyEUD50681 帮大忙了！🥺❤️一上推特就能看见男菩萨真好"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10233,
+        "height": 1280,
+        "media_key": "13_2006576052982927361",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006576052982927361/img/bx4BUZ4HvvTewwC9.jpg",
+        "public_metrics": {
+          "view_count": 274
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006576052982927361/vid/avc1/320x568/BBxClyRTOzwveO33.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006576052982927361/vid/avc1/480x852/sOn4cqL8O3YfsdpJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006576052982927361/vid/avc1/720x1280/TGZOlyoZzCFsVljf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006576052982927361/pl/Majsq6rg9aR7eofU.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 6320,
+        "height": 1280,
+        "media_key": "13_2006576052819386368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006576052819386368/img/9_PS7QVHto5C3Njx.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006576052819386368/vid/avc1/320x568/kLKtVdGZ5ncxz7iU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006576052819386368/vid/avc1/480x852/q8syQJeStwgWu038.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006576052819386368/vid/avc1/720x1280/Jfi3nx-EykXcnkx1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006576052819386368/pl/oky5TXFO188IPySe.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2006576127830294990",
+        "created_at": "2026-01-09T17:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T18:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009678638577565857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1997228580846342144",
+              "start": 0,
+              "username": "oYIxQuyEUD50681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009678638577565857",
+        "in_reply_to_user_id": "1997228580846342144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006576127830294990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oYIxQuyEUD50681 帮大忙了！🥺❤️一上推特就能看见男菩萨真好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006576052982927361",
+            "13_2006576052819386368"
+          ]
+        },
+        "author_id": "1997228580846342144",
+        "conversation_id": "2006576127830294990",
+        "created_at": "2026-01-01T04:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T05:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006576127830294990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qDlgUrnNoU",
+              "end": 23,
+              "expanded_url": "https://x.com/oYIxQuyEUD50681/status/2006576127830294990/video/1",
+              "media_key": "13_2006576052982927361",
+              "start": 0,
+              "url": "https://t.co/qDlgUrnNoU"
+            },
+            {
+              "display_url": "pic.x.com/qDlgUrnNoU",
+              "end": 23,
+              "expanded_url": "https://x.com/oYIxQuyEUD50681/status/2006576127830294990/video/1",
+              "media_key": "13_2006576052819386368",
+              "start": 0,
+              "url": "https://t.co/qDlgUrnNoU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006576127830294990",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 873,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qDlgUrnNoU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 207,
+          "like_count": 990,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 195
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T08:56:23.000Z",
+        "description": "男菩萨 /男喘/上班比较忙回消息不及时不好意思😅",
+        "id": "1997228580846342144",
+        "name": "6",
+        "pinned_tweet_id": "2006576127830294990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003502567108804613/HztYtsI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 69,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "username": "oYIxQuyEUD50681",
+        "verified": false
+      }
+    ]
+  }
+}

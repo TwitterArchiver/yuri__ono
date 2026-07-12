@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1989523903258194256",
+    "created_at": "2025-11-15T16:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T17:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989730186464743661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1105790762006900737",
+          "start": 0,
+          "username": "CatMaidbaby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989730186464743661",
+    "in_reply_to_user_id": "1105790762006900737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989523903258194256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CatMaidbaby 真好哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1989523884555866114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5w1bpsbkAIC0eJ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1989523903258194256",
+        "created_at": "2025-11-15T16:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T17:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989730186464743661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1105790762006900737",
+              "start": 0,
+              "username": "CatMaidbaby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989730186464743661",
+        "in_reply_to_user_id": "1105790762006900737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989523903258194256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatMaidbaby 真好哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989523884555866114"
+          ]
+        },
+        "author_id": "1105790762006900737",
+        "conversation_id": "1989523903258194256",
+        "created_at": "2025-11-15T02:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989523903258194256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RwzW6sBbM",
+              "end": 71,
+              "expanded_url": "https://x.com/CatMaidbaby/status/1989523903258194256/photo/1",
+              "media_key": "3_1989523884555866114",
+              "start": 48,
+              "url": "https://t.co/0RwzW6sBbM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989523903258194256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 250241,
+          "like_count": 1085,
+          "quote_count": 0,
+          "reply_count": 64,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我资助的小宝宝真的超级厉害！！！她说她未来可以发展的很好去帮助更多人，我也相信她一定会做到的🥹 https://t.co/0RwzW6sBbM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 欢迎互fo",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 116,
+          "like_count": 451,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 71
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-13T11:20:37.000Z",
+        "description": "清水推 | 没有🚪不加任何联系方式 | 推只是我的日记本 | 没有阅读理解的人毕业哈 | 谢谢这个世界 我真的很幸福很幸福 | 只接转推 转推收入全用于资助贫困女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.le.mile-yun.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://mi.le.mile-yun.com/index.php#/register?code=Zsb3o0N2",
+                "start": 0,
+                "url": "https://t.co/hLO72vhIxJ"
+              }
+            ]
+          }
+        },
+        "id": "1105790762006900737",
+        "location": "🪜→",
+        "name": "豆花ovo",
+        "pinned_tweet_id": "1860512247996645885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971497428550619136/YVeyh3M2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11753,
+          "following_count": 85,
+          "like_count": 66,
+          "listed_count": 32,
+          "media_count": 570,
+          "tweet_count": 3870
+        },
+        "url": "https://t.co/hLO72vhIxJ",
+        "username": "CatMaidbaby",
+        "verified": false
+      }
+    ]
+  }
+}

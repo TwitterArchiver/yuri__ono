@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2025142689742880781",
+    "created_at": "2026-02-21T18:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T19:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025270585304232381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917804398824022016",
+          "start": 0,
+          "username": "lne_li19885"
+        },
+        {
+          "end": 29,
+          "id": "1655487460259028993",
+          "start": 13,
+          "username": "ReeseZhao333986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025270585304232381",
+    "in_reply_to_user_id": "1917804398824022016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025142689742880781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lne_li19885 @ReeseZhao333986 看着好爽w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30633,
+        "height": 1280,
+        "media_key": "13_2025142476038963202",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025142476038963202/img/tAju9g-se3XWe_Mp.jpg",
+        "public_metrics": {
+          "view_count": 191
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025142476038963202/vid/avc1/320x568/BVrzBq6HKMUq1wSe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025142476038963202/vid/avc1/480x852/dY9y53oDCvVsbXPG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025142476038963202/vid/avc1/720x1280/ktybuhdi5PM5-dI8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025142476038963202/pl/VlEgA-T7blnjxsPG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2025142689742880781",
+        "created_at": "2026-02-21T18:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025270585304232381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917804398824022016",
+              "start": 0,
+              "username": "lne_li19885"
+            },
+            {
+              "end": 29,
+              "id": "1655487460259028993",
+              "start": 13,
+              "username": "ReeseZhao333986"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025270585304232381",
+        "in_reply_to_user_id": "1917804398824022016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025142689742880781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lne_li19885 @ReeseZhao333986 看着好爽w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025142476038963202"
+          ]
+        },
+        "author_id": "1917804398824022016",
+        "conversation_id": "2025142689742880781",
+        "created_at": "2026-02-21T09:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025142689742880781"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "滴蜡"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "les"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "RSEXO基色"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1655487460259028993",
+              "start": 24,
+              "username": "ReeseZhao333986"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gC16QnSI9W",
+              "end": 64,
+              "expanded_url": "https://x.com/lne_li19885/status/2025142689742880781/video/1",
+              "media_key": "13_2025142476038963202",
+              "start": 41,
+              "url": "https://t.co/gC16QnSI9W"
+            },
+            {
+              "display_url": "x.com/lne_li19885/st…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/lne_li19885/status/2024860127900336212",
+              "start": 65,
+              "url": "https://t.co/yzviapvMak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025142689742880781",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 645,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024860127900336212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#滴蜡 #les #女同性恋 #RSEXO基色 @ReeseZhao333986 https://t.co/gC16QnSI9W https://t.co/yzviapvMak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 260,
+          "like_count": 1662,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 343
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T04:53:03.000Z",
+        "description": "🤍ྀི⁃ ⩊ ⁃ INFP 07 重郁重焦 纯0 喜欢女生 男的勿扰",
+        "id": "1917804398824022016",
+        "name": "Painkiller",
+        "pinned_tweet_id": "2023177056352420127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019193897352851461/fO9OBS-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 72,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 348
+        },
+        "username": "lne_li19885",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T08:19:12.000Z",
+        "description": "为lesbian/女性多元亲密关系设计更加安全、更尊重、更贴近身体的产品 🍑Rsexo基色企业店 🪞小程序：Rsexo基色 💓招募寄拍博主请私信",
+        "id": "1655487460259028993",
+        "name": "RSEXO基色",
+        "pinned_tweet_id": "2009262923961553104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008014827671941121/3GNJCn4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 159,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 128
+        },
+        "username": "ReeseZhao333986",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2069955255287296485",
+    "created_at": "2026-06-25T09:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070074376092004699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2060429796694192128",
+          "start": 0,
+          "username": "Atearwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070074376092004699",
+    "in_reply_to_user_id": "2060429796694192128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070030194451046688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Atearwe 开玩笑也得有个“头”吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2069955255287296485",
+        "created_at": "2026-06-25T09:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070074376092004699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2060429796694192128",
+              "start": 0,
+              "username": "Atearwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070074376092004699",
+        "in_reply_to_user_id": "2060429796694192128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070030194451046688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Atearwe 开玩笑也得有个“头”吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060429796694192128",
+        "conversation_id": "2069955255287296485",
+        "created_at": "2026-06-25T06:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070030194451046688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070030194451046688",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069955255287296485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 感染到路易十六身上啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 844,
+          "like_count": 5454,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 2136
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T18:35:59.000Z",
+        "description": "希望你有钱有礼貌",
+        "id": "2060429796694192128",
+        "location": "🚪88",
+        "name": "Atear",
+        "pinned_tweet_id": "2068611187819135112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068621136846639104/N8JzdJ_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 0,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "Atearwe",
+        "verified": false
+      }
+    ]
+  }
+}

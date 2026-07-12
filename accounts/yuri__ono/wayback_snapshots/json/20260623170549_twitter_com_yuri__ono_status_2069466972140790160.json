@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2069459849143038212",
+    "created_at": "2026-06-23T17:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069466972140790160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2067769579900948480",
+          "start": 0,
+          "username": "geezji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069466972140790160",
+    "in_reply_to_user_id": "2067769579900948480",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069465022850588861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geezji hahahahahahha"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2069459849143038212",
+        "created_at": "2026-06-23T17:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069466972140790160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2067769579900948480",
+              "start": 0,
+              "username": "geezji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069466972140790160",
+        "in_reply_to_user_id": "2067769579900948480",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069465022850588861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geezji hahahahahahha"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067769579900948480",
+        "conversation_id": "2069459849143038212",
+        "created_at": "2026-06-23T16:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069465022850588861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069465022850588861",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069459849143038212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 我的小啾啾（幻视蛋仔）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 790,
+          "like_count": 5376,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2024
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T00:41:43.000Z",
+        "description": "不不不，我无疑是喜悦的\n请继续窥探我",
+        "id": "2067769579900948480",
+        "name": "大钉鞋踩你甲沟炎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068015453491064832/uSGooqTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 37,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "geezji",
+        "verified": false
+      }
+    ]
+  }
+}

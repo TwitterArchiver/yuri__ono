@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1997344974350746077",
+    "created_at": "2025-12-06T17:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T18:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997352959106277458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1671821091738886144",
+          "start": 0,
+          "username": "_04x_d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997352959106277458",
+    "in_reply_to_user_id": "1671821091738886144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997344974350746077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_04x_d 啊啊啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2177,
+        "media_key": "3_1997344966897721344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7f-qj3aYAAlZRt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1997344974350746077",
+        "created_at": "2025-12-06T17:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T18:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997352959106277458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671821091738886144",
+              "start": 0,
+              "username": "_04x_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997352959106277458",
+        "in_reply_to_user_id": "1671821091738886144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997344974350746077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_04x_d 啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997344966897721344"
+          ]
+        },
+        "author_id": "1671821091738886144",
+        "conversation_id": "1997344974350746077",
+        "created_at": "2025-12-06T16:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T17:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997344974350746077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnfR0iOeAk",
+              "end": 41,
+              "expanded_url": "https://x.com/_04x_d/status/1997344974350746077/photo/1",
+              "media_key": "3_1997344966897721344",
+              "start": 18,
+              "url": "https://t.co/XnfR0iOeAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997344974350746077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈的好好笑啊 洗澡洗一半笑到抽搐 https://t.co/XnfR0iOeAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1996987976237359543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 165,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 147
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T10:04:27.000Z",
+        "description": "251  @_j14q1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "_j14q1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki71720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki71720",
+                "start": 0,
+                "url": "https://t.co/Ex198DVgSE"
+              }
+            ]
+          }
+        },
+        "id": "1671821091738886144",
+        "name": "病みゆき死体16",
+        "pinned_tweet_id": "1991184503633834046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993648027316408320/8SXWbEL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 213,
+          "like_count": 7088,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/Ex198DVgSE",
+        "username": "_04x_d",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2067254053428445293",
+    "created_at": "2026-06-18T01:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067416566166323698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        },
+        {
+          "end": 23,
+          "id": "1530252010213330945",
+          "start": 14,
+          "username": "rikinkan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067416566166323698",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067259750136340485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 @rikinkan 原来是锁门的啊（）我还以为是锁门的呢（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2067254053428445293",
+        "created_at": "2026-06-18T01:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067416566166323698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            },
+            {
+              "end": 23,
+              "id": "1530252010213330945",
+              "start": 14,
+              "username": "rikinkan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067416566166323698",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067259750136340485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 @rikinkan 原来是锁门的啊（）我还以为是锁门的呢（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519649212736049152",
+        "conversation_id": "2067254053428445293",
+        "created_at": "2026-06-17T14:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067259750136340485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1530252010213330945",
+              "start": 0,
+              "username": "rikinkan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067259750136340485",
+        "in_reply_to_user_id": "1530252010213330945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067258119500226765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rikinkan 不是啦鎖門的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 731,
+          "like_count": 5108,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1740
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體 簡體🉑 | 是男孩子 |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn",
+                "end": 23,
+                "expanded_url": "http://dreamail.cn",
+                "start": 0,
+                "url": "https://t.co/UrGAmTGSj9"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2049133758931161088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 1194,
+          "like_count": 18957,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 4141
+        },
+        "url": "https://t.co/UrGAmTGSj9",
+        "username": "Mark67358226",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T18:18:16.000Z",
+        "description": "DOMINE QUO VADIS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "atlas2.vear.vip",
+                "end": 23,
+                "expanded_url": "https://atlas2.vear.vip",
+                "start": 0,
+                "url": "https://t.co/CceBRYFMkv"
+              }
+            ]
+          }
+        },
+        "id": "1530252010213330945",
+        "location": "新疆维吾尔自治区",
+        "name": "呂西安 和另外325人",
+        "pinned_tweet_id": "2051316918695666024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060407556229718016/FEbJeqRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 37,
+          "like_count": 1511,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 1653
+        },
+        "url": "https://t.co/CceBRYFMkv",
+        "username": "rikinkan",
+        "verified": false
+      }
+    ]
+  }
+}

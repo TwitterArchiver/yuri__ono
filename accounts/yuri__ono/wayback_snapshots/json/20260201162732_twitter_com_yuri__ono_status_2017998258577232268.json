@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2017958411804311666",
+    "created_at": "2026-02-01T16:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T17:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017998258577232268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893671443566903296",
+          "start": 0,
+          "username": "Lin_su1102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017998258577232268",
+    "in_reply_to_user_id": "1893671443566903296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017958411804311666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lin_su1102 不要死🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2017958411804311666",
+        "created_at": "2026-02-01T16:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T17:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017998258577232268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893671443566903296",
+              "start": 0,
+              "username": "Lin_su1102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017998258577232268",
+        "in_reply_to_user_id": "1893671443566903296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017958411804311666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lin_su1102 不要死🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893671443566903296",
+        "conversation_id": "2017958411804311666",
+        "created_at": "2026-02-01T13:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017958411804311666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017958411804311666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快些死掉吧……什么时候自杀成功……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 241,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 262
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T14:37:21.000Z",
+        "description": "我是鳞溯  \n我秽土转生了这是鳞溯2.0！你们可以接着叫我小溯！女孩子快来找我互呀！🚪52，我接伤口定制",
+        "id": "1893671443566903296",
+        "location": "Tokyo-to, Japan",
+        "name": "溯（接伤口定制）",
+        "pinned_tweet_id": "2009627077297991971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910981379568918528/eXWWa22__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 98,
+          "like_count": 2115,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 397
+        },
+        "username": "Lin_su1102",
+        "verified": false
+      }
+    ]
+  }
+}

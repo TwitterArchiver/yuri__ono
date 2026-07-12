@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2067460416285102289",
+    "created_at": "2026-06-18T16:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067647423623868549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1866148742090665984",
+          "start": 0,
+          "username": "ujWoSAw8WY87192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067647423623868549",
+    "in_reply_to_user_id": "1866148742090665984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067646345834643866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ujWoSAw8WY87192 我去 原来如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2067460416285102289",
+        "created_at": "2026-06-18T16:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067647423623868549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1866148742090665984",
+              "start": 0,
+              "username": "ujWoSAw8WY87192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067647423623868549",
+        "in_reply_to_user_id": "1866148742090665984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067646345834643866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ujWoSAw8WY87192 我去 原来如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866148742090665984",
+        "conversation_id": "2067460416285102289",
+        "created_at": "2026-06-18T16:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067646345834643866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067646345834643866",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067460416285102289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 你爸妈偷偷参加了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 736,
+          "like_count": 5129,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1773
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T15:52:11.000Z",
+        "description": "https://t.co/vM2SqP6YhU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/12385001",
+                "end": 23,
+                "expanded_url": "https://ngl.link/12385001",
+                "start": 0,
+                "url": "https://t.co/vM2SqP6YhU"
+              }
+            ]
+          }
+        },
+        "id": "1866148742090665984",
+        "name": "瓜砸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066694539063283714/5LeCF9ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 353,
+          "like_count": 5337,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 387
+        },
+        "username": "ujWoSAw8WY87192",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2036822007627784546",
+    "created_at": "2026-03-25T15:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036822007627784546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621158345175621633",
+          "start": 3,
+          "username": "Gggg532653"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036822007627784546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036153698359840888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gggg532653: 下载推特和安装vpn 是我智商巅峰时刻。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2036822007627784546",
+        "created_at": "2026-03-25T15:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036822007627784546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621158345175621633",
+              "start": 3,
+              "username": "Gggg532653"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036822007627784546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036153698359840888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gggg532653: 下载推特和安装vpn 是我智商巅峰时刻。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621158345175621633",
+        "conversation_id": "2036153698359840888",
+        "created_at": "2026-03-23T18:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036153698359840888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036153698359840888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 114334,
+          "like_count": 1600,
+          "quote_count": 9,
+          "reply_count": 191,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "下载推特和安装vpn 是我智商巅峰时刻。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 280,
+          "like_count": 2218,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 473
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T14:47:51.000Z",
+        "description": "日记本📓，isfp，性癖切换达人，互关和女孩子可以来找我扩列🤓🤓☝🏻☝🏻嘻嘻…https://t.co/aJWVQV5gMe 😠😠😡 不🈷️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gggg5326531",
+                "end": 62,
+                "expanded_url": "https://ngl.link/gggg5326531",
+                "start": 39,
+                "url": "https://t.co/aJWVQV5gMe"
+              }
+            ]
+          }
+        },
+        "id": "1621158345175621633",
+        "location": "💗",
+        "name": "G",
+        "pinned_tweet_id": "1996102738313445432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999510847278960640/mpOkxqv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 681,
+          "like_count": 10229,
+          "listed_count": 6,
+          "media_count": 533,
+          "tweet_count": 5766
+        },
+        "username": "Gggg532653",
+        "verified": false
+      }
+    ]
+  }
+}

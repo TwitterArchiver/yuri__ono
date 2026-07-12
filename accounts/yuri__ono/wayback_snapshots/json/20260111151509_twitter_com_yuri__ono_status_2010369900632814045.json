@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2010008018340221245",
+    "created_at": "2026-01-11T15:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T16:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010369900632814045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1991153082332585984",
+          "start": 0,
+          "username": "_j14q1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010369900632814045",
+    "in_reply_to_user_id": "1991153082332585984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010008018340221245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_j14q1 不敢想女神私信都是什么奇怪的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2010008018340221245",
+        "created_at": "2026-01-11T15:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010369900632814045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1991153082332585984",
+              "start": 0,
+              "username": "_j14q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010369900632814045",
+        "in_reply_to_user_id": "1991153082332585984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010008018340221245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_j14q1 不敢想女神私信都是什么奇怪的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991153082332585984",
+        "conversation_id": "2010008018340221245",
+        "created_at": "2026-01-10T15:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T16:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010008018340221245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010008018340221245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开了屏蔽词我的私信安静了许多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 214,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 212
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T14:34:51.000Z",
+        "description": "もう無理 バイバイ！！ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n251 @_04x_d \nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤhttps://t.co/ZjNZGY9mi0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "_04x_d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/j14q1_",
+                "end": 78,
+                "expanded_url": "https://ngl.link/j14q1_",
+                "start": 55,
+                "url": "https://t.co/ZjNZGY9mi0"
+              }
+            ]
+          }
+        },
+        "id": "1991153082332585984",
+        "location": "🚪25  🚪52 ",
+        "name": "溶けた",
+        "pinned_tweet_id": "1991524639764607416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991154218980536320/WG4V4qWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 130,
+          "like_count": 3973,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 512
+        },
+        "username": "_j14q1",
+        "verified": false
+      }
+    ]
+  }
+}

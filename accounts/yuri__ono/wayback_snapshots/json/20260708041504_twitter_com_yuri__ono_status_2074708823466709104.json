@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2074551250092425553",
+    "created_at": "2026-07-08T04:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074708823466709104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969800383548784640",
+          "start": 0,
+          "username": "yi_guang10330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074708823466709104",
+    "in_reply_to_user_id": "1969800383548784640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074665078188548164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi_guang10330 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2074551250092425553",
+        "created_at": "2026-07-08T04:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074708823466709104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969800383548784640",
+              "start": 0,
+              "username": "yi_guang10330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074708823466709104",
+        "in_reply_to_user_id": "1969800383548784640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074665078188548164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_guang10330 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969800383548784640",
+        "conversation_id": "2074551250092425553",
+        "created_at": "2026-07-08T01:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074665078188548164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074665078188548164",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074551250092425553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 我也在服务器建了兔斯基忧郁雕像，真的好酷吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 909,
+          "like_count": 5691,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2349
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-21T16:26:33.000Z",
+        "description": "enfp大一男183，78/喜欢看百合/玩乐队打架子鼓的/喜欢日摇，相対性理論，蘑菇帝國啥的/平时一直经营自己的啥子生活。。",
+        "id": "1969800383548784640",
+        "location": "Holden Heights, FL",
+        "name": "希",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073889242292400128/2UA2i4LD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "yi_guang10330",
+        "verified": false
+      }
+    ]
+  }
+}

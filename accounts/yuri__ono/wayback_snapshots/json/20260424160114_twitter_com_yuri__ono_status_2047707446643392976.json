@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2047707446643392976",
+    "created_at": "2026-04-24T16:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047707446643392976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552280881917739008",
+          "start": 3,
+          "username": "upx9t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047707446643392976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047696344719216856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @upx9t: 我对老公要求1.智商低 2.淫商高3.没朋友4.一秒没看到我就哭着喊着要跳楼的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2047707446643392976",
+        "created_at": "2026-04-24T16:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047707446643392976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552280881917739008",
+              "start": 3,
+              "username": "upx9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047707446643392976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047696344719216856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @upx9t: 我对老公要求1.智商低 2.淫商高3.没朋友4.一秒没看到我就哭着喊着要跳楼的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552280881917739008",
+        "conversation_id": "2047696344719216856",
+        "created_at": "2026-04-24T15:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047696344719216856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047696344719216856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我对老公要求1.智商低 2.淫商高3.没朋友4.一秒没看到我就哭着喊着要跳楼的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 307,
+          "like_count": 2739,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 632
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T13:13:09.000Z",
+        "description": "🚪188 纯分享日常^ω^ 自用梯子https://t.co/FxqKeAAYUy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 41,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=r0Q9c9HC",
+                "start": 18,
+                "url": "https://t.co/FxqKeAAYUy"
+              }
+            ]
+          }
+        },
+        "id": "1552280881917739008",
+        "name": "❄️",
+        "pinned_tweet_id": "2044031541890978019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926358547563974656/QPGtdDIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37785,
+          "following_count": 356,
+          "like_count": 45067,
+          "listed_count": 56,
+          "media_count": 240,
+          "tweet_count": 10414
+        },
+        "username": "upx9t",
+        "verified": false
+      }
+    ]
+  }
+}

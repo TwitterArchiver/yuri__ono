@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1984865509549228304",
+    "created_at": "2025-11-07T14:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T15:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986798159822205328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827934206330392576",
+          "start": 0,
+          "username": "xiaoye030520"
+        },
+        {
+          "end": 29,
+          "id": "1750040441880498176",
+          "start": 14,
+          "username": "kill_this_hate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986798159822205328",
+    "in_reply_to_user_id": "1827934206330392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984958744141468057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoye030520 @kill_this_hate 这是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1984865509549228304",
+        "created_at": "2025-11-07T14:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986798159822205328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827934206330392576",
+              "start": 0,
+              "username": "xiaoye030520"
+            },
+            {
+              "end": 29,
+              "id": "1750040441880498176",
+              "start": 14,
+              "username": "kill_this_hate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986798159822205328",
+        "in_reply_to_user_id": "1827934206330392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984958744141468057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoye030520 @kill_this_hate 这是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827934206330392576",
+        "conversation_id": "1984865509549228304",
+        "created_at": "2025-11-02T12:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T13:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984958744141468057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750040441880498176",
+              "start": 0,
+              "username": "kill_this_hate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984958744141468057",
+        "in_reply_to_user_id": "1750040441880498176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2274,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984865509549228304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill_this_hate 大部分皮下男，女大的背后竟然是一个大叔！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 欢迎互fo",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 92,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T05:01:05.000Z",
+        "description": "泛性恋｜共创📷作品私信",
+        "id": "1827934206330392576",
+        "name": "Sukjie_",
+        "pinned_tweet_id": "1841448126739284058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841749810791211008/5_F2Opba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3133,
+          "following_count": 88,
+          "like_count": 571,
+          "listed_count": 10,
+          "media_count": 11,
+          "tweet_count": 199
+        },
+        "username": "xiaoye030520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T06:19:04.000Z",
+        "description": "你们真是欠爱了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i46595",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i46595",
+                "start": 0,
+                "url": "https://t.co/cehcglWnGw"
+              }
+            ]
+          }
+        },
+        "id": "1750040441880498176",
+        "location": "你的认知配得上你的苦难😆",
+        "name": "雀儿（接占卜",
+        "pinned_tweet_id": "1956051781475356953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904043326652960768/_stZidxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 159,
+          "like_count": 14842,
+          "listed_count": 2,
+          "media_count": 698,
+          "tweet_count": 7078
+        },
+        "url": "https://t.co/cehcglWnGw",
+        "username": "kill_this_hate",
+        "verified": false
+      }
+    ]
+  }
+}

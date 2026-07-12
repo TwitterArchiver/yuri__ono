@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2039192577166201131",
+    "created_at": "2026-04-01T15:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T16:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039359375224222130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997228580846342144",
+          "start": 0,
+          "username": "66dekongjian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039359375224222130",
+    "in_reply_to_user_id": "1997228580846342144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039192577166201131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@66dekongjian 有啥阴招全使人家猫猫身上了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7235,
+        "height": 1280,
+        "media_key": "13_2039192505305219072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039192505305219072/img/ijT-MC6OFkX7dMdk.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039192505305219072/vid/avc1/320x568/08oUpW5rMI8iQJlt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039192505305219072/vid/avc1/480x852/5p6341A3-LUgYTs5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039192505305219072/vid/avc1/720x1280/Tojl8bkmO9DJaVhr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039192505305219072/pl/tqEYDlQAVY9d5JY9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2039192577166201131",
+        "created_at": "2026-04-01T15:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039359375224222130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997228580846342144",
+              "start": 0,
+              "username": "66dekongjian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039359375224222130",
+        "in_reply_to_user_id": "1997228580846342144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039192577166201131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@66dekongjian 有啥阴招全使人家猫猫身上了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039192505305219072"
+          ]
+        },
+        "author_id": "1997228580846342144",
+        "conversation_id": "2039192577166201131",
+        "created_at": "2026-04-01T04:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039192577166201131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zy6mvgPnc4",
+              "end": 31,
+              "expanded_url": "https://x.com/66dekongjian/status/2039192577166201131/video/1",
+              "media_key": "13_2039192505305219072",
+              "start": 8,
+              "url": "https://t.co/zy6mvgPnc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039192577166201131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酸黄瓜猫都不吃 https://t.co/zy6mvgPnc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 285,
+          "like_count": 2298,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 503
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T08:56:23.000Z",
+        "description": "男的\\00年\\高中老师",
+        "id": "1997228580846342144",
+        "name": "6",
+        "pinned_tweet_id": "2006576127830294990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003502567108804613/HztYtsI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 64,
+          "like_count": 1534,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 441
+        },
+        "username": "66dekongjian",
+        "verified": false
+      }
+    ]
+  }
+}

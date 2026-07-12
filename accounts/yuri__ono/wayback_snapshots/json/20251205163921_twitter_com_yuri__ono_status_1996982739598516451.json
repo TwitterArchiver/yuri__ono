@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1996959091391189385",
+    "created_at": "2025-12-05T16:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T17:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996982739598516451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1924464777210077185",
+          "start": 0,
+          "username": "X1aoYuQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996982739598516451",
+    "in_reply_to_user_id": "1924464777210077185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996959091391189385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X1aoYuQAQ 彳亍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1996959091391189385",
+        "created_at": "2025-12-05T16:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996982739598516451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1924464777210077185",
+              "start": 0,
+              "username": "X1aoYuQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996982739598516451",
+        "in_reply_to_user_id": "1924464777210077185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996959091391189385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1aoYuQAQ 彳亍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924464777210077185",
+        "conversation_id": "1996959091391189385",
+        "created_at": "2025-12-05T15:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T16:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996959091391189385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996959091391189385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6960,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "撸管的互删，你有个屌很牛逼？你们有屌的不知道日本人也有吗，你们这群汉奸，就不怕里面放炸弹吗？等到时候中国和日本打起来就一个按钮按下去你们就全部都被炸死了知道吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 156,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 139
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T13:59:45.000Z",
+        "description": "我叫小雨｜天秤｜ISFP｜Switch｜偷盗存图替我挡灾｜废话日常｜纯绿🚪128｜打瓦厉害的请带我｜关评帖为推广真假自辩～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/xyuOVO",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/xyuOVO",
+                "start": 0,
+                "url": "https://t.co/s0M6884UJV"
+              }
+            ]
+          }
+        },
+        "id": "1924464777210077185",
+        "location": "🚪128纯绿 我的匿名提问箱⬇️",
+        "name": "YUuuu",
+        "pinned_tweet_id": "1994827961615487022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951329920313159680/Zs5S7rWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7685,
+          "following_count": 406,
+          "like_count": 2903,
+          "listed_count": 23,
+          "media_count": 117,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/s0M6884UJV",
+        "username": "X1aoYuQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

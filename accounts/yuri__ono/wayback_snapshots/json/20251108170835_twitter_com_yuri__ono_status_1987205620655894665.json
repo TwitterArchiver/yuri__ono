@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1986710455021432982",
+    "created_at": "2025-11-08T17:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987205620655894665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1717496075433779200",
+          "start": 0,
+          "username": "hoba465109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987205620655894665",
+    "in_reply_to_user_id": "1717496075433779200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986710455021432982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoba465109 太恶心了吧怎么还有这种人……摸摸咪老师，你们要一直幸福下去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_1986710442866348032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5I2nyqbkAAk35t.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1986710455021432982",
+        "created_at": "2025-11-08T17:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987205620655894665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1717496075433779200",
+              "start": 0,
+              "username": "hoba465109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987205620655894665",
+        "in_reply_to_user_id": "1717496075433779200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986710455021432982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoba465109 太恶心了吧怎么还有这种人……摸摸咪老师，你们要一直幸福下去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986710442866348032"
+          ]
+        },
+        "author_id": "1717496075433779200",
+        "conversation_id": "1986710455021432982",
+        "created_at": "2025-11-07T08:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986710455021432982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XwqIbWZyrp",
+              "end": 23,
+              "expanded_url": "https://x.com/hoba465109/status/1986710455021432982/photo/1",
+              "media_key": "3_1986710442866348032",
+              "start": 0,
+              "url": "https://t.co/XwqIbWZyrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986710455021432982",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 347798,
+          "like_count": 1184,
+          "quote_count": 8,
+          "reply_count": 79,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XwqIbWZyrp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 欢迎互fo",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 95,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 43
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T10:59:19.000Z",
+        "description": "04 brat 166 INTJ 咪的日记本📓 有主人不加v不接推广 Daddy @DYDT_Shimawa 1v1情侣主仆 感谢宝宝们的喜欢 墙内无账号 禁止内容搬运。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "DYDT_Shimawa"
+              }
+            ]
+          }
+        },
+        "id": "1717496075433779200",
+        "name": "野貓一枚🐾",
+        "pinned_tweet_id": "1982721565520523566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975970265692790784/9cSMVaiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19805,
+          "following_count": 28,
+          "like_count": 1020,
+          "listed_count": 25,
+          "media_count": 25,
+          "tweet_count": 309
+        },
+        "username": "hoba465109",
+        "verified": false
+      }
+    ]
+  }
+}

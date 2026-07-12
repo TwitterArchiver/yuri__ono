@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2010008018340221245",
+    "created_at": "2026-01-11T15:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T16:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010371906940371180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1991153082332585984",
+          "start": 0,
+          "username": "_j14q1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010371906940371180",
+    "in_reply_to_user_id": "1991153082332585984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010370682396594600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_j14q1 啊啊啊啊啊啊啊！我之前私信真有人给我发牛子，吓晕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2010008018340221245",
+        "created_at": "2026-01-11T15:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010371906940371180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1991153082332585984",
+              "start": 0,
+              "username": "_j14q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010371906940371180",
+        "in_reply_to_user_id": "1991153082332585984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010370682396594600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_j14q1 啊啊啊啊啊啊啊！我之前私信真有人给我发牛子，吓晕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991153082332585984",
+        "conversation_id": "2010008018340221245",
+        "created_at": "2026-01-11T15:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010370682396594600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010370682396594600",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010369900632814045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono yu ri 口涩肉棒吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 212,
+          "like_count": 1042,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 209
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T14:34:51.000Z",
+        "description": "もう無理 バイバイ！！ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n251 @_04x_d \nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤhttps://t.co/ZjNZGY9mi0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "_04x_d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/j14q1_",
+                "end": 78,
+                "expanded_url": "https://ngl.link/j14q1_",
+                "start": 55,
+                "url": "https://t.co/ZjNZGY9mi0"
+              }
+            ]
+          }
+        },
+        "id": "1991153082332585984",
+        "location": "🚪25  🚪52 ",
+        "name": "溶けた",
+        "pinned_tweet_id": "1991524639764607416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991154218980536320/WG4V4qWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 129,
+          "like_count": 3928,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 508
+        },
+        "username": "_j14q1",
+        "verified": false
+      }
+    ]
+  }
+}

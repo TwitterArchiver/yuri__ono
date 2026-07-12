@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2014745745354863061",
+    "created_at": "2026-01-23T17:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T18:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014745745354863061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mifanmiaomiao/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/mifanmiaomiao/status/2014608017191256319",
+          "start": 6,
+          "url": "https://t.co/aaSRJ0spsn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014745745354863061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014608017191256319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咋这么会说 https://t.co/aaSRJ0spsn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 186,
+        "media_key": "3_2014608009951854592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VTT6rWQAAY0KO.jpg",
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2014745745354863061",
+        "created_at": "2026-01-23T17:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014745745354863061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mifanmiaomiao/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/mifanmiaomiao/status/2014608017191256319",
+              "start": 6,
+              "url": "https://t.co/aaSRJ0spsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014745745354863061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014608017191256319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咋这么会说 https://t.co/aaSRJ0spsn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014608009951854592"
+          ]
+        },
+        "author_id": "1589508609578176512",
+        "conversation_id": "2014608017191256319",
+        "created_at": "2026-01-23T07:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014608017191256319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLSiYzTbNt",
+              "end": 102,
+              "expanded_url": "https://x.com/mifanmiaomiao/status/2014608017191256319/photo/1",
+              "media_key": "3_2014608009951854592",
+              "start": 79,
+              "url": "https://t.co/pLSiYzTbNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014608017191256319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10638,
+          "like_count": 378,
+          "quote_count": 6,
+          "reply_count": 13,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "感觉大部分人都像野狗一样，带着短暂的新鲜感和好奇闯入我的生活冲我摇尾巴示好，等我愿意尝试摸摸它的时候，然后它妈给我咬一口跑了，而我却要打五针狂犬疫苗才不会死 https://t.co/pLSiYzTbNt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 228,
+          "like_count": 1158,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 241
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T06:42:57.000Z",
+        "description": "（大部分时间在搞/写/发黄色介意可取关~）俺喜欢和大家交朋友！          欢迎互转互粉互赞~正在努力学英语润出去....         偶尔会写点抽象的满足自己！！会给互fo画画（不过技术不太好 /画的有些慢）希望宝宝会喜欢^•͈༝•^ฅ欢迎宝宝们来找我私信聊天哦🥰太冒昧的私信休怪我的刀不长眼！🔪🪓🗡",
+        "id": "1589508609578176512",
+        "name": "米花糖",
+        "pinned_tweet_id": "1998563648768487661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998359027051618304/QN4w_EJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 750,
+          "like_count": 6524,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1456
+        },
+        "username": "mifanmiaomiao",
+        "verified": false
+      }
+    ]
+  }
+}

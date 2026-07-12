@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2058924367170658494",
+    "created_at": "2026-05-25T15:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058935563747729462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2056334384312307712",
+          "start": 0,
+          "username": "HoeyE17422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058935563747729462",
+    "in_reply_to_user_id": "2056334384312307712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058935220758577184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoeyE17422 只要还有人理我我就不会睡的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2058924367170658494",
+        "created_at": "2026-05-25T15:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058935563747729462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2056334384312307712",
+              "start": 0,
+              "username": "HoeyE17422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058935563747729462",
+        "in_reply_to_user_id": "2056334384312307712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058935220758577184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoeyE17422 只要还有人理我我就不会睡的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056334384312307712",
+        "conversation_id": "2058924367170658494",
+        "created_at": "2026-05-25T15:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058935220758577184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058935220758577184",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058924367170658494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 说了晚安居然跑来偷偷看推吗你这家伙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 454,
+          "like_count": 4402,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1157
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T11:24:00.000Z",
+        "description": "08女高碎碎念（可定制）",
+        "id": "2056334384312307712",
+        "location": "🚪58",
+        "name": "冷冰冰and青",
+        "pinned_tweet_id": "2057745373712593263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056747429232537600/4d0-f_Vy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 23,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 120
+        },
+        "username": "HoeyE17422",
+        "verified": false
+      }
+    ]
+  }
+}

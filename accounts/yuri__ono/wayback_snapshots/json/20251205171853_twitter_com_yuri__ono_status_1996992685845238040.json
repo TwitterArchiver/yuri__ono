@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1971197661677261221",
+    "created_at": "2025-12-05T17:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T18:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996992685845238040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1678047477260328962",
+          "start": 0,
+          "username": "xsinnery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996992685845238040",
+    "in_reply_to_user_id": "1678047477260328962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971197661677261221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsinnery 体型差好爽"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 138483,
+        "height": 480,
+        "media_key": "7_1947786215794561024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1947786215794561024/pu/img/tvfW49uLEc7uyROC.jpg",
+        "public_metrics": {
+          "view_count": 2441704
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947786215794561024/pu/vid/avc1/320x320/TyNS1-Q9MjR66grh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947786215794561024/pu/vid/avc1/480x480/C-D3pU4lPQ6D74jl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1947786215794561024/pu/pl/1kON34uCnM1V9Fz6.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1971197661677261221",
+        "created_at": "2025-12-05T17:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T18:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996992685845238040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1678047477260328962",
+              "start": 0,
+              "username": "xsinnery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996992685845238040",
+        "in_reply_to_user_id": "1678047477260328962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971197661677261221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsinnery 体型差好爽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1947786215794561024"
+          ],
+          "media_source_tweet_id": [
+            "1947786284920918117"
+          ]
+        },
+        "author_id": "1678047477260328962",
+        "conversation_id": "1971197661677261221",
+        "created_at": "2025-09-25T12:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T13:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971197661677261221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QM7T5ebrVC",
+              "end": 23,
+              "expanded_url": "https://x.com/TheCheeseTime/status/1947786284920918117/video/1",
+              "media_key": "7_1947786215794561024",
+              "start": 0,
+              "url": "https://t.co/QM7T5ebrVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971197661677261221",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 45690,
+          "impression_count": 3128508,
+          "like_count": 86368,
+          "quote_count": 276,
+          "reply_count": 109,
+          "retweet_count": 8353
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QM7T5ebrVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1996987976237359543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 159,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 143
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T14:24:54.000Z",
+        "description": "❥ @xalIure",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "xalIure"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/zJMremEM9E",
+                "end": 23,
+                "expanded_url": "https://discord.gg/zJMremEM9E",
+                "start": 0,
+                "url": "https://t.co/2jSx8f8df9"
+              }
+            ]
+          }
+        },
+        "id": "1678047477260328962",
+        "location": "dm for credit | promo",
+        "name": "sinnery",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754543765224579072/RkK2V0hI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538328,
+          "following_count": 7,
+          "like_count": 13,
+          "listed_count": 946,
+          "media_count": 312,
+          "tweet_count": 301
+        },
+        "url": "https://t.co/2jSx8f8df9",
+        "username": "xsinnery",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

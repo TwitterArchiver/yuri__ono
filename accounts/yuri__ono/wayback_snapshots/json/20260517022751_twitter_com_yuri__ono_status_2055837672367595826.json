@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2055837672367595826",
+    "created_at": "2026-05-17T02:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055837672367595826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xrwi238646/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/xrwi238646/status/2055663764247351530",
+          "start": 17,
+          "url": "https://t.co/dvOWsIM4xO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055837672367595826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055663764247351530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是真的 我的每个互关都很可爱呀 https://t.co/dvOWsIM4xO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2055837672367595826",
+        "created_at": "2026-05-17T02:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055837672367595826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xrwi238646/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/xrwi238646/status/2055663764247351530",
+              "start": 17,
+              "url": "https://t.co/dvOWsIM4xO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055837672367595826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055663764247351530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是真的 我的每个互关都很可爱呀 https://t.co/dvOWsIM4xO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987561311438610432",
+        "conversation_id": "2055663764247351530",
+        "created_at": "2026-05-16T14:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055663764247351530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055663764247351530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 24188,
+          "like_count": 355,
+          "quote_count": 2,
+          "reply_count": 132,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "把推特当成社交软件就会收获很多萌萌互关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 小号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 358,
+          "like_count": 3739,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 899
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T16:42:13.000Z",
+        "description": "06｜男的｜不定时上线。｜欢迎互fo｜互fo会查主页成分。｜很多废话吵到你们报意丝。\n176（别骂我矮了谢谢）。目前64.5kg，健身中……",
+        "id": "1987561311438610432",
+        "location": "0.1km",
+        "name": "装忧郁蹲在地上被狗认为是在出餐",
+        "pinned_tweet_id": "2054590311268311193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046234866090721280/Xsbi1Oxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 83,
+          "like_count": 1505,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1098
+        },
+        "username": "xrwi238646",
+        "verified": false
+      }
+    ]
+  }
+}

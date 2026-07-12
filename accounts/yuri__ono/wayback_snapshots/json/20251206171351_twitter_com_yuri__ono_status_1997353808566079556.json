@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1997353808566079556",
+    "created_at": "2025-12-06T17:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T18:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997353808566079556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds0/status/1…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hgds0/status/1996569270667645417",
+          "start": 5,
+          "url": "https://t.co/2LjzK7iEtm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997353808566079556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996569270667645417",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好恶心。 https://t.co/2LjzK7iEtm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 929,
+        "media_key": "3_1996569264728477696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7U9KwGakAA1nEd.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1997353808566079556",
+        "created_at": "2025-12-06T17:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T18:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997353808566079556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/1…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hgds0/status/1996569270667645417",
+              "start": 5,
+              "url": "https://t.co/2LjzK7iEtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997353808566079556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996569270667645417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好恶心。 https://t.co/2LjzK7iEtm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996569264728477696"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1996569270667645417",
+        "created_at": "2025-12-04T13:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996569270667645417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/99fhguRdpd",
+              "end": 40,
+              "expanded_url": "https://x.com/hgds0/status/1996569270667645417/photo/1",
+              "media_key": "3_1996569264728477696",
+              "start": 17,
+              "url": "https://t.co/99fhguRdpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996569270667645417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 419085,
+          "like_count": 3088,
+          "quote_count": 35,
+          "reply_count": 124,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "文豪！通过文字能闻到屋子里的臭味 https://t.co/99fhguRdpd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1996987976237359543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 166,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 149
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95123,
+          "following_count": 2733,
+          "like_count": 43669,
+          "listed_count": 134,
+          "media_count": 3278,
+          "tweet_count": 7605
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

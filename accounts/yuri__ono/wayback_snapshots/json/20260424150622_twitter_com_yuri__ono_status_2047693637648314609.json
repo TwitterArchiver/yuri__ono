@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2047539477619658943",
+    "created_at": "2026-04-24T15:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047693637648314609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1905632059831558144",
+          "start": 0,
+          "username": "lsybab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047693637648314609",
+    "in_reply_to_user_id": "1905632059831558144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047539477619658943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lsybab 好棒…看起来就很好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16268,
+        "height": 1280,
+        "media_key": "13_2047539381771325440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047539381771325440/img/s7U4eqGgihc0yx7r.jpg",
+        "public_metrics": {
+          "view_count": 3690
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047539381771325440/vid/avc1/320x568/yOF8SdFbWk4SYwG-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047539381771325440/vid/avc1/480x852/g8aBM3Sb3gK7F0Vq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047539381771325440/vid/avc1/720x1280/FVYQFwmiL9VGoozZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047539381771325440/pl/PIChN4TAnFkGuv78.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2047539477619658943",
+        "created_at": "2026-04-24T15:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047693637648314609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1905632059831558144",
+              "start": 0,
+              "username": "lsybab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047693637648314609",
+        "in_reply_to_user_id": "1905632059831558144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047539477619658943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lsybab 好棒…看起来就很好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047539381771325440"
+          ]
+        },
+        "author_id": "1905632059831558144",
+        "conversation_id": "2047539477619658943",
+        "created_at": "2026-04-24T04:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047539477619658943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5EpJe5qPT",
+              "end": 39,
+              "expanded_url": "https://x.com/lsybab/status/2047539477619658943/video/1",
+              "media_key": "13_2047539381771325440",
+              "start": 16,
+              "url": "https://t.co/b5EpJe5qPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047539477619658943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12610,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 249,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天中午干了一件很疯狂的事情 https://t.co/b5EpJe5qPT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 307,
+          "like_count": 2730,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 629
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T14:44:35.000Z",
+        "description": "我喜欢萌妹子和大扔扔帅哥 感谢喜欢 祝你天天开心",
+        "id": "1905632059831558144",
+        "location": "🕺🏻",
+        "name": "o(≧v≦)o",
+        "pinned_tweet_id": "2045746549880438944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912163134644645888/VHzDHyfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 50,
+          "like_count": 260,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 278
+        },
+        "username": "lsybab",
+        "verified": false
+      }
+    ]
+  }
+}

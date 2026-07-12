@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2068232188148265395",
+    "created_at": "2026-06-20T07:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068236434469982428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1854081834440863744",
+          "start": 0,
+          "username": "lji1044434"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068236434469982428",
+    "in_reply_to_user_id": "1854081834440863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068234310906495413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lji1044434 ok！我来接你了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2068232188148265395",
+        "created_at": "2026-06-20T07:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068236434469982428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1854081834440863744",
+              "start": 0,
+              "username": "lji1044434"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068236434469982428",
+        "in_reply_to_user_id": "1854081834440863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068234310906495413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lji1044434 ok！我来接你了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854081834440863744",
+        "conversation_id": "2068232188148265395",
+        "created_at": "2026-06-20T07:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068234310906495413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068234310906495413",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068232188148265395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 好想吃..三分钟到你家门口！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 755,
+          "like_count": 5222,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1870
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T08:42:25.000Z",
+        "description": "04｜♀｜学生\n\n当日记发....很好说话！",
+        "id": "1854081834440863744",
+        "name": "热乎乎烙饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067595495292436480/_buY5jdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 28,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "lji1044434",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1991907206061842766",
+    "created_at": "2025-11-22T10:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992174696838864986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1901339878966636544",
+          "start": 0,
+          "username": "tteokki9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992174696838864986",
+    "in_reply_to_user_id": "1901339878966636544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991907206061842766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tteokki9 宝贝你就这样美下去好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1991907206061842766",
+        "created_at": "2025-11-22T10:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992174696838864986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1901339878966636544",
+              "start": 0,
+              "username": "tteokki9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992174696838864986",
+        "in_reply_to_user_id": "1901339878966636544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991907206061842766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tteokki9 宝贝你就这样美下去好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901339878966636544",
+        "conversation_id": "1991907206061842766",
+        "created_at": "2025-11-21T16:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991907206061842766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991907206061842766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 35312,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我🚪哥跟我说让我好好当清水推不要下海 看黄他们另有人选 我不行了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 134,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 100
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T18:28:59.000Z",
+        "description": "可以叫我小叽叽^o^ 嫌我坏你走！你赶紧走！｜私信只回有意思的和过🚪口令｜",
+        "id": "1901339878966636544",
+        "location": "🚪88/188/520/1314…",
+        "name": "椰叽",
+        "pinned_tweet_id": "1984659027478102138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978562699706707968/ZBtaBVTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 113,
+          "like_count": 1922,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 862
+        },
+        "username": "tteokki9",
+        "verified": false
+      }
+    ]
+  }
+}

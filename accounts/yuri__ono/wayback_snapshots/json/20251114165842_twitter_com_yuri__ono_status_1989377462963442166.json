@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1989270250358190581",
+    "created_at": "2025-11-14T16:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T17:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989377462963442166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1708301558516207616",
+          "start": 0,
+          "username": "arou_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989377462963442166",
+    "in_reply_to_user_id": "1708301558516207616",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989270250358190581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arou_overdose 。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_1989270241793183744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tOvsxWkAAvOE-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1989270250358190581",
+        "created_at": "2025-11-14T16:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T17:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989377462963442166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1708301558516207616",
+              "start": 0,
+              "username": "arou_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989377462963442166",
+        "in_reply_to_user_id": "1708301558516207616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989270250358190581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arou_overdose 。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989270241793183744"
+          ]
+        },
+        "author_id": "1708301558516207616",
+        "conversation_id": "1989270250358190581",
+        "created_at": "2025-11-14T09:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989270250358190581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/04fwHS4Baf",
+              "end": 77,
+              "expanded_url": "https://x.com/arou_overdose/status/1989270250358190581/photo/1",
+              "media_key": "3_1989270241793183744",
+              "start": 54,
+              "url": "https://t.co/04fwHS4Baf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989270250358190581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2085,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "往国内平台上发的全是傻逼死全家，但是我想问什么时候o玉米能胖了啊？我怎么不知道o玉米还能胖啊 你特么逗我？ https://t.co/04fwHS4Baf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 欢迎互fo",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 108,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T02:03:46.000Z",
+        "description": "污秽不堪的你最可愛了｜@Yuu_sa_ri💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Yuu_sa_ri"
+              }
+            ]
+          }
+        },
+        "id": "1708301558516207616",
+        "location": "存在しません",
+        "name": "吐き気",
+        "pinned_tweet_id": "1868600204129419570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982832575639883776/uwmtgmDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 129,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 598
+        },
+        "username": "arou_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

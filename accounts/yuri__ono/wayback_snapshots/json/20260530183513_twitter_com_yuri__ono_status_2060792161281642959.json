@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2060758121220641121",
+    "created_at": "2026-05-30T18:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060792161281642959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1366206440474505217",
+          "start": 0,
+          "username": "ou_mcizayn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060792161281642959",
+    "in_reply_to_user_id": "1366206440474505217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060758121220641121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ou_mcizayn 生日快乐呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2060758121220641121",
+        "created_at": "2026-05-30T18:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060792161281642959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1366206440474505217",
+              "start": 0,
+              "username": "ou_mcizayn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060792161281642959",
+        "in_reply_to_user_id": "1366206440474505217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060758121220641121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ou_mcizayn 生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366206440474505217",
+        "conversation_id": "2060758121220641121",
+        "created_at": "2026-05-30T16:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060758121220641121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060758121220641121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的外国朋友们\n\n今天是我生日\n\n我希望得到不同国家的祝我生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060549512226308096/r-Hlk7UK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 589,
+          "like_count": 4761,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1424
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T01:59:39.000Z",
+        "description": "猫奴 | 美食分享 + 猫咪日常 + 生活随笔\n灵魂有点杂乱，喜欢真实分享\n偶尔会说点私密经历 | 欢迎交流～ 🐱\n日本の方もぜひフォローしてね！\nSo glad you're here!",
+        "id": "1366206440474505217",
+        "location": "Hong Kong",
+        "name": "ou_mcizayn",
+        "pinned_tweet_id": "2060194595699658776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057727267476783104/3LwRYXpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 727,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 162
+        },
+        "username": "ou_mcizayn",
+        "verified": true
+      }
+    ]
+  }
+}

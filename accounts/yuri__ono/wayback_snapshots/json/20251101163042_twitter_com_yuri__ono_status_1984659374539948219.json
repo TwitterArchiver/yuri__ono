@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1984301040322150449",
+    "created_at": "2025-11-01T16:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T17:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984659374539948219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1823410485502599175",
+          "start": 0,
+          "username": "Tchaikovsky8964"
+        },
+        {
+          "end": 31,
+          "id": "1574407959177678848",
+          "start": 17,
+          "username": "nimenquansile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984659374539948219",
+    "in_reply_to_user_id": "1823410485502599175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984634906774036864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tchaikovsky8964 @nimenquansile 我就这样啊啊 晚上压力大睡不着的助眠手段"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1984301040322150449",
+        "created_at": "2025-11-01T16:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984659374539948219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1823410485502599175",
+              "start": 0,
+              "username": "Tchaikovsky8964"
+            },
+            {
+              "end": 31,
+              "id": "1574407959177678848",
+              "start": 17,
+              "username": "nimenquansile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984659374539948219",
+        "in_reply_to_user_id": "1823410485502599175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984634906774036864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tchaikovsky8964 @nimenquansile 我就这样啊啊 晚上压力大睡不着的助眠手段"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823410485502599175",
+        "conversation_id": "1984301040322150449",
+        "created_at": "2025-11-01T14:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T15:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984634906774036864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1574407959177678848",
+              "start": 0,
+              "username": "nimenquansile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984634906774036864",
+        "in_reply_to_user_id": "1574407959177678848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11063,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984301040322150449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nimenquansile 哇看到評論區有一天三四次的……總感覺……好厲害 我沖一次就犯困了所以都是當助眠手段……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 91,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T17:25:27.000Z",
+        "description": "建政/生活專用號 也可以去看看我發的同人@DeFrollo\n頭像只是我推不代表任何政治傾向\n討厭二極管，重視教育權力與民衆素養\n戀師癖，友一切但婉拒粉紅（只要你不是二極管我都友）\n不想站隊，只是單純討厭中修與習 有負能 語言學學習中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "DeFrollo"
+              }
+            ]
+          }
+        },
+        "id": "1823410485502599175",
+        "location": "Quahog Sponner St.32",
+        "name": "995大好き_SwTchai",
+        "pinned_tweet_id": "1823444611249148206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983919071679905792/LoZVPbJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 35,
+          "like_count": 8336,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1621
+        },
+        "username": "Tchaikovsky8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T14:38:14.000Z",
+        "description": "天地缓缓",
+        "id": "1574407959177678848",
+        "name": "Tyu1",
+        "pinned_tweet_id": "1980205184413487163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984578537542860800/RLfedpvo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7182,
+          "following_count": 125,
+          "like_count": 4497,
+          "listed_count": 14,
+          "media_count": 158,
+          "tweet_count": 2830
+        },
+        "username": "nimenquansile",
+        "verified": false
+      }
+    ]
+  }
+}

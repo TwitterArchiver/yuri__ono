@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1994295126915465352",
+    "created_at": "2025-11-29T17:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T18:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994818678840594882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1991153082332585984",
+          "start": 0,
+          "username": "_j14q1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994818678840594882",
+    "in_reply_to_user_id": "1991153082332585984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994295126915465352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_j14q1 好恶心。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994295115977039872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60o130boAAqw77.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1994295126915465352",
+        "created_at": "2025-11-29T17:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994818678840594882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1991153082332585984",
+              "start": 0,
+              "username": "_j14q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994818678840594882",
+        "in_reply_to_user_id": "1991153082332585984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994295126915465352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_j14q1 好恶心。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994295115977039872"
+          ]
+        },
+        "author_id": "1991153082332585984",
+        "conversation_id": "1994295126915465352",
+        "created_at": "2025-11-28T06:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994295126915465352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JW9Xzketw0",
+              "end": 26,
+              "expanded_url": "https://x.com/_j14q1/status/1994295126915465352/photo/1",
+              "media_key": "3_1994295115977039872",
+              "start": 3,
+              "url": "https://t.co/JW9Xzketw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994295126915465352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1690,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我草 https://t.co/JW9Xzketw0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 150,
+          "like_count": 635,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 127
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T14:34:51.000Z",
+        "description": "もう無理 バイバイ！！ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n251 @_04x_d \nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤhttps://t.co/ZjNZGY9U7y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "_04x_d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/j14q1_",
+                "end": 78,
+                "expanded_url": "https://ngl.link/j14q1_",
+                "start": 55,
+                "url": "https://t.co/ZjNZGY9U7y"
+              }
+            ]
+          }
+        },
+        "id": "1991153082332585984",
+        "location": "🚪25  🚪52 🚪520",
+        "name": "溶けた",
+        "pinned_tweet_id": "1991524639764607416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991154218980536320/WG4V4qWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 138,
+          "like_count": 1616,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 340
+        },
+        "username": "_j14q1",
+        "verified": false
+      }
+    ]
+  }
+}

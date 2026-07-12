@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2017183001394970624",
+    "created_at": "2026-01-30T17:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T18:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017286634300112978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1991153082332585984",
+          "start": 0,
+          "username": "_j14q1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017286634300112978",
+    "in_reply_to_user_id": "1991153082332585984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017183807645077874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_j14q1 笑得好难受"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017183800078610433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_55-opbsAE12DV.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2017183001394970624",
+        "created_at": "2026-01-30T17:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017286634300112978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1991153082332585984",
+              "start": 0,
+              "username": "_j14q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017286634300112978",
+        "in_reply_to_user_id": "1991153082332585984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017183807645077874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_j14q1 笑得好难受"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017183800078610433"
+          ]
+        },
+        "author_id": "1991153082332585984",
+        "conversation_id": "2017183001394970624",
+        "created_at": "2026-01-30T10:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T11:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017183807645077874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNZkdUbYZc",
+              "end": 41,
+              "expanded_url": "https://x.com/_j14q1/status/2017183807645077874/photo/1",
+              "media_key": "3_2017183800078610433",
+              "start": 18,
+              "url": "https://t.co/bNZkdUbYZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017183807645077874",
+        "in_reply_to_user_id": "1991153082332585984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017183001394970624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长这样还天下第一帅 眼睛都比睾丸大 https://t.co/bNZkdUbYZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 237,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 254
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T14:34:51.000Z",
+        "description": "もう無理 バイバイ！！ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n251 @_04x_d \nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤhttps://t.co/ZjNZGY9mi0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "_04x_d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/j14q1_",
+                "end": 78,
+                "expanded_url": "https://ngl.link/j14q1_",
+                "start": 55,
+                "url": "https://t.co/ZjNZGY9mi0"
+              }
+            ]
+          }
+        },
+        "id": "1991153082332585984",
+        "name": "溶けた",
+        "pinned_tweet_id": "2013647936538694064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010727859850211328/P4A4kw71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 126,
+          "like_count": 4429,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 596
+        },
+        "username": "_j14q1",
+        "verified": false
+      }
+    ]
+  }
+}

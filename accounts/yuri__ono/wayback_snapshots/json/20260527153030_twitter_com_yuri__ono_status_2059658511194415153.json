@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2059657448278069410",
+    "created_at": "2026-05-27T15:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059658511194415153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1966803401515429894",
+          "start": 0,
+          "username": "Technet0s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059658511194415153",
+    "in_reply_to_user_id": "1966803401515429894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059657914076516681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technet0s 其实是天气不好有风拍子太重和光线原因 绝对不是个人技术嗯！（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2059657448278069410",
+        "created_at": "2026-05-27T15:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059658511194415153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1966803401515429894",
+              "start": 0,
+              "username": "Technet0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059658511194415153",
+        "in_reply_to_user_id": "1966803401515429894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059657914076516681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technet0s 其实是天气不好有风拍子太重和光线原因 绝对不是个人技术嗯！（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966803401515429894",
+        "conversation_id": "2059657448278069410",
+        "created_at": "2026-05-27T15:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059657914076516681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059657914076516681",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059657448278069410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 高考成功让我的羽毛球技术归零了🤕🤕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 524,
+          "like_count": 4563,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1271
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T09:57:34.000Z",
+        "description": "07大一\n纯无聊 找活人\n聊天听歌发癫均可\n我要树立一个纯良学生的人设😎😎\n\n还有，\n本人不月抛不裸聊(这不是人设)\n喜欢诈骗的朋友可以洗洗睡了哈☺️☺️\n骗我小心吃电棍😂😂😂",
+        "id": "1966803401515429894",
+        "location": "北京！",
+        "name": "Technet0s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059621155779276800/glRf3b5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 81,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 69
+        },
+        "username": "Technet0s",
+        "verified": false
+      }
+    ]
+  }
+}

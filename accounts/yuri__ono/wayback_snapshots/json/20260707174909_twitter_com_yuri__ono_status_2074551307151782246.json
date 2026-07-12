@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2074485179234795899",
+    "created_at": "2026-07-07T17:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074551307151782246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1928776430063857665",
+          "start": 0,
+          "username": "ahanpoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074551307151782246",
+    "in_reply_to_user_id": "1928776430063857665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074526602416013513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahanpoq 神秘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2074485179234795899",
+        "created_at": "2026-07-07T17:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074551307151782246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1928776430063857665",
+              "start": 0,
+              "username": "ahanpoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074551307151782246",
+        "in_reply_to_user_id": "1928776430063857665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074526602416013513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahanpoq 神秘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928776430063857665",
+        "conversation_id": "2074485179234795899",
+        "created_at": "2026-07-07T16:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074526602416013513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074526602416013513",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074485179234795899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono wdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 906,
+          "like_count": 5672,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2347
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T11:32:02.000Z",
+        "description": "老鼠人分享自己的碎碎念 gay来的\n匿名信箱https://t.co/96NQ4kVxya\n天天都在看推文",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nori97543",
+                "end": 45,
+                "expanded_url": "https://ngl.link/nori97543",
+                "start": 22,
+                "url": "https://t.co/96NQ4kVxya"
+              }
+            ]
+          }
+        },
+        "id": "1928776430063857665",
+        "location": "吧唧",
+        "name": "🥑",
+        "pinned_tweet_id": "2066804584048365615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929161465929560064/kUB_Dfv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566,
+          "following_count": 342,
+          "like_count": 860,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 669
+        },
+        "url": "",
+        "username": "ahanpoq",
+        "verified": false
+      }
+    ]
+  }
+}

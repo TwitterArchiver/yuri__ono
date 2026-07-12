@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053816879098335232"
+      ],
+      "media_source_tweet_id": [
+        "2053816890125123962"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2053878140624380152",
+    "created_at": "2026-05-11T16:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053878140624380152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046236109286600705",
+          "start": 3,
+          "username": "xuan08ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jf6x3M5OHm",
+          "end": 46,
+          "expanded_url": "https://x.com/xuan08ovo/status/2053816890125123962/photo/1",
+          "media_key": "3_2053816879098335232",
+          "start": 23,
+          "url": "https://t.co/Jf6x3M5OHm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053878140624380152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053816890125123962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuan08ovo: 你长这样啥意思 https://t.co/Jf6x3M5OHm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053816879098335232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICfkehbkAA-FEC.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053816879098335232"
+          ],
+          "media_source_tweet_id": [
+            "2053816890125123962"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2053878140624380152",
+        "created_at": "2026-05-11T16:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053878140624380152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046236109286600705",
+              "start": 3,
+              "username": "xuan08ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jf6x3M5OHm",
+              "end": 46,
+              "expanded_url": "https://x.com/xuan08ovo/status/2053816890125123962/photo/1",
+              "media_key": "3_2053816879098335232",
+              "start": 23,
+              "url": "https://t.co/Jf6x3M5OHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053878140624380152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053816890125123962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuan08ovo: 你长这样啥意思 https://t.co/Jf6x3M5OHm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053816879098335232"
+          ]
+        },
+        "author_id": "2046236109286600705",
+        "conversation_id": "2053816890125123962",
+        "created_at": "2026-05-11T12:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053816890125123962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jf6x3M5OHm",
+              "end": 31,
+              "expanded_url": "https://x.com/xuan08ovo/status/2053816890125123962/photo/1",
+              "media_key": "3_2053816879098335232",
+              "start": 8,
+              "url": "https://t.co/Jf6x3M5OHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053816890125123962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38590,
+          "like_count": 213,
+          "quote_count": 2,
+          "reply_count": 268,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你长这样啥意思 https://t.co/Jf6x3M5OHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 319,
+          "like_count": 3264,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 752
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T14:36:27.000Z",
+        "description": "只回感兴趣的私信",
+        "id": "2046236109286600705",
+        "location": "我来自地狱",
+        "name": "看我不爽亲我啊",
+        "pinned_tweet_id": "2049519267448750468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047334212618145792/RJNRUPjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10107,
+          "following_count": 27,
+          "like_count": 524,
+          "listed_count": 10,
+          "media_count": 22,
+          "tweet_count": 65
+        },
+        "username": "xuan08ovo",
+        "verified": false
+      }
+    ]
+  }
+}

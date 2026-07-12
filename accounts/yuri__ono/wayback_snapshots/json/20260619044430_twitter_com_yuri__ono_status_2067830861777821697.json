@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2067768206870401101",
+    "created_at": "2026-06-19T04:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T05:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067830861777821697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921717675543187456",
+          "start": 0,
+          "username": "kris7841"
+        },
+        {
+          "end": 26,
+          "id": "1650441614886834178",
+          "start": 10,
+          "username": "butstill3185020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067830861777821697",
+    "in_reply_to_user_id": "1921717675543187456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067809912651215166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kris7841 @butstill3185020 哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2067768206870401101",
+        "created_at": "2026-06-19T04:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067830861777821697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921717675543187456",
+              "start": 0,
+              "username": "kris7841"
+            },
+            {
+              "end": 26,
+              "id": "1650441614886834178",
+              "start": 10,
+              "username": "butstill3185020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067830861777821697",
+        "in_reply_to_user_id": "1921717675543187456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067809912651215166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kris7841 @butstill3185020 哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921717675543187456",
+        "conversation_id": "2067768206870401101",
+        "created_at": "2026-06-19T03:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067809912651215166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650441614886834178",
+              "start": 0,
+              "username": "butstill3185020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067809912651215166",
+        "in_reply_to_user_id": "1650441614886834178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067768206870401101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@butstill3185020 没事的没事的坚持坚持最后也就放弃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 741,
+          "like_count": 5162,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1813
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T00:03:02.000Z",
+        "description": "音乐 自然 健身🏋️",
+        "id": "1921717675543187456",
+        "name": "Antares",
+        "pinned_tweet_id": "2065614470668562652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063803747671691265/VDtRN1j3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 27,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "kris7841",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-24T10:09:12.000Z",
+        "description": "人的一生应该是自由自在的，不要用简介框束自己啊",
+        "id": "1650441614886834178",
+        "name": "butstill3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650442538770395136/No5jO48A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 890,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "butstill3185020",
+        "verified": true
+      }
+    ]
+  }
+}

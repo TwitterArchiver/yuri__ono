@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2034304932724326725",
+    "created_at": "2026-03-19T14:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T15:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034645337659638238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997228580846342144",
+          "start": 0,
+          "username": "66dekongjian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034645337659638238",
+    "in_reply_to_user_id": "1997228580846342144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034304932724326725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@66dekongjian 豆包豆包给我生成一条让6老师天天开心的魔法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2034304932724326725",
+        "created_at": "2026-03-19T14:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034645337659638238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997228580846342144",
+              "start": 0,
+              "username": "66dekongjian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034645337659638238",
+        "in_reply_to_user_id": "1997228580846342144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034304932724326725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@66dekongjian 豆包豆包给我生成一条让6老师天天开心的魔法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997228580846342144",
+        "conversation_id": "2034304932724326725",
+        "created_at": "2026-03-18T16:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034304932724326725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034304932724326725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的情况非常稳定，没有流眼泪。还是上课、跑步、健身、打游戏。抽空还画了两笔毛笔字，实在太难看。去药店买药发现豆包给我开的药方全是处方药，买了两瓶褪黑素一瓶钙片回来，酸酸甜甜很好吃，大家晚安。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 267,
+          "like_count": 2009,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 435
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T08:56:23.000Z",
+        "description": "男的\\00年\\高中老师",
+        "id": "1997228580846342144",
+        "name": "6",
+        "pinned_tweet_id": "2006576127830294990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003502567108804613/HztYtsI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 62,
+          "like_count": 1157,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 333
+        },
+        "username": "66dekongjian",
+        "verified": false
+      }
+    ]
+  }
+}

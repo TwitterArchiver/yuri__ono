@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1991928154269827560",
+    "created_at": "2025-11-22T02:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T03:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992062997511225584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929355844837376000",
+          "start": 0,
+          "username": "Zoee_TuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992062997511225584",
+    "in_reply_to_user_id": "1929355844837376000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991928154269827560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zoee_TuT 妈咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1991928146493599744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6TAGHXacAAZ7Wx.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1991928146485198848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6TAGHVaQAAHr36.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1991928154269827560",
+        "created_at": "2025-11-22T02:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992062997511225584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929355844837376000",
+              "start": 0,
+              "username": "Zoee_TuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992062997511225584",
+        "in_reply_to_user_id": "1929355844837376000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991928154269827560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zoee_TuT 妈咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991928146493599744",
+            "3_1991928146485198848"
+          ]
+        },
+        "author_id": "1929355844837376000",
+        "conversation_id": "1991928154269827560",
+        "created_at": "2025-11-21T17:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991928154269827560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hf3wHjwgnh",
+              "end": 28,
+              "expanded_url": "https://x.com/Zoee_TuT/status/1991928154269827560/photo/1",
+              "media_key": "3_1991928146493599744",
+              "start": 5,
+              "url": "https://t.co/hf3wHjwgnh"
+            },
+            {
+              "display_url": "pic.x.com/hf3wHjwgnh",
+              "end": 28,
+              "expanded_url": "https://x.com/Zoee_TuT/status/1991928154269827560/photo/1",
+              "media_key": "3_1991928146485198848",
+              "start": 5,
+              "url": "https://t.co/hf3wHjwgnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991928154269827560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱吗？ https://t.co/hf3wHjwgnh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 130,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 91
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T01:54:29.000Z",
+        "description": "你咋了",
+        "id": "1929355844837376000",
+        "name": "活得比愈美片更苦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991931428083290112/abwv_KT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 18,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 42
+        },
+        "username": "Zoee_TuT",
+        "verified": false
+      }
+    ]
+  }
+}

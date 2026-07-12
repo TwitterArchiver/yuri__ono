@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2009677277941117443",
+    "created_at": "2026-01-11T11:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T12:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010318141595984173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1997228580846342144",
+          "start": 0,
+          "username": "oYIxQuyEUD50681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010318141595984173",
+    "in_reply_to_user_id": "1997228580846342144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010046146643931397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oYIxQuyEUD50681 🥲每天就这样吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2009677277941117443",
+        "created_at": "2026-01-11T11:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T12:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010318141595984173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1997228580846342144",
+              "start": 0,
+              "username": "oYIxQuyEUD50681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010318141595984173",
+        "in_reply_to_user_id": "1997228580846342144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010046146643931397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oYIxQuyEUD50681 🥲每天就这样吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997228580846342144",
+        "conversation_id": "2009677277941117443",
+        "created_at": "2026-01-10T17:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T18:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010046146643931397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010046146643931397",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009677277941117443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 我也，每天早上睁眼都要感叹自己怎么还没死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 210,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 198
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T08:56:23.000Z",
+        "description": "擦边男\\男喘 不要冷暴力我",
+        "id": "1997228580846342144",
+        "name": "6",
+        "pinned_tweet_id": "2006576127830294990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003502567108804613/HztYtsI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 63,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 56
+        },
+        "username": "oYIxQuyEUD50681",
+        "verified": false
+      }
+    ]
+  }
+}

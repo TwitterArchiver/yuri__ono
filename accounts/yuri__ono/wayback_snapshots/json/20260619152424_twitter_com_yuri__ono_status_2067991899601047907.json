@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2067790166354497783",
+    "created_at": "2026-06-19T15:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067991899601047907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001492256902217728",
+          "start": 0,
+          "username": "xixi16504"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067991899601047907",
+    "in_reply_to_user_id": "2001492256902217728",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067984138850939345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi16504 13478912！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2067790166354497783",
+        "created_at": "2026-06-19T15:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067991899601047907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001492256902217728",
+              "start": 0,
+              "username": "xixi16504"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067991899601047907",
+        "in_reply_to_user_id": "2001492256902217728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067984138850939345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi16504 13478912！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001492256902217728",
+        "conversation_id": "2067790166354497783",
+        "created_at": "2026-06-19T14:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067984138850939345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067984138850939345",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067790166354497783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 我也要玩！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 748,
+          "like_count": 5197,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1860
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T03:18:43.000Z",
+        "description": "如果我不回私信可以评论催/162 48｜🚪详情介绍看主页置顶 ｜只回口令只回口令｜求daddy们支持 ｜入🚪直接发口令➕lx 我会自己➕您🥺｜先入🚪后再问东问西 否则拉黑🚪盗图犬 避雷一下@rouer07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 94,
+                "username": "rouer07"
+              }
+            ]
+          }
+        },
+        "id": "2001492256902217728",
+        "location": "52 99 188 288 520-1314",
+        "name": "碎碎的颖（求入🚪",
+        "pinned_tweet_id": "2063554947229327541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001493495497003009/7bzm2_bK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 9,
+          "like_count": 1030,
+          "listed_count": 10,
+          "media_count": 232,
+          "tweet_count": 1346
+        },
+        "url": "",
+        "username": "xixi16504",
+        "verified": false
+      }
+    ]
+  }
+}

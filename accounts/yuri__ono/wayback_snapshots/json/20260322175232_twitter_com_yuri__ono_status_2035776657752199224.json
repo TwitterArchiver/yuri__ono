@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2035493052224041335",
+    "created_at": "2026-03-22T17:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T18:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035776657752199224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997228580846342144",
+          "start": 0,
+          "username": "66dekongjian"
+        },
+        {
+          "end": 23,
+          "id": "1912573016380436483",
+          "start": 14,
+          "username": "ymeatuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035776657752199224",
+    "in_reply_to_user_id": "1997228580846342144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035666300077547576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@66dekongjian @ymeatuna 笑的我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035666292817252353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAjtTib0AERGjX.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2035493052224041335",
+        "created_at": "2026-03-22T17:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035776657752199224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997228580846342144",
+              "start": 0,
+              "username": "66dekongjian"
+            },
+            {
+              "end": 23,
+              "id": "1912573016380436483",
+              "start": 14,
+              "username": "ymeatuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035776657752199224",
+        "in_reply_to_user_id": "1997228580846342144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035666300077547576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@66dekongjian @ymeatuna 笑的我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035666292817252353"
+          ]
+        },
+        "author_id": "1997228580846342144",
+        "conversation_id": "2035493052224041335",
+        "created_at": "2026-03-22T10:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035666300077547576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1912573016380436483",
+              "start": 0,
+              "username": "ymeatuna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5bZHFo1Rh5",
+              "end": 61,
+              "expanded_url": "https://x.com/66dekongjian/status/2035666300077547576/photo/1",
+              "media_key": "3_2035666292817252353",
+              "start": 38,
+              "url": "https://t.co/5bZHFo1Rh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035666300077547576",
+        "in_reply_to_user_id": "1912573016380436483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2446,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035493052224041335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ymeatuna 我在学生里的外号就是这样来的，这几个都是我班里的同学😄 https://t.co/5bZHFo1Rh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 274,
+          "like_count": 2110,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 454
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T08:56:23.000Z",
+        "description": "男的\\00年\\高中老师",
+        "id": "1997228580846342144",
+        "name": "6",
+        "pinned_tweet_id": "2006576127830294990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003502567108804613/HztYtsI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 63,
+          "like_count": 1245,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 359
+        },
+        "username": "66dekongjian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T18:25:25.000Z",
+        "description": "这里是sxw的剪贴板/不看推文就私信的直接拉黑/防走丢@Ju1eppp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "Ju1eppp"
+              }
+            ]
+          }
+        },
+        "id": "1912573016380436483",
+        "location": "6.8km",
+        "name": "水腥味",
+        "pinned_tweet_id": "2028873446277427365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023754795828293632/lLkkKNvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 97,
+          "like_count": 937,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 2604
+        },
+        "username": "ymeatuna",
+        "verified": false
+      }
+    ]
+  }
+}

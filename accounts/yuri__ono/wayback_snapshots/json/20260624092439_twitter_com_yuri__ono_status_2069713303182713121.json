@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2069661554174480648",
+    "created_at": "2026-06-24T09:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069713303182713121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1957308571940798464",
+          "start": 0,
+          "username": "LunaVortex19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069713303182713121",
+    "in_reply_to_user_id": "1957308571940798464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069703386748907558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LunaVortex19 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2069661554174480648",
+        "created_at": "2026-06-24T09:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069713303182713121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1957308571940798464",
+              "start": 0,
+              "username": "LunaVortex19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069713303182713121",
+        "in_reply_to_user_id": "1957308571940798464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069703386748907558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LunaVortex19 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957308571940798464",
+        "conversation_id": "2069661554174480648",
+        "created_at": "2026-06-24T08:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069703386748907558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069703386748907558",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069661554174480648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 那叫情人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 798,
+          "like_count": 5401,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2051
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T05:08:34.000Z",
+        "description": "新人📷分享穿搭，记录生活❤️不闲聊🚪",
+        "id": "1957308571940798464",
+        "name": "小柔宝",
+        "pinned_tweet_id": "2069289546496332110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058748610859216897/e2vDtAQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4502,
+          "following_count": 22,
+          "like_count": 249,
+          "listed_count": 13,
+          "media_count": 30,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "LunaVortex19",
+        "verified": false
+      }
+    ]
+  }
+}

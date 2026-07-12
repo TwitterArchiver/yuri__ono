@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984309069252046848"
+      ],
+      "media_source_tweet_id": [
+        "1984309077019934902"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1984432723268944113",
+    "created_at": "2025-11-01T01:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T02:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984432723268944113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859588324073275393",
+          "start": 3,
+          "username": "zzh05640"
+        },
+        {
+          "end": 28,
+          "id": "1814565329605173261",
+          "start": 14,
+          "username": "TheOnlyKoorei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XrqkrzGAu6",
+          "end": 57,
+          "expanded_url": "https://x.com/zzh05640/status/1984309077019934902/photo/1",
+          "media_key": "3_1984309069252046848",
+          "start": 34,
+          "url": "https://t.co/XrqkrzGAu6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984432723268944113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984309077019934902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zzh05640: @TheOnlyKoorei 哈哈哈哈 https://t.co/XrqkrzGAu6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984309069252046848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mulc1asAAE_oI.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984309069252046848"
+          ],
+          "media_source_tweet_id": [
+            "1984309077019934902"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984432723268944113",
+        "created_at": "2025-11-01T01:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T02:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984432723268944113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859588324073275393",
+              "start": 3,
+              "username": "zzh05640"
+            },
+            {
+              "end": 28,
+              "id": "1814565329605173261",
+              "start": 14,
+              "username": "TheOnlyKoorei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XrqkrzGAu6",
+              "end": 57,
+              "expanded_url": "https://x.com/zzh05640/status/1984309077019934902/photo/1",
+              "media_key": "3_1984309069252046848",
+              "start": 34,
+              "url": "https://t.co/XrqkrzGAu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984432723268944113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984309077019934902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zzh05640: @TheOnlyKoorei 哈哈哈哈 https://t.co/XrqkrzGAu6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984309069252046848"
+          ]
+        },
+        "author_id": "1859588324073275393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984267279752974642",
+        "created_at": "2025-10-31T17:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T18:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984309077019934902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814565329605173261",
+              "start": 0,
+              "username": "TheOnlyKoorei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XrqkrzGAu6",
+              "end": 43,
+              "expanded_url": "https://x.com/zzh05640/status/1984309077019934902/photo/1",
+              "media_key": "3_1984309069252046848",
+              "start": 20,
+              "url": "https://t.co/XrqkrzGAu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984309077019934902",
+        "in_reply_to_user_id": "1814565329605173261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 21274,
+          "like_count": 201,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984267279752974642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheOnlyKoorei 哈哈哈哈 https://t.co/XrqkrzGAu6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 90,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T13:23:08.000Z",
+        "description": "",
+        "id": "1859588324073275393",
+        "name": "张..",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859588724365111296/l9_a5NiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 128,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "zzh05640",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T07:37:58.000Z",
+        "description": "阴暗碎碎念  全是负能量  不爱看就滚\n表人格；@TheKoorei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "TheKoorei"
+              }
+            ]
+          }
+        },
+        "id": "1814565329605173261",
+        "name": "水母悬浊液",
+        "pinned_tweet_id": "1981522409854550214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867561709264941062/L3EFfr6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9025,
+          "following_count": 63,
+          "like_count": 569,
+          "listed_count": 26,
+          "media_count": 102,
+          "tweet_count": 421
+        },
+        "username": "TheOnlyKoorei",
+        "verified": false
+      }
+    ]
+  }
+}

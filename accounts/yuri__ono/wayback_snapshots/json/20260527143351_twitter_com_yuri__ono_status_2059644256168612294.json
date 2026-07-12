@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2059561618351280574",
+    "created_at": "2026-05-27T14:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059644256168612294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933439767430959104",
+          "start": 0,
+          "username": "xuling14328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059644256168612294",
+    "in_reply_to_user_id": "1933439767430959104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059561618351280574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuling14328 看见4i感觉心里暖暖的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2059561618351280574",
+        "created_at": "2026-05-27T14:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059644256168612294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933439767430959104",
+              "start": 0,
+              "username": "xuling14328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059644256168612294",
+        "in_reply_to_user_id": "1933439767430959104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059561618351280574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuling14328 看见4i感觉心里暖暖的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933439767430959104",
+        "conversation_id": "2059561618351280574",
+        "created_at": "2026-05-27T09:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059561618351280574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059561618351280574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1721,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦 每次看帅哥点进主页一看 不是同就是4i 我想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 515,
+          "like_count": 4543,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1250
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T08:22:44.000Z",
+        "description": "看了白看\n可以互fo/不约不谈不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/q40846",
+                "end": 23,
+                "expanded_url": "https://ngl.link/q40846",
+                "start": 0,
+                "url": "https://t.co/3QDZ45xngt"
+              }
+            ]
+          }
+        },
+        "id": "1933439767430959104",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054775026394771456/oqcFBm4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 20,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/3QDZ45xngt",
+        "username": "xuling14328",
+        "verified": false
+      }
+    ]
+  }
+}

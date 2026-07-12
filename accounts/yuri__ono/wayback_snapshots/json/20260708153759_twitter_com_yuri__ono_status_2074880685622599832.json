@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2074825190450839811",
+    "created_at": "2026-07-08T15:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074880685622599832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1467315060041256963",
+          "start": 0,
+          "username": "tong35018157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074880685622599832",
+    "in_reply_to_user_id": "1467315060041256963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074825190450839811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tong35018157 神经…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 996,
+        "media_key": "3_2074825180325748736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtCgjRaIAAKxg1.jpg",
+        "width": 970
+      },
+      {
+        "height": 1074,
+        "media_key": "3_2074825180321615872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtCgjQbEAAUxJk.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2074825190450839811",
+        "created_at": "2026-07-08T15:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074880685622599832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074880685622599832",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074825190450839811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 神经…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074825180325748736",
+            "3_2074825180321615872"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2074825190450839811",
+        "created_at": "2026-07-08T11:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074825190450839811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkPIrV9IyL",
+              "end": 60,
+              "expanded_url": "https://x.com/tong35018157/status/2074825190450839811/photo/1",
+              "media_key": "3_2074825180325748736",
+              "start": 37,
+              "url": "https://t.co/gkPIrV9IyL"
+            },
+            {
+              "display_url": "pic.x.com/gkPIrV9IyL",
+              "end": 60,
+              "expanded_url": "https://x.com/tong35018157/status/2074825190450839811/photo/1",
+              "media_key": "3_2074825180321615872",
+              "start": 37,
+              "url": "https://t.co/gkPIrV9IyL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074825190450839811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3981,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彻底断了，谈到这种纸人点睛男玩家的有福了🤗，甚至嘎啦game都是下的盗版 https://t.co/gkPIrV9IyL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 923,
+          "like_count": 5706,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2365
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 505,
+          "like_count": 17257,
+          "listed_count": 3,
+          "media_count": 1016,
+          "tweet_count": 7634
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      }
+    ]
+  }
+}

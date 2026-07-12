@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996842349289512960",
+        "3_1996842349365014528"
+      ],
+      "media_source_tweet_id": [
+        "1996842357535527393",
+        "1996842357535527393"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1996953215016095954",
+    "created_at": "2025-12-05T14:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T15:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996953215016095954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1545426495841177600",
+          "start": 3,
+          "username": "sweet1ebe4n019"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ofKdETwDAa",
+          "end": 104,
+          "expanded_url": "https://x.com/sweet1ebe4n019/status/1996842357535527393/photo/1",
+          "media_key": "3_1996842349289512960",
+          "start": 81,
+          "url": "https://t.co/ofKdETwDAa"
+        },
+        {
+          "display_url": "pic.x.com/ofKdETwDAa",
+          "end": 104,
+          "expanded_url": "https://x.com/sweet1ebe4n019/status/1996842357535527393/photo/1",
+          "media_key": "3_1996842349365014528",
+          "start": 81,
+          "url": "https://t.co/ofKdETwDAa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996953215016095954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996842357535527393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sweet1ebe4n019: 我是小妞妞´-ω-`\n身高162体重100\n坐标上海\n赞转关这个帖子会抽3个188和2个520！3天开奖宝宝们注意查收！ https://t.co/ofKdETwDAa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1996842349289512960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Y1iXXboAA0UIK.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996842349365014528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Y1iXpbsAANpGJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996842349289512960",
+            "3_1996842349365014528"
+          ],
+          "media_source_tweet_id": [
+            "1996842357535527393",
+            "1996842357535527393"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "1996953215016095954",
+        "created_at": "2025-12-05T14:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T15:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996953215016095954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1545426495841177600",
+              "start": 3,
+              "username": "sweet1ebe4n019"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ofKdETwDAa",
+              "end": 104,
+              "expanded_url": "https://x.com/sweet1ebe4n019/status/1996842357535527393/photo/1",
+              "media_key": "3_1996842349289512960",
+              "start": 81,
+              "url": "https://t.co/ofKdETwDAa"
+            },
+            {
+              "display_url": "pic.x.com/ofKdETwDAa",
+              "end": 104,
+              "expanded_url": "https://x.com/sweet1ebe4n019/status/1996842357535527393/photo/1",
+              "media_key": "3_1996842349365014528",
+              "start": 81,
+              "url": "https://t.co/ofKdETwDAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996953215016095954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996842357535527393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sweet1ebe4n019: 我是小妞妞´-ω-`\n身高162体重100\n坐标上海\n赞转关这个帖子会抽3个188和2个520！3天开奖宝宝们注意查收！ https://t.co/ofKdETwDAa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996842349289512960",
+            "3_1996842349365014528"
+          ]
+        },
+        "author_id": "1545426495841177600",
+        "conversation_id": "1996842357535527393",
+        "created_at": "2025-12-05T07:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T08:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996842357535527393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ofKdETwDAa",
+              "end": 84,
+              "expanded_url": "https://x.com/sweet1ebe4n019/status/1996842357535527393/photo/1",
+              "media_key": "3_1996842349289512960",
+              "start": 61,
+              "url": "https://t.co/ofKdETwDAa"
+            },
+            {
+              "display_url": "pic.x.com/ofKdETwDAa",
+              "end": 84,
+              "expanded_url": "https://x.com/sweet1ebe4n019/status/1996842357535527393/photo/1",
+              "media_key": "3_1996842349365014528",
+              "start": 61,
+              "url": "https://t.co/ofKdETwDAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996842357535527393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4996,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我是小妞妞´-ω-`\n身高162体重100\n坐标上海\n赞转关这个帖子会抽3个188和2个520！3天开奖宝宝们注意查收！ https://t.co/ofKdETwDAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 155,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 135
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T15:16:17.000Z",
+        "description": "私信都会看。",
+        "id": "1545426495841177600",
+        "name": "妞妞",
+        "pinned_tweet_id": "1996842357535527393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992131074626031616/ppA0lq_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7040,
+          "following_count": 50,
+          "like_count": 2916,
+          "listed_count": 22,
+          "media_count": 41,
+          "tweet_count": 2635
+        },
+        "username": "sweet1ebe4n019",
+        "verified": false
+      }
+    ]
+  }
+}

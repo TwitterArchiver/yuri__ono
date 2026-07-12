@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2069745672950354318",
+    "created_at": "2026-06-25T01:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T02:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069951010420982003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "710801271171579904",
+          "start": 0,
+          "username": "ruikir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069951010420982003",
+    "in_reply_to_user_id": "710801271171579904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069745672950354318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruikir 咋这么萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24531,
+        "height": 1280,
+        "media_key": "13_2069745601416491008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069745601416491008/img/WmNTQMSeiTI5EuK5.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069745601416491008/vid/avc1/320x690/Tobs2-xWGh42BsHO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069745601416491008/vid/avc1/480x1036/m_PRTqw89SmtHrHC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069745601416491008/vid/avc1/592x1280/0ROh-QMWIOWRYHF_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069745601416491008/pl/1JhXJtLgO31XJg9b.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2069745672950354318",
+        "created_at": "2026-06-25T01:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069951010420982003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "710801271171579904",
+              "start": 0,
+              "username": "ruikir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069951010420982003",
+        "in_reply_to_user_id": "710801271171579904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069745672950354318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruikir 咋这么萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069745601416491008"
+          ]
+        },
+        "author_id": "710801271171579904",
+        "conversation_id": "2069745672950354318",
+        "created_at": "2026-06-24T11:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069745672950354318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGN0rFKGBG",
+              "end": 34,
+              "expanded_url": "https://x.com/ruikir/status/2069745672950354318/video/1",
+              "media_key": "13_2069745601416491008",
+              "start": 11,
+              "url": "https://t.co/OGN0rFKGBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069745672950354318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从网盘翻出来的小宝宝 https://t.co/OGN0rFKGBG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 836,
+          "like_count": 5426,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 2107
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-18T12:13:23.000Z",
+        "description": "我的碎碎念.想到啥说啥\n我是我 我喜欢说话和听人说话\n男的",
+        "id": "710801271171579904",
+        "location": "距离你43m，预计3分钟内送达",
+        "name": "Rainy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059161089791995905/_qY6SoTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 44,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "ruikir",
+        "verified": false
+      }
+    ]
+  }
+}

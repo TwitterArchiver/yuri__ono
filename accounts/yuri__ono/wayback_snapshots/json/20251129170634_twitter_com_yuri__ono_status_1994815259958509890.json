@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1994815259958509890",
+    "created_at": "2025-11-29T17:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T18:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994815259958509890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quqkuu/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/quqkuu/status/1994040643648364605",
+          "start": 5,
+          "url": "https://t.co/10UK2d736W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994815259958509890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994040643648364605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求教程。 https://t.co/10UK2d736W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 199,
+        "media_key": "3_1994040638040662016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xBZTobYAApEVJ.jpg",
+        "width": 458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1994815259958509890",
+        "created_at": "2025-11-29T17:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994815259958509890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quqkuu/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/quqkuu/status/1994040643648364605",
+              "start": 5,
+              "url": "https://t.co/10UK2d736W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994815259958509890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994040643648364605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求教程。 https://t.co/10UK2d736W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994040638040662016"
+          ]
+        },
+        "author_id": "1886810489717690368",
+        "conversation_id": "1994040643648364605",
+        "created_at": "2025-11-27T13:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994040643648364605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YiKZYvKaud",
+              "end": 31,
+              "expanded_url": "https://x.com/QuQkuu/status/1994040643648364605/photo/1",
+              "media_key": "3_1994040638040662016",
+              "start": 8,
+              "url": "https://t.co/YiKZYvKaud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994040643648364605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80922,
+          "like_count": 367,
+          "quote_count": 9,
+          "reply_count": 62,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我就喜欢这样！ https://t.co/YiKZYvKaud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 150,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 126
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T16:14:21.000Z",
+        "description": "你好我是喵喵(｡･ω･｡)ﾉ这里是我的记事本｜不闲聊私信已关｜互关宝宝可以找我加v 双取自便 爱泥萌。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2837967340",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2837967340",
+                "start": 0,
+                "url": "https://t.co/uBcTvJQpQ4"
+              }
+            ]
+          }
+        },
+        "id": "1886810489717690368",
+        "name": "我想喵喵觉",
+        "pinned_tweet_id": "1988305855327162599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984968669286498305/FII8yRCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 68,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/uBcTvJQpQ4",
+        "username": "QuQkuu",
+        "verified": false
+      }
+    ]
+  }
+}

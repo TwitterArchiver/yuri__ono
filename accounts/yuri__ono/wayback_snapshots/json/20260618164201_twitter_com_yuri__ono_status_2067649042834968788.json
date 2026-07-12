@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2067633052692660352",
+    "created_at": "2026-06-18T16:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067649042834968788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1418919914409242631",
+          "start": 0,
+          "username": "88BExUpvIQ7sOC8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067649042834968788",
+    "in_reply_to_user_id": "1418919914409242631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067633052692660352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@88BExUpvIQ7sOC8 环儿这个美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1434,
+        "media_key": "3_2067632995939557376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG1QUjaoAAdPq_.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1435,
+        "media_key": "3_2067632996006670337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG1QUzasAE46wd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1431,
+        "media_key": "3_2067632996023476224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG1QU3bIAA8PyR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2067633052692660352",
+        "created_at": "2026-06-18T16:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067649042834968788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1418919914409242631",
+              "start": 0,
+              "username": "88BExUpvIQ7sOC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067649042834968788",
+        "in_reply_to_user_id": "1418919914409242631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067633052692660352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@88BExUpvIQ7sOC8 环儿这个美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067632995939557376",
+            "3_2067632996006670337",
+            "3_2067632996023476224"
+          ]
+        },
+        "author_id": "1418919914409242631",
+        "conversation_id": "2067633052692660352",
+        "created_at": "2026-06-18T15:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067633052692660352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pS9etVO11L",
+              "end": 72,
+              "expanded_url": "https://x.com/88BExUpvIQ7sOC8/status/2067633052692660352/photo/1",
+              "media_key": "3_2067632995939557376",
+              "start": 49,
+              "url": "https://t.co/pS9etVO11L"
+            },
+            {
+              "display_url": "pic.x.com/pS9etVO11L",
+              "end": 72,
+              "expanded_url": "https://x.com/88BExUpvIQ7sOC8/status/2067633052692660352/photo/1",
+              "media_key": "3_2067632996006670337",
+              "start": 49,
+              "url": "https://t.co/pS9etVO11L"
+            },
+            {
+              "display_url": "pic.x.com/pS9etVO11L",
+              "end": 72,
+              "expanded_url": "https://x.com/88BExUpvIQ7sOC8/status/2067633052692660352/photo/1",
+              "media_key": "3_2067632996023476224",
+              "start": 49,
+              "url": "https://t.co/pS9etVO11L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067633052692660352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音那个叫天生好气色的特效真的好好看啊ε-(´∀｀; )貌似是融了张元英的脸吧，但是真的好好看啊 https://t.co/pS9etVO11L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 736,
+          "like_count": 5134,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1777
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T13:04:14.000Z",
+        "description": "可以称呼我环⭕️，永远17岁的女孩子。我会查成分，主页看黄成分太高就会b，老和黄推互动也会b。",
+        "id": "1418919914409242631",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": "いくら",
+        "pinned_tweet_id": "1732002153747890630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687315775793831936/vWjoGNuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 850,
+          "like_count": 19657,
+          "listed_count": 9,
+          "media_count": 988,
+          "tweet_count": 4692
+        },
+        "username": "88BExUpvIQ7sOC8",
+        "verified": false
+      }
+    ]
+  }
+}

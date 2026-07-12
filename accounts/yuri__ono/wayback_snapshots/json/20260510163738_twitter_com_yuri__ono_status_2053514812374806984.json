@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2053216121789264014",
+    "created_at": "2026-05-10T16:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T17:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053514812374806984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2009914350124052481",
+          "start": 0,
+          "username": "nemuri617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053514812374806984",
+    "in_reply_to_user_id": "2009914350124052481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053216121789264014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemuri617 好棒。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053216114294001664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH59LXOaEAA7IC6.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2053216121789264014",
+        "created_at": "2026-05-10T16:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053514812374806984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2009914350124052481",
+              "start": 0,
+              "username": "nemuri617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053514812374806984",
+        "in_reply_to_user_id": "2009914350124052481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053216121789264014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemuri617 好棒。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053216114294001664"
+          ]
+        },
+        "author_id": "2009914350124052481",
+        "conversation_id": "2053216121789264014",
+        "created_at": "2026-05-09T20:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T21:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053216121789264014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lacnBmJiNx",
+              "end": 23,
+              "expanded_url": "https://x.com/nemuri617/status/2053216121789264014/photo/1",
+              "media_key": "3_2053216114294001664",
+              "start": 0,
+              "url": "https://t.co/lacnBmJiNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053216121789264014",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lacnBmJiNx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 318,
+          "like_count": 3207,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 746
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T09:05:07.000Z",
+        "description": "=睡眠 ｜自伤｜od｜欢迎同类互fo｜喜欢术力口",
+        "id": "2009914350124052481",
+        "location": "病命",
+        "name": "ねむり",
+        "pinned_tweet_id": "2041366042153500929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042773571156787200/p4PIiFdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 148,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 179
+        },
+        "username": "nemuri617",
+        "verified": false
+      }
+    ]
+  }
+}

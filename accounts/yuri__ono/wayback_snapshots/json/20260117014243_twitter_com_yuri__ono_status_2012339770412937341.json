@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2012339770412937341",
+    "created_at": "2026-01-17T01:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T02:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012339770412937341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yiyi_02014/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/yiyi_02014/status/2009426403692040326",
+          "start": 10,
+          "url": "https://t.co/AZV03j0zrX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012339770412937341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009426403692040326",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊啊啊啊 https://t.co/AZV03j0zrX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2009426400672096256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Lqqj5aIAATQUH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2012339770412937341",
+        "created_at": "2026-01-17T01:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T02:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012339770412937341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yiyi_02014/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/yiyi_02014/status/2009426403692040326",
+              "start": 10,
+              "url": "https://t.co/AZV03j0zrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012339770412937341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009426403692040326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊啊啊 https://t.co/AZV03j0zrX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009426400672096256"
+          ]
+        },
+        "author_id": "1961727243887296512",
+        "conversation_id": "2009426403692040326",
+        "created_at": "2026-01-09T00:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T01:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009426403692040326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3IXgOMmBPR",
+              "end": 23,
+              "expanded_url": "https://x.com/yiyi_02014/status/2009426403692040326/photo/1",
+              "media_key": "3_2009426400672096256",
+              "start": 0,
+              "url": "https://t.co/3IXgOMmBPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009426403692040326",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 68948,
+          "like_count": 286,
+          "quote_count": 4,
+          "reply_count": 68,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3IXgOMmBPR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 219,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 225
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T09:47:21.000Z",
+        "description": "梦到啥发啥｜可以叫我小猫｜不谈不线下｜谢谢喜欢｜废话很多｜纯绿🚪88 不收口令｜没有陪你聊天的义务｜置顶推广自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiyi_02014",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yiyi_02014",
+                "start": 0,
+                "url": "https://t.co/YL2kayjyDK"
+              }
+            ]
+          }
+        },
+        "id": "1961727243887296512",
+        "location": "猫窝",
+        "name": "cat",
+        "pinned_tweet_id": "2007423013432561673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004437969520787456/NT0tlVqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 239,
+          "like_count": 25209,
+          "listed_count": 7,
+          "media_count": 247,
+          "tweet_count": 3198
+        },
+        "url": "https://t.co/YL2kayjyDK",
+        "username": "yiyi_02014",
+        "verified": false
+      }
+    ]
+  }
+}

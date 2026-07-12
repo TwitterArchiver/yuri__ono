@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967795541078892544"
+      ],
+      "media_source_tweet_id": [
+        "1967795545738711447"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1992288436787831227",
+    "created_at": "2025-11-22T17:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T18:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992288436787831227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1796458343193870336",
+          "start": 3,
+          "username": "musicbox_draw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hPGldLKkm3",
+          "end": 42,
+          "expanded_url": "https://x.com/musicbox_draw/status/1967795545738711447/photo/1",
+          "media_key": "3_1967795541078892544",
+          "start": 19,
+          "url": "https://t.co/hPGldLKkm3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992288436787831227",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967795545738711447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @musicbox_draw: https://t.co/hPGldLKkm3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1359,
+        "media_key": "3_1967795541078892544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08Dnmia4AAQhX_.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967795541078892544"
+          ],
+          "media_source_tweet_id": [
+            "1967795545738711447"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "1992288436787831227",
+        "created_at": "2025-11-22T17:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992288436787831227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1796458343193870336",
+              "start": 3,
+              "username": "musicbox_draw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPGldLKkm3",
+              "end": 42,
+              "expanded_url": "https://x.com/musicbox_draw/status/1967795545738711447/photo/1",
+              "media_key": "3_1967795541078892544",
+              "start": 19,
+              "url": "https://t.co/hPGldLKkm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992288436787831227",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967795545738711447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @musicbox_draw: https://t.co/hPGldLKkm3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967795541078892544"
+          ]
+        },
+        "author_id": "1796458343193870336",
+        "conversation_id": "1967795545738711447",
+        "created_at": "2025-09-16T03:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T04:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967795545738711447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPGldLKkm3",
+              "end": 23,
+              "expanded_url": "https://x.com/musicbox_draw/status/1967795545738711447/photo/1",
+              "media_key": "3_1967795541078892544",
+              "start": 0,
+              "url": "https://t.co/hPGldLKkm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967795545738711447",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6628,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hPGldLKkm3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 139,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 104
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T08:27:18.000Z",
+        "description": "🇰🇷 artist / Don't use my drawing for AI / 08 /\n좋아하는걸 그립니다. / 구독자유, 장르팔 비추 /\n초면뎀 X 선팔 구독간주",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/musicboxDR",
+                "end": 23,
+                "expanded_url": "https://asked.kr/musicboxDR",
+                "start": 0,
+                "url": "https://t.co/jXAbeif25v"
+              }
+            ]
+          }
+        },
+        "id": "1796458343193870336",
+        "location": "✉️ musicboxdr@gmail.com",
+        "name": "MusicBox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984268435736666112/LnMyXoal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9730,
+          "following_count": 126,
+          "like_count": 1250,
+          "listed_count": 22,
+          "media_count": 1169,
+          "tweet_count": 4440
+        },
+        "url": "https://t.co/jXAbeif25v",
+        "username": "musicbox_draw",
+        "verified": false
+      }
+    ]
+  }
+}

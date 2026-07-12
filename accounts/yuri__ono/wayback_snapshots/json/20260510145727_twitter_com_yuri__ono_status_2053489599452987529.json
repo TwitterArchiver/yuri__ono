@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2053489599452987529",
+    "created_at": "2026-05-10T14:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053489599452987529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuri__ono/stat…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/yuri__ono/status/2052790706461442456",
+          "start": 38,
+          "url": "https://t.co/Pd4stg8Jai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053489599452987529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052790706461442456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本来心情巨差的 然后一上推看见大家回我我就心里暖暖的好开心🥹你们是天使吧 https://t.co/Pd4stg8Jai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2053489599452987529",
+        "created_at": "2026-05-10T14:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053489599452987529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuri__ono/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/yuri__ono/status/2052790706461442456",
+              "start": 38,
+              "url": "https://t.co/Pd4stg8Jai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053489599452987529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052790706461442456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本来心情巨差的 然后一上推看见大家回我我就心里暖暖的好开心🥹你们是天使吧 https://t.co/Pd4stg8Jai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2052790706461442456",
+        "created_at": "2026-05-08T16:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052790706461442456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052790706461442456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中推互关太可爱了 大家都好温良 我爱你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 316,
+          "like_count": 3144,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 728
+        },
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

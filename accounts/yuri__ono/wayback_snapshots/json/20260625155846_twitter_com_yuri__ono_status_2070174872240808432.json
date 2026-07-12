@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2070000865679905191",
+    "created_at": "2026-06-25T15:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070174872240808432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1503253641838608387",
+          "start": 0,
+          "username": "bbibbibabo0610"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070174872240808432",
+    "in_reply_to_user_id": "1503253641838608387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070000865679905191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbibbibabo0610 咪儿这个萌呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070000861120790528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoe0NvbgAAUKIk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070000861116551168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoe0Nua0AAaNSN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2070000865679905191",
+        "created_at": "2026-06-25T15:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070174872240808432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1503253641838608387",
+              "start": 0,
+              "username": "bbibbibabo0610"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070174872240808432",
+        "in_reply_to_user_id": "1503253641838608387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070000865679905191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbibbibabo0610 咪儿这个萌呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070000861120790528",
+            "3_2070000861116551168"
+          ]
+        },
+        "author_id": "1503253641838608387",
+        "conversation_id": "2070000865679905191",
+        "created_at": "2026-06-25T04:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070000865679905191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChQ2IVOnIY",
+              "end": 69,
+              "expanded_url": "https://x.com/bbibbibabo0610/status/2070000865679905191/photo/1",
+              "media_key": "3_2070000861120790528",
+              "start": 46,
+              "url": "https://t.co/ChQ2IVOnIY"
+            },
+            {
+              "display_url": "pic.x.com/ChQ2IVOnIY",
+              "end": 69,
+              "expanded_url": "https://x.com/bbibbibabo0610/status/2070000865679905191/photo/1",
+              "media_key": "3_2070000861116551168",
+              "start": 46,
+              "url": "https://t.co/ChQ2IVOnIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070000865679905191",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1035,
+          "impression_count": 401039,
+          "like_count": 24607,
+          "quote_count": 130,
+          "reply_count": 10,
+          "retweet_count": 5977
+        },
+        "reply_settings": "everyone",
+        "text": "언니는 쥐 안먹어                         왜안먹어!!!!!!! https://t.co/ChQ2IVOnIY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 852,
+          "like_count": 5500,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 2179
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T06:16:19.000Z",
+        "description": "05 | 간호대생(휴학중) | ISFJ\n블로그 https://t.co/OX0K06p0e5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.blog.naver.com/danbee050610",
+                "end": 49,
+                "expanded_url": "https://m.blog.naver.com/danbee050610",
+                "start": 26,
+                "url": "https://t.co/OX0K06p0e5"
+              }
+            ]
+          }
+        },
+        "id": "1503253641838608387",
+        "name": "bbi",
+        "pinned_tweet_id": "1883519452932882474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737335590759350272/wXu-GLrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 73,
+          "like_count": 9794,
+          "listed_count": 1,
+          "media_count": 1131,
+          "tweet_count": 3809
+        },
+        "url": "",
+        "username": "bbibbibabo0610",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2055280630083289268",
+    "created_at": "2026-05-15T14:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055292507173622262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "uixxixu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055292507173622262",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055280630083289268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uixxixu 我跪下来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_2055280620616720385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXS1cmaoAEyjva.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2055280620620967936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXS1cnbcAAsW1u.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2055280630083289268",
+        "created_at": "2026-05-15T14:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055292507173622262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055292507173622262",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055280630083289268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 我跪下来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055280620616720385",
+            "3_2055280620620967936"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2055280630083289268",
+        "created_at": "2026-05-15T13:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055280630083289268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ICflz36G2",
+              "end": 49,
+              "expanded_url": "https://x.com/uixxixu/status/2055280630083289268/photo/1",
+              "media_key": "3_2055280620616720385",
+              "start": 26,
+              "url": "https://t.co/9ICflz36G2"
+            },
+            {
+              "display_url": "pic.x.com/9ICflz36G2",
+              "end": 49,
+              "expanded_url": "https://x.com/uixxixu/status/2055280630083289268/photo/1",
+              "media_key": "3_2055280620620967936",
+              "start": 26,
+              "url": "https://t.co/9ICflz36G2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055280630083289268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 344,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是八重神子大人快点跪下(｡- .•)\n以前拍的） https://t.co/9ICflz36G2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 来找我聊天我会很开心",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 328,
+          "like_count": 3486,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 796
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 397,
+          "like_count": 5355,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 2990
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

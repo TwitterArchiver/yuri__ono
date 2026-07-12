@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2067456506791166153",
+    "created_at": "2026-06-19T02:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067789840201257236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "710801271171579904",
+          "start": 0,
+          "username": "ruikir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067789840201257236",
+    "in_reply_to_user_id": "710801271171579904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067456506791166153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruikir 那很可爱了 猫猫嘴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2067456506791166153",
+        "created_at": "2026-06-19T02:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067789840201257236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "710801271171579904",
+              "start": 0,
+              "username": "ruikir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067789840201257236",
+        "in_reply_to_user_id": "710801271171579904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067456506791166153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruikir 那很可爱了 猫猫嘴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "710801271171579904",
+        "conversation_id": "2067456506791166153",
+        "created_at": "2026-06-18T03:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067456506791166153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067456506791166153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我的嘴天生是へ形的，每次照镜子都感觉自己心情好像很差的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 739,
+          "like_count": 5141,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1791
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-18T12:13:23.000Z",
+        "description": "我的碎碎念.想到啥说啥\n疑似阳痿",
+        "id": "710801271171579904",
+        "location": "距离你43m，预计3分钟内送达",
+        "name": "Rainy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059161089791995905/_qY6SoTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 48,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "ruikir",
+        "verified": false
+      }
+    ]
+  }
+}

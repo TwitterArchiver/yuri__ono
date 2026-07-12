@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048624046427025408"
+      ],
+      "media_source_tweet_id": [
+        "2048624052471058599"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2049169311483195591",
+    "created_at": "2026-04-28T16:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049169311483195591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "461791212",
+          "start": 3,
+          "username": "nalalandoz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uxBn4CQ6fD",
+          "end": 47,
+          "expanded_url": "https://x.com/nalalandoz/status/2048624052471058599/photo/1",
+          "media_key": "3_2048624046427025408",
+          "start": 24,
+          "url": "https://t.co/uxBn4CQ6fD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049169311483195591",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048624052471058599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nalalandoz: 不要走好不好🥺 https://t.co/uxBn4CQ6fD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2048624046427025408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4st1WbMAAilYJ.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048624046427025408"
+          ],
+          "media_source_tweet_id": [
+            "2048624052471058599"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2049169311483195591",
+        "created_at": "2026-04-28T16:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049169311483195591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "461791212",
+              "start": 3,
+              "username": "nalalandoz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxBn4CQ6fD",
+              "end": 47,
+              "expanded_url": "https://x.com/nalalandoz/status/2048624052471058599/photo/1",
+              "media_key": "3_2048624046427025408",
+              "start": 24,
+              "url": "https://t.co/uxBn4CQ6fD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049169311483195591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048624052471058599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nalalandoz: 不要走好不好🥺 https://t.co/uxBn4CQ6fD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048624046427025408"
+          ]
+        },
+        "author_id": "461791212",
+        "conversation_id": "2048624052471058599",
+        "created_at": "2026-04-27T04:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048624052471058599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxBn4CQ6fD",
+              "end": 31,
+              "expanded_url": "https://x.com/nalalandoz/status/2048624052471058599/photo/1",
+              "media_key": "3_2048624046427025408",
+              "start": 8,
+              "url": "https://t.co/uxBn4CQ6fD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048624052471058599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10305,
+          "like_count": 586,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "不要走好不好🥺 https://t.co/uxBn4CQ6fD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 307,
+          "like_count": 2900,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 672
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-12T05:55:17.000Z",
+        "description": "There's a sucker born every minute.",
+        "id": "461791212",
+        "location": "Australia",
+        "name": "Nalala",
+        "pinned_tweet_id": "1277898312692101120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787985646805831680/tk5O0mFB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11092,
+          "following_count": 404,
+          "like_count": 105197,
+          "listed_count": 38,
+          "media_count": 15238,
+          "tweet_count": 75769
+        },
+        "username": "nalalandoz",
+        "verified": false
+      }
+    ]
+  }
+}

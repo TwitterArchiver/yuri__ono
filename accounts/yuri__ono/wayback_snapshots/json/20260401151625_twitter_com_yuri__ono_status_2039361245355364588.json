@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2039361245355364588",
+    "created_at": "2026-04-01T15:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T16:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039361245355364588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mshuxing/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/mshuxing/status/2038946869787644118",
+          "start": 8,
+          "url": "https://t.co/8eTkMqt908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039361245355364588",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038946869787644118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑的好崩溃啊 https://t.co/8eTkMqt908"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 644,
+        "media_key": "3_2038946866352545792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvLX0TW4AAVQDr.jpg",
+        "width": 285
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2039361245355364588",
+        "created_at": "2026-04-01T15:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039361245355364588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mshuxing/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/mshuxing/status/2038946869787644118",
+              "start": 8,
+              "url": "https://t.co/8eTkMqt908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039361245355364588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038946869787644118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑的好崩溃啊 https://t.co/8eTkMqt908"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038946866352545792"
+          ]
+        },
+        "author_id": "1918236611684233216",
+        "conversation_id": "2038946869787644118",
+        "created_at": "2026-03-31T11:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038946869787644118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SxMxUm3SPY",
+              "end": 32,
+              "expanded_url": "https://x.com/mshuxing/status/2038946869787644118/photo/1",
+              "media_key": "3_2038946866352545792",
+              "start": 9,
+              "url": "https://t.co/SxMxUm3SPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038946869787644118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 56023,
+          "like_count": 787,
+          "quote_count": 19,
+          "reply_count": 176,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "盘点私信的神人。 https://t.co/SxMxUm3SPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 285,
+          "like_count": 2307,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 508
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T09:30:44.000Z",
+        "description": "我是幼幼 视奸每个人 2011年 喜欢哥哥 | 惨圈 割手 ｜顺女 | 友跨｜INTP-T｜我是脆弱的小女孩屏蔽你受着 我好像有点病娇 和m属性（brat",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhan0804",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhan0804",
+                "start": 0,
+                "url": "https://t.co/m5r02qyK7z"
+              }
+            ]
+          }
+        },
+        "id": "1918236611684233216",
+        "location": "🚪纯绿88 128 288 zfb口令",
+        "name": "死罪绝命",
+        "pinned_tweet_id": "2038547254064165059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036910291909263360/pomfFkEV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 221,
+          "like_count": 13191,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/m5r02qyK7z",
+        "username": "mshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

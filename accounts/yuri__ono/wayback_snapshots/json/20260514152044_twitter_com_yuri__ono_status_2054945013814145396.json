@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2054633090161528936",
+    "created_at": "2026-05-14T15:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T16:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054945013814145396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1871346829356601345",
+          "start": 0,
+          "username": "wjsjahnan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054945013814145396",
+    "in_reply_to_user_id": "1871346829356601345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054633090161528936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjsjahnan 你咋这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2566,
+        "height": 1280,
+        "media_key": "13_2054633036768047105",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054633036768047105/img/pzdeXQoVMxx5vhVo.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054633036768047105/vid/avc1/320x568/nDD7pQ4G7B0djAio.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054633036768047105/vid/avc1/480x852/At3u-tCQgNv8fH7R.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054633036768047105/vid/avc1/720x1280/qT5rKpZvRWcOD_Vm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054633036768047105/pl/bdQjdG_5phEgcc0e.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2054633090161528936",
+        "created_at": "2026-05-14T15:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054945013814145396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1871346829356601345",
+              "start": 0,
+              "username": "wjsjahnan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054945013814145396",
+        "in_reply_to_user_id": "1871346829356601345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054633090161528936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjsjahnan 你咋这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054633036768047105"
+          ]
+        },
+        "author_id": "1871346829356601345",
+        "conversation_id": "2054633090161528936",
+        "created_at": "2026-05-13T18:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054633090161528936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTKswSTyFE",
+              "end": 44,
+              "expanded_url": "https://x.com/wjsjahnan/status/2054633090161528936/video/1",
+              "media_key": "13_2054633036768047105",
+              "start": 21,
+              "url": "https://t.co/iTKswSTyFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054633090161528936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這個特效笑的我肚子痛 到底是誰發明出來的 https://t.co/iTKswSTyFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 322,
+          "like_count": 3403,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 768
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T00:07:14.000Z",
+        "description": "🇺🇸nyc/把這裡當日記 碎碎念 當朋友圈發呀/我是死肥豬呀 /智商停留在六歲兒童/不是健全人/歡迎天使女孩互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxsi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxsi2",
+                "start": 0,
+                "url": "https://t.co/hgWGsts3jp"
+              }
+            ]
+          }
+        },
+        "id": "1871346829356601345",
+        "location": "血",
+        "name": "嵐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054585998042865664/Ygdfx7Jr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 54,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/hgWGsts3jp",
+        "username": "wjsjahnan",
+        "verified": false
+      }
+    ]
+  }
+}

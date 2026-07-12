@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2006630887988015310",
+    "created_at": "2026-01-03T15:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T16:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007476175162011864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1671821091738886144",
+          "start": 0,
+          "username": "_04x_d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007476175162011864",
+    "in_reply_to_user_id": "1671821091738886144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006630887988015310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_04x_d 美得我点外卖不用神券了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10054,
+        "height": 1280,
+        "media_key": "7_2006630828412121089",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006630828412121089/pu/img/ffmf6-iWTEnGZnPL.jpg",
+        "public_metrics": {
+          "view_count": 85
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006630828412121089/pu/vid/avc1/320x568/8DjgebBXjKd-e_J0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006630828412121089/pu/vid/avc1/480x852/y-Jv4U5ATgjaKhk0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006630828412121089/pu/vid/avc1/720x1280/XfQzgTmk-CrwmTCL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006630828412121089/pu/pl/uLOvK_xId9iFiFUZ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2006630887988015310",
+        "created_at": "2026-01-03T15:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T16:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007476175162011864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671821091738886144",
+              "start": 0,
+              "username": "_04x_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007476175162011864",
+        "in_reply_to_user_id": "1671821091738886144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006630887988015310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_04x_d 美得我点外卖不用神券了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2006630828412121089"
+          ]
+        },
+        "author_id": "1671821091738886144",
+        "conversation_id": "2006630887988015310",
+        "created_at": "2026-01-01T07:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T08:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006630887988015310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JfnoJXGJzK",
+              "end": 30,
+              "expanded_url": "https://x.com/_04x_d/status/2006630887988015310/video/1",
+              "media_key": "7_2006630828412121089",
+              "start": 7,
+              "url": "https://t.co/JfnoJXGJzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006630887988015310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "woc傻逼。 https://t.co/JfnoJXGJzK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 201,
+          "like_count": 975,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 189
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T10:04:27.000Z",
+        "description": "251  @_j14q1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "_j14q1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki71720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki71720",
+                "start": 0,
+                "url": "https://t.co/Ex198DVgSE"
+              }
+            ]
+          }
+        },
+        "id": "1671821091738886144",
+        "name": "病みゆき死体16",
+        "pinned_tweet_id": "1991184503633834046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993648027316408320/8SXWbEL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 239,
+          "like_count": 7912,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 1717
+        },
+        "url": "https://t.co/Ex198DVgSE",
+        "username": "_04x_d",
+        "verified": false
+      }
+    ]
+  }
+}

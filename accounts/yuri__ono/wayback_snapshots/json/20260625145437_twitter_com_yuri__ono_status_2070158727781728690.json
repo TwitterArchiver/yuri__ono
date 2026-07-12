@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2070104753535954970",
+    "created_at": "2026-06-25T14:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070158727781728690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1566230151850913792",
+          "start": 0,
+          "username": "c_OvO_at"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070158727781728690",
+    "in_reply_to_user_id": "1566230151850913792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070155912652988846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c_OvO_at 爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2070104753535954970",
+        "created_at": "2026-06-25T14:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070158727781728690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1566230151850913792",
+              "start": 0,
+              "username": "c_OvO_at"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070158727781728690",
+        "in_reply_to_user_id": "1566230151850913792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070155912652988846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c_OvO_at 爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566230151850913792",
+        "conversation_id": "2070104753535954970",
+        "created_at": "2026-06-25T14:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070155912652988846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070155912652988846",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070104753535954970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 如此之萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 850,
+          "like_count": 5496,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 2171
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T01:02:33.000Z",
+        "description": "໒꒰ྀི๑•͈ ༝ •͈๑꒱ྀི১ \n最想被@yy_sweet1107调教\n喜欢一起玩：@snoopy0915ovo\n黄文糕手：@voracitas_sev",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "yy_sweet1107"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "snoopy0915ovo"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "voracitas_sev"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/covoat",
+                "end": 23,
+                "expanded_url": "https://ngl.link/covoat",
+                "start": 0,
+                "url": "https://t.co/4hwsOhDhSV"
+              }
+            ]
+          }
+        },
+        "id": "1566230151850913792",
+        "location": "bi",
+        "name": "香芋",
+        "pinned_tweet_id": "2069050913470459920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066201763007590400/YWN9aFpw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3844,
+          "following_count": 139,
+          "like_count": 9081,
+          "listed_count": 8,
+          "media_count": 43,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/4hwsOhDhSV",
+        "username": "c_OvO_at",
+        "verified": false
+      }
+    ]
+  }
+}

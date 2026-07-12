@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1989682077445632290",
+    "created_at": "2025-11-15T17:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T18:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989747866324328474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980992351930863616",
+          "start": 0,
+          "username": "liaojieta1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989747866324328474",
+    "in_reply_to_user_id": "1980992351930863616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989682077445632290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liaojieta1 真好哇 她好勇敢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1989682077445632290",
+        "created_at": "2025-11-15T17:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T18:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989747866324328474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980992351930863616",
+              "start": 0,
+              "username": "liaojieta1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989747866324328474",
+        "in_reply_to_user_id": "1980992351930863616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989682077445632290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liaojieta1 真好哇 她好勇敢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980992351930863616",
+        "conversation_id": "1989682077445632290",
+        "created_at": "2025-11-15T13:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989682077445632290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989682077445632290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "女生朋友说她今天坐高铁出差，行车途中坐在她旁边的女生向她借卫生巾，她没有。然后那个女生问乘务员车上有没有卖卫生巾，也没有。于是女生站起来问车厢里女性乘客：“不好意思各位打扰一下，请问有人有多余的卫生巾可以借我吗？”有个后排的女生先举手说有，乘务员帮忙拿过来，两人客气地哈拉了一下就坐下了，全程不过两分钟。\n\n这本是件再普通不过的小事，却把我这个朋友感动的不行。她说跟我讲她也不知道自己为什么感动，可能因为那个女生整个过程表现地都大大方方的，也可能是因为车厢里其他乘客没有吃惊也没有窃窃私语，看着她接过卫生巾就像她接过一杯水一张纸巾一样平平常常，男人们继续刷手机，小孩摆弄自己的玩具，女生们有的把刚拿出的卫生巾塞回包里，有的继续追剧。\n\n她说，她感受到一种由全体女人努力赢得的文明。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14144,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女生朋友说她今天坐高铁出差，行车途中坐在她旁边的女生向她借卫生巾，她没有。然后那个女生问乘务员车上有没有卖卫生巾，也没有。于是女生站起来问车厢里女性乘客：“不好意思各位打扰一下，请问有人有多余的卫生巾可以借我吗？”有个后排的女生先举手说有，乘务员帮忙拿过来，两人客气地哈拉了一下就坐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 欢迎互fo",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 116,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 72
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T13:39:26.000Z",
+        "description": "“禁止共情”",
+        "id": "1980992351930863616",
+        "name": "我也不太了解她",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980992553794035712/p0W79iJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9767,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 6,
+          "media_count": 3,
+          "tweet_count": 69
+        },
+        "username": "liaojieta1",
+        "verified": true
+      }
+    ]
+  }
+}

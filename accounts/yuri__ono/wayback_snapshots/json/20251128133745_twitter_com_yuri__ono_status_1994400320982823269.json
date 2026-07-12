@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1994351284694987257",
+    "created_at": "2025-11-28T13:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T14:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994400320982823269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1594997350635778050",
+          "start": 0,
+          "username": "sese41045"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994400320982823269",
+    "in_reply_to_user_id": "1594997350635778050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994351284694987257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sese41045 好粉嫩🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1994351275367165952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61b6x2bcAAJXNL.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1994351278017978368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61b67uboAA-_E1.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1994351280085778432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61b7DbbwAA_I_e.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1994351281562062849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61b7I7aEAEzy7J.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1994351284694987257",
+        "created_at": "2025-11-28T13:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T14:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994400320982823269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1594997350635778050",
+              "start": 0,
+              "username": "sese41045"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994400320982823269",
+        "in_reply_to_user_id": "1594997350635778050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994351284694987257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sese41045 好粉嫩🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994351275367165952",
+            "3_1994351278017978368",
+            "3_1994351280085778432",
+            "3_1994351281562062849"
+          ]
+        },
+        "author_id": "1594997350635778050",
+        "conversation_id": "1994351284694987257",
+        "created_at": "2025-11-28T10:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994351284694987257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86Mf2Q0KuJ",
+              "end": 27,
+              "expanded_url": "https://x.com/sese41045/status/1994351284694987257/photo/1",
+              "media_key": "3_1994351275367165952",
+              "start": 4,
+              "url": "https://t.co/86Mf2Q0KuJ"
+            },
+            {
+              "display_url": "pic.x.com/86Mf2Q0KuJ",
+              "end": 27,
+              "expanded_url": "https://x.com/sese41045/status/1994351284694987257/photo/1",
+              "media_key": "3_1994351278017978368",
+              "start": 4,
+              "url": "https://t.co/86Mf2Q0KuJ"
+            },
+            {
+              "display_url": "pic.x.com/86Mf2Q0KuJ",
+              "end": 27,
+              "expanded_url": "https://x.com/sese41045/status/1994351284694987257/photo/1",
+              "media_key": "3_1994351280085778432",
+              "start": 4,
+              "url": "https://t.co/86Mf2Q0KuJ"
+            },
+            {
+              "display_url": "pic.x.com/86Mf2Q0KuJ",
+              "end": 27,
+              "expanded_url": "https://x.com/sese41045/status/1994351284694987257/photo/1",
+              "media_key": "3_1994351281562062849",
+              "start": 4,
+              "url": "https://t.co/86Mf2Q0KuJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994351284694987257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大白兔 https://t.co/86Mf2Q0KuJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 142,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 117
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T10:13:18.000Z",
+        "description": "反差E罩大学生❤️, 不重口🥱,不约😼,不线下,不是处女了❤️",
+        "id": "1594997350635778050",
+        "location": "宝宝你的心里",
+        "name": "胡嘉恩",
+        "pinned_tweet_id": "1963976253775765607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975371186357084165/dy1KAnZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 140,
+          "like_count": 499,
+          "listed_count": 9,
+          "media_count": 361,
+          "tweet_count": 1053
+        },
+        "username": "sese41045",
+        "verified": false
+      }
+    ]
+  }
+}

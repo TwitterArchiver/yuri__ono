@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989506403724374016",
+        "3_1989506403724361729",
+        "3_1989506403707621380"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1989506461580575188",
+    "created_at": "2025-11-15T01:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T02:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989506461580575188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KVuAKfbIDd",
+          "end": 75,
+          "expanded_url": "https://x.com/yuri__ono/status/1989506461580575188/photo/1",
+          "media_key": "3_1989506403724374016",
+          "start": 52,
+          "url": "https://t.co/KVuAKfbIDd"
+        },
+        {
+          "display_url": "pic.x.com/KVuAKfbIDd",
+          "end": 75,
+          "expanded_url": "https://x.com/yuri__ono/status/1989506461580575188/photo/1",
+          "media_key": "3_1989506403724361729",
+          "start": 52,
+          "url": "https://t.co/KVuAKfbIDd"
+        },
+        {
+          "display_url": "pic.x.com/KVuAKfbIDd",
+          "end": 75,
+          "expanded_url": "https://x.com/yuri__ono/status/1989506461580575188/photo/1",
+          "media_key": "3_1989506403707621380",
+          "start": 52,
+          "url": "https://t.co/KVuAKfbIDd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989506461580575188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的小猫(｀・∀・´)\n很可爱吧！之前因为降温给她穿了件花棉袄，现在脱了之后感觉她像一个光屁股小孩🙀🙀 https://t.co/KVuAKfbIDd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1989506403724374016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wliIhbMAAn6tR.jpg",
+        "width": 1280
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1989506403724361729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wliIhbAAEjIZk.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1989506403707621380",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wliIdbkAQWAjm.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989506403724374016",
+            "3_1989506403724361729",
+            "3_1989506403707621380"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "1989506461580575188",
+        "created_at": "2025-11-15T01:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T02:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989506461580575188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVuAKfbIDd",
+              "end": 75,
+              "expanded_url": "https://x.com/yuri__ono/status/1989506461580575188/photo/1",
+              "media_key": "3_1989506403724374016",
+              "start": 52,
+              "url": "https://t.co/KVuAKfbIDd"
+            },
+            {
+              "display_url": "pic.x.com/KVuAKfbIDd",
+              "end": 75,
+              "expanded_url": "https://x.com/yuri__ono/status/1989506461580575188/photo/1",
+              "media_key": "3_1989506403724361729",
+              "start": 52,
+              "url": "https://t.co/KVuAKfbIDd"
+            },
+            {
+              "display_url": "pic.x.com/KVuAKfbIDd",
+              "end": 75,
+              "expanded_url": "https://x.com/yuri__ono/status/1989506461580575188/photo/1",
+              "media_key": "3_1989506403707621380",
+              "start": 52,
+              "url": "https://t.co/KVuAKfbIDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989506461580575188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的小猫(｀・∀・´)\n很可爱吧！之前因为降温给她穿了件花棉袄，现在脱了之后感觉她像一个光屁股小孩🙀🙀 https://t.co/KVuAKfbIDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 欢迎互fo",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 113,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 59
+        },
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2075120275923034238",
+    "created_at": "2026-07-09T07:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075120275923034238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cywhanjian/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/cywhanjian/status/2075096730962637096",
+          "start": 2,
+          "url": "https://t.co/M3DN3QQvh0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075120275923034238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075096730962637096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/M3DN3QQvh0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 445,
+        "media_key": "3_2075096728550965248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMw5evPbAAAtQE7.jpg",
+        "width": 447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2075120275923034238",
+        "created_at": "2026-07-09T07:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075120275923034238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cywhanjian/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/cywhanjian/status/2075096730962637096",
+              "start": 2,
+              "url": "https://t.co/M3DN3QQvh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075120275923034238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075096730962637096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/M3DN3QQvh0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075096728550965248"
+          ]
+        },
+        "author_id": "1592120524276002817",
+        "conversation_id": "2075096730962637096",
+        "created_at": "2026-07-09T05:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075096730962637096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6Kiwdm1QX",
+              "end": 33,
+              "expanded_url": "https://x.com/cywhanjian/status/2075096730962637096/photo/1",
+              "media_key": "3_2075096728550965248",
+              "start": 10,
+              "url": "https://t.co/V6Kiwdm1QX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075096730962637096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比起脱单我更想脱贫 https://t.co/V6Kiwdm1QX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 918,
+          "like_count": 5706,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2365
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-14T11:41:35.000Z",
+        "description": "Can I chat with you？🤔",
+        "id": "1592120524276002817",
+        "location": "距你114514m",
+        "name": "c17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051947732286439425/BrPQMAVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 285,
+          "like_count": 547,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 1782
+        },
+        "url": "",
+        "username": "cywhanjian",
+        "verified": false
+      }
+    ]
+  }
+}

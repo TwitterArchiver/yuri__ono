@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2009980868824314117",
+    "created_at": "2026-01-11T14:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T15:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010365395484778774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1969429657482379266",
+          "start": 0,
+          "username": "Nnnn19887777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010365395484778774",
+    "in_reply_to_user_id": "1969429657482379266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009980868824314117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nnnn19887777 是的，她性格太好了感觉声音也很萌，开朗小太阳来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2009980868824314117",
+        "created_at": "2026-01-11T14:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010365395484778774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1969429657482379266",
+              "start": 0,
+              "username": "Nnnn19887777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010365395484778774",
+        "in_reply_to_user_id": "1969429657482379266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009980868824314117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nnnn19887777 是的，她性格太好了感觉声音也很萌，开朗小太阳来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969429657482379266",
+        "conversation_id": "2009980868824314117",
+        "created_at": "2026-01-10T13:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T14:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009980868824314117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009980868824314117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 162157,
+          "like_count": 360,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得噗噗好可爱😳尤其是她眯眯眼笑的时候……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 209,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 202
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T15:53:25.000Z",
+        "description": "想到什么发什么🤍ENFP/不礼貌的不要来",
+        "id": "1969429657482379266",
+        "location": "🚪288/520",
+        "name": "liliwei",
+        "pinned_tweet_id": "1996083510084604283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991307146420736000/uxDben02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5831,
+          "following_count": 52,
+          "like_count": 809,
+          "listed_count": 14,
+          "media_count": 38,
+          "tweet_count": 445
+        },
+        "username": "Nnnn19887777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2044606651903410351",
+    "created_at": "2026-04-17T16:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045174853217706455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1115809099482980353",
+          "start": 0,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045174853217706455",
+    "in_reply_to_user_id": "1115809099482980353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044606651903410351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKR_World 看起来很爽"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6740,
+        "height": 1280,
+        "media_key": "13_2044606587122409472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044606587122409472/img/VZk4TaWRcATp164s.jpg",
+        "public_metrics": {
+          "view_count": 15466
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044606587122409472/vid/avc1/320x568/b3baN9GwM-W5kA8Z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044606587122409472/vid/avc1/480x852/uZT67T4dSLF5IJuU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044606587122409472/vid/avc1/720x1280/IEIIi9HUJWOUxGb4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044606587122409472/pl/FC3ju9lOmOVjn0yS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2044606651903410351",
+        "created_at": "2026-04-17T16:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045174853217706455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1115809099482980353",
+              "start": 0,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045174853217706455",
+        "in_reply_to_user_id": "1115809099482980353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044606651903410351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKR_World 看起来很爽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044606587122409472"
+          ]
+        },
+        "author_id": "1115809099482980353",
+        "conversation_id": "2044606651903410351",
+        "created_at": "2026-04-16T02:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044606651903410351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U73JyJXata",
+              "end": 27,
+              "expanded_url": "https://x.com/DKR_World/status/2044606651903410351/video/1",
+              "media_key": "13_2044606587122409472",
+              "start": 4,
+              "url": "https://t.co/U73JyJXata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044606651903410351",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 36962,
+          "like_count": 1932,
+          "quote_count": 52,
+          "reply_count": 15,
+          "retweet_count": 313
+        },
+        "reply_settings": "everyone",
+        "text": "🚬🚬🚬 https://t.co/U73JyJXata"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 306,
+          "like_count": 2639,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 599
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "最後の指令：すべてと一緒に滅びろ。無盡革命資金募集中！我需要錢◆🚪52/101/188 @Noelle1914",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Noelle1914"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2020846049972326673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029702608819212290/Qhwu5L_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2298,
+          "following_count": 737,
+          "like_count": 44279,
+          "listed_count": 9,
+          "media_count": 558,
+          "tweet_count": 6203
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

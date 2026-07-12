@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2055985117315940430",
+    "created_at": "2026-05-17T15:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056041131419500713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "uixxixu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056041131419500713",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055985117315940430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uixxixu 特别漂亮！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055985105601261568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhTj3rbcAAaY5j.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055985105588682752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhTj3obgAAD7nR.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2055985117315940430",
+        "created_at": "2026-05-17T15:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056041131419500713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056041131419500713",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055985117315940430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 特别漂亮！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055985105601261568",
+            "3_2055985105588682752"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2055985117315940430",
+        "created_at": "2026-05-17T12:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055985117315940430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WZiAwuj9SO",
+              "end": 54,
+              "expanded_url": "https://x.com/uixxixu/status/2055985117315940430/photo/1",
+              "media_key": "3_2055985105601261568",
+              "start": 31,
+              "url": "https://t.co/WZiAwuj9SO"
+            },
+            {
+              "display_url": "pic.x.com/WZiAwuj9SO",
+              "end": 54,
+              "expanded_url": "https://x.com/uixxixu/status/2055985117315940430/photo/1",
+              "media_key": "3_2055985105588682752",
+              "start": 31,
+              "url": "https://t.co/WZiAwuj9SO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055985117315940430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1451,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我昨天染的头发吗\n我突然发现好漂亮啊！（是我致幻了还是怎么的 https://t.co/WZiAwuj9SO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 小号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 368,
+          "like_count": 3767,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 908
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 401,
+          "like_count": 5363,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3010
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

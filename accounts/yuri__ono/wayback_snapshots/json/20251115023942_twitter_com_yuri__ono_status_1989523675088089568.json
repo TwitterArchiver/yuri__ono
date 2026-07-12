@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989523655743901696",
+        "3_1989523655718752256",
+        "3_1989523655727181824"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1989523675088089568",
+    "created_at": "2025-11-15T02:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T03:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989523675088089568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7djXK2PjZr",
+          "end": 38,
+          "expanded_url": "https://x.com/yuri__ono/status/1989523675088089568/photo/1",
+          "media_key": "3_1989523655743901696",
+          "start": 15,
+          "url": "https://t.co/7djXK2PjZr"
+        },
+        {
+          "display_url": "pic.x.com/7djXK2PjZr",
+          "end": 38,
+          "expanded_url": "https://x.com/yuri__ono/status/1989523675088089568/photo/1",
+          "media_key": "3_1989523655718752256",
+          "start": 15,
+          "url": "https://t.co/7djXK2PjZr"
+        },
+        {
+          "display_url": "pic.x.com/7djXK2PjZr",
+          "end": 38,
+          "expanded_url": "https://x.com/yuri__ono/status/1989523675088089568/photo/1",
+          "media_key": "3_1989523655727181824",
+          "start": 15,
+          "url": "https://t.co/7djXK2PjZr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989523675088089568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我萌不！谁想和我互foTvT https://t.co/7djXK2PjZr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1137,
+        "media_key": "3_1989523655743901696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5w1OVTaEAAptxv.jpg",
+        "width": 1706
+      },
+      {
+        "height": 750,
+        "media_key": "3_1989523655718752256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5w1OVNaUAA43Ei.jpg",
+        "width": 589
+      },
+      {
+        "height": 1577,
+        "media_key": "3_1989523655727181824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5w1OVPa8AA-PtG.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989523655743901696",
+            "3_1989523655718752256",
+            "3_1989523655727181824"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "1989523675088089568",
+        "created_at": "2025-11-15T02:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989523675088089568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7djXK2PjZr",
+              "end": 38,
+              "expanded_url": "https://x.com/yuri__ono/status/1989523675088089568/photo/1",
+              "media_key": "3_1989523655743901696",
+              "start": 15,
+              "url": "https://t.co/7djXK2PjZr"
+            },
+            {
+              "display_url": "pic.x.com/7djXK2PjZr",
+              "end": 38,
+              "expanded_url": "https://x.com/yuri__ono/status/1989523675088089568/photo/1",
+              "media_key": "3_1989523655718752256",
+              "start": 15,
+              "url": "https://t.co/7djXK2PjZr"
+            },
+            {
+              "display_url": "pic.x.com/7djXK2PjZr",
+              "end": 38,
+              "expanded_url": "https://x.com/yuri__ono/status/1989523675088089568/photo/1",
+              "media_key": "3_1989523655727181824",
+              "start": 15,
+              "url": "https://t.co/7djXK2PjZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989523675088089568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我萌不！谁想和我互foTvT https://t.co/7djXK2PjZr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 欢迎互fo",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 113,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 61
+        },
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

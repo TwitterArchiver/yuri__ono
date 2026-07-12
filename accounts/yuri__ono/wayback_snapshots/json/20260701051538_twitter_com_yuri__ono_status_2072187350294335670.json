@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071748958909792256"
+      ],
+      "media_source_tweet_id": [
+        "2071749683899453936"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2072187350294335670",
+    "created_at": "2026-07-01T05:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072187350294335670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2040981575211384832",
+          "start": 3,
+          "username": "nemuikennn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fJ27bww11m",
+          "end": 43,
+          "expanded_url": "https://x.com/nemuikennn/status/2071749683899453936/photo/1",
+          "media_key": "3_2071748958909792256",
+          "start": 20,
+          "url": "https://t.co/fJ27bww11m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072187350294335670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 709
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071749683899453936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @nemuikennn: 再掲📷 https://t.co/fJ27bww11m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1664,
+        "media_key": "3_2071748958909792256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBUs5eagAA06WM.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071748958909792256"
+          ],
+          "media_source_tweet_id": [
+            "2071749683899453936"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2072187350294335670",
+        "created_at": "2026-07-01T05:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072187350294335670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2040981575211384832",
+              "start": 3,
+              "username": "nemuikennn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJ27bww11m",
+              "end": 43,
+              "expanded_url": "https://x.com/nemuikennn/status/2071749683899453936/photo/1",
+              "media_key": "3_2071748958909792256",
+              "start": 20,
+              "url": "https://t.co/fJ27bww11m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072187350294335670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 709
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071749683899453936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @nemuikennn: 再掲📷 https://t.co/fJ27bww11m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071748958909792256"
+          ]
+        },
+        "author_id": "2040981575211384832",
+        "conversation_id": "2071749683899453936",
+        "created_at": "2026-06-30T00:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071749683899453936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJ27bww11m",
+              "end": 27,
+              "expanded_url": "https://x.com/nemuikennn/status/2071749683899453936/photo/1",
+              "media_key": "3_2071748958909792256",
+              "start": 4,
+              "url": "https://t.co/fJ27bww11m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071749683899453936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 796,
+          "impression_count": 151310,
+          "like_count": 14894,
+          "quote_count": 53,
+          "reply_count": 19,
+          "retweet_count": 709
+        },
+        "reply_settings": "following",
+        "text": "再掲📷 https://t.co/fJ27bww11m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 888,
+          "like_count": 5672,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 2277
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T02:35:12.000Z",
+        "description": "20↑ 雑多📷🏳‍🌈 don't use or repost⭐",
+        "id": "2040981575211384832",
+        "name": "kennn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068296209593421824/I4EfCYdH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 44,
+          "like_count": 259,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "nemuikennn",
+        "verified": false
+      }
+    ]
+  }
+}

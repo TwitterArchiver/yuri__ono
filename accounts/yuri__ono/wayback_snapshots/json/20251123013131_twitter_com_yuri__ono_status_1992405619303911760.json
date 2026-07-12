@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1992225964001276317",
+    "created_at": "2025-11-23T01:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T02:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992405619303911760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881684393762369536",
+          "start": 0,
+          "username": "yue_su7019_"
+        },
+        {
+          "end": 20,
+          "id": "1621259482704625671",
+          "start": 13,
+          "username": "Qinioo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992405619303911760",
+    "in_reply_to_user_id": "1881684393762369536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992381749045993832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yue_su7019_ @Qinioo 太会说了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1992225964001276317",
+        "created_at": "2025-11-23T01:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992405619303911760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1881684393762369536",
+              "start": 0,
+              "username": "yue_su7019_"
+            },
+            {
+              "end": 20,
+              "id": "1621259482704625671",
+              "start": 13,
+              "username": "Qinioo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992405619303911760",
+        "in_reply_to_user_id": "1881684393762369536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992381749045993832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yue_su7019_ @Qinioo 太会说了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881684393762369536",
+        "conversation_id": "1992225964001276317",
+        "created_at": "2025-11-22T23:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T00:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992381749045993832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1621259482704625671",
+              "start": 0,
+              "username": "Qinioo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992381749045993832",
+        "in_reply_to_user_id": "1621259482704625671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992225964001276317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qinioo 因为女同在他眼里等于买一送一，尤其日本这种少女乐队动漫女角色主体性少得可怜，让他看英美剧女同他就要恨女同了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 141,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 112
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T12:45:09.000Z",
+        "description": "",
+        "id": "1881684393762369536",
+        "name": "畏惧神是正常的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953622780383297536/wBpQ7pnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 114,
+          "like_count": 3816,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 287
+        },
+        "username": "yue_su7019_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T21:29:55.000Z",
+        "description": "🏳️‍⚧️MtF|正體🇹🇼/简体🇨🇳\n💙@ObjectShadow💚\nフォローをくれてありがとうございます!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "ObjectShadow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayaneqin.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://ayaneqin.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/eL7t3GftYz"
+              }
+            ]
+          }
+        },
+        "id": "1621259482704625671",
+        "name": "綾音Io",
+        "pinned_tweet_id": "1959513688395960345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929662964526993411/I6Qra0xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 1841,
+          "like_count": 22707,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 833
+        },
+        "url": "https://t.co/eL7t3GftYz",
+        "username": "Qinioo",
+        "verified": false
+      }
+    ]
+  }
+}

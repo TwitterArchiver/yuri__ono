@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2024539385711272207",
+    "created_at": "2026-02-19T17:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024539385711272207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dumpling666666…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/dumpling666666/status/2024518828777165244",
+          "start": 5,
+          "url": "https://t.co/DXFWskrm4u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024539385711272207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024518828777165244",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看崩溃了 https://t.co/DXFWskrm4u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024518818635403264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiJI6HbUAAq5pl.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2024539385711272207",
+        "created_at": "2026-02-19T17:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024539385711272207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dumpling666666…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/dumpling666666/status/2024518828777165244",
+              "start": 5,
+              "url": "https://t.co/DXFWskrm4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024539385711272207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024518828777165244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看崩溃了 https://t.co/DXFWskrm4u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024518818635403264"
+          ]
+        },
+        "author_id": "1979293441294213120",
+        "conversation_id": "2024518828777165244",
+        "created_at": "2026-02-19T16:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024518828777165244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CpQpVSvrl4",
+              "end": 26,
+              "expanded_url": "https://x.com/Dumpling666666/status/2024518828777165244/photo/1",
+              "media_key": "3_2024518818635403264",
+              "start": 3,
+              "url": "https://t.co/CpQpVSvrl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024518828777165244",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2295,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…… https://t.co/CpQpVSvrl4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 257,
+          "like_count": 1658,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 338
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T21:08:42.000Z",
+        "description": "我 自言自语(𖦹.𖦹)",
+        "id": "1979293441294213120",
+        "name": "饺子鼠",
+        "pinned_tweet_id": "2011424955637043279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007332819744530432/rDIIZXv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3946,
+          "following_count": 165,
+          "like_count": 2106,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 788
+        },
+        "username": "Dumpling666666",
+        "verified": false
+      }
+    ]
+  }
+}

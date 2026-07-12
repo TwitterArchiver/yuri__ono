@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2039007004354896269",
+    "created_at": "2026-04-01T15:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T16:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039360857222922360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1656893344482758656",
+          "start": 0,
+          "username": "yayayyyyy520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039360857222922360",
+    "in_reply_to_user_id": "1656893344482758656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039007004354896269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yayayyyyy520 看起来就很好吃…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039006984318644224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwCDJLacAAZ5E1.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039006984134135808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwCDIfbEAAoBTx.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2039007004354896269",
+        "created_at": "2026-04-01T15:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039360857222922360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1656893344482758656",
+              "start": 0,
+              "username": "yayayyyyy520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039360857222922360",
+        "in_reply_to_user_id": "1656893344482758656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039007004354896269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yayayyyyy520 看起来就很好吃…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039006984318644224",
+            "3_2039006984134135808"
+          ]
+        },
+        "author_id": "1656893344482758656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039007004354896269",
+        "created_at": "2026-03-31T15:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039007004354896269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiV8v58nf7",
+              "end": 167,
+              "expanded_url": "https://x.com/yayayyyyy520/status/2039007004354896269/photo/1",
+              "media_key": "3_2039006984318644224",
+              "start": 144,
+              "url": "https://t.co/hiV8v58nf7"
+            },
+            {
+              "display_url": "pic.x.com/hiV8v58nf7",
+              "end": 167,
+              "expanded_url": "https://x.com/yayayyyyy520/status/2039007004354896269/photo/1",
+              "media_key": "3_2039006984134135808",
+              "start": 144,
+              "url": "https://t.co/hiV8v58nf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039007004354896269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 43796,
+          "like_count": 652,
+          "quote_count": 8,
+          "reply_count": 48,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "我操我求你们了 我跪下来求你们了\n去试试黄色桶装汤达人泡完加三养火鸡面酱！！！！！！啊啊啊啊啊啊啊啊啊我这么吃有八九年了我没开玩笑！每次吃都被好吃的想哭谁懂\n如果是袋装火鸡面的酱就放半包酱就行\n如果是独立包装的酱我放了三小包！\n太好吃了…我边打字边回味…太好吃了 而且汤也巨好喝…神啊… https://t.co/hiV8v58nf7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 285,
+          "like_count": 2304,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 507
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T05:25:44.000Z",
+        "description": "不出yw 不接线下。私信随缘回。",
+        "id": "1656893344482758656",
+        "location": "🚪 199",
+        "name": "yayayyyyy",
+        "pinned_tweet_id": "2039160782781567289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966407421477498880/Cal4wn36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8263,
+          "following_count": 77,
+          "like_count": 799,
+          "listed_count": 27,
+          "media_count": 395,
+          "tweet_count": 1940
+        },
+        "username": "yayayyyyy520",
+        "verified": false
+      }
+    ]
+  }
+}

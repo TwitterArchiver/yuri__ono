@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2015735855776948264",
+    "created_at": "2026-01-26T10:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T11:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015735855776948264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893671443566903296",
+          "start": 3,
+          "username": "Lin_su1102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015735855776948264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009627077297991971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lin_su1102: 上一条置顶不在了 补一下\n🥳这里鳞溯 可以叫我小溯、阿鳞🥳\n💕喜欢女生💕\n🤕我重抑/重焦/轻微精分🤕\n🙌持续治疗中...🙌\n💗我od/割手💗\n😶‍🌫️欢迎交友、女生免门😶‍🌫️\n🤍我长期接伤口定制/视频定制/照片定制🤍\n🩷🚪52，解锁好友位 消息…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2015735855776948264].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2015735855776948264",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2015735855776948264"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009627072021590016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-OhLK7a8AAt2Yp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009627072021590016"
+          ]
+        },
+        "author_id": "1893671443566903296",
+        "conversation_id": "2009627077297991971",
+        "created_at": "2026-01-09T14:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009627077297991971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFpPrgWV3B",
+              "end": 169,
+              "expanded_url": "https://x.com/Lin_su1102/status/2009627077297991971/photo/1",
+              "media_key": "3_2009627072021590016",
+              "start": 146,
+              "url": "https://t.co/PFpPrgWV3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009627077297991971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1463,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "上一条置顶不在了 补一下\n🥳这里鳞溯 可以叫我小溯、阿鳞🥳\n💕喜欢女生💕\n🤕我重抑/重焦/轻微精分🤕\n🙌持续治疗中...🙌\n💗我od/割手💗\n😶‍🌫️欢迎交友、女生免门😶‍🌫️\n🤍我长期接伤口定制/视频定制/照片定制🤍\n🩷🚪52，解锁好友位 消息看到会回、不开放朋友圈🩷\n喜欢我请给我打钱🥰 https://t.co/PFpPrgWV3B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 239,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 246
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T14:37:21.000Z",
+        "description": "我是鳞溯  \n我秽土转生了这是鳞溯2.0！你们可以接着叫我小溯！女孩子快来找我互呀！🚪52，我接伤口定制",
+        "id": "1893671443566903296",
+        "location": "Tokyo-to, Japan",
+        "name": "溯（接伤口定制）",
+        "pinned_tweet_id": "2009627077297991971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910981379568918528/eXWWa22__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 87,
+          "like_count": 1672,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 305
+        },
+        "username": "Lin_su1102",
+        "verified": false
+      }
+    ]
+  }
+}

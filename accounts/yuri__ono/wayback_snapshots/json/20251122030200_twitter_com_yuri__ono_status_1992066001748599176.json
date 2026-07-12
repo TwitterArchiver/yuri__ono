@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1991947670156607621",
+    "created_at": "2025-11-22T03:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T04:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992066001748599176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1672345798070370305",
+          "start": 0,
+          "username": "aurait_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992066001748599176",
+    "in_reply_to_user_id": "1672345798070370305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991947670156607621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aurait_ 笑的我肚肚好痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_1991947662590136320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6TR2Gfa0AAO8TL.jpg",
+        "width": 1205
+      },
+      {
+        "height": 1295,
+        "media_key": "3_1991947662594326528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6TR2GgawAAP6nM.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1991947670156607621",
+        "created_at": "2025-11-22T03:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992066001748599176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1672345798070370305",
+              "start": 0,
+              "username": "aurait_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992066001748599176",
+        "in_reply_to_user_id": "1672345798070370305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991947670156607621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aurait_ 笑的我肚肚好痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991947662590136320",
+            "3_1991947662594326528"
+          ]
+        },
+        "author_id": "1672345798070370305",
+        "conversation_id": "1991947670156607621",
+        "created_at": "2025-11-21T19:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T20:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991947670156607621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6B3XRsoae",
+              "end": 59,
+              "expanded_url": "https://x.com/aurait_/status/1991947670156607621/photo/1",
+              "media_key": "3_1991947662590136320",
+              "start": 36,
+              "url": "https://t.co/M6B3XRsoae"
+            },
+            {
+              "display_url": "pic.x.com/M6B3XRsoae",
+              "end": 59,
+              "expanded_url": "https://x.com/aurait_/status/1991947670156607621/photo/1",
+              "media_key": "3_1991947662594326528",
+              "start": 36,
+              "url": "https://t.co/M6B3XRsoae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991947670156607621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 21333,
+          "like_count": 240,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢热心推友，我第一次发现推特竟然如此尊重人兽恋，虽然不理解但是给建议 https://t.co/M6B3XRsoae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 131,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 95
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T20:48:24.000Z",
+        "description": "🌈 和杜宾恋爱中 让我们做幸福大王 ՞˶･֊･˶՞ @komorebi126｜自用VPN https://t.co/9zEdogMlk8｜匿名https://t.co/vTnvJO2SXN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "komorebi126"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 68,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=b1AtxaWu",
+                "start": 45,
+                "url": "https://t.co/9zEdogMlk8"
+              },
+              {
+                "display_url": "ngl.link/lunaic",
+                "end": 94,
+                "expanded_url": "https://ngl.link/lunaic",
+                "start": 71,
+                "url": "https://t.co/vTnvJO2SXN"
+              }
+            ]
+          }
+        },
+        "id": "1672345798070370305",
+        "location": "❗️推广自辨 ❗️",
+        "name": "微熱",
+        "pinned_tweet_id": "1946952566564344153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991866470125670400/glBBnqIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25995,
+          "following_count": 373,
+          "like_count": 2787,
+          "listed_count": 21,
+          "media_count": 341,
+          "tweet_count": 2951
+        },
+        "username": "aurait_",
+        "verified": false
+      }
+    ]
+  }
+}

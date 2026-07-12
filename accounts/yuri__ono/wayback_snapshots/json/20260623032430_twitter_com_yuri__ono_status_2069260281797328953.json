@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2069064565044679037",
+    "created_at": "2026-06-23T03:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T04:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069260281797328953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948450129092247553",
+          "start": 0,
+          "username": "isolations83641"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069260281797328953",
+    "in_reply_to_user_id": "1948450129092247553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069064565044679037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isolations83641 咋这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12700,
+        "height": 1280,
+        "media_key": "13_2069064368726089728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069064368726089728/img/KGRByfcqTO9HlHIk.jpg",
+        "public_metrics": {
+          "view_count": 1020
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069064368726089728/vid/avc1/320x588/BwzD7hFmETzQUB1t.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069064368726089728/vid/avc1/480x882/llGeas3KXmqFiZMq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069064368726089728/vid/avc1/696x1280/xNLe7tQGXg2AUxPN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069064368726089728/pl/gFGUmf2zEPPPXyaK.m3u8?v=cfc"
+          }
+        ],
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2069064565044679037",
+        "created_at": "2026-06-23T03:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069260281797328953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948450129092247553",
+              "start": 0,
+              "username": "isolations83641"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069260281797328953",
+        "in_reply_to_user_id": "1948450129092247553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069064565044679037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isolations83641 咋这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069064368726089728"
+          ]
+        },
+        "author_id": "1948450129092247553",
+        "conversation_id": "2069064565044679037",
+        "created_at": "2026-06-22T14:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069064565044679037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvYr7xO8YJ",
+              "end": 39,
+              "expanded_url": "https://x.com/isolations83641/status/2069064565044679037/video/1",
+              "media_key": "13_2069064368726089728",
+              "start": 16,
+              "url": "https://t.co/dvYr7xO8YJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069064565044679037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1962,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐家拍的。然后呢我喜欢玩鬼图 https://t.co/dvYr7xO8YJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 780,
+          "like_count": 5333,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1966
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T18:28:25.000Z",
+        "description": "我喜欢温柔的。人还有手好看的\n我是高中生有🚪。我只是为了圈钱买药买游戏皮肤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/death24435",
+                "end": 23,
+                "expanded_url": "https://ngl.link/death24435",
+                "start": 0,
+                "url": "https://t.co/WWLLi1lEFC"
+              }
+            ]
+          }
+        },
+        "id": "1948450129092247553",
+        "location": "找我聊天我都会回。匿名信箱",
+        "name": "我的眼泪你负责吗",
+        "pinned_tweet_id": "2004755439507177851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061125738838085633/e59AXL0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 41,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 2258
+        },
+        "url": "https://t.co/WWLLi1lEFC",
+        "username": "isolations83641",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2059982525821264226",
+    "created_at": "2026-05-28T13:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059988200320598464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1283722369123487744",
+          "start": 0,
+          "username": "xiaoyimiao1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059988200320598464",
+    "in_reply_to_user_id": "1283722369123487744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059982525821264226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyimiao1314 贴贴！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2059982521719230467",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaHMHKWkAMuTfR.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2059982525821264226",
+        "created_at": "2026-05-28T13:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059988200320598464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1283722369123487744",
+              "start": 0,
+              "username": "xiaoyimiao1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059988200320598464",
+        "in_reply_to_user_id": "1283722369123487744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059982525821264226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyimiao1314 贴贴！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059982521719230467"
+          ]
+        },
+        "author_id": "1283722369123487744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059982525821264226",
+        "created_at": "2026-05-28T12:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059982525821264226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 44,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=ja",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2058368602080780288/EqDU3ljZ?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058368602080780288/EqDU3ljZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=ja",
+              "url": "https://t.co/uiOIHaoXz2"
+            },
+            {
+              "display_url": "pic.x.com/IjsNDcomO8",
+              "end": 68,
+              "expanded_url": "https://x.com/xiaoyimiao1314/status/2059982525821264226/photo/1",
+              "media_key": "3_2059982521719230467",
+              "start": 45,
+              "url": "https://t.co/IjsNDcomO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059982525821264226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私のTwitterやりとりークル\n\n➡️ https://t.co/uiOIHaoXz2 https://t.co/IjsNDcomO8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 557,
+          "like_count": 4635,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1316
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T11:17:24.000Z",
+        "description": "infp，想聊天的话可以DM（可互关。聊天请文明，色情禁止🚫，我是来看黄的，不是来当黄的）小号@HolyMiao7950",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "HolyMiao7950"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/xiaoyimiao1…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/xiaoyimiao1314/",
+                "start": 0,
+                "url": "https://t.co/udNatdLt1c"
+              }
+            ]
+          }
+        },
+        "id": "1283722369123487744",
+        "location": "山东省济南市",
+        "name": "錦依の柴郡（Cheshire）",
+        "pinned_tweet_id": "1704573364533346368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055340399171117056/p808wD-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 134,
+          "like_count": 1849,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/udNatdLt1c",
+        "username": "xiaoyimiao1314",
+        "verified": false
+      }
+    ]
+  }
+}

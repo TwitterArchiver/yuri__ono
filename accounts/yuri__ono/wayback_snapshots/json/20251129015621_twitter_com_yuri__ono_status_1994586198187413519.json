@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994416129947877377"
+      ],
+      "media_source_tweet_id": [
+        "1994416141125722203"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1994586198187413519",
+    "created_at": "2025-11-29T01:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994586198187413519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1502615883629268992",
+          "start": 3,
+          "username": "happyceleryisme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rq3krGR7cP",
+          "end": 49,
+          "expanded_url": "https://x.com/happyceleryisme/status/1994416141125722203/photo/1",
+          "media_key": "3_1994416129947877377",
+          "start": 26,
+          "url": "https://t.co/Rq3krGR7cP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994586198187413519",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1128
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994416141125722203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @happyceleryisme: 🍁🗝️💸 https://t.co/Rq3krGR7cP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994586198187413519].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994586198187413519",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994586198187413519"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1842,
+        "media_key": "3_1994416129947877377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62W5z_aQAENBE3.jpg",
+        "width": 1393
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994416129947877377"
+          ]
+        },
+        "author_id": "1502615883629268992",
+        "conversation_id": "1994416141125722203",
+        "created_at": "2025-11-28T14:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T15:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994416141125722203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rq3krGR7cP",
+              "end": 28,
+              "expanded_url": "https://x.com/happyceleryisme/status/1994416141125722203/photo/1",
+              "media_key": "3_1994416129947877377",
+              "start": 5,
+              "url": "https://t.co/Rq3krGR7cP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994416141125722203",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1657,
+          "impression_count": 943685,
+          "like_count": 22395,
+          "quote_count": 156,
+          "reply_count": 8,
+          "retweet_count": 1128
+        },
+        "reply_settings": "everyone",
+        "text": "🍁🗝️💸 https://t.co/Rq3krGR7cP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 148,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 123
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T12:02:27.000Z",
+        "description": "サブ||20↑||🐼||🍁🗝️💸亡霊 ||🇨🇳中文○ ||English、日本語→機械翻訳。 本垢→@Twitwiii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Twitwiii_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/Twitwiii_",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/Twitwiii_",
+                "start": 0,
+                "url": "https://t.co/J7Zm6Np5qk"
+              }
+            ]
+          }
+        },
+        "id": "1502615883629268992",
+        "location": "嫌だと感じた人は自衛してください",
+        "name": "芹菜饺子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790636754351132672/jwY07q27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 196,
+          "like_count": 1214,
+          "listed_count": 9,
+          "media_count": 49,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/J7Zm6Np5qk",
+        "username": "happyceleryisme",
+        "verified": false
+      }
+    ]
+  }
+}

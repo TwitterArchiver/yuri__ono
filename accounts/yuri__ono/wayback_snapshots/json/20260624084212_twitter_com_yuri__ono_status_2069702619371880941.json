@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2069593684941979895",
+    "created_at": "2026-06-24T08:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069702619371880941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "710801271171579904",
+          "start": 0,
+          "username": "ruikir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069702619371880941",
+    "in_reply_to_user_id": "710801271171579904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069593684941979895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruikir 我看见你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2069593684941979895",
+        "created_at": "2026-06-24T08:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069702619371880941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "710801271171579904",
+              "start": 0,
+              "username": "ruikir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069702619371880941",
+        "in_reply_to_user_id": "710801271171579904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069593684941979895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruikir 我看见你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "710801271171579904",
+        "conversation_id": "2069593684941979895",
+        "created_at": "2026-06-24T01:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069593684941979895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ruikir/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ruikir/status/2069593320750506176",
+              "start": 11,
+              "url": "https://t.co/7N6lmF6aXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069593684941979895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069593320750506176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实并不会被看到很多 https://t.co/7N6lmF6aXQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 793,
+          "like_count": 5392,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2038
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-18T12:13:23.000Z",
+        "description": "我的碎碎念.想到啥说啥\n我是我 我喜欢说话和听人说话\n男的",
+        "id": "710801271171579904",
+        "location": "距离你43m，预计3分钟内送达",
+        "name": "Rainy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059161089791995905/_qY6SoTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 44,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "ruikir",
+        "verified": false
+      }
+    ]
+  }
+}

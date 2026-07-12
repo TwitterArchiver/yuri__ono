@@ -1,0 +1,759 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038208572396580864",
+        "3_2038208572329439232",
+        "3_2038208572354633728",
+        "3_2038208572354625537"
+      ],
+      "media_source_tweet_id": [
+        "2038208580571308160",
+        "2038208580571308160",
+        "2038208580571308160",
+        "2038208580571308160"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1138143035533942784",
+          "name": "An Yujin"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1138143035533942784",
+          "name": "An Yujin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1138143035533942784",
+          "name": "An Yujin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      }
+    ],
+    "conversation_id": "2044087587711922405",
+    "created_at": "2026-04-14T16:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044087587711922405"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "IVE"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "아이브"
+        },
+        {
+          "end": 40,
+          "start": 32,
+          "tag": "ANYUJIN"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "안유진"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1402183575244468226",
+          "start": 3,
+          "username": "IVE_twt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WJDfuqmsfD",
+          "end": 69,
+          "expanded_url": "https://x.com/IVE_twt/status/2038208580571308160/photo/1",
+          "media_key": "3_2038208572396580864",
+          "start": 46,
+          "url": "https://t.co/WJDfuqmsfD"
+        },
+        {
+          "display_url": "pic.x.com/WJDfuqmsfD",
+          "end": 69,
+          "expanded_url": "https://x.com/IVE_twt/status/2038208580571308160/photo/1",
+          "media_key": "3_2038208572329439232",
+          "start": 46,
+          "url": "https://t.co/WJDfuqmsfD"
+        },
+        {
+          "display_url": "pic.x.com/WJDfuqmsfD",
+          "end": 69,
+          "expanded_url": "https://x.com/IVE_twt/status/2038208580571308160/photo/1",
+          "media_key": "3_2038208572354633728",
+          "start": 46,
+          "url": "https://t.co/WJDfuqmsfD"
+        },
+        {
+          "display_url": "pic.x.com/WJDfuqmsfD",
+          "end": 69,
+          "expanded_url": "https://x.com/IVE_twt/status/2038208580571308160/photo/1",
+          "media_key": "3_2038208572354625537",
+          "start": 46,
+          "url": "https://t.co/WJDfuqmsfD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044087587711922405",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6356
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038208580571308160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IVE_twt: 핑크만두 등장\n\n#IVE #아이브\n#ANYUJIN #안유진 https://t.co/WJDfuqmsfD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038208572396580864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkr5c_asAAj3-3.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038208572329439232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkr5cvaMAATOrx.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038208572354633728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkr5c1aoAA_MRs.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038208572354625537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkr5c1agAEpQQB.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038208572396580864",
+            "3_2038208572329439232",
+            "3_2038208572354633728",
+            "3_2038208572354625537"
+          ],
+          "media_source_tweet_id": [
+            "2038208580571308160",
+            "2038208580571308160",
+            "2038208580571308160",
+            "2038208580571308160"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1138143035533942784",
+              "name": "An Yujin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1138143035533942784",
+              "name": "An Yujin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1138143035533942784",
+              "name": "An Yujin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          }
+        ],
+        "conversation_id": "2044087587711922405",
+        "created_at": "2026-04-14T16:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044087587711922405"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "IVE"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "아이브"
+            },
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "ANYUJIN"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "안유진"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1402183575244468226",
+              "start": 3,
+              "username": "IVE_twt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJDfuqmsfD",
+              "end": 69,
+              "expanded_url": "https://x.com/IVE_twt/status/2038208580571308160/photo/1",
+              "media_key": "3_2038208572396580864",
+              "start": 46,
+              "url": "https://t.co/WJDfuqmsfD"
+            },
+            {
+              "display_url": "pic.x.com/WJDfuqmsfD",
+              "end": 69,
+              "expanded_url": "https://x.com/IVE_twt/status/2038208580571308160/photo/1",
+              "media_key": "3_2038208572329439232",
+              "start": 46,
+              "url": "https://t.co/WJDfuqmsfD"
+            },
+            {
+              "display_url": "pic.x.com/WJDfuqmsfD",
+              "end": 69,
+              "expanded_url": "https://x.com/IVE_twt/status/2038208580571308160/photo/1",
+              "media_key": "3_2038208572354633728",
+              "start": 46,
+              "url": "https://t.co/WJDfuqmsfD"
+            },
+            {
+              "display_url": "pic.x.com/WJDfuqmsfD",
+              "end": 69,
+              "expanded_url": "https://x.com/IVE_twt/status/2038208580571308160/photo/1",
+              "media_key": "3_2038208572354625537",
+              "start": 46,
+              "url": "https://t.co/WJDfuqmsfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044087587711922405",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6356
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038208580571308160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IVE_twt: 핑크만두 등장\n\n#IVE #아이브\n#ANYUJIN #안유진 https://t.co/WJDfuqmsfD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038208572396580864",
+            "3_2038208572329439232",
+            "3_2038208572354633728",
+            "3_2038208572354625537"
+          ]
+        },
+        "author_id": "1402183575244468226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1138143035533942784",
+              "name": "An Yujin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1138143035533942784",
+              "name": "An Yujin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1138143035533942784",
+              "name": "An Yujin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          }
+        ],
+        "conversation_id": "2038208580571308160",
+        "created_at": "2026-03-29T10:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038208580571308160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "IVE"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "아이브"
+            },
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "ANYUJIN"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "안유진"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJDfuqmsfD",
+              "end": 56,
+              "expanded_url": "https://x.com/IVE_twt/status/2038208580571308160/photo/1",
+              "media_key": "3_2038208572396580864",
+              "start": 33,
+              "url": "https://t.co/WJDfuqmsfD"
+            },
+            {
+              "display_url": "pic.x.com/WJDfuqmsfD",
+              "end": 56,
+              "expanded_url": "https://x.com/IVE_twt/status/2038208580571308160/photo/1",
+              "media_key": "3_2038208572329439232",
+              "start": 33,
+              "url": "https://t.co/WJDfuqmsfD"
+            },
+            {
+              "display_url": "pic.x.com/WJDfuqmsfD",
+              "end": 56,
+              "expanded_url": "https://x.com/IVE_twt/status/2038208580571308160/photo/1",
+              "media_key": "3_2038208572354633728",
+              "start": 33,
+              "url": "https://t.co/WJDfuqmsfD"
+            },
+            {
+              "display_url": "pic.x.com/WJDfuqmsfD",
+              "end": 56,
+              "expanded_url": "https://x.com/IVE_twt/status/2038208580571308160/photo/1",
+              "media_key": "3_2038208572354625537",
+              "start": 33,
+              "url": "https://t.co/WJDfuqmsfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038208580571308160",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2159,
+          "impression_count": 728715,
+          "like_count": 31519,
+          "quote_count": 721,
+          "reply_count": 194,
+          "retweet_count": 6356
+        },
+        "reply_settings": "everyone",
+        "text": "핑크만두 등장\n\n#IVE #아이브\n#ANYUJIN #안유진 https://t.co/WJDfuqmsfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 305,
+          "like_count": 2575,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 582
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-08T08:40:08.000Z",
+        "description": "IVE MEMBERS X (TWITTER)",
+        "id": "1402183575244468226",
+        "name": "IVE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025861477736083456/EmLVWDav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122531,
+          "following_count": 1,
+          "like_count": 25,
+          "listed_count": 6520,
+          "media_count": 2093,
+          "tweet_count": 2481
+        },
+        "username": "IVE_twt",
+        "verified": true
+      }
+    ]
+  }
+}

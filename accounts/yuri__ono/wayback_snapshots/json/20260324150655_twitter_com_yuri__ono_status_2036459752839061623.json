@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2036229478016491903",
+    "created_at": "2026-03-24T15:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036459752839061623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1211485046680350720",
+          "start": 0,
+          "username": "kabadjafode1"
+        },
+        {
+          "end": 24,
+          "id": "1115809099482980353",
+          "start": 14,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036459752839061623",
+    "in_reply_to_user_id": "1211485046680350720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036229478016491903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kabadjafode1 @DKR_World 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036229461188947968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEIj6BNaMAAfTVk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2036229478016491903",
+        "created_at": "2026-03-24T15:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036459752839061623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1211485046680350720",
+              "start": 0,
+              "username": "kabadjafode1"
+            },
+            {
+              "end": 24,
+              "id": "1115809099482980353",
+              "start": 14,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036459752839061623",
+        "in_reply_to_user_id": "1211485046680350720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036229478016491903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kabadjafode1 @DKR_World 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036229461188947968"
+          ]
+        },
+        "author_id": "1211485046680350720",
+        "conversation_id": "2036229478016491903",
+        "created_at": "2026-03-23T23:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T00:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036229478016491903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2PfEKJNzle",
+              "end": 28,
+              "expanded_url": "https://x.com/kabadjafode1/status/2036229478016491903/photo/1",
+              "media_key": "3_2036229461188947968",
+              "start": 5,
+              "url": "https://t.co/2PfEKJNzle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036229478016491903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 15964,
+          "like_count": 1872,
+          "quote_count": 21,
+          "reply_count": 2,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "命中注定 https://t.co/2PfEKJNzle"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 281,
+          "like_count": 2193,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 469
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-30T03:12:12.000Z",
+        "description": "我是小叶 08年 坐标南京 接江浙沪爸爸活🚪52 🚪120 🚪200 只回复口令",
+        "id": "1211485046680350720",
+        "name": "言叶6",
+        "pinned_tweet_id": "2019289688587268361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019288366999547904/E9pPDIds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 90,
+          "like_count": 265,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 140
+        },
+        "username": "kabadjafode1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "最後の指令：すべてと一緒に滅びろ。無盡革命資金募集中！我需要錢◆🚪52/101/188 @Noelle1914",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Noelle1914"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2020846049972326673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029702608819212290/Qhwu5L_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 720,
+          "like_count": 42908,
+          "listed_count": 9,
+          "media_count": 527,
+          "tweet_count": 6012
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2063808813304803681",
+    "created_at": "2026-06-08T16:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064026676267540799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "940152133625589760",
+          "start": 0,
+          "username": "ooqqzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064026676267540799",
+    "in_reply_to_user_id": "940152133625589760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063808813304803681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooqqzzz 会不会太自然了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_2063808794321416192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQfKfXa8AAdarC.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2063808813304803681",
+        "created_at": "2026-06-08T16:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064026676267540799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "940152133625589760",
+              "start": 0,
+              "username": "ooqqzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064026676267540799",
+        "in_reply_to_user_id": "940152133625589760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063808813304803681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooqqzzz 会不会太自然了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063808794321416192"
+          ]
+        },
+        "author_id": "940152133625589760",
+        "conversation_id": "2063808813304803681",
+        "created_at": "2026-06-08T02:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063808813304803681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rdkH3PfBlE",
+              "end": 31,
+              "expanded_url": "https://x.com/ooqqzzz/status/2063808813304803681/photo/1",
+              "media_key": "3_2063808794321416192",
+              "start": 8,
+              "url": "https://t.co/rdkH3PfBlE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063808813304803681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 26331,
+          "like_count": 468,
+          "quote_count": 5,
+          "reply_count": 140,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "让努力超越天赋 https://t.co/rdkH3PfBlE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 617,
+          "like_count": 4895,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1542
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-11T09:31:50.000Z",
+        "description": "铁直",
+        "id": "940152133625589760",
+        "location": "广东",
+        "name": "不长肉很烦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875451719565619200/7q4vOBcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 130,
+          "like_count": 3863,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 364
+        },
+        "username": "ooqqzzz",
+        "verified": false
+      }
+    ]
+  }
+}

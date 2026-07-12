@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992074350560976896",
+        "3_1992074350535827456"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1992074362481238102",
+    "created_at": "2025-11-22T03:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T04:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992074362481238102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uhwr1eFOdR",
+          "end": 29,
+          "expanded_url": "https://x.com/yuri__ono/status/1992074362481238102/photo/1",
+          "media_key": "3_1992074350560976896",
+          "start": 6,
+          "url": "https://t.co/Uhwr1eFOdR"
+        },
+        {
+          "display_url": "pic.x.com/Uhwr1eFOdR",
+          "end": 29,
+          "expanded_url": "https://x.com/yuri__ono/status/1992074362481238102/photo/1",
+          "media_key": "3_1992074350535827456",
+          "start": 6,
+          "url": "https://t.co/Uhwr1eFOdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992074362481238102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前割的唉 https://t.co/Uhwr1eFOdR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992074362481238102].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992074362481238102",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992074362481238102"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1541,
+        "media_key": "3_1992074350560976896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VFET9aoAAEkpv.jpg",
+        "width": 966
+      },
+      {
+        "height": 669,
+        "media_key": "3_1992074350535827456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VFET3a4AAYCrs.jpg",
+        "width": 626
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 133,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 97
+        },
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2023310425362964857",
+    "created_at": "2026-02-17T16:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T17:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023801427060228386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986701339628609536",
+          "start": 0,
+          "username": "yoyoOvO6June1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023801427060228386",
+    "in_reply_to_user_id": "1986701339628609536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023310425362964857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyoOvO6June1 年上加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2023310425362964857",
+        "created_at": "2026-02-17T16:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023801427060228386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986701339628609536",
+              "start": 0,
+              "username": "yoyoOvO6June1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023801427060228386",
+        "in_reply_to_user_id": "1986701339628609536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023310425362964857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyoOvO6June1 年上加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986701339628609536",
+        "conversation_id": "2023310425362964857",
+        "created_at": "2026-02-16T08:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023310425362964857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023310425362964857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 252957,
+          "like_count": 1136,
+          "quote_count": 38,
+          "reply_count": 45,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "叫哥哥世界上有比哥哥更色情的称呼吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 255,
+          "like_count": 1554,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 321
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T07:44:59.000Z",
+        "description": "云端备忘录📝 欢迎uu们找我互动 o(^▽^)o 大号@Yoyonevergiveup 回关眼熟的人 😋不礼貌的没有回复的义务 😈高浓度碎碎念 介意的请直接双取 谢谢 生活愉快😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Yoyonevergiveup"
+              }
+            ]
+          }
+        },
+        "id": "1986701339628609536",
+        "location": "傻逼都滚远点 ",
+        "name": "优乐美嘉",
+        "pinned_tweet_id": "2022331897742016774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012914474978611200/xVHVRopE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 380,
+          "like_count": 7212,
+          "listed_count": 2,
+          "media_count": 674,
+          "tweet_count": 3394
+        },
+        "username": "yoyoOvO6June1",
+        "verified": false
+      }
+    ]
+  }
+}

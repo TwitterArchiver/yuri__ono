@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042266501470957568"
+      ],
+      "media_source_tweet_id": [
+        "2042266503891030217"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2042653680839880979",
+    "created_at": "2026-04-10T17:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042653680839880979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1347346597902831617",
+          "start": 3,
+          "username": "ssskuang_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/un6rXsQ2OD",
+          "end": 38,
+          "expanded_url": "https://x.com/ssskuang_/status/2042266503891030217/photo/1",
+          "media_key": "3_2042266501470957568",
+          "start": 15,
+          "url": "https://t.co/un6rXsQ2OD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042653680839880979",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1597
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042266503891030217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssskuang_: https://t.co/un6rXsQ2OD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042266501470957568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeWkAzbMAA7YKO.jpg",
+        "width": 1754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042266501470957568"
+          ],
+          "media_source_tweet_id": [
+            "2042266503891030217"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2042653680839880979",
+        "created_at": "2026-04-10T17:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042653680839880979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1347346597902831617",
+              "start": 3,
+              "username": "ssskuang_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/un6rXsQ2OD",
+              "end": 38,
+              "expanded_url": "https://x.com/ssskuang_/status/2042266503891030217/photo/1",
+              "media_key": "3_2042266501470957568",
+              "start": 15,
+              "url": "https://t.co/un6rXsQ2OD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042653680839880979",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1597
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042266503891030217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ssskuang_: https://t.co/un6rXsQ2OD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042266501470957568"
+          ]
+        },
+        "author_id": "1347346597902831617",
+        "conversation_id": "2042266503891030217",
+        "created_at": "2026-04-09T15:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042266503891030217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/un6rXsQ2OD",
+              "end": 23,
+              "expanded_url": "https://x.com/ssskuang_/status/2042266503891030217/photo/1",
+              "media_key": "3_2042266501470957568",
+              "start": 0,
+              "url": "https://t.co/un6rXsQ2OD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042266503891030217",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3021,
+          "impression_count": 226670,
+          "like_count": 25895,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 1597
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/un6rXsQ2OD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 296,
+          "like_count": 2541,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 574
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-08T00:57:24.000Z",
+        "description": "只会中文 \n随便画点，感谢喜欢\n🚫禁止ai学习以及无授权转载",
+        "id": "1347346597902831617",
+        "name": "氵沰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952058341204832256/myEX9k51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107290,
+          "following_count": 456,
+          "like_count": 832,
+          "listed_count": 708,
+          "media_count": 297,
+          "tweet_count": 641
+        },
+        "username": "ssskuang_",
+        "verified": false
+      }
+    ]
+  }
+}

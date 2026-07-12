@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2025427587116531999",
+    "created_at": "2026-02-22T08:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T09:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025490827758403669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917804398824022016",
+          "start": 0,
+          "username": "lne_li19885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025490827758403669",
+    "in_reply_to_user_id": "1917804398824022016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025427587116531999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lne_li19885 妈咪女神欧尼🥹🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025427554665201664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvDoTobgAAbVGU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2025427587116531999",
+        "created_at": "2026-02-22T08:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025490827758403669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917804398824022016",
+              "start": 0,
+              "username": "lne_li19885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025490827758403669",
+        "in_reply_to_user_id": "1917804398824022016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025427587116531999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lne_li19885 妈咪女神欧尼🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025427554665201664"
+          ]
+        },
+        "author_id": "1917804398824022016",
+        "conversation_id": "2025427587116531999",
+        "created_at": "2026-02-22T04:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025427587116531999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "les"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0Mkk31BhZ",
+              "end": 48,
+              "expanded_url": "https://x.com/lne_li19885/status/2025427587116531999/photo/1",
+              "media_key": "3_2025427554665201664",
+              "start": 25,
+              "url": "https://t.co/N0Mkk31BhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025427587116531999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "勾引一下姐姐🥺\n #女同性恋 #les #wlw https://t.co/N0Mkk31BhZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 260,
+          "like_count": 1681,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 348
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T04:53:03.000Z",
+        "description": "🤍ྀི⁃ ⩊ ⁃ INFP 07 重郁重焦 纯0 喜欢女生 男的勿扰",
+        "id": "1917804398824022016",
+        "name": "Painkiller",
+        "pinned_tweet_id": "2025401218030604403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019193897352851461/fO9OBS-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 75,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 358
+        },
+        "username": "lne_li19885",
+        "verified": false
+      }
+    ]
+  }
+}

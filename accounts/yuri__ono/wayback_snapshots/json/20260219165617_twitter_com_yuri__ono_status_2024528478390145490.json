@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2024528478390145490",
+    "created_at": "2026-02-19T16:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024528478390145490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wmtbxsh/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/wmtbxsh/status/2024317143693861184",
+          "start": 2,
+          "url": "https://t.co/hYrQJHkxQM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024528478390145490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024317143693861184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/hYrQJHkxQM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_2024317137565995008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfRthlbUAAsKYh.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2024528478390145490",
+        "created_at": "2026-02-19T16:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024528478390145490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wmtbxsh/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/wmtbxsh/status/2024317143693861184",
+              "start": 2,
+              "url": "https://t.co/hYrQJHkxQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024528478390145490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024317143693861184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/hYrQJHkxQM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024317137565995008"
+          ]
+        },
+        "author_id": "1223407990713114624",
+        "conversation_id": "2024317143693861184",
+        "created_at": "2026-02-19T02:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024317143693861184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUrZjbisjD",
+              "end": 34,
+              "expanded_url": "https://x.com/wmtbxsh/status/2024317143693861184/photo/1",
+              "media_key": "3_2024317137565995008",
+              "start": 11,
+              "url": "https://t.co/sUrZjbisjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024317143693861184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 33827,
+          "like_count": 1044,
+          "quote_count": 28,
+          "reply_count": 19,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "惹到我算是惹到棉花了 https://t.co/sUrZjbisjD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 257,
+          "like_count": 1650,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 336
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "name": "我明天不想说话（读研发疯版）",
+        "pinned_tweet_id": "2024309772263293255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43476,
+          "following_count": 241,
+          "like_count": 5143,
+          "listed_count": 97,
+          "media_count": 368,
+          "tweet_count": 1559
+        },
+        "username": "wmtbxsh",
+        "verified": true
+      }
+    ]
+  }
+}

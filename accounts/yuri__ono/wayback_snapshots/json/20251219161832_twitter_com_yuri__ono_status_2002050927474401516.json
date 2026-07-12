@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1936132463140413856",
+    "created_at": "2025-12-19T16:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T17:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002050927474401516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1883580667239223296",
+          "start": 0,
+          "username": "heteroneedhelp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002050927474401516",
+    "in_reply_to_user_id": "1883580667239223296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936132463140413856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heteroneedhelp 就是这个力度😭😭😭好爽啊我们需要更多做恨😳🥵🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60033,
+        "height": 1122,
+        "media_key": "13_1936132375412396032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936132375412396032/img/v9CoR9WBkBGwn9Ds.jpg",
+        "public_metrics": {
+          "view_count": 310083
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936132375412396032/vid/avc1/320x498/4jAN1uePjdaakIGx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936132375412396032/vid/avc1/480x748/efA1nRBB0XjmDylL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936132375412396032/vid/avc1/720x1122/8uhJ9HPCUQLlz9ej.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936132375412396032/pl/l4zECZM7UShe3LF-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1936132463140413856",
+        "created_at": "2025-12-19T16:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T17:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002050927474401516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1883580667239223296",
+              "start": 0,
+              "username": "heteroneedhelp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002050927474401516",
+        "in_reply_to_user_id": "1883580667239223296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936132463140413856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heteroneedhelp 就是这个力度😭😭😭好爽啊我们需要更多做恨😳🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936132375412396032"
+          ]
+        },
+        "author_id": "1883580667239223296",
+        "conversation_id": "1936132463140413856",
+        "created_at": "2025-06-20T18:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T19:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936132463140413856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPWh1q6Krn",
+              "end": 145,
+              "expanded_url": "https://x.com/heteroneedhelp/status/1936132463140413856/video/1",
+              "media_key": "13_1936132375412396032",
+              "start": 122,
+              "url": "https://t.co/iPWh1q6Krn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936132463140413856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1534,
+          "impression_count": 586013,
+          "like_count": 4485,
+          "quote_count": 12,
+          "reply_count": 20,
+          "retweet_count": 274
+        },
+        "reply_settings": "everyone",
+        "text": "教科书级别的做恨…先是女生用力坐奸男生被男生删了一巴掌然后她立马扇回去了把男生的两个手臂摁在墙上。其实第一次没扇彻底所以女宝后来又撑在他胸肌上扇了他🥵像是双A互相争夺主导权谁都不愿意让给对方…不过后来两个人呢又抱在一起坐…真是又爱又恨的感觉… https://t.co/iPWh1q6Krn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 180,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 164
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T18:20:10.000Z",
+        "description": "nsfw｜文笔不太好但是看得很多所以发发bg代餐！！！一爱女在我这必须吃上好的！！！内容是sweettalk和服务型男主为主，主要是指奸和舔穴｜BL代餐号分身@yaoi_thebest",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "yaoi_thebest"
+              }
+            ]
+          }
+        },
+        "id": "1883580667239223296",
+        "name": "一爱女必须吃点好的",
+        "pinned_tweet_id": "1883585359780728885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883580856314269696/JiDn4Gpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108832,
+          "following_count": 29,
+          "like_count": 819,
+          "listed_count": 100,
+          "media_count": 139,
+          "tweet_count": 366
+        },
+        "username": "heteroneedhelp",
+        "verified": false
+      }
+    ]
+  }
+}

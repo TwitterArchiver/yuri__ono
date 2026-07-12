@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2024398376570355945",
+    "created_at": "2026-02-19T16:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024528117747093851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806095301692030976",
+          "start": 0,
+          "username": "justTinaforu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024528117747093851",
+    "in_reply_to_user_id": "1806095301692030976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024398376570355945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justTinaforu 我笑的好崩溃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 635,
+        "media_key": "3_2024398370790658051",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgbl67bUAM9MO_.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2024398376570355945",
+        "created_at": "2026-02-19T16:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024528117747093851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806095301692030976",
+              "start": 0,
+              "username": "justTinaforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024528117747093851",
+        "in_reply_to_user_id": "1806095301692030976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024398376570355945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justTinaforu 我笑的好崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024398370790658051"
+          ]
+        },
+        "author_id": "1806095301692030976",
+        "conversation_id": "2024398376570355945",
+        "created_at": "2026-02-19T08:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024398376570355945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkLqaZV4Sb",
+              "end": 28,
+              "expanded_url": "https://x.com/justTinaforu/status/2024398376570355945/photo/1",
+              "media_key": "3_2024398370790658051",
+              "start": 5,
+              "url": "https://t.co/zkLqaZV4Sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024398376570355945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 142172,
+          "like_count": 515,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "满意了吧 https://t.co/zkLqaZV4Sb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 256,
+          "like_count": 1649,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 335
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T22:41:04.000Z",
+        "description": "只想跟你去避世 风再急可捉紧你手",
+        "id": "1806095301692030976",
+        "name": "Tina缇娜",
+        "pinned_tweet_id": "2012438867471667622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806114646333747200/_VzoPmn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5744,
+          "following_count": 90,
+          "like_count": 1431,
+          "listed_count": 14,
+          "media_count": 2177,
+          "tweet_count": 5841
+        },
+        "username": "justTinaforu",
+        "verified": false
+      }
+    ]
+  }
+}

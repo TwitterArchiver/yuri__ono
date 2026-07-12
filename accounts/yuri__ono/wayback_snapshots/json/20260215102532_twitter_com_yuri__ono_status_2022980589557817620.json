@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2022980589557817620",
+    "created_at": "2026-02-15T10:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022980589557817620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/hsn8086/status/2022952274646221129",
+          "start": 4,
+          "url": "https://t.co/MwPCk3UF1A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022980589557817620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022952274646221129",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我肚肚 https://t.co/MwPCk3UF1A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_2022952266123350017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL4XjPakAEWDVb.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2022980589557817620",
+        "created_at": "2026-02-15T10:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022980589557817620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hsn8086/status/2022952274646221129",
+              "start": 4,
+              "url": "https://t.co/MwPCk3UF1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022980589557817620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022952274646221129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我肚肚 https://t.co/MwPCk3UF1A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022952266123350017"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2022952274646221129",
+        "created_at": "2026-02-15T08:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022952274646221129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKDf0ownHz",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2022952274646221129/photo/1",
+              "media_key": "3_2022952266123350017",
+              "start": 0,
+              "url": "https://t.co/NKDf0ownHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022952274646221129",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 33731,
+          "like_count": 316,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NKDf0ownHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 255,
+          "like_count": 1519,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 312
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117535,
+          "following_count": 1042,
+          "like_count": 51512,
+          "listed_count": 272,
+          "media_count": 19242,
+          "tweet_count": 29218
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

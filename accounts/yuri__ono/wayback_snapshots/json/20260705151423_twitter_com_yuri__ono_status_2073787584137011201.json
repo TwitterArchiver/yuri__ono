@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2073772930912457152",
+    "created_at": "2026-07-05T15:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073787584137011201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1672821084381655041",
+          "start": 0,
+          "username": "zhngruq3622424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073787584137011201",
+    "in_reply_to_user_id": "1672821084381655041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073780530655740058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngruq3622424 我支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2073772930912457152",
+        "created_at": "2026-07-05T15:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073787584137011201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1672821084381655041",
+              "start": 0,
+              "username": "zhngruq3622424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073787584137011201",
+        "in_reply_to_user_id": "1672821084381655041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073780530655740058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngruq3622424 我支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672821084381655041",
+        "conversation_id": "2073772930912457152",
+        "created_at": "2026-07-05T14:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073780530655740058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073780530655740058",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073772930912457152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 掐死他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 888,
+          "like_count": 5655,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 2307
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T04:17:06.000Z",
+        "description": "Light up the first torch in the field of superluminal interstellar navigation for mankind  为人类点亮超光速星际航行领域的第一支火炬/当下不能拯救每一个人，但努力去拯救每一个遇到的人/我们是那些无法抵达大海的人\n但我们将留守在雨中",
+        "id": "1672821084381655041",
+        "location": "Chinese Academy Of Science",
+        "name": "云霓",
+        "pinned_tweet_id": "2060011995018203606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904350886232064/H8kndVqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 1751,
+          "like_count": 4330,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 8318
+        },
+        "url": "",
+        "username": "zhngruq3622424",
+        "verified": false
+      }
+    ]
+  }
+}

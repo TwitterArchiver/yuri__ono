@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989805145409089536"
+      ],
+      "media_source_tweet_id": [
+        "1989805148320010648"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1989872058806002024",
+    "created_at": "2025-11-16T01:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T02:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989872058806002024"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "童猗窩"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "878102284659326976",
+          "start": 3,
+          "username": "KznoBuyhm7zqrNN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KS4iLPoBCx",
+          "end": 49,
+          "expanded_url": "https://x.com/KznoBuyhm7zqrNN/status/1989805148320010648/photo/1",
+          "media_key": "3_1989805145409089536",
+          "start": 26,
+          "url": "https://t.co/KS4iLPoBCx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989872058806002024",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 701
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989805148320010648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KznoBuyhm7zqrNN: #童猗窩 https://t.co/KS4iLPoBCx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989805145409089536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G501PMBacAAraTb.jpg",
+        "width": 1507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989805145409089536"
+          ],
+          "media_source_tweet_id": [
+            "1989805148320010648"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "1989872058806002024",
+        "created_at": "2025-11-16T01:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T02:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989872058806002024"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "童猗窩"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "878102284659326976",
+              "start": 3,
+              "username": "KznoBuyhm7zqrNN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KS4iLPoBCx",
+              "end": 49,
+              "expanded_url": "https://x.com/KznoBuyhm7zqrNN/status/1989805148320010648/photo/1",
+              "media_key": "3_1989805145409089536",
+              "start": 26,
+              "url": "https://t.co/KS4iLPoBCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989872058806002024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 701
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989805148320010648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KznoBuyhm7zqrNN: #童猗窩 https://t.co/KS4iLPoBCx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989805145409089536"
+          ]
+        },
+        "author_id": "878102284659326976",
+        "conversation_id": "1989805148320010648",
+        "created_at": "2025-11-15T21:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T22:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989805148320010648"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "童猗窩"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KS4iLPoBCx",
+              "end": 28,
+              "expanded_url": "https://x.com/KznoBuyhm7zqrNN/status/1989805148320010648/photo/1",
+              "media_key": "3_1989805145409089536",
+              "start": 5,
+              "url": "https://t.co/KS4iLPoBCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989805148320010648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1625,
+          "impression_count": 53847,
+          "like_count": 11341,
+          "quote_count": 20,
+          "reply_count": 4,
+          "retweet_count": 701
+        },
+        "reply_settings": "everyone",
+        "text": "#童猗窩 https://t.co/KS4iLPoBCx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 欢迎互fo",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 117,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-23T04:07:53.000Z",
+        "description": "中國人| 杂食注意 ｜AOT 🗝️🕊️eren中心杂多⚠️.耶骨 ema 利韩 波莱 干部组｜👺鬼滅の刃❄️ 童猗窝 猗窝炼 狛恋 炭猗窝 杂多注意⚠️无洁癖 乱吃中 左右不固定r18⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=10798720",
+                "start": 0,
+                "url": "https://t.co/wkE0RGwDTy"
+              }
+            ]
+          }
+        },
+        "id": "878102284659326976",
+        "name": "厷",
+        "pinned_tweet_id": "1354160297582292993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988708558847004672/bo2vGHN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43921,
+          "following_count": 692,
+          "like_count": 1370,
+          "listed_count": 207,
+          "media_count": 973,
+          "tweet_count": 1699
+        },
+        "url": "https://t.co/wkE0RGwDTy",
+        "username": "KznoBuyhm7zqrNN",
+        "verified": false
+      }
+    ]
+  }
+}

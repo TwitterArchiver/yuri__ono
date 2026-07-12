@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2022730721526448233",
+    "created_at": "2026-02-14T17:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022730721526448233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022730721526448233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022339437829759085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: 以前玩餐券的时候是真不怕痛啊 天天在房间卫生间割的血次啦呼的觉得自己可牛逼了 现在根本下不了手 也是活成曾经最讨厌的健全b了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2022730721526448233",
+        "created_at": "2026-02-14T17:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022730721526448233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022730721526448233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022339437829759085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: 以前玩餐券的时候是真不怕痛啊 天天在房间卫生间割的血次啦呼的觉得自己可牛逼了 现在根本下不了手 也是活成曾经最讨厌的健全b了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2022339437829759085",
+        "created_at": "2026-02-13T15:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022339437829759085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022339437829759085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11750,
+          "like_count": 254,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "以前玩餐券的时候是真不怕痛啊 天天在房间卫生间割的血次啦呼的觉得自己可牛逼了 现在根本下不了手 也是活成曾经最讨厌的健全b了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 252,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 307
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "官网：https://t.co/3sBTTllLLn | 提问箱：https://t.co/b5c8bbntR6 | 里账号:@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 26,
+                "expanded_url": "http://fayou.club",
+                "start": 3,
+                "url": "https://t.co/3sBTTllLLn"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 56,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 33,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "http://taikong.mom",
+                "start": 0,
+                "url": "https://t.co/yzGHPrJoAg"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2732,
+          "following_count": 96,
+          "like_count": 11317,
+          "listed_count": 8,
+          "media_count": 648,
+          "tweet_count": 3823
+        },
+        "url": "https://t.co/yzGHPrJoAg",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

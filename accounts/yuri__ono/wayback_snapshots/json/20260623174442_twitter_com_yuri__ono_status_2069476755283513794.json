@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2069376477494439985",
+    "created_at": "2026-06-23T17:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069476755283513794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "482147748",
+          "start": 0,
+          "username": "asahi_ams"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069476755283513794",
+    "in_reply_to_user_id": "482147748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069474291419062664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahi_ams 看着香香"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069474285576388608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLg_5e-WAAAP9Jz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2069376477494439985",
+        "created_at": "2026-06-23T17:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069476755283513794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "482147748",
+              "start": 0,
+              "username": "asahi_ams"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069476755283513794",
+        "in_reply_to_user_id": "482147748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069474291419062664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahi_ams 看着香香"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069474285576388608"
+          ]
+        },
+        "author_id": "482147748",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069376477494439985",
+        "created_at": "2026-06-23T17:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069474291419062664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2BgKGxULnn",
+              "end": 43,
+              "expanded_url": "https://x.com/asahi_ams/status/2069474291419062664/photo/1",
+              "media_key": "3_2069474285576388608",
+              "start": 20,
+              "url": "https://t.co/2BgKGxULnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069474291419062664",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069376477494439985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 晚餐吃的意式披萨 https://t.co/2BgKGxULnn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 792,
+          "like_count": 5381,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2027
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-03T15:43:03.000Z",
+        "description": "感觉快要被AI替代的程序员",
+        "id": "482147748",
+        "location": "Amsterdam, The Netherlands",
+        "name": "墨染枫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069427852894724096/FtL1-uvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 176,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "asahi_ams",
+        "verified": false
+      }
+    ]
+  }
+}

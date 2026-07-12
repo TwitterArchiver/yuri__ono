@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "username": "@yuri__ono",
+  "bio": "",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 74,
+        "start": 64,
+        "username": "Yuri__ovo"
+      }
+    ]
+  }
+}

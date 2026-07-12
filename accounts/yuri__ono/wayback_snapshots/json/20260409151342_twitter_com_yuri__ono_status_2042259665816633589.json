@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041905698825760776"
+      ],
+      "media_source_tweet_id": [
+        "2041905708170670492"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2042259665816633589",
+    "created_at": "2026-04-09T15:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042259665816633589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "OVOTVTOVO_3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AN8aTaY8i7",
+          "end": 67,
+          "expanded_url": "https://x.com/OVOTVTOVO_3/status/2041905708170670492/photo/1",
+          "media_key": "3_2041905698825760776",
+          "start": 44,
+          "url": "https://t.co/AN8aTaY8i7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042259665816633589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041905708170670492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OVOTVTOVO_3: 我感觉这种半写实画风好好看啊 再也不画圆珠笔画了😂😂 https://t.co/AN8aTaY8i7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041905698825760776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZOaiNa8Ag6DST.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041905698825760776"
+          ],
+          "media_source_tweet_id": [
+            "2041905708170670492"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2042259665816633589",
+        "created_at": "2026-04-09T15:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042259665816633589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "OVOTVTOVO_3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AN8aTaY8i7",
+              "end": 67,
+              "expanded_url": "https://x.com/OVOTVTOVO_3/status/2041905708170670492/photo/1",
+              "media_key": "3_2041905698825760776",
+              "start": 44,
+              "url": "https://t.co/AN8aTaY8i7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042259665816633589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041905708170670492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OVOTVTOVO_3: 我感觉这种半写实画风好好看啊 再也不画圆珠笔画了😂😂 https://t.co/AN8aTaY8i7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041905698825760776"
+          ]
+        },
+        "author_id": "1829229897195368455",
+        "conversation_id": "2041905708170670492",
+        "created_at": "2026-04-08T15:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041905708170670492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AN8aTaY8i7",
+              "end": 50,
+              "expanded_url": "https://x.com/OVOTVTOVO_3/status/2041905708170670492/photo/1",
+              "media_key": "3_2041905698825760776",
+              "start": 27,
+              "url": "https://t.co/AN8aTaY8i7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041905708170670492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1450,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉这种半写实画风好好看啊 再也不画圆珠笔画了😂😂 https://t.co/AN8aTaY8i7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 294,
+          "like_count": 2487,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 560
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户2778（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 67,
+          "like_count": 3159,
+          "listed_count": 1,
+          "media_count": 288,
+          "tweet_count": 4600
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "OVOTVTOVO_3",
+        "verified": false
+      }
+    ]
+  }
+}

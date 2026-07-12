@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2068162665177084159",
+    "created_at": "2026-06-20T07:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068232251201171835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1555063899870855168",
+          "start": 0,
+          "username": "NIREKAWA_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068232251201171835",
+    "in_reply_to_user_id": "1555063899870855168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068162665177084159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NIREKAWA_ 这么爽几个意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068162658076082176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOW-txaQAARKPU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2068162665177084159",
+        "created_at": "2026-06-20T07:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068232251201171835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1555063899870855168",
+              "start": 0,
+              "username": "NIREKAWA_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068232251201171835",
+        "in_reply_to_user_id": "1555063899870855168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068162665177084159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NIREKAWA_ 这么爽几个意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068162658076082176"
+          ]
+        },
+        "author_id": "1555063899870855168",
+        "conversation_id": "2068162665177084159",
+        "created_at": "2026-06-20T02:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068162665177084159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/91ztRVSpmi",
+              "end": 50,
+              "expanded_url": "https://x.com/NIREKAWA_/status/2068162665177084159/photo/1",
+              "media_key": "3_2068162658076082176",
+              "start": 27,
+              "url": "https://t.co/91ztRVSpmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068162665177084159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实这双手很适合拍一些又涩又好看的照片啊 谁想和我拍 https://t.co/91ztRVSpmi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 755,
+          "like_count": 5217,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1869
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T05:31:50.000Z",
+        "description": "我大部分时间觉得看谁都不顺眼，就想在网上骂一骂，我当时怀疑我也是狂躁症。后来我真的去医院看了，填了一堆调查问卷，那个医生说我什么事都没有，后来@NIREKAWA_扔根骨头我就好了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "NIREKAWA_"
+              }
+            ]
+          }
+        },
+        "id": "1555063899870855168",
+        "location": "アモイ",
+        "name": "負荷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555679215059472384/E0Ik1czT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 98,
+          "like_count": 903,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "NIREKAWA_",
+        "verified": false
+      }
+    ]
+  }
+}

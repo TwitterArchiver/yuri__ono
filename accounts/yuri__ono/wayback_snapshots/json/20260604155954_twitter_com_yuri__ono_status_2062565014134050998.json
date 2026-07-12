@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2061872214690197692",
+    "created_at": "2026-06-04T15:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062565014134050998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1928776430063857665",
+          "start": 0,
+          "username": "ahanpoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062565014134050998",
+    "in_reply_to_user_id": "1928776430063857665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061872214690197692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahanpoq 我天闺蜜你火了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2061872204728688640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ092I8a4AAKQA8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2061872214690197692",
+        "created_at": "2026-06-04T15:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062565014134050998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1928776430063857665",
+              "start": 0,
+              "username": "ahanpoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062565014134050998",
+        "in_reply_to_user_id": "1928776430063857665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061872214690197692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahanpoq 我天闺蜜你火了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061872204728688640"
+          ]
+        },
+        "author_id": "1928776430063857665",
+        "conversation_id": "2061872214690197692",
+        "created_at": "2026-06-02T18:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061872214690197692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxw3nVfTbj",
+              "end": 43,
+              "expanded_url": "https://x.com/ahanpoq/status/2061872214690197692/photo/1",
+              "media_key": "3_2061872204728688640",
+              "start": 20,
+              "url": "https://t.co/rxw3nVfTbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061872214690197692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 39111,
+          "like_count": 1084,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "别人：叫爸爸\n我：皇阿玛万岁万岁万万岁 https://t.co/rxw3nVfTbj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 598,
+          "like_count": 4800,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1495
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T11:32:02.000Z",
+        "description": "脱产的一个自学留学生165-43\n不卖衣物不➕V    分享自己的碎碎念",
+        "id": "1928776430063857665",
+        "location": "吧唧",
+        "name": "🥑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929161465929560064/kUB_Dfv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 295,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 231
+        },
+        "username": "ahanpoq",
+        "verified": false
+      }
+    ]
+  }
+}

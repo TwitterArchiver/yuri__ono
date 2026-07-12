@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2069364556384841772",
+    "created_at": "2026-06-24T11:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069738389126230450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2023796816589058050",
+          "start": 0,
+          "username": "saeppbwe29919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069738389126230450",
+    "in_reply_to_user_id": "2023796816589058050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069364556384841772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saeppbwe29919 真好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2069364556384841772",
+        "created_at": "2026-06-24T11:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069738389126230450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2023796816589058050",
+              "start": 0,
+              "username": "saeppbwe29919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069738389126230450",
+        "in_reply_to_user_id": "2023796816589058050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069364556384841772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saeppbwe29919 真好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023796816589058050",
+        "conversation_id": "2069364556384841772",
+        "created_at": "2026-06-23T10:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069364556384841772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069364556384841772",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "상견례 당일 파혼함 ㅠㅠ\n어떻게 생각해??\n\n시어머니: \"우리 아들한테 들으니 결혼하자마자 새 아파트에 들어간다는데, 1년만 우리 집에서 시할머니 모시는 법 배우고 분가하는 게 어떻습니까?\"\n\n우리 엄마: \"저도 딸 충분히 가르쳤습니다. 부족한 건 제가 신혼집 가서 가르칠 테니 애들 신혼 즐기게 두시죠. 저도 모시고 살아보니 신혼 때 둘만의 시간이 없던 게 후회되더라고요.\"\n\n시어머니: \"그래도 그건 경우가 아니죠. 저도 구순 넘은 어머니 모시는데, 며느리도 보고 배워야 합니다. 제가 잘 가르쳐서 분가시키겠습니다.\"\n\n우리 엄마: \"자꾸 가르치겠다고 하시는데... 그렇게 부족해 보이면 이 결혼 미루겠습니다. 제 딸 제가 더 가르쳐서 보내죠.\"\n\n시어머니: \"지금 파혼시키겠다는 겁니까?!\"\n\n우리 엄마: \"맞습니다. 파혼해야죠. 남의 집 귀한 딸을 시어머니도 아니고 시할머니까지 모시고 살라는데, 어느 엄마가 보냅니까?\""
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 539,
+          "impression_count": 1330633,
+          "like_count": 9674,
+          "quote_count": 226,
+          "reply_count": 155,
+          "retweet_count": 912
+        },
+        "reply_settings": "everyone",
+        "text": "상견례 당일 파혼함 ㅠㅠ\n어떻게 생각해??\n\n시어머니: \"우리 아들한테 들으니 결혼하자마자 새 아파트에 들어간다는데, 1년만 우리 집에서 시할머니 모시는 법 배우고 분가하는 게 어떻습니까?\"\n\n우리 엄마: \"저도 딸 충분히 가르쳤습니다. 부족한 건 제가 신혼집 가서 가르칠 테니 애들 신혼 즐기게"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 811,
+          "like_count": 5410,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2068
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T16:29:24.000Z",
+        "description": "저는 세상의 속도에 맞추지 않고 방향을 맞추는 사람이 되고 싶어요.",
+        "id": "2023796816589058050",
+        "name": "늦봄",
+        "pinned_tweet_id": "2069364556384841772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049671187006095360/YqGqS5ff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 2269,
+          "like_count": 36161,
+          "listed_count": 6,
+          "media_count": 1308,
+          "tweet_count": 23684
+        },
+        "url": "",
+        "username": "saeppbwe29919",
+        "verified": true
+      }
+    ]
+  }
+}

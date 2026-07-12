@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2010345500726419828",
+    "created_at": "2026-01-11T22:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T23:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010480485894619516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1997228580846342144",
+          "start": 0,
+          "username": "oYIxQuyEUD50681"
+        },
+        {
+          "end": 27,
+          "id": "1840720004620361728",
+          "start": 17,
+          "username": "KaoriAoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010480485894619516",
+    "in_reply_to_user_id": "1997228580846342144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010390717781381469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oYIxQuyEUD50681 @KaoriAoii 😱原来6老师也玩第五 不受委屈大人赢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2010345500726419828",
+        "created_at": "2026-01-11T22:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T23:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010480485894619516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1997228580846342144",
+              "start": 0,
+              "username": "oYIxQuyEUD50681"
+            },
+            {
+              "end": 27,
+              "id": "1840720004620361728",
+              "start": 17,
+              "username": "KaoriAoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010480485894619516",
+        "in_reply_to_user_id": "1997228580846342144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010390717781381469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oYIxQuyEUD50681 @KaoriAoii 😱原来6老师也玩第五 不受委屈大人赢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997228580846342144",
+        "conversation_id": "2010345500726419828",
+        "created_at": "2026-01-11T16:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010390717781381469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            },
+            {
+              "end": 21,
+              "id": "1840720004620361728",
+              "start": 11,
+              "username": "KaoriAoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010390717781381469",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010366621374894417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono @KaoriAoii 我就是因为杰克被前锋击球爆打才练的博士"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 214,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 213
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T08:56:23.000Z",
+        "description": "擦边男\\男喘 不要冷暴力我",
+        "id": "1997228580846342144",
+        "name": "6",
+        "pinned_tweet_id": "2006576127830294990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003502567108804613/HztYtsI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 64,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 60
+        },
+        "username": "oYIxQuyEUD50681",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:47:15.000Z",
+        "description": "“迈向平庸。”\n=小香丨画师丨utau+vocaloid丨爱鸡tv丨第五人格丨無言フォロー失礼します丨🚪88线上陪聊",
+        "id": "1840720004620361728",
+        "location": "后室",
+        "name": "苍井香绪里",
+        "pinned_tweet_id": "1980685233134633169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009132572677427202/6Hpox6aw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 143,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 537
+        },
+        "username": "KaoriAoii",
+        "verified": false
+      }
+    ]
+  }
+}

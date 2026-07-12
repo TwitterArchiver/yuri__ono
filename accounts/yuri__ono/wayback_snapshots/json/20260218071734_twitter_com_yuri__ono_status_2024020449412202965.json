@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2023765984709054907",
+    "created_at": "2026-02-18T07:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024020449412202965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1749798935357767680",
+          "start": 0,
+          "username": "Nameiccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024020449412202965",
+    "in_reply_to_user_id": "1749798935357767680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023765984709054907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nameiccc 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2023765984709054907",
+        "created_at": "2026-02-18T07:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024020449412202965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749798935357767680",
+              "start": 0,
+              "username": "Nameiccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024020449412202965",
+        "in_reply_to_user_id": "1749798935357767680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023765984709054907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nameiccc 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749798935357767680",
+        "conversation_id": "2023765984709054907",
+        "created_at": "2026-02-17T14:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023765984709054907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023765984709054907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 240191,
+          "like_count": 614,
+          "quote_count": 0,
+          "reply_count": 77,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得敢在推上逼奶脸/鸡脸都发的人都很牛 佩服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 257,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 325
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T14:19:18.000Z",
+        "description": "日常，碎碎念..",
+        "id": "1749798935357767680",
+        "location": "🚪52",
+        "name": "海克斯科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884611841625890816/fNfl7BWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65456,
+          "following_count": 16,
+          "like_count": 658,
+          "listed_count": 137,
+          "media_count": 276,
+          "tweet_count": 433
+        },
+        "username": "Nameiccc",
+        "verified": false
+      }
+    ]
+  }
+}

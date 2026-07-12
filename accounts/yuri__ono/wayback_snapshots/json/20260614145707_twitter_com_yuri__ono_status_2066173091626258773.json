@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2066125728899600778",
+    "created_at": "2026-06-14T14:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066173091626258773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2059801730288848896",
+          "start": 0,
+          "username": "wse0ql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066173091626258773",
+    "in_reply_to_user_id": "2059801730288848896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066125728899600778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wse0ql 这么轻！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2066125728899600778",
+        "created_at": "2026-06-14T14:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066173091626258773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2059801730288848896",
+              "start": 0,
+              "username": "wse0ql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066173091626258773",
+        "in_reply_to_user_id": "2059801730288848896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066125728899600778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wse0ql 这么轻！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059801730288848896",
+        "conversation_id": "2066125728899600778",
+        "created_at": "2026-06-14T11:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066125728899600778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066125728899600778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我你将得到一只 \n身高182 体重60 \n多才多艺的🐖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 646,
+          "like_count": 4990,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1612
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T01:00:07.000Z",
+        "description": "前黄推男喘，想看以前的涩图可以私信我。\n欢迎找我玩&互关，青受，会喘，性癖是服务型，可以当主人也可以当小狗。不约，不线下，不加联系方式。我有钱，不收🚪。",
+        "id": "2059801730288848896",
+        "location": "彗星",
+        "name": "艾草配脐橙",
+        "pinned_tweet_id": "2064015302623633444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060954665517498368/L-evkFZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 284,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 221
+        },
+        "username": "wse0ql",
+        "verified": true
+      }
+    ]
+  }
+}

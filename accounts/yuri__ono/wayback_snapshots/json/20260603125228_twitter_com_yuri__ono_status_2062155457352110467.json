@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2062003280302178414",
+    "created_at": "2026-06-03T12:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062155457352110467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987561311438610432",
+          "start": 0,
+          "username": "xrwi238646"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062155457352110467",
+    "in_reply_to_user_id": "1987561311438610432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062003280302178414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xrwi238646 我求你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2062003280302178414",
+        "created_at": "2026-06-03T12:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062155457352110467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987561311438610432",
+              "start": 0,
+              "username": "xrwi238646"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062155457352110467",
+        "in_reply_to_user_id": "1987561311438610432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062003280302178414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xrwi238646 我求你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987561311438610432",
+        "conversation_id": "2062003280302178414",
+        "created_at": "2026-06-03T02:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062003280302178414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062003280302178414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 48004,
+          "like_count": 320,
+          "quote_count": 3,
+          "reply_count": 153,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我20岁不是处女怎么了？？！昨晚一个男的跟我聊天，问我是不是处女，我说不是，他就开始教育我，说00后不要脸不知道洁身自好，实在是太随便了，对不起父母。不是哥们我一男的我不是处女怎么了?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 599,
+          "like_count": 4784,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1488
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T16:42:13.000Z",
+        "description": "06｜男的｜不定时上线。｜欢迎互fo｜互fo会查主页成分。｜很多废话吵到你们报意丝。｜不是男同😡\n176 目前64.7kg，健身中……（仅拍照记录）\n低精力小猪。 另一个我：@yzovoc7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 87,
+                "username": "yzovoc7"
+              }
+            ]
+          }
+        },
+        "id": "1987561311438610432",
+        "location": "0.1km",
+        "name": "装忧郁蹲在地上被狗认为是在出餐",
+        "pinned_tweet_id": "2061397921841791468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046234866090721280/Xsbi1Oxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 199,
+          "like_count": 4143,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 2013
+        },
+        "username": "xrwi238646",
+        "verified": false
+      }
+    ]
+  }
+}

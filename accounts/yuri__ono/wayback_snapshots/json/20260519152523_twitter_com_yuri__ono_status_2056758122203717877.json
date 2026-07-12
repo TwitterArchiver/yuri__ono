@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2056758122203717877",
+    "created_at": "2026-05-19T15:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056758122203717877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2025852742707945473",
+          "start": 3,
+          "username": "kikisuki111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056758122203717877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056670314139111474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kikisuki111: 300fo 转抽\n请你吃一顿好吃的（不超过100）×1\n买点你喜欢的（不超过50）×2\n充一个svip（不超过20）×3\n\n抽到的话请一定要好好生活哦👾\n幽灵大人在这里祝你们天天开心以及感谢你们对这只幽灵的支持👻\n\n5月最后一天开  转评赞参与"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2056758122203717877",
+        "created_at": "2026-05-19T15:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056758122203717877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2025852742707945473",
+              "start": 3,
+              "username": "kikisuki111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056758122203717877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056670314139111474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kikisuki111: 300fo 转抽\n请你吃一顿好吃的（不超过100）×1\n买点你喜欢的（不超过50）×2\n充一个svip（不超过20）×3\n\n抽到的话请一定要好好生活哦👾\n幽灵大人在这里祝你们天天开心以及感谢你们对这只幽灵的支持👻\n\n5月最后一天开  转评赞参与"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2056670314139111474",
+        "created_at": "2026-05-19T09:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056670314139111474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056670314139111474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2048,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 47,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "300fo 转抽\n请你吃一顿好吃的（不超过100）×1\n买点你喜欢的（不超过50）×2\n充一个svip（不超过20）×3\n\n抽到的话请一定要好好生活哦👾\n幽灵大人在这里祝你们天天开心以及感谢你们对这只幽灵的支持👻\n\n5月最后一天开  转评赞参与"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 小号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 376,
+          "like_count": 3821,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 930
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2056531624221950243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 463,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 838
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

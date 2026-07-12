@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2033914954622111990",
+    "created_at": "2026-03-17T14:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T15:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033914954622111990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/66dekongjian/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/66dekongjian/status/2032840849344856571",
+          "start": 9,
+          "url": "https://t.co/qfUcMsdb7D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033914954622111990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032840849344856571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三角洲的一个肘子 https://t.co/qfUcMsdb7D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_2032840841639895040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYZ-ZraIAAdgwW.jpg",
+        "width": 1024
+      },
+      {
+        "height": 473,
+        "media_key": "3_2032840841648287749",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYZ-ZtaMAUwuws.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2033914954622111990",
+        "created_at": "2026-03-17T14:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033914954622111990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/66dekongjian/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/66dekongjian/status/2032840849344856571",
+              "start": 9,
+              "url": "https://t.co/qfUcMsdb7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033914954622111990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032840849344856571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三角洲的一个肘子 https://t.co/qfUcMsdb7D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032840841639895040",
+            "3_2032840841648287749"
+          ]
+        },
+        "author_id": "1997228580846342144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032840849344856571",
+        "created_at": "2026-03-14T15:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032840849344856571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xC7QXvK9RF",
+              "end": 33,
+              "expanded_url": "https://x.com/66dekongjian/status/2032840849344856571/photo/1",
+              "media_key": "3_2032840841639895040",
+              "start": 10,
+              "url": "https://t.co/xC7QXvK9RF"
+            },
+            {
+              "display_url": "pic.x.com/xC7QXvK9RF",
+              "end": 33,
+              "expanded_url": "https://x.com/66dekongjian/status/2032840849344856571/photo/1",
+              "media_key": "3_2032840841648287749",
+              "start": 10,
+              "url": "https://t.co/xC7QXvK9RF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032840849344856571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1166,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三角洲的机密皇帝😼 https://t.co/xC7QXvK9RF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 265,
+          "like_count": 1961,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 431
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T08:56:23.000Z",
+        "description": "男的\\00年\\高中老师",
+        "id": "1997228580846342144",
+        "name": "6",
+        "pinned_tweet_id": "2006576127830294990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003502567108804613/HztYtsI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 65,
+          "like_count": 1138,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 323
+        },
+        "username": "66dekongjian",
+        "verified": false
+      }
+    ]
+  }
+}

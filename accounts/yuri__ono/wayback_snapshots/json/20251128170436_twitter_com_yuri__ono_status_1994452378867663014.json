@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1994188458177278390",
+    "created_at": "2025-11-28T17:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T18:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994452378867663014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797593723536367617",
+          "start": 0,
+          "username": "wanwan12250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994452378867663014",
+    "in_reply_to_user_id": "1797593723536367617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994188458177278390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanwan12250 啊啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1990,
+        "media_key": "3_1994188451210731520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zH1KmaIAAToRB.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1994188458177278390",
+        "created_at": "2025-11-28T17:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T18:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994452378867663014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797593723536367617",
+              "start": 0,
+              "username": "wanwan12250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994452378867663014",
+        "in_reply_to_user_id": "1797593723536367617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994188458177278390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanwan12250 啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994188451210731520"
+          ]
+        },
+        "author_id": "1797593723536367617",
+        "conversation_id": "1994188458177278390",
+        "created_at": "2025-11-27T23:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T00:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994188458177278390"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "童琴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yG1zTtfTOD",
+              "end": 30,
+              "expanded_url": "https://x.com/wanwan12250/status/1994188458177278390/photo/1",
+              "media_key": "3_1994188451210731520",
+              "start": 7,
+              "url": "https://t.co/yG1zTtfTOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994188458177278390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1243,
+          "like_count": 148,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#童琴 好吧 https://t.co/yG1zTtfTOD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 144,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 119
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T11:38:46.000Z",
+        "description": "中国人，没文化，看不懂其他语言 。在推特只为看免费黄片以及发爹妈给力图片",
+        "id": "1797593723536367617",
+        "name": "老天爷啊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837512678111432715/U2s_GSBs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 256,
+          "like_count": 2165,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 52
+        },
+        "username": "wanwan12250",
+        "verified": false
+      }
+    ]
+  }
+}

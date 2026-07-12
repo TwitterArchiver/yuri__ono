@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2049056473100202067",
+    "created_at": "2026-04-28T16:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049165810560909680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        },
+        {
+          "end": 26,
+          "id": "1845443887919493120",
+          "start": 17,
+          "username": "nailv210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049165810560909680",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049127569568756179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 @nailv210 咋这么搞笑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2049056473100202067",
+        "created_at": "2026-04-28T16:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049165810560909680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            },
+            {
+              "end": 26,
+              "id": "1845443887919493120",
+              "start": 17,
+              "username": "nailv210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049165810560909680",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049127569568756179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 @nailv210 咋这么搞笑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2049056473100202067",
+        "created_at": "2026-04-28T14:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049127569568756179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845443887919493120",
+              "start": 0,
+              "username": "nailv210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049127569568756179",
+        "in_reply_to_user_id": "1845443887919493120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049127087404151085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nailv210 我是男的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 306,
+          "like_count": 2865,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 659
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892 可以干点烟代，电子烟之类的。（价格跟你外面直接买更便宜一点，我能挣个20块左右的回扣，这会让我开心几秒钟，只要有录制开箱视频售后绝对做到位） 已被学校开除",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2048782299035246669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 688,
+          "like_count": 18301,
+          "listed_count": 1,
+          "media_count": 566,
+          "tweet_count": 9005
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T12:38:19.000Z",
+        "description": "可以叫我茉莉奶绿/奶绿 女宝可以找我互fo@不线下 不鉴正 不参与网络纠纷 随机发表个人见解 感谢您的阅读 理性讨论 但善用拉黑 双相二型积极治疗中😭不o 已戒割",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nailv210",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nailv210",
+                "start": 0,
+                "url": "https://t.co/Wf57dpEuO6"
+              }
+            ]
+          }
+        },
+        "id": "1845443887919493120",
+        "name": "我总是喝茉莉奶绿",
+        "pinned_tweet_id": "2011272263816053145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928160098482016260/5ErPgTJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 105,
+          "like_count": 15333,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/Wf57dpEuO6",
+        "username": "nailv210",
+        "verified": false
+      }
+    ]
+  }
+}

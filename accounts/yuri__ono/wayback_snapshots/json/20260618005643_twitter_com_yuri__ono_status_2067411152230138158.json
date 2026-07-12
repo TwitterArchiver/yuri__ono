@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2067200158295863352",
+    "created_at": "2026-06-18T00:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067411152230138158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057522150681272320",
+          "start": 0,
+          "username": "Yuzuk1QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067411152230138158",
+    "in_reply_to_user_id": "2057522150681272320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067200158295863352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuzuk1QwQ 猫爪好文明"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067200154898399233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLArlqBaAAE09JZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2067200158295863352",
+        "created_at": "2026-06-18T00:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067411152230138158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057522150681272320",
+              "start": 0,
+              "username": "Yuzuk1QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067411152230138158",
+        "in_reply_to_user_id": "2057522150681272320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067200158295863352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuzuk1QwQ 猫爪好文明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067200154898399233"
+          ]
+        },
+        "author_id": "2057522150681272320",
+        "conversation_id": "2067200158295863352",
+        "created_at": "2026-06-17T10:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067200158295863352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "萝莉"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "反差"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xuhTX6aVtm",
+              "end": 49,
+              "expanded_url": "https://x.com/Yuzuk1QwQ/status/2067200158295863352/photo/1",
+              "media_key": "3_2067200154898399233",
+              "start": 26,
+              "url": "https://t.co/xuhTX6aVtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067200158295863352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1139,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "欧尼酱就是想看人家的脚吧~ #萝莉 #反差 #白丝 https://t.co/xuhTX6aVtm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 731,
+          "like_count": 5097,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1735
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T18:01:38.000Z",
+        "description": "08已成年，先看置顶！！！不接线下不接定制不接11,不出原味，只回关注的私信，私信请把要干什么写清楚，看不懂不会回，没回就是在睡觉ᗜωᗜ                                               \n上一世@Yuzuk1UwU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 119,
+                "username": "Yuzuk1UwU"
+              }
+            ]
+          }
+        },
+        "id": "2057522150681272320",
+        "location": "北京",
+        "name": "游星兔",
+        "pinned_tweet_id": "2066106482471690290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057522429048807424/5f3GQY5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 39,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "Yuzuk1QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

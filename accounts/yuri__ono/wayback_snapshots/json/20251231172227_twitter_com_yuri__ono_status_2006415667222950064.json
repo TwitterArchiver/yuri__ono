@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2006415667222950064",
+    "created_at": "2025-12-31T17:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T18:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006415667222950064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7765884x/statu…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/7765884x/status/2004177080465142208",
+          "start": 94,
+          "url": "https://t.co/nU8G5B6m1g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006415667222950064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004177080465142208",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好喜欢这种嗯嗯，，我最近遇到一个真小狗类型的啊啊他打游戏上头就不自觉的开始哼哼唧唧让我放过他，我说睡觉了他说晚安我回了句嗯嗯，他语气委屈巴巴的说我好敷衍。完全小狗怎么办我受不了了咋这么萌 https://t.co/nU8G5B6m1g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2006415667222950064",
+        "created_at": "2025-12-31T17:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T18:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006415667222950064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7765884x/statu…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/7765884x/status/2004177080465142208",
+              "start": 94,
+              "url": "https://t.co/nU8G5B6m1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006415667222950064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004177080465142208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好喜欢这种嗯嗯，，我最近遇到一个真小狗类型的啊啊他打游戏上头就不自觉的开始哼哼唧唧让我放过他，我说睡觉了他说晚安我回了句嗯嗯，他语气委屈巴巴的说我好敷衍。完全小狗怎么办我受不了了咋这么萌 https://t.co/nU8G5B6m1g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794754597258772481",
+        "conversation_id": "2004177080465142208",
+        "created_at": "2025-12-25T13:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004177080465142208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004177080465142208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 150200,
+          "like_count": 1049,
+          "quote_count": 10,
+          "reply_count": 44,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢小狗男  不喜欢天天说自己是小狗的男的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 200,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 184
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T15:37:16.000Z",
+        "description": "不符合你的想象 是你的预设崩了 不是我的人设崩了 ｜要做风 热烈又自由｜INTP｜养胃女｜爱是自由意志的沉沦｜纯很战士",
+        "id": "1794754597258772481",
+        "name": "寻香山茶",
+        "pinned_tweet_id": "1806956617432248577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001665213993504769/NnhKAi5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 123,
+          "like_count": 1858,
+          "listed_count": 7,
+          "media_count": 559,
+          "tweet_count": 3470
+        },
+        "username": "7765884x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2049168056484872472",
+    "created_at": "2026-04-28T16:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049168056484872472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thorino10/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/thorino10/status/2048703467322306743",
+          "start": 6,
+          "url": "https://t.co/cq2mdBx5Af"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049168056484872472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048703467322306743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "万达广场见 https://t.co/cq2mdBx5Af"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2049168056484872472",
+        "created_at": "2026-04-28T16:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049168056484872472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thorino10/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/thorino10/status/2048703467322306743",
+              "start": 6,
+              "url": "https://t.co/cq2mdBx5Af"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049168056484872472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048703467322306743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "万达广场见 https://t.co/cq2mdBx5Af"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513444882865856516",
+        "conversation_id": "2048703467322306743",
+        "created_at": "2026-04-27T09:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048703467322306743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048703467322306743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 66360,
+          "like_count": 1785,
+          "quote_count": 6,
+          "reply_count": 71,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "看到推友写的很美的推文，点开显示的一条评论，赫然一句：男大弟弟来。\n气笑了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 307,
+          "like_count": 2880,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 665
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:12:57.000Z",
+        "description": "你从不道别，你闷着头往前走，顺手接过命运递到你手上的东西，不管它是什么。",
+        "id": "1513444882865856516",
+        "name": "日内瓦十六夜",
+        "pinned_tweet_id": "1920530931422724192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977356427384721408/9V-JtoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6698,
+          "following_count": 501,
+          "like_count": 12044,
+          "listed_count": 21,
+          "media_count": 362,
+          "tweet_count": 4425
+        },
+        "username": "thorino10",
+        "verified": false
+      }
+    ]
+  }
+}

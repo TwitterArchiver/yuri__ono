@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2023439630444704138",
+    "created_at": "2026-02-16T16:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023439630444704138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/codyhunk/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/codyhunk/status/2023298789965222131",
+          "start": 8,
+          "url": "https://t.co/dhcS1k8ReA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023439630444704138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023298789965222131",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "旺旺仙贝是神！ https://t.co/dhcS1k8ReA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1267,
+        "media_key": "3_2023298781673144320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQzhaQbwAAIH6E.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2023439630444704138",
+        "created_at": "2026-02-16T16:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023439630444704138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/codyhunk/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/codyhunk/status/2023298789965222131",
+              "start": 8,
+              "url": "https://t.co/dhcS1k8ReA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023439630444704138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023298789965222131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "旺旺仙贝是神！ https://t.co/dhcS1k8ReA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023298781673144320"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023298789965222131",
+        "created_at": "2026-02-16T07:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023298789965222131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQcPq2O944",
+              "end": 28,
+              "expanded_url": "https://x.com/codyhunk/status/2023298789965222131/photo/1",
+              "media_key": "3_2023298781673144320",
+              "start": 5,
+              "url": "https://t.co/yQcPq2O944"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023298789965222131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 32182,
+          "like_count": 799,
+          "quote_count": 18,
+          "reply_count": 89,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "我选仙贝 https://t.co/yQcPq2O944"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 254,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 316
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11166,
+          "following_count": 1658,
+          "like_count": 23076,
+          "listed_count": 29,
+          "media_count": 5103,
+          "tweet_count": 8051
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

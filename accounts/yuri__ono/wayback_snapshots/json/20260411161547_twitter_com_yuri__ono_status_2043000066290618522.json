@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043000060015972352",
+        "3_2043000060020166662"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2043000066290618522",
+    "created_at": "2026-04-11T16:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T17:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043000066290618522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OxYv2mUZoR",
+          "end": 25,
+          "expanded_url": "https://x.com/yuri__ono/status/2043000066290618522/photo/1",
+          "media_key": "3_2043000060015972352",
+          "start": 2,
+          "url": "https://t.co/OxYv2mUZoR"
+        },
+        {
+          "display_url": "pic.x.com/OxYv2mUZoR",
+          "end": 25,
+          "expanded_url": "https://x.com/yuri__ono/status/2043000066290618522/photo/1",
+          "media_key": "3_2043000060020166662",
+          "start": 2,
+          "url": "https://t.co/OxYv2mUZoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043000066290618522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫 https://t.co/OxYv2mUZoR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2043000060015972352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoxuvVakAAPHVj.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2043000060020166662",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoxuvWakAY8vtw.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043000060015972352",
+            "3_2043000060020166662"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2043000066290618522",
+        "created_at": "2026-04-11T16:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043000066290618522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxYv2mUZoR",
+              "end": 25,
+              "expanded_url": "https://x.com/yuri__ono/status/2043000066290618522/photo/1",
+              "media_key": "3_2043000060015972352",
+              "start": 2,
+              "url": "https://t.co/OxYv2mUZoR"
+            },
+            {
+              "display_url": "pic.x.com/OxYv2mUZoR",
+              "end": 25,
+              "expanded_url": "https://x.com/yuri__ono/status/2043000066290618522/photo/1",
+              "media_key": "3_2043000060020166662",
+              "start": 2,
+              "url": "https://t.co/OxYv2mUZoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043000066290618522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫 https://t.co/OxYv2mUZoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 297,
+          "like_count": 2549,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 575
+        },
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

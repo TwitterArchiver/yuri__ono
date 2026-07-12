@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2068215711256961317",
+    "created_at": "2026-06-21T09:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068629206846816331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900189464972140544",
+          "start": 0,
+          "username": "ayaoshenguyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068629206846816331",
+    "in_reply_to_user_id": "1900189464972140544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068215711256961317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayaoshenguyo 四爱好棒…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068215708031606784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPHOoQbYAA268A.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2068215711256961317",
+        "created_at": "2026-06-21T09:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068629206846816331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900189464972140544",
+              "start": 0,
+              "username": "ayaoshenguyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068629206846816331",
+        "in_reply_to_user_id": "1900189464972140544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068215711256961317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayaoshenguyo 四爱好棒…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068215708031606784"
+          ]
+        },
+        "author_id": "1900189464972140544",
+        "conversation_id": "2068215711256961317",
+        "created_at": "2026-06-20T06:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068215711256961317"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "四爱"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "iiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EucI66wyJ2",
+              "end": 36,
+              "expanded_url": "https://x.com/ayaoshenguyo/status/2068215711256961317/photo/1",
+              "media_key": "3_2068215708031606784",
+              "start": 13,
+              "url": "https://t.co/EucI66wyJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068215711256961317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 9947,
+          "like_count": 669,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#四爱 #iiii 复活 https://t.co/EucI66wyJ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 768,
+          "like_count": 5295,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1922
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T14:17:53.000Z",
+        "description": "叫我阿要就可以，男，高三生，喜欢看百合，可扩列，颜控足控，4i，m😘qq  2357580148欢迎扩列(没有门槛，没同意就是没看见，给我发私信)https://t.co/ExYk7qcWGR欢迎互动😋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayao57504",
+                "end": 96,
+                "expanded_url": "https://ngl.link/ayao57504",
+                "start": 73,
+                "url": "https://t.co/ExYk7qcWGR"
+              }
+            ]
+          }
+        },
+        "id": "1900189464972140544",
+        "name": "阿要",
+        "pinned_tweet_id": "2060811620864184419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907077544966496256/v05nOqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 441,
+          "like_count": 1534,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 189
+        },
+        "url": "",
+        "username": "ayaoshenguyo",
+        "verified": false
+      }
+    ]
+  }
+}

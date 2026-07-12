@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073996844125114368",
+        "3_2073996844125073408",
+        "3_2073996844133441536"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073996851985199185",
+    "created_at": "2026-07-06T05:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073996851985199185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tGGYiYJhLw",
+          "end": 32,
+          "expanded_url": "https://x.com/yuri__ono/status/2073996851985199185/photo/1",
+          "media_key": "3_2073996844125114368",
+          "start": 9,
+          "url": "https://t.co/tGGYiYJhLw"
+        },
+        {
+          "display_url": "pic.x.com/tGGYiYJhLw",
+          "end": 32,
+          "expanded_url": "https://x.com/yuri__ono/status/2073996851985199185/photo/1",
+          "media_key": "3_2073996844125073408",
+          "start": 9,
+          "url": "https://t.co/tGGYiYJhLw"
+        },
+        {
+          "display_url": "pic.x.com/tGGYiYJhLw",
+          "end": 32,
+          "expanded_url": "https://x.com/yuri__ono/status/2073996851985199185/photo/1",
+          "media_key": "3_2073996844133441536",
+          "start": 9,
+          "url": "https://t.co/tGGYiYJhLw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073996851985199185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一晚上三条啦啦啦 https://t.co/tGGYiYJhLw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2073996844125114368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhRJCdb0AAHQ4B.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2073996844125073408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhRJCdbMAAPqkK.jpg",
+        "width": 1728
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2073996844133441536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhRJCfa4AAAI2H.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073996844125114368",
+            "3_2073996844125073408",
+            "3_2073996844133441536"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073996851985199185",
+        "created_at": "2026-07-06T05:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073996851985199185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGGYiYJhLw",
+              "end": 32,
+              "expanded_url": "https://x.com/yuri__ono/status/2073996851985199185/photo/1",
+              "media_key": "3_2073996844125114368",
+              "start": 9,
+              "url": "https://t.co/tGGYiYJhLw"
+            },
+            {
+              "display_url": "pic.x.com/tGGYiYJhLw",
+              "end": 32,
+              "expanded_url": "https://x.com/yuri__ono/status/2073996851985199185/photo/1",
+              "media_key": "3_2073996844125073408",
+              "start": 9,
+              "url": "https://t.co/tGGYiYJhLw"
+            },
+            {
+              "display_url": "pic.x.com/tGGYiYJhLw",
+              "end": 32,
+              "expanded_url": "https://x.com/yuri__ono/status/2073996851985199185/photo/1",
+              "media_key": "3_2073996844133441536",
+              "start": 9,
+              "url": "https://t.co/tGGYiYJhLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073996851985199185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一晚上三条啦啦啦 https://t.co/tGGYiYJhLw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 899,
+          "like_count": 5660,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 2314
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

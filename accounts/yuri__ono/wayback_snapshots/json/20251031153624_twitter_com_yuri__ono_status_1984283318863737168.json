@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984283272621527041"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1984283318863737168",
+    "created_at": "2025-10-31T15:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T16:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984283318863737168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sGAy33T2oX",
+          "end": 35,
+          "expanded_url": "https://x.com/yuri__ono/status/1984283318863737168/photo/1",
+          "media_key": "3_1984283272621527041",
+          "start": 12,
+          "url": "https://t.co/sGAy33T2oX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984283318863737168",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "_:(´ཀ`」 ∠): https://t.co/sGAy33T2oX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1984283272621527041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mXH45bEAEaO2J.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984283272621527041"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "1984283318863737168",
+        "created_at": "2025-10-31T15:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984283318863737168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sGAy33T2oX",
+              "end": 35,
+              "expanded_url": "https://x.com/yuri__ono/status/1984283318863737168/photo/1",
+              "media_key": "3_1984283272621527041",
+              "start": 12,
+              "url": "https://t.co/sGAy33T2oX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984283318863737168",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "_:(´ཀ`」 ∠): https://t.co/sGAy33T2oX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 90,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2068440269587128560",
+    "created_at": "2026-06-21T09:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068632193229049969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2056561044307558400",
+          "start": 0,
+          "username": "ChL01C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068632193229049969",
+    "in_reply_to_user_id": "2056561044307558400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068440269587128560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChL01C omg真可爱呀咪咪咪咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068440252080164864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSTc0BbkAAu7T7.jpg",
+        "width": 1149
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2068440269587128560",
+        "created_at": "2026-06-21T09:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068632193229049969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2056561044307558400",
+              "start": 0,
+              "username": "ChL01C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068632193229049969",
+        "in_reply_to_user_id": "2056561044307558400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068440269587128560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChL01C omg真可爱呀咪咪咪咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068440252080164864"
+          ]
+        },
+        "author_id": "2056561044307558400",
+        "conversation_id": "2068440269587128560",
+        "created_at": "2026-06-20T21:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T22:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068440269587128560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsbQIn25Q2",
+              "end": 28,
+              "expanded_url": "https://x.com/ChL01C/status/2068440269587128560/photo/1",
+              "media_key": "3_2068440252080164864",
+              "start": 5,
+              "url": "https://t.co/ZsbQIn25Q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068440269587128560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪不胖脸 https://t.co/ZsbQIn25Q2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 769,
+          "like_count": 5300,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1927
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T02:24:25.000Z",
+        "description": "010/m",
+        "id": "2056561044307558400",
+        "name": "Chloe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056562421557501952/-72Ar5s8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 206,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "ChL01C",
+        "verified": false
+      }
+    ]
+  }
+}

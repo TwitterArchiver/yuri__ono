@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2066397773881303418",
+    "created_at": "2026-06-16T05:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066750429732712606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1462088443471691776",
+          "start": 0,
+          "username": "Death962860146"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066750429732712606",
+    "in_reply_to_user_id": "1462088443471691776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066413967250166023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Death962860146 你吃不过你信不信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2066397773881303418",
+        "created_at": "2026-06-16T05:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066750429732712606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1462088443471691776",
+              "start": 0,
+              "username": "Death962860146"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066750429732712606",
+        "in_reply_to_user_id": "1462088443471691776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066413967250166023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Death962860146 你吃不过你信不信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462088443471691776",
+        "conversation_id": "2066397773881303418",
+        "created_at": "2026-06-15T06:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066413967250166023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066413967250166023",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066397773881303418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 你也要巧乐兹配雪碧了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 716,
+          "like_count": 5044,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1679
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T16:00:30.000Z",
+        "description": "",
+        "id": "1462088443471691776",
+        "name": "。。。。",
+        "pinned_tweet_id": "2013226156196347907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598665125187047424/stHmf3GM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 3407,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 126
+        },
+        "username": "Death962860146",
+        "verified": false
+      }
+    ]
+  }
+}

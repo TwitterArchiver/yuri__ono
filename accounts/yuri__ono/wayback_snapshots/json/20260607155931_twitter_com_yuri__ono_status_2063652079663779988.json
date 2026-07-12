@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063652073665921024"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2063610560646963444",
+    "created_at": "2026-06-07T15:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063652079663779988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809519299754958848",
+          "start": 0,
+          "username": "xiuyui1114"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Be6wUaqW7h",
+          "end": 40,
+          "expanded_url": "https://x.com/yuri__ono/status/2063652079663779988/photo/1",
+          "media_key": "3_2063652073665921024",
+          "start": 17,
+          "url": "https://t.co/Be6wUaqW7h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063652079663779988",
+    "in_reply_to_user_id": "1809519299754958848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063612161377853537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiuyui1114 我绷住了 https://t.co/Be6wUaqW7h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_2063652073665921024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOQoJbbAAAOX7r.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063652073665921024"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2063610560646963444",
+        "created_at": "2026-06-07T15:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063652079663779988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809519299754958848",
+              "start": 0,
+              "username": "xiuyui1114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Be6wUaqW7h",
+              "end": 40,
+              "expanded_url": "https://x.com/yuri__ono/status/2063652079663779988/photo/1",
+              "media_key": "3_2063652073665921024",
+              "start": 17,
+              "url": "https://t.co/Be6wUaqW7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063652079663779988",
+        "in_reply_to_user_id": "1809519299754958848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063612161377853537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiuyui1114 我绷住了 https://t.co/Be6wUaqW7h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809519299754958848",
+        "conversation_id": "2063610560646963444",
+        "created_at": "2026-06-07T13:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063612161377853537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063612161377853537",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063610560646963444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono ‘Ok’哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 612,
+          "like_count": 4866,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1528
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T09:26:50.000Z",
+        "description": "",
+        "id": "1809519299754958848",
+        "name": "喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061275309962567680/X3g7VkQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "xiuyui1114",
+        "verified": false
+      }
+    ]
+  }
+}

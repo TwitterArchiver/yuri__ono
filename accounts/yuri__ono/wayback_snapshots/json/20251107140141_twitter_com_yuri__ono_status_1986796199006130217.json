@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1986408415086919819",
+    "created_at": "2025-11-07T14:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T15:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986796199006130217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1631490280997412864",
+          "start": 0,
+          "username": "meho37371461"
+        },
+        {
+          "end": 28,
+          "id": "1960389326258495492",
+          "start": 14,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986796199006130217",
+    "in_reply_to_user_id": "1631490280997412864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986455263084245226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meho37371461 @looolzaozimin 看o的什么吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1986408415086919819",
+        "created_at": "2025-11-07T14:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986796199006130217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1631490280997412864",
+              "start": 0,
+              "username": "meho37371461"
+            },
+            {
+              "end": 28,
+              "id": "1960389326258495492",
+              "start": 14,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986796199006130217",
+        "in_reply_to_user_id": "1631490280997412864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986455263084245226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meho37371461 @looolzaozimin 看o的什么吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631490280997412864",
+        "conversation_id": "1986408415086919819",
+        "created_at": "2025-11-06T15:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986455263084245226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960389326258495492",
+              "start": 0,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986455263084245226",
+        "in_reply_to_user_id": "1960389326258495492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1840,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986408415086919819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@looolzaozimin 我还不知道od以后状态是怎么样的\n会很快乐吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 92,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T03:03:24.000Z",
+        "description": "不藏了~是的我是跨反正也藏不住~\n其中之一爱好就是爱埋雷💥偷窥狂😈",
+        "id": "1631490280997412864",
+        "name": "Thank you my friend🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1976386427165290648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986316165572943872/0uCmAKz__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 434,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 491
+        },
+        "username": "meho37371461",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "我叫小藻性别是怪诞小精灵喜欢我的话请给我钱吧",
+        "id": "1960389326258495492",
+        "location": "🚪188",
+        "name": "下坠下坠下坠",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979667185812258816/DUbJWtJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18846,
+          "following_count": 18,
+          "like_count": 55,
+          "listed_count": 21,
+          "media_count": 48,
+          "tweet_count": 95
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

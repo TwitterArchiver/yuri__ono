@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064427205124657152",
+        "3_2064427206873653248",
+        "3_2064427204843634688"
+      ],
+      "media_source_tweet_id": [
+        "2064427210535215172",
+        "2064427210535215172",
+        "2064427210535215172"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2065090707514331224",
+    "created_at": "2026-06-11T15:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065090707514331224"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "门槛"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "非绿"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "郑州"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1989029965762031616",
+          "start": 3,
+          "username": "LaoLa2007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XSlom9YAbe",
+          "end": 113,
+          "expanded_url": "https://x.com/LaoLa2007/status/2064427210535215172/photo/1",
+          "media_key": "3_2064427205124657152",
+          "start": 90,
+          "url": "https://t.co/XSlom9YAbe"
+        },
+        {
+          "display_url": "pic.x.com/XSlom9YAbe",
+          "end": 113,
+          "expanded_url": "https://x.com/LaoLa2007/status/2064427210535215172/photo/1",
+          "media_key": "3_2064427206873653248",
+          "start": 90,
+          "url": "https://t.co/XSlom9YAbe"
+        },
+        {
+          "display_url": "pic.x.com/XSlom9YAbe",
+          "end": 113,
+          "expanded_url": "https://x.com/LaoLa2007/status/2064427210535215172/photo/1",
+          "media_key": "3_2064427204843634688",
+          "start": 90,
+          "url": "https://t.co/XSlom9YAbe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065090707514331224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064427210535215172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LaoLa2007: 我是小花，我又重生了。坐标郑州门槛99解锁聊天199解锁线下，我是一个很萌行的小女孩希我有金主来找我呀！#爸爸活 #门槛妹 #门槛  #非绿 #郑州 https://t.co/XSlom9YAbe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065090707514331224].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065090707514331224",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065090707514331224"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2064427205124657152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZRmvIbkAAGfrv.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2064427206873653248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZRm1pbIAA7a8O.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064427204843634688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZRmuFbgAAc5tl.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064427205124657152",
+            "3_2064427206873653248",
+            "3_2064427204843634688"
+          ]
+        },
+        "author_id": "1989029965762031616",
+        "conversation_id": "2064427210535215172",
+        "created_at": "2026-06-09T19:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064427210535215172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "门槛"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "非绿"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "郑州"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XSlom9YAbe",
+              "end": 98,
+              "expanded_url": "https://x.com/LaoLa2007/status/2064427210535215172/photo/1",
+              "media_key": "3_2064427205124657152",
+              "start": 75,
+              "url": "https://t.co/XSlom9YAbe"
+            },
+            {
+              "display_url": "pic.x.com/XSlom9YAbe",
+              "end": 98,
+              "expanded_url": "https://x.com/LaoLa2007/status/2064427210535215172/photo/1",
+              "media_key": "3_2064427206873653248",
+              "start": 75,
+              "url": "https://t.co/XSlom9YAbe"
+            },
+            {
+              "display_url": "pic.x.com/XSlom9YAbe",
+              "end": 98,
+              "expanded_url": "https://x.com/LaoLa2007/status/2064427210535215172/photo/1",
+              "media_key": "3_2064427204843634688",
+              "start": 75,
+              "url": "https://t.co/XSlom9YAbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064427210535215172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1480,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我是小花，我又重生了。坐标郑州门槛99解锁聊天199解锁线下，我是一个很萌行的小女孩希我有金主来找我呀！#爸爸活 #门槛妹 #门槛  #非绿 #郑州 https://t.co/XSlom9YAbe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 623,
+          "like_count": 4913,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1559
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T17:57:59.000Z",
+        "description": "🚪188\n希望有金主找我，我是一个很好的小女孩",
+        "id": "1989029965762031616",
+        "location": "郑州",
+        "name": "劳拉",
+        "pinned_tweet_id": "2064427210535215172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989030250605629440/PN9nvavM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 15,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 55
+        },
+        "username": "LaoLa2007",
+        "verified": false
+      }
+    ]
+  }
+}

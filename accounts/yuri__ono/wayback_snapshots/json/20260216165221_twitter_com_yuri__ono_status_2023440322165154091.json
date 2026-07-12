@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2023024085366895097",
+    "created_at": "2026-02-16T16:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023440322165154091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997228580846342144",
+          "start": 0,
+          "username": "66dekongjian"
+        },
+        {
+          "end": 26,
+          "id": "1936283321568509952",
+          "start": 14,
+          "username": "mingxing311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023440322165154091",
+    "in_reply_to_user_id": "1997228580846342144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023047626850259447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@66dekongjian @mingxing311 好惨啊哈哈，接侄子压岁钱代花服务"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2023024085366895097",
+        "created_at": "2026-02-16T16:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023440322165154091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997228580846342144",
+              "start": 0,
+              "username": "66dekongjian"
+            },
+            {
+              "end": 26,
+              "id": "1936283321568509952",
+              "start": 14,
+              "username": "mingxing311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023440322165154091",
+        "in_reply_to_user_id": "1997228580846342144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023047626850259447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@66dekongjian @mingxing311 好惨啊哈哈，接侄子压岁钱代花服务"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997228580846342144",
+        "conversation_id": "2023024085366895097",
+        "created_at": "2026-02-15T14:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023047626850259447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936283321568509952",
+              "start": 0,
+              "username": "mingxing311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023047626850259447",
+        "in_reply_to_user_id": "1936283321568509952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023024085366895097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingxing311 今天刚刚发出去200，侄子还说我三角洲玩的像人机，花钱被羞辱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 255,
+          "like_count": 1543,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 317
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T08:56:23.000Z",
+        "description": "欢迎来到我的bb空间",
+        "id": "1997228580846342144",
+        "name": "6",
+        "pinned_tweet_id": "2006576127830294990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003502567108804613/HztYtsI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 76,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 145
+        },
+        "username": "66dekongjian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T04:41:43.000Z",
+        "description": "不约不下海不出原味不参与性行为 这里是实话小辣条 如果你看见我的言论生气了 请你认为我是反串的 如果你开心了 那我也开心",
+        "id": "1936283321568509952",
+        "location": "🚪288//520//888",
+        "name": "辣条魅魔",
+        "pinned_tweet_id": "2021897146942075122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010392681273565186/X8xRagi-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 44,
+          "like_count": 6946,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 1184
+        },
+        "username": "mingxing311",
+        "verified": false
+      }
+    ]
+  }
+}

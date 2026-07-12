@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2070570914144719131",
+    "created_at": "2026-06-27T05:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070748737027420428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010312682042429440",
+          "start": 0,
+          "username": "yukiiiiii004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070748737027420428",
+    "in_reply_to_user_id": "2010312682042429440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070570914144719131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiiiiii004 看着好香🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070570906142076928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwlRM7bcAAN2XE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2070570914144719131",
+        "created_at": "2026-06-27T05:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070748737027420428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010312682042429440",
+              "start": 0,
+              "username": "yukiiiiii004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070748737027420428",
+        "in_reply_to_user_id": "2010312682042429440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070570914144719131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiiiiii004 看着好香🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070570906142076928"
+          ]
+        },
+        "author_id": "2010312682042429440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070570914144719131",
+        "created_at": "2026-06-26T18:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070570914144719131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0GbEsAHyA",
+              "end": 105,
+              "expanded_url": "https://x.com/yukiiiiii004/status/2070570914144719131/photo/1",
+              "media_key": "3_2070570906142076928",
+              "start": 82,
+              "url": "https://t.co/F0GbEsAHyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070570914144719131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 672,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实根本不喜欢火鸡面，我就是在跟它博弈。我装作被它辣得神魂颠倒但其实这都是我计划里的一部分。我当然知道它在钓我胃，但是我上钩也有我的计划，别打扰我了我自有分寸。 https://t.co/F0GbEsAHyA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 868,
+          "like_count": 5539,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 2215
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T11:27:57.000Z",
+        "description": "Yuki /小季 ‖ intj ‖不私联不线下\n每个人的夸夸都会带给我幸福！",
+        "id": "2010312682042429440",
+        "name": "Yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034629215069605888/AT-GTw_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5335,
+          "following_count": 53,
+          "like_count": 1760,
+          "listed_count": 7,
+          "media_count": 61,
+          "tweet_count": 641
+        },
+        "url": "",
+        "username": "yukiiiiii004",
+        "verified": false
+      }
+    ]
+  }
+}

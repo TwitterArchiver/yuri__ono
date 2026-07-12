@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1982679747374313754",
+    "created_at": "2026-06-24T15:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069808257875726524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1157740238862770177",
+          "start": 0,
+          "username": "Asherhan28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069808257875726524",
+    "in_reply_to_user_id": "1157740238862770177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982679747374313754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asherhan28 我靠！我最近好喜欢这首歌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 110093,
+        "height": 908,
+        "media_key": "13_1982679577294946304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982679577294946304/img/C2o93ImAYVKd-CUI.jpg",
+        "public_metrics": {
+          "view_count": 42
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982679577294946304/vid/avc1/320x402/B9ecDfvQlJ7bQMlp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982679577294946304/vid/avc1/480x604/QZIpiFcjLCsIzIFy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982679577294946304/vid/avc1/720x908/55bb-Yc3LEeocuLt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982679577294946304/pl/6Yxvq5obmdMNBWxL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1982679747374313754",
+        "created_at": "2026-06-24T15:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069808257875726524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1157740238862770177",
+              "start": 0,
+              "username": "Asherhan28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069808257875726524",
+        "in_reply_to_user_id": "1157740238862770177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982679747374313754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asherhan28 我靠！我最近好喜欢这首歌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982679577294946304"
+          ]
+        },
+        "author_id": "1157740238862770177",
+        "conversation_id": "1982679747374313754",
+        "created_at": "2025-10-27T05:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982679747374313754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtN9dSdqj9",
+              "end": 42,
+              "expanded_url": "https://x.com/Asherhan28/status/1982679747374313754/video/1",
+              "media_key": "13_1982679577294946304",
+              "start": 19,
+              "url": "https://t.co/GtN9dSdqj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982679747374313754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没有弹唱过了\n《内线》cover https://t.co/GtN9dSdqj9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 823,
+          "like_count": 5418,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 2080
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-03T19:49:17.000Z",
+        "description": "🇦🇺悉尼研留",
+        "id": "1157740238862770177",
+        "location": "日常生活的记录",
+        "name": "BC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966752244973662213/0eKXgC00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 25,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "Asherhan28",
+        "verified": false
+      }
+    ]
+  }
+}

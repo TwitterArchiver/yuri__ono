@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2068544114778685925",
+    "created_at": "2026-06-21T09:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068629253747589359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054062631405924353",
+          "start": 0,
+          "username": "xxxxxxxxxt10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068629253747589359",
+    "in_reply_to_user_id": "2054062631405924353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068544114778685925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxxxxxxxt10 我也喜欢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2068544114778685925",
+        "created_at": "2026-06-21T09:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068629253747589359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054062631405924353",
+              "start": 0,
+              "username": "xxxxxxxxxt10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068629253747589359",
+        "in_reply_to_user_id": "2054062631405924353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068544114778685925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxxxxxxt10 我也喜欢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054062631405924353",
+        "conversation_id": "2068544114778685925",
+        "created_at": "2026-06-21T03:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068544114778685925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068544114778685925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推好干净🥺…女孩们我喜欢你们！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 768,
+          "like_count": 5296,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1923
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T04:55:02.000Z",
+        "description": "不约不加微不看屌照 止于推 聊骚kp别找我。腹肌胸肌可以发我嗯嗯！我持续感受！\n有没有高壮男推荐😋\n老的丑的穷的矮的恶臭的有口音的不要。\n不清楚啊我只是一个爱大仍子大肌肉爱口嗨的小女孩！",
+        "id": "2054062631405924353",
+        "location": "天堂",
+        "name": "该账户已注销",
+        "pinned_tweet_id": "2064271254660550903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066621123064692736/WT9bnpEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 126,
+          "like_count": 3550,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "xxxxxxxxxt10",
+        "verified": false
+      }
+    ]
+  }
+}

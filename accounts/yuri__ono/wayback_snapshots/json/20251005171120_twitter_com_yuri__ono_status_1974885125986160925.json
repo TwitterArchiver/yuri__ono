@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1974495965118914663",
+    "created_at": "2025-10-05T17:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T18:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974885125986160925"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "你也太",
+          "probability": 0.5835,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738580629019901952",
+          "start": 0,
+          "username": "bian_fu61115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974885125986160925",
+    "in_reply_to_user_id": "1738580629019901952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974495965118914663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bian_fu61115 你也太瘦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1534,
+        "media_key": "3_1974495916699856896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2bRky1asAA6OUz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1974495965118914663",
+        "created_at": "2025-10-05T17:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T18:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974885125986160925"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "你也太",
+              "probability": 0.5835,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738580629019901952",
+              "start": 0,
+              "username": "bian_fu61115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974885125986160925",
+        "in_reply_to_user_id": "1738580629019901952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974495965118914663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bian_fu61115 你也太瘦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974495916699856896"
+          ]
+        },
+        "author_id": "1738580629019901952",
+        "conversation_id": "1974495965118914663",
+        "created_at": "2025-10-04T15:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974495965118914663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMJ6kltz0s",
+              "end": 35,
+              "expanded_url": "https://x.com/bian_fu61115/status/1974495965118914663/photo/1",
+              "media_key": "3_1974495916699856896",
+              "start": 12,
+              "url": "https://t.co/VMJ6kltz0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974495965118914663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 61216,
+          "like_count": 557,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "。。。这是s码我都服了 https://t.co/VMJ6kltz0s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 54,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T15:21:46.000Z",
+        "description": "人畜无害",
+        "id": "1738580629019901952",
+        "location": "🚪188",
+        "name": "qf",
+        "pinned_tweet_id": "1926867621225394623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807409751355244544/ffAqU2tf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 117,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 504
+        },
+        "username": "bian_fu61115",
+        "verified": false
+      }
+    ]
+  }
+}

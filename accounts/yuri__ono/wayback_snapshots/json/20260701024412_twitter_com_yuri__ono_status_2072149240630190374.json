@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2072006157460496397",
+    "created_at": "2026-07-01T02:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T03:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072149240630190374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592120524276002817",
+          "start": 0,
+          "username": "cywhanjian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072149240630190374",
+    "in_reply_to_user_id": "1592120524276002817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072006157460496397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cywhanjian 牛逼。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2072006151135510528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HME-ndLbQAAJsv0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2072006157460496397",
+        "created_at": "2026-07-01T02:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T03:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072149240630190374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592120524276002817",
+              "start": 0,
+              "username": "cywhanjian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072149240630190374",
+        "in_reply_to_user_id": "1592120524276002817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072006157460496397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cywhanjian 牛逼。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072006151135510528"
+          ]
+        },
+        "author_id": "1592120524276002817",
+        "conversation_id": "2072006157460496397",
+        "created_at": "2026-06-30T17:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072006157460496397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKzRtEdDd0",
+              "end": 45,
+              "expanded_url": "https://x.com/cywhanjian/status/2072006157460496397/photo/1",
+              "media_key": "3_2072006151135510528",
+              "start": 22,
+              "url": "https://t.co/XKzRtEdDd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072006157460496397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是太诡异了吧我男寝男厕所里长了个女厕所😅 https://t.co/XKzRtEdDd0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 888,
+          "like_count": 5661,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 2273
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T11:41:35.000Z",
+        "description": "Can I chat with you？🤔",
+        "id": "1592120524276002817",
+        "location": "距你114514m",
+        "name": "c17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051947732286439425/BrPQMAVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 275,
+          "like_count": 458,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "cywhanjian",
+        "verified": false
+      }
+    ]
+  }
+}

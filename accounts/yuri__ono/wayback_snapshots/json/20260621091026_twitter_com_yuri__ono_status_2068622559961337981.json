@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2068318308940816728",
+    "created_at": "2026-06-21T09:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068622559961337981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691392289409769472",
+          "start": 0,
+          "username": "luetmer57048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068622559961337981",
+    "in_reply_to_user_id": "1691392289409769472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068318308940816728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luetmer57048 啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068318286933368832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQkhgcboAA6u4J.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068318286929068033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQkhgbaAAEMho9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2068318308940816728",
+        "created_at": "2026-06-21T09:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068622559961337981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691392289409769472",
+              "start": 0,
+              "username": "luetmer57048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068622559961337981",
+        "in_reply_to_user_id": "1691392289409769472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068318308940816728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luetmer57048 啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068318286933368832",
+            "3_2068318286929068033"
+          ]
+        },
+        "author_id": "1691392289409769472",
+        "conversation_id": "2068318308940816728",
+        "created_at": "2026-06-20T13:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068318308940816728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iCbsBU0B4R",
+              "end": 32,
+              "expanded_url": "https://x.com/luetmer57048/status/2068318308940816728/photo/1",
+              "media_key": "3_2068318286933368832",
+              "start": 9,
+              "url": "https://t.co/iCbsBU0B4R"
+            },
+            {
+              "display_url": "pic.x.com/iCbsBU0B4R",
+              "end": 32,
+              "expanded_url": "https://x.com/luetmer57048/status/2068318308940816728/photo/1",
+              "media_key": "3_2068318286929068033",
+              "start": 9,
+              "url": "https://t.co/iCbsBU0B4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068318308940816728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6243,
+          "like_count": 190,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "溺死在这片伯恩海 https://t.co/iCbsBU0B4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 766,
+          "like_count": 5283,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1919
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T10:12:09.000Z",
+        "description": "𓆡𓆝𓆟𓆜𓆞𓆝𓆟𓆜 𓆞𓆡𓆝𓆟𓆜𓆞𓆝𓆟",
+        "id": "1691392289409769472",
+        "name": "如果萌是一种天赋",
+        "pinned_tweet_id": "2068318804384567598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022846295753527296/yf4y9Jqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 349,
+          "like_count": 6778,
+          "listed_count": 7,
+          "media_count": 694,
+          "tweet_count": 5937
+        },
+        "url": "",
+        "username": "luetmer57048",
+        "verified": false
+      }
+    ]
+  }
+}

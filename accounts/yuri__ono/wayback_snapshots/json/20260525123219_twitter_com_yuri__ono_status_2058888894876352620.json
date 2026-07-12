@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2058750667410583930",
+    "created_at": "2026-05-25T12:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058888894876352620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997228580846342144",
+          "start": 0,
+          "username": "66dekongjian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058888894876352620",
+    "in_reply_to_user_id": "1997228580846342144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058750667410583930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@66dekongjian 芝士豪猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5535,
+        "height": 1280,
+        "media_key": "13_2058750596807897088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058750596807897088/img/xT7ys1RwnzSj72Zu.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058750596807897088/vid/avc1/320x568/rohy4insH1UUCxvf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058750596807897088/vid/avc1/480x852/2sLhr8iV3N8Z4zgR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058750596807897088/vid/avc1/720x1280/ixEM66G1ALFEo_tW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058750596807897088/pl/J9Uor2vdZIsadG-L.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2058750667410583930",
+        "created_at": "2026-05-25T12:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058888894876352620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997228580846342144",
+              "start": 0,
+              "username": "66dekongjian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058888894876352620",
+        "in_reply_to_user_id": "1997228580846342144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058750667410583930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@66dekongjian 芝士豪猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058750596807897088"
+          ]
+        },
+        "author_id": "1997228580846342144",
+        "conversation_id": "2058750667410583930",
+        "created_at": "2026-05-25T03:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058750667410583930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKyhFCAvWM",
+              "end": 33,
+              "expanded_url": "https://x.com/66dekongjian/status/2058750667410583930/video/1",
+              "media_key": "13_2058750596807897088",
+              "start": 10,
+              "url": "https://t.co/RKyhFCAvWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058750667410583930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个臭猫又在睡觉😪 https://t.co/RKyhFCAvWM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 440,
+          "like_count": 4325,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1101
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T08:56:23.000Z",
+        "description": "男的\\00年\\高中老师\n欢迎私信点菜，能满足的尽量会满足",
+        "id": "1997228580846342144",
+        "name": "6",
+        "pinned_tweet_id": "2006576127830294990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003502567108804613/HztYtsI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 59,
+          "like_count": 2517,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 543
+        },
+        "username": "66dekongjian",
+        "verified": false
+      }
+    ]
+  }
+}

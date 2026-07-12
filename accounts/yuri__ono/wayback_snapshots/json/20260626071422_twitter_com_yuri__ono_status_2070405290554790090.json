@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2070153340277993700",
+    "created_at": "2026-06-26T07:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070405290554790090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "567119941",
+          "start": 0,
+          "username": "babur_abdullah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070405290554790090",
+    "in_reply_to_user_id": "567119941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070153340277993700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babur_abdullah 原来是你长官 抱歉刚刚没认出来！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 560,
+        "media_key": "3_2070153334494048256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqpfVUbsAA9OPQ.jpg",
+        "width": 515
+      },
+      {
+        "height": 602,
+        "media_key": "3_2070153334502354944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqpfVWacAA02N9.jpg",
+        "width": 492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2070153340277993700",
+        "created_at": "2026-06-26T07:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070405290554790090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "567119941",
+              "start": 0,
+              "username": "babur_abdullah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070405290554790090",
+        "in_reply_to_user_id": "567119941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070153340277993700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babur_abdullah 原来是你长官 抱歉刚刚没认出来！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070153334494048256",
+            "3_2070153334502354944"
+          ]
+        },
+        "author_id": "567119941",
+        "conversation_id": "2070153340277993700",
+        "created_at": "2026-06-25T14:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070153340277993700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDK13hA1Zf",
+              "end": 40,
+              "expanded_url": "https://x.com/babur_abdullah/status/2070153340277993700/photo/1",
+              "media_key": "3_2070153334494048256",
+              "start": 17,
+              "url": "https://t.co/CDK13hA1Zf"
+            },
+            {
+              "display_url": "pic.x.com/CDK13hA1Zf",
+              "end": 40,
+              "expanded_url": "https://x.com/babur_abdullah/status/2070153340277993700/photo/1",
+              "media_key": "3_2070153334502354944",
+              "start": 17,
+              "url": "https://t.co/CDK13hA1Zf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070153340277993700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2008,
+          "impression_count": 2581417,
+          "like_count": 41496,
+          "quote_count": 103,
+          "reply_count": 215,
+          "retweet_count": 832
+        },
+        "reply_settings": "everyone",
+        "text": "←拾った当初\n\n　　　　1年後→ https://t.co/CDK13hA1Zf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 861,
+          "like_count": 5504,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 2187
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-30T10:29:31.000Z",
+        "description": "",
+        "id": "567119941",
+        "name": "ここ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037188186259243008/F_5wa_Wb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "babur_abdullah",
+        "verified": false
+      }
+    ]
+  }
+}

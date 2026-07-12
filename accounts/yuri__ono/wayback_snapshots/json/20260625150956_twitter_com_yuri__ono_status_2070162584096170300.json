@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2070104753535954970",
+    "created_at": "2026-06-25T15:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070162584096170300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066097439967428608",
+          "start": 0,
+          "username": "Xuxian_citizen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070162584096170300",
+    "in_reply_to_user_id": "2066097439967428608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070160282832502815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuxian_citizen 正常人（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2070104753535954970",
+        "created_at": "2026-06-25T15:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070162584096170300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066097439967428608",
+              "start": 0,
+              "username": "Xuxian_citizen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070162584096170300",
+        "in_reply_to_user_id": "2066097439967428608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070160282832502815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuxian_citizen 正常人（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066097439967428608",
+        "conversation_id": "2070104753535954970",
+        "created_at": "2026-06-25T15:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070160282832502815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070160282832502815",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070104753535954970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 马赛克之下感觉是个很漂亮的女生啊👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 850,
+          "like_count": 5496,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 2173
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T09:58:54.000Z",
+        "description": "高中学生的碎碎念…分享生活",
+        "id": "2066097439967428608",
+        "name": "KMno₄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066252223504674816/fd4DbHnZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 36,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "Xuxian_citizen",
+        "verified": false
+      }
+    ]
+  }
+}

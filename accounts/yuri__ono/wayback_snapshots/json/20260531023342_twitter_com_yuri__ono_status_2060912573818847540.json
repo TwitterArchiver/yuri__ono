@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2060897160561053823",
+    "created_at": "2026-05-31T02:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060912573818847540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001492256902217728",
+          "start": 0,
+          "username": "xixi16504"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060912573818847540",
+    "in_reply_to_user_id": "2001492256902217728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060897160561053823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi16504 早安颖颖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060897150817710080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnHCiEasAAPvO6.jpg",
+        "width": 1516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2060897160561053823",
+        "created_at": "2026-05-31T02:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060912573818847540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001492256902217728",
+              "start": 0,
+              "username": "xixi16504"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060912573818847540",
+        "in_reply_to_user_id": "2001492256902217728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060897160561053823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi16504 早安颖颖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060897150817710080"
+          ]
+        },
+        "author_id": "2001492256902217728",
+        "conversation_id": "2060897160561053823",
+        "created_at": "2026-05-31T01:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060897160561053823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h82MTbNdXA",
+              "end": 36,
+              "expanded_url": "https://x.com/xixi16504/status/2060897160561053823/photo/1",
+              "media_key": "3_2060897150817710080",
+              "start": 13,
+              "url": "https://t.co/h82MTbNdXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060897160561053823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍑🥰 早上好呀老公老婆们 https://t.co/h82MTbNdXA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060549512226308096/r-Hlk7UK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 588,
+          "like_count": 4765,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1433
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T03:18:43.000Z",
+        "description": "如果我不回私信可以评论催/162 48｜🚪详情介绍看主页置顶 ｜只回口令只回口令｜求daddy们支持 ｜入🚪直接发口令➕lx 我会自己➕您🥺｜先入🚪后再问东问西 否则拉黑🚪盗图犬 避雷一下@rouer07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 94,
+                "username": "rouer07"
+              }
+            ]
+          }
+        },
+        "id": "2001492256902217728",
+        "location": "52 99 188 288 520-1314",
+        "name": "碎碎的颖",
+        "pinned_tweet_id": "2056429734972788761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001493495497003009/7bzm2_bK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 8,
+          "like_count": 898,
+          "listed_count": 8,
+          "media_count": 195,
+          "tweet_count": 1189
+        },
+        "username": "xixi16504",
+        "verified": false
+      }
+    ]
+  }
+}

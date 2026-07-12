@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2063241285587341678",
+    "created_at": "2026-06-07T09:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063557986870841429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048709547779571712",
+          "start": 0,
+          "username": "ilovebbqahaha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063557986870841429",
+    "in_reply_to_user_id": "2048709547779571712",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063537277327052985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ilovebbqahaha 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 224,
+        "media_key": "16_2063537273015250944",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKMoN3raMAAFvGZ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKMoN3raMAAFvGZ.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2063241285587341678",
+        "created_at": "2026-06-07T09:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063557986870841429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048709547779571712",
+              "start": 0,
+              "username": "ilovebbqahaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063557986870841429",
+        "in_reply_to_user_id": "2048709547779571712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063537277327052985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ilovebbqahaha 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063537273015250944"
+          ]
+        },
+        "author_id": "2048709547779571712",
+        "conversation_id": "2063241285587341678",
+        "created_at": "2026-06-07T08:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063537277327052985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlpGdolSjS",
+              "end": 42,
+              "expanded_url": "https://x.com/ilovebbqahaha/status/2063537277327052985/photo/1",
+              "media_key": "16_2063537273015250944",
+              "start": 19,
+              "url": "https://t.co/SlpGdolSjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063537277327052985",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063241285587341678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 有趣哈哈哈哈哈 https://t.co/SlpGdolSjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 611,
+          "like_count": 4862,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1524
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T10:23:25.000Z",
+        "description": "欢迎其他博主来交朋友or聊天，只互关真人，不要人机…\n推止于推🤝🏻",
+        "id": "2048709547779571712",
+        "location": "天堂",
+        "name": "zy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050940313355882496/PEUKYjVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 75,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 41
+        },
+        "username": "ilovebbqahaha",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2067960457793777809",
+    "created_at": "2026-06-19T13:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067967348670398734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630461303742697472",
+          "start": 0,
+          "username": "titanmini3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067967348670398734",
+    "in_reply_to_user_id": "1630461303742697472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067967270534652355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@titanmini3 谢谢lulu呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2067960457793777809",
+        "created_at": "2026-06-19T13:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067967348670398734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630461303742697472",
+              "start": 0,
+              "username": "titanmini3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067967348670398734",
+        "in_reply_to_user_id": "1630461303742697472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067967270534652355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@titanmini3 谢谢lulu呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630461303742697472",
+        "conversation_id": "2067960457793777809",
+        "created_at": "2026-06-19T13:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067967270534652355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067967270534652355",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067960457793777809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 恭喜宝宝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 747,
+          "like_count": 5194,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1854
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T06:54:16.000Z",
+        "description": "05/推止于推/isfp/玻璃心小女孩/日常口嗨 别当真/sub/绿🚪52/黄🚪52000\n颜控 身材控 没有免费聊天的义务😅\n有问必答☺️https://t.co/9kuMV0X7ta",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lulu59400",
+                "end": 93,
+                "expanded_url": "https://ngl.link/lulu59400",
+                "start": 70,
+                "url": "https://t.co/9kuMV0X7ta"
+              }
+            ]
+          }
+        },
+        "id": "1630461303742697472",
+        "location": "你心里",
+        "name": "lulu",
+        "pinned_tweet_id": "2060679336630358299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049308455627038720/swZke1o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 332,
+          "like_count": 1288,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 717
+        },
+        "url": "",
+        "username": "titanmini3",
+        "verified": false
+      }
+    ]
+  }
+}

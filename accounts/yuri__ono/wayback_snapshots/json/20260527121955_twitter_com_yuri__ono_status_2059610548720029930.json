@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2059608477325262868",
+    "created_at": "2026-05-27T12:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059610548720029930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1283722369123487744",
+          "start": 0,
+          "username": "xiaoyimiao1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059610548720029930",
+    "in_reply_to_user_id": "1283722369123487744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059609668578881754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyimiao1314 谢谢(｡･ω･｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2059608477325262868",
+        "created_at": "2026-05-27T12:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059610548720029930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1283722369123487744",
+              "start": 0,
+              "username": "xiaoyimiao1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059610548720029930",
+        "in_reply_to_user_id": "1283722369123487744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059609668578881754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyimiao1314 谢谢(｡･ω･｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283722369123487744",
+        "conversation_id": "2059608477325262868",
+        "created_at": "2026-05-27T12:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059609668578881754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059609668578881754",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059608477325262868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 恭喜恭喜🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 459,
+          "like_count": 4492,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1224
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T11:17:24.000Z",
+        "description": "infp，想聊天的话可以DM（可互关。聊天请文明，色情禁止🚫，我是来看黄的，不是来当黄的）小号@HolyMiao7950",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "HolyMiao7950"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/xiaoyimiao1…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/xiaoyimiao1314/",
+                "start": 0,
+                "url": "https://t.co/udNatdLt1c"
+              }
+            ]
+          }
+        },
+        "id": "1283722369123487744",
+        "location": "山东省济南市",
+        "name": "錦依の柴郡（Cheshire）",
+        "pinned_tweet_id": "1704573364533346368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055340399171117056/p808wD-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 107,
+          "like_count": 1628,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/udNatdLt1c",
+        "username": "xiaoyimiao1314",
+        "verified": false
+      }
+    ]
+  }
+}

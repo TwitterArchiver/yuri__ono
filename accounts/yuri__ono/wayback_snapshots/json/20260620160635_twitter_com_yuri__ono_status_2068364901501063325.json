@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2068267650938200442",
+    "created_at": "2026-06-20T16:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068364901501063325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1542089007340736512",
+          "start": 0,
+          "username": "Minatozakimida"
+        },
+        {
+          "end": 30,
+          "id": "1492663803468599296",
+          "start": 16,
+          "username": "zhangdabidou1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068364901501063325",
+    "in_reply_to_user_id": "1542089007340736512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068267650938200442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minatozakimida @zhangdabidou1 卧槽。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068267642478292992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLP2dnJacAANBGz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2068267650938200442",
+        "created_at": "2026-06-20T16:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068364901501063325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1542089007340736512",
+              "start": 0,
+              "username": "Minatozakimida"
+            },
+            {
+              "end": 30,
+              "id": "1492663803468599296",
+              "start": 16,
+              "username": "zhangdabidou1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068364901501063325",
+        "in_reply_to_user_id": "1542089007340736512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068267650938200442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minatozakimida @zhangdabidou1 卧槽。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068267642478292992"
+          ]
+        },
+        "author_id": "1542089007340736512",
+        "conversation_id": "2068267650938200442",
+        "created_at": "2026-06-20T09:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068267650938200442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kBlQVCrTAj",
+              "end": 39,
+              "expanded_url": "https://x.com/Minatozakimida/status/2068267650938200442/photo/1",
+              "media_key": "3_2068267642478292992",
+              "start": 16,
+              "url": "https://t.co/kBlQVCrTAj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068267650938200442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 22733,
+          "like_count": 1668,
+          "quote_count": 4,
+          "reply_count": 49,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "有点像那个流浪在路边喂奶的母狗 https://t.co/kBlQVCrTAj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 760,
+          "like_count": 5230,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1894
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T10:14:14.000Z",
+        "description": "我的偏执/听一辈子术力口老歌/猪饲料品鉴中/日本語が苦手で、勉強中です……/鏡音レン🍌／リン🍊大好き💕/提问箱：https://t.co/DezQG6bPOk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanariyappears1",
+                "end": 79,
+                "expanded_url": "https://ngl.link/kanariyappears1",
+                "start": 56,
+                "url": "https://t.co/DezQG6bPOk"
+              }
+            ]
+          }
+        },
+        "id": "1542089007340736512",
+        "location": "Tear bridge",
+        "name": "hinanya.a",
+        "pinned_tweet_id": "1899505001388822635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027438604407185408/V5SiJJ_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8253,
+          "following_count": 137,
+          "like_count": 424,
+          "listed_count": 17,
+          "media_count": 991,
+          "tweet_count": 3630
+        },
+        "url": "",
+        "username": "Minatozakimida",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T00:56:03.000Z",
+        "description": "dashabu",
+        "id": "1492663803468599296",
+        "name": "minikonash&",
+        "pinned_tweet_id": "2061869081847013521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058246508106088448/vJ6eklMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 781,
+          "like_count": 2541,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 1014
+        },
+        "url": "",
+        "username": "zhangdabidou1",
+        "verified": false
+      }
+    ]
+  }
+}

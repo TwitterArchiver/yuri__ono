@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2060380318117642685",
+    "created_at": "2026-05-29T16:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060401425839247563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059801730288848896",
+          "start": 0,
+          "username": "CeryRDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060401425839247563",
+    "in_reply_to_user_id": "2059801730288848896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060380318117642685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CeryRDS 我笑纳了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2060380318117642685",
+        "created_at": "2026-05-29T16:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060401425839247563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059801730288848896",
+              "start": 0,
+              "username": "CeryRDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060401425839247563",
+        "in_reply_to_user_id": "2059801730288848896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060380318117642685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CeryRDS 我笑纳了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059801730288848896",
+        "conversation_id": "2060380318117642685",
+        "created_at": "2026-05-29T15:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060380318117642685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060380318117642685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "养胃后的世界如此奇怪。突然不想草女孩子只想被女孩子狠狠法到哭了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 586,
+          "like_count": 4723,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1398
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T01:00:07.000Z",
+        "description": "纯爱主义者。发发牢骚。1i&4i。讨厌女拳讨厌男拳",
+        "id": "2059801730288848896",
+        "name": "CeryRDS",
+        "pinned_tweet_id": "2059855956813762906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060070887219744768/YOsbDhWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 91,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "username": "CeryRDS",
+        "verified": true
+      }
+    ]
+  }
+}

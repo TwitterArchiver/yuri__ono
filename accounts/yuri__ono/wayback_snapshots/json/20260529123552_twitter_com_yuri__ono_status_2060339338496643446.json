@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2059984487015186531",
+    "created_at": "2026-05-29T12:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060339338496643446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2042275399552614400",
+          "start": 0,
+          "username": "Lioc7771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060339338496643446",
+    "in_reply_to_user_id": "2042275399552614400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060003945905619351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lioc7771 张雪峰老师我还记得你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2059984487015186531",
+        "created_at": "2026-05-29T12:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060339338496643446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2042275399552614400",
+              "start": 0,
+              "username": "Lioc7771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060339338496643446",
+        "in_reply_to_user_id": "2042275399552614400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060003945905619351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lioc7771 张雪峰老师我还记得你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042275399552614400",
+        "conversation_id": "2059984487015186531",
+        "created_at": "2026-05-28T14:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060003945905619351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060003945905619351",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059984487015186531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 都在黑张雪峰老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 574,
+          "like_count": 4672,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1348
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:16:54.000Z",
+        "description": "infp  北京 我有碎碎念 日常的日记本📓 请多多私信找我玩 不友好的会走霉运 谢谢大家喜欢我 礼貌私信",
+        "id": "2042275399552614400",
+        "location": "北京🚪99",
+        "name": "一颗小土豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043930873121435648/_dS0MFNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 686
+        },
+        "username": "Lioc7771",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2055508456925548968",
+    "created_at": "2026-05-17T02:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055837450795114847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1644244950786228225",
+          "start": 0,
+          "username": "poka22332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055837450795114847",
+    "in_reply_to_user_id": "1644244950786228225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055508456925548968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poka22332 同病相怜诶 我也是坐在第一排 但是是在老师眼皮子底下玩（？）灯下黑这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2055508456925548968",
+        "created_at": "2026-05-17T02:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055837450795114847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1644244950786228225",
+              "start": 0,
+              "username": "poka22332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055837450795114847",
+        "in_reply_to_user_id": "1644244950786228225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055508456925548968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poka22332 同病相怜诶 我也是坐在第一排 但是是在老师眼皮子底下玩（？）灯下黑这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644244950786228225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2055508456925548968",
+        "created_at": "2026-05-16T04:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055508456925548968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dorothy1614926…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/dorothy1614926/status/2055483457602798076",
+              "start": 88,
+              "url": "https://t.co/pDFoYPqUz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055508456925548968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 866,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055483457602798076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Twitter才是我的世界！在推上可以跟很多人贴贴抱抱，在学校里的同学都好难受人！每天都坐在最后一排害怕社交！每天听到他们说话都会很烦很难受！（可是我是一个人坐在第一排喵🥺） https://t.co/pDFoYPqUz8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 小号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 358,
+          "like_count": 3736,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 898
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T07:45:31.000Z",
+        "description": "喵喵|友好|关注我的话我会很开心的喵🥹|请不要对我说奇怪的话，谢谢喵",
+        "id": "1644244950786228225",
+        "name": "soznwj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051585214191915008/ZKrKKO0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 86,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 111
+        },
+        "username": "poka22332",
+        "verified": false
+      }
+    ]
+  }
+}

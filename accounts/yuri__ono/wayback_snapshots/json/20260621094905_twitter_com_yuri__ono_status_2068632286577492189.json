@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2068631940991987846",
+    "created_at": "2026-06-21T09:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068632286577492189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "710801271171579904",
+          "start": 0,
+          "username": "ruikir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068632286577492189",
+    "in_reply_to_user_id": "710801271171579904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068631940991987846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruikir 好那个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2068631940991987846",
+        "created_at": "2026-06-21T09:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068632286577492189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "710801271171579904",
+              "start": 0,
+              "username": "ruikir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068632286577492189",
+        "in_reply_to_user_id": "710801271171579904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068631940991987846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruikir 好那个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "710801271171579904",
+        "conversation_id": "2068631940991987846",
+        "created_at": "2026-06-21T09:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068631940991987846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068631940991987846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚去采耳，我的鬼脑关不上。\n其实被摸到耳朵当时我身体就软了…\n然后那个技师姐姐说的话，我每句都会想歪，比如\n\"痛的话要告诉我哦\"\n\"这里感觉舒服吗，还可以再进去一点吗\"\n\"你这里好硬（斜方肌）\"\n其实我是舒服得哼出声\"是不是太痛了，要不然我轻一点\"\n\"转过来一点，我这里看不太清楚\"\n\"里面好红喔\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 769,
+          "like_count": 5300,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1928
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-18T12:13:23.000Z",
+        "description": "我的碎碎念.想到啥说啥\n疑似阳痿（疑似治好）",
+        "id": "710801271171579904",
+        "location": "距离你43m，预计3分钟内送达",
+        "name": "Rainy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059161089791995905/_qY6SoTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 49,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "ruikir",
+        "verified": false
+      }
+    ]
+  }
+}

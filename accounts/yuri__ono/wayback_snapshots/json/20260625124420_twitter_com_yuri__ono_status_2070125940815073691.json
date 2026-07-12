@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2070104753535954970",
+    "created_at": "2026-06-25T12:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070125940815073691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066448868666224640",
+          "start": 0,
+          "username": "youtiaogod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070125940815073691",
+    "in_reply_to_user_id": "2066448868666224640",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070123062205596121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youtiaogod 🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2070104753535954970",
+        "created_at": "2026-06-25T12:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070125940815073691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066448868666224640",
+              "start": 0,
+              "username": "youtiaogod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070125940815073691",
+        "in_reply_to_user_id": "2066448868666224640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070123062205596121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youtiaogod 🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066448868666224640",
+        "conversation_id": "2070104753535954970",
+        "created_at": "2026-06-25T12:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070123062205596121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070123062205596121",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070104753535954970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 萌哟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 847,
+          "like_count": 5462,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 2156
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T09:14:14.000Z",
+        "description": "读研结束 预备社畜/00年/直男/https://t.co/VYn3CxKtDh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youtiaogod",
+                "end": 40,
+                "expanded_url": "https://ngl.link/youtiaogod",
+                "start": 17,
+                "url": "https://t.co/VYn3CxKtDh"
+              }
+            ]
+          }
+        },
+        "id": "2066448868666224640",
+        "location": "Shanghai",
+        "name": "油条神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066449978940358656/YvSXdblN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 294,
+          "like_count": 1290,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "youtiaogod",
+        "verified": false
+      }
+    ]
+  }
+}

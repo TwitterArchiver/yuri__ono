@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2048907015037329835",
+    "created_at": "2026-04-28T16:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049167529629626567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831328988960034816",
+          "start": 0,
+          "username": "55ghcgxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049167529629626567",
+    "in_reply_to_user_id": "1831328988960034816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048907015037329835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@55ghcgxc 恭喜呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048907006845837312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8uETDa4AAuNXk.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2048907015037329835",
+        "created_at": "2026-04-28T16:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049167529629626567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831328988960034816",
+              "start": 0,
+              "username": "55ghcgxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049167529629626567",
+        "in_reply_to_user_id": "1831328988960034816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048907015037329835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@55ghcgxc 恭喜呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048907006845837312"
+          ]
+        },
+        "author_id": "1831328988960034816",
+        "conversation_id": "2048907015037329835",
+        "created_at": "2026-04-27T23:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T00:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048907015037329835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rHVS5uIIZK",
+              "end": 62,
+              "expanded_url": "https://x.com/55ghcgxc/status/2048907015037329835/photo/1",
+              "media_key": "3_2048907006845837312",
+              "start": 39,
+              "url": "https://t.co/rHVS5uIIZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048907015037329835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于……感谢每位互关们呀，100fo抽奖的话我找个时间来开🥺🥺🥺🫳🏻🫳🏻🫳🏻 https://t.co/rHVS5uIIZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 307,
+          "like_count": 2874,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 663
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T13:50:51.000Z",
+        "description": "女的｜08辍学精神病｜抽烟喝酒od割手｜想发什么就发什么少对别人指指点点｜",
+        "id": "1831328988960034816",
+        "name": "如果把表面的爱称作爱的话",
+        "pinned_tweet_id": "2031454610016370865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991562214021758977/qdM_ok-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 219,
+          "like_count": 868,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 316
+        },
+        "username": "55ghcgxc",
+        "verified": false
+      }
+    ]
+  }
+}

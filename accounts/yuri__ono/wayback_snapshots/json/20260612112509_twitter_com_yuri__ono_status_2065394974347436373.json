@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2065282416852516875",
+    "created_at": "2026-06-12T11:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065394974347436373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1457364958841225222",
+          "start": 0,
+          "username": "u7ed2x2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065394974347436373",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065282416852516875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@u7ed2x2 很萌呀很萌呀 搓搓Nelo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5533,
+        "height": 1664,
+        "media_key": "13_2065282358048432128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065282358048432128/img/EBskGttQDFnQ8SNM.jpg",
+        "public_metrics": {
+          "view_count": 771
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065282358048432128/vid/avc1/320x492/W4Q-dqd8bIUQKfet.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065282358048432128/pl/mnfnZpNFOb1NqcPi.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065282358048432128/vid/avc1/480x740/JVlf_E_HMlEGUusf.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065282358048432128/vid/avc1/1078x1664/fPyd-4iZHuCiDW5z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065282358048432128/vid/avc1/720x1110/ljvSgMrZlenkTYyX.mp4"
+          }
+        ],
+        "width": 1078
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065282358048346112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlbXMBaUAAeOAC.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2065282416852516875",
+        "created_at": "2026-06-12T11:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065394974347436373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065394974347436373",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065282416852516875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@u7ed2x2 很萌呀很萌呀 搓搓Nelo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065282358048432128",
+            "3_2065282358048346112"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2065282416852516875",
+        "created_at": "2026-06-12T03:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065282416852516875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqRIfslTmr",
+              "end": 140,
+              "expanded_url": "https://x.com/u7ed2x2/status/2065282416852516875/video/1",
+              "media_key": "13_2065282358048432128",
+              "start": 117,
+              "url": "https://t.co/OqRIfslTmr"
+            },
+            {
+              "display_url": "pic.x.com/OqRIfslTmr",
+              "end": 140,
+              "expanded_url": "https://x.com/u7ed2x2/status/2065282416852516875/video/1",
+              "media_key": "3_2065282358048346112",
+              "start": 117,
+              "url": "https://t.co/OqRIfslTmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065282416852516875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2358,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "昨晚染色之后给我剪太短了，马尾也扎不了了...\n\n本来和他说好不要动，但他最后又说什么「我剪的不一定是你想要的，但一定是最适合你的」\n回到家里已经凌晨一点，一个人住，看到房间心里空落落的，又想到要早起，情绪坏到极点\n\n1和2是对比🥲 https://t.co/OqRIfslTmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 632,
+          "like_count": 4938,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1581
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1064,
+          "like_count": 1069,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 833
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

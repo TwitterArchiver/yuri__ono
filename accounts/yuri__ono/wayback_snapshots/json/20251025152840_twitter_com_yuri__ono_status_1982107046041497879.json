@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860306607042859008",
+        "3_1860306607047151616"
+      ],
+      "media_source_tweet_id": [
+        "1860306617755140109",
+        "1860306617755140109"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1982107046041497879",
+    "created_at": "2025-10-25T15:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T16:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982107046041497879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1811764158356160516",
+          "start": 3,
+          "username": "tokoyo_akari15"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XWhgZN4N0A",
+          "end": 55,
+          "expanded_url": "https://x.com/tokoyo_akari15/status/1860306617755140109/photo/1",
+          "media_key": "3_1860306607042859008",
+          "start": 32,
+          "url": "https://t.co/XWhgZN4N0A"
+        },
+        {
+          "display_url": "pic.x.com/XWhgZN4N0A",
+          "end": 55,
+          "expanded_url": "https://x.com/tokoyo_akari15/status/1860306617755140109/photo/1",
+          "media_key": "3_1860306607047151616",
+          "start": 32,
+          "url": "https://t.co/XWhgZN4N0A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982107046041497879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3116
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860306617755140109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokoyo_akari15: したがりな社畜受けくん https://t.co/XWhgZN4N0A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1860306607042859008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdEjALYaEAAObpY.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1860306607047151616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdEjALZbkAAWJNP.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860306607042859008",
+            "3_1860306607047151616"
+          ],
+          "media_source_tweet_id": [
+            "1860306617755140109",
+            "1860306617755140109"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "1982107046041497879",
+        "created_at": "2025-10-25T15:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T16:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982107046041497879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1811764158356160516",
+              "start": 3,
+              "username": "tokoyo_akari15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XWhgZN4N0A",
+              "end": 55,
+              "expanded_url": "https://x.com/tokoyo_akari15/status/1860306617755140109/photo/1",
+              "media_key": "3_1860306607042859008",
+              "start": 32,
+              "url": "https://t.co/XWhgZN4N0A"
+            },
+            {
+              "display_url": "pic.x.com/XWhgZN4N0A",
+              "end": 55,
+              "expanded_url": "https://x.com/tokoyo_akari15/status/1860306617755140109/photo/1",
+              "media_key": "3_1860306607047151616",
+              "start": 32,
+              "url": "https://t.co/XWhgZN4N0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982107046041497879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3116
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860306617755140109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokoyo_akari15: したがりな社畜受けくん https://t.co/XWhgZN4N0A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860306607042859008",
+            "3_1860306607047151616"
+          ]
+        },
+        "author_id": "1811764158356160516",
+        "conversation_id": "1860306617755140109",
+        "created_at": "2024-11-23T12:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T13:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860306617755140109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XWhgZN4N0A",
+              "end": 35,
+              "expanded_url": "https://x.com/tokoyo_akari15/status/1860306617755140109/photo/1",
+              "media_key": "3_1860306607042859008",
+              "start": 12,
+              "url": "https://t.co/XWhgZN4N0A"
+            },
+            {
+              "display_url": "pic.x.com/XWhgZN4N0A",
+              "end": 35,
+              "expanded_url": "https://x.com/tokoyo_akari15/status/1860306617755140109/photo/1",
+              "media_key": "3_1860306607047151616",
+              "start": 12,
+              "url": "https://t.co/XWhgZN4N0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860306617755140109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9833,
+          "impression_count": 3574216,
+          "like_count": 64277,
+          "quote_count": 603,
+          "reply_count": 100,
+          "retweet_count": 3116
+        },
+        "reply_settings": "everyone",
+        "text": "したがりな社畜受けくん https://t.co/XWhgZN4N0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 85,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T14:07:08.000Z",
+        "description": "BLがすきな腐男子さん。「受けの身体」をテーマに写真あげてるよ！ (Recreating a BL uke's body in photos.)【ボイス＆メイン垢: @tokoyo_akari17】 【日常垢:@tokoyo_akari16】BLボイスのフルバージョンは↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 83,
+                "username": "tokoyo_akari17"
+              },
+              {
+                "end": 120,
+                "start": 105,
+                "username": "tokoyo_akari16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/joyato",
+                "end": 23,
+                "expanded_url": "https://lit.link/joyato",
+                "start": 0,
+                "url": "https://t.co/B3dCKR5ExZ"
+              }
+            ]
+          }
+        },
+        "id": "1811764158356160516",
+        "name": "常夜灯🌙🐶 ~12/7 都内 Live ユメノナカ 出演! ~",
+        "pinned_tweet_id": "1959224108593623548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871174458645561344/k095NEhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66806,
+          "following_count": 128,
+          "like_count": 2546,
+          "listed_count": 95,
+          "media_count": 74,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/B3dCKR5ExZ",
+        "username": "tokoyo_akari15",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2042270790201348483",
+    "created_at": "2026-04-10T17:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042651576549150925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668882302925938690",
+          "start": 0,
+          "username": "lfl_o45370"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042651576549150925",
+    "in_reply_to_user_id": "1668882302925938690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042270790201348483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lfl_o45370 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2042270790201348483",
+        "created_at": "2026-04-10T17:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042651576549150925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668882302925938690",
+              "start": 0,
+              "username": "lfl_o45370"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042651576549150925",
+        "in_reply_to_user_id": "1668882302925938690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042270790201348483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lfl_o45370 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668882302925938690",
+        "conversation_id": "2042270790201348483",
+        "created_at": "2026-04-09T15:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042270790201348483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042270790201348483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1092,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额 你偷照片偷就偷了 你打个1是什么意思🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 296,
+          "like_count": 2524,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 572
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T07:25:33.000Z",
+        "description": "对你来说我是怎样的存在",
+        "id": "1668882302925938690",
+        "name": "Buyer's Remorse",
+        "pinned_tweet_id": "2029825386981511650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039012413107011585/__fo8IfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3363,
+          "following_count": 76,
+          "like_count": 154,
+          "listed_count": 7,
+          "media_count": 67,
+          "tweet_count": 138
+        },
+        "username": "lfl_o45370",
+        "verified": false
+      }
+    ]
+  }
+}

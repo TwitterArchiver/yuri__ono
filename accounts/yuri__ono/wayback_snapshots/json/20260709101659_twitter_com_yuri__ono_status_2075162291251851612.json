@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075162283001700352"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075162291251851612",
+    "created_at": "2026-07-09T10:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075162291251851612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1MZqTxFWcN",
+          "end": 28,
+          "expanded_url": "https://x.com/yuri__ono/status/2075162291251851612/photo/1",
+          "media_key": "3_2075162283001700352",
+          "start": 5,
+          "url": "https://t.co/1MZqTxFWcN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075162291251851612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "次饭次饭 https://t.co/1MZqTxFWcN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075162283001700352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx1Ggma4AAP07B.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075162283001700352"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075162291251851612",
+        "created_at": "2026-07-09T10:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075162291251851612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MZqTxFWcN",
+              "end": 28,
+              "expanded_url": "https://x.com/yuri__ono/status/2075162291251851612/photo/1",
+              "media_key": "3_2075162283001700352",
+              "start": 5,
+              "url": "https://t.co/1MZqTxFWcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075162291251851612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "次饭次饭 https://t.co/1MZqTxFWcN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 916,
+          "like_count": 5709,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 2372
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      }
+    ]
+  }
+}

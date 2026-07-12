@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2030615043474071731",
+    "created_at": "2026-03-08T15:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030674575542083998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1589508609578176512",
+          "start": 0,
+          "username": "mifanmiaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030674575542083998",
+    "in_reply_to_user_id": "1589508609578176512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030615043474071731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mifanmiaomiao 啊啊啊啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2030615043474071731",
+        "created_at": "2026-03-08T15:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030674575542083998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589508609578176512",
+              "start": 0,
+              "username": "mifanmiaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030674575542083998",
+        "in_reply_to_user_id": "1589508609578176512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030615043474071731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mifanmiaomiao 啊啊啊啊啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589508609578176512",
+        "conversation_id": "2030615043474071731",
+        "created_at": "2026-03-08T12:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030615043474071731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030615043474071731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19634,
+          "like_count": 173,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一想到我出生是因为爸妈做爱后内射，我就起一身鸡皮疙瘩，完全想象不出他们两个做爱是什么样子的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 262,
+          "like_count": 1797,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 408
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T06:42:57.000Z",
+        "description": "会互fo~（大部分时间在搞/写/发黄色介意可取关~）俺喜欢和大家交朋友！正在努力学英语润出去.. 会给互fo画画（不过技术不太好 /画的有些慢） Telegram群: https://t.co/R8kPJWfjhP欢迎各位宝宝来群里面聊天~🥰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+VOAVfurE50NlZ…",
+                "end": 107,
+                "expanded_url": "https://t.me/+VOAVfurE50NlZjQx",
+                "start": 84,
+                "url": "https://t.co/R8kPJWfjhP"
+              }
+            ]
+          }
+        },
+        "id": "1589508609578176512",
+        "name": "米花糖",
+        "pinned_tweet_id": "2029786645730660681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998359027051618304/QN4w_EJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 954,
+          "like_count": 8569,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 2138
+        },
+        "username": "mifanmiaomiao",
+        "verified": false
+      }
+    ]
+  }
+}

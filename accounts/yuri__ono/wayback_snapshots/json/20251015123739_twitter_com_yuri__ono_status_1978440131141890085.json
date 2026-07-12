@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978339495205556224"
+      ],
+      "media_source_tweet_id": [
+        "1978339498367823898"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1978440131141890085",
+    "created_at": "2025-10-15T12:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T13:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978440131141890085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "910180819901202432",
+          "start": 3,
+          "username": "kuchidesha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZM6St9s9Ly",
+          "end": 88,
+          "expanded_url": "https://x.com/kuchidesha/status/1978339498367823898/photo/1",
+          "media_key": "3_1978339495205556224",
+          "start": 65,
+          "url": "https://t.co/ZM6St9s9Ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978440131141890085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978339498367823898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuchidesha: ヒカよし\ncan't live with him\ncan't live without him. https://t.co/ZM6St9s9Ly"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1221,
+        "media_key": "3_1978339495205556224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3R5SgjaUAAseDp.jpg",
+        "width": 1997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978339495205556224"
+          ],
+          "media_source_tweet_id": [
+            "1978339498367823898"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "1978440131141890085",
+        "created_at": "2025-10-15T12:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978440131141890085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "910180819901202432",
+              "start": 3,
+              "username": "kuchidesha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZM6St9s9Ly",
+              "end": 88,
+              "expanded_url": "https://x.com/kuchidesha/status/1978339498367823898/photo/1",
+              "media_key": "3_1978339495205556224",
+              "start": 65,
+              "url": "https://t.co/ZM6St9s9Ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978440131141890085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978339498367823898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuchidesha: ヒカよし\ncan't live with him\ncan't live without him. https://t.co/ZM6St9s9Ly"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978339495205556224"
+          ]
+        },
+        "author_id": "910180819901202432",
+        "conversation_id": "1978339498367823898",
+        "created_at": "2025-10-15T05:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T06:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978339498367823898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZM6St9s9Ly",
+              "end": 72,
+              "expanded_url": "https://x.com/kuchidesha/status/1978339498367823898/photo/1",
+              "media_key": "3_1978339495205556224",
+              "start": 49,
+              "url": "https://t.co/ZM6St9s9Ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978339498367823898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 12214,
+          "like_count": 2113,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "ヒカよし\ncan't live with him\ncan't live without him. https://t.co/ZM6St9s9Ly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 72,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-19T16:36:32.000Z",
+        "description": "20↑简中人⬜️⬛️only🔞 | 对政治没兴趣 | 杂多 | CN/ENG/少し日本語が分かります",
+        "id": "910180819901202432",
+        "location": "People's Republic of China",
+        "name": "KuChi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490412720927088640/pafq47hH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4458,
+          "following_count": 214,
+          "like_count": 7075,
+          "listed_count": 15,
+          "media_count": 325,
+          "tweet_count": 3163
+        },
+        "username": "kuchidesha",
+        "verified": false
+      }
+    ]
+  }
+}

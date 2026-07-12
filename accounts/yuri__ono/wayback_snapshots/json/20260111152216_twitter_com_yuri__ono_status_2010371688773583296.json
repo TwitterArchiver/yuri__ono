@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2002046456052760610",
+    "created_at": "2026-01-11T15:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T16:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010371688773583296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995832449163821057",
+          "start": 0,
+          "username": "Zhisheng9lik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010371688773583296",
+    "in_reply_to_user_id": "1995832449163821057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010367160477180312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhisheng9lik 我好像开了仅关注的人可以私信😯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2002046456052760610",
+        "created_at": "2026-01-11T15:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010371688773583296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995832449163821057",
+              "start": 0,
+              "username": "Zhisheng9lik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010371688773583296",
+        "in_reply_to_user_id": "1995832449163821057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010367160477180312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhisheng9lik 我好像开了仅关注的人可以私信😯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995832449163821057",
+        "conversation_id": "2002046456052760610",
+        "created_at": "2026-01-11T15:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010367160477180312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010367160477180312",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002046456052760610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 为什么不能私信！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 214,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 213
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T12:29:42.000Z",
+        "description": "男",
+        "id": "1995832449163821057",
+        "location": "Los Angeles, CA",
+        "name": "Zhisheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001133131404095488/-eAEE8VR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 57,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "Zhisheng9lik",
+        "verified": false
+      }
+    ]
+  }
+}

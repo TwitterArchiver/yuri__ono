@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070171983476924416"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2070172101462671704",
+    "created_at": "2026-06-25T15:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070172101462671704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CUybnizT3S",
+          "end": 28,
+          "expanded_url": "https://x.com/yuri__ono/status/2070172101462671704/video/1",
+          "media_key": "13_2070171983476924416",
+          "start": 5,
+          "url": "https://t.co/CUybnizT3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070172101462671704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "处理完毕 https://t.co/CUybnizT3S"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37380,
+        "height": 1280,
+        "media_key": "13_2070171983476924416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070171983476924416/img/kWdx6s0HNVT6h6Is.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070171983476924416/vid/avc1/320x690/cVWN8wQhSkvkSWVP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070171983476924416/vid/avc1/480x1036/oCopzjQ5jvcXhoDL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070171983476924416/vid/avc1/592x1280/_b5Au4etbR3Xud-f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070171983476924416/pl/qNGTFOYxtEh2U7N0.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070171983476924416"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2070172101462671704",
+        "created_at": "2026-06-25T15:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070172101462671704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUybnizT3S",
+              "end": 28,
+              "expanded_url": "https://x.com/yuri__ono/status/2070172101462671704/video/1",
+              "media_key": "13_2070171983476924416",
+              "start": 5,
+              "url": "https://t.co/CUybnizT3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070172101462671704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "处理完毕 https://t.co/CUybnizT3S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 852,
+          "like_count": 5497,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 2176
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

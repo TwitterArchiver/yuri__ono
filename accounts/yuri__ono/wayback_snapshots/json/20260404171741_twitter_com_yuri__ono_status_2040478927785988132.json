@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2040413121723203945",
+    "created_at": "2026-04-04T17:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040478927785988132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014098182184009728",
+          "start": 0,
+          "username": "HuffmanAlm86735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040478927785988132",
+    "in_reply_to_user_id": "2014098182184009728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040413121723203945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuffmanAlm86735 好恶心。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040413028265664512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEA1rDaoAA_aSi.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2040413121723203945",
+        "created_at": "2026-04-04T17:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040478927785988132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014098182184009728",
+              "start": 0,
+              "username": "HuffmanAlm86735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040478927785988132",
+        "in_reply_to_user_id": "2014098182184009728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040413121723203945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuffmanAlm86735 好恶心。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040413028265664512"
+          ]
+        },
+        "author_id": "2014098182184009728",
+        "conversation_id": "2040413121723203945",
+        "created_at": "2026-04-04T12:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040413121723203945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYGSKXEywb",
+              "end": 48,
+              "expanded_url": "https://x.com/HuffmanAlm86735/status/2040413121723203945/photo/1",
+              "media_key": "3_2040413028265664512",
+              "start": 25,
+              "url": "https://t.co/yYGSKXEywb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040413121723203945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这男的好吓人 恶臭男骚扰男离我远点滚（重发一次） https://t.co/yYGSKXEywb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 287,
+          "like_count": 2429,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 534
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T22:10:25.000Z",
+        "description": "小愿/愿酱|互fo|生产日期2010 10.14/国内联系方式只给生理心理女生\nod 自残 恋舒服的痛 我打pjsk 无畏契约（思考） 现实很社恐 \n每天都在想好想在夏天自杀/好想当地雷女/好想割手割腿/好想打唇钉/好想od好想pr ym 舒服！😇 只对健全人刻薄 傻逼健全人",
+        "id": "2014098182184009728",
+        "location": "天天天国地狱国",
+        "name": "スパイダーブレード",
+        "pinned_tweet_id": "2040424145805259222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035762485735940096/AxOkMmGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 235,
+          "like_count": 4796,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 825
+        },
+        "username": "HuffmanAlm86735",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T22:10:25.000Z",
+        "description": "小愿/愿酱|互fo|生产日期2010 10.14/国内联系方式只给生理心理女生\nod 自残 恋舒服的痛 我打pjsk 无畏契约（思考） 现实很社恐 \n每天都在想好想在夏天自杀/好想当地雷女/好想割手割腿/好想打唇钉/好想od好想pr ym 舒服！😇 只对健全人刻薄 傻逼健全人",
+        "id": "2014098182184009728",
+        "location": "天天天国地狱国",
+        "name": "スパイダーブレード",
+        "pinned_tweet_id": "2040424145805259222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035762485735940096/AxOkMmGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 235,
+          "like_count": 4796,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 825
+        },
+        "url": "",
+        "username": "HuffmanAlm86735",
+        "verified": false
+      }
+    ]
+  }
+}

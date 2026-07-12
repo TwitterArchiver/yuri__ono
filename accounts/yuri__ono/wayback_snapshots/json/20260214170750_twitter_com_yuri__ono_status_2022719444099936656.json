@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2020864563378356639",
+    "created_at": "2026-02-14T17:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022719444099936656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995832449163821057",
+          "start": 0,
+          "username": "Zhisheng9lik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022719444099936656",
+    "in_reply_to_user_id": "1995832449163821057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020864563378356639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhisheng9lik 你咋了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2020864563378356639].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2020864563378356639",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2020864563378356639"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2020864563378356639",
+        "created_at": "2026-02-14T17:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022719444099936656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995832449163821057",
+              "start": 0,
+              "username": "Zhisheng9lik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022719444099936656",
+        "in_reply_to_user_id": "1995832449163821057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020864563378356639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhisheng9lik 你咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 251,
+          "like_count": 1476,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 303
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T12:29:42.000Z",
+        "description": "男",
+        "id": "1995832449163821057",
+        "location": "Los Angeles, CA",
+        "name": "Zhisheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001133131404095488/-eAEE8VR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 67,
+          "like_count": 1799,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "Zhisheng9lik",
+        "verified": false
+      }
+    ]
+  }
+}

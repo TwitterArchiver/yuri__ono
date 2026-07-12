@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2059670320009945498",
+    "created_at": "2026-05-27T16:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059672616433291720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010312682042429440",
+          "start": 0,
+          "username": "yukiiiiii004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059672616433291720",
+    "in_reply_to_user_id": "2010312682042429440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059670320009945498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiiiiii004 震撼美味！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059670313739378689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVrPNzaYAEPNx1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2059670320009945498",
+        "created_at": "2026-05-27T16:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059672616433291720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010312682042429440",
+              "start": 0,
+              "username": "yukiiiiii004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059672616433291720",
+        "in_reply_to_user_id": "2010312682042429440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059670320009945498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiiiiii004 震撼美味！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059670313739378689"
+          ]
+        },
+        "author_id": "2010312682042429440",
+        "conversation_id": "2059670320009945498",
+        "created_at": "2026-05-27T16:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059670320009945498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qojs8PAg8d",
+              "end": 29,
+              "expanded_url": "https://x.com/yukiiiiii004/status/2059670320009945498/photo/1",
+              "media_key": "3_2059670313739378689",
+              "start": 6,
+              "url": "https://t.co/qojs8PAg8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059670320009945498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的视角！ https://t.co/qojs8PAg8d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 534,
+          "like_count": 4591,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1298
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T11:27:57.000Z",
+        "description": "Yuki /小季 ‖ intj ‖无🚪\n每个人的夸夸都会带给我幸福！",
+        "id": "2010312682042429440",
+        "name": "Yuki",
+        "pinned_tweet_id": "2058231053568102500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034629215069605888/AT-GTw_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3522,
+          "following_count": 48,
+          "like_count": 815,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 534
+        },
+        "username": "yukiiiiii004",
+        "verified": false
+      }
+    ]
+  }
+}

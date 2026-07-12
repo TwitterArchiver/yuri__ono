@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2065024768831824237",
+    "created_at": "2026-06-11T15:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065096091570483458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2061497133216464896",
+          "start": 0,
+          "username": "lbbandq20"
+        },
+        {
+          "end": 22,
+          "id": "2165736150",
+          "start": 11,
+          "username": "tiancai312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065096091570483458",
+    "in_reply_to_user_id": "2061497133216464896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065032268985643469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbbandq20 @tiancai312 两个我都笑纳了哼哼（不是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1647,
+        "media_key": "3_2065032254343249921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKh35PHagAEUVGy.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2065024768831824237",
+        "created_at": "2026-06-11T15:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065096091570483458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061497133216464896",
+              "start": 0,
+              "username": "lbbandq20"
+            },
+            {
+              "end": 22,
+              "id": "2165736150",
+              "start": 11,
+              "username": "tiancai312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065096091570483458",
+        "in_reply_to_user_id": "2061497133216464896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065032268985643469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbbandq20 @tiancai312 两个我都笑纳了哼哼（不是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065032254343249921"
+          ]
+        },
+        "author_id": "2061497133216464896",
+        "conversation_id": "2065024768831824237",
+        "created_at": "2026-06-11T11:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065032268985643469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2165736150",
+              "start": 0,
+              "username": "tiancai312"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x5OiYXatvG",
+              "end": 65,
+              "expanded_url": "https://x.com/lbbandq20/status/2065032268985643469/photo/1",
+              "media_key": "3_2065032254343249921",
+              "start": 42,
+              "url": "https://t.co/x5OiYXatvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065032268985643469",
+        "in_reply_to_user_id": "2165736150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065024768831824237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiancai312 和好闺闺逛街啦当然是在，猜猜哪个是我o&gt;_&lt;o https://t.co/x5OiYXatvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 630,
+          "like_count": 4917,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1573
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T17:18:10.000Z",
+        "description": "你来啦，我一直在等你哦*^_^*\n过气🍰手｜女🍰｜小狗｜二次元｜喜欢巧克力^^",
+        "id": "2061497133216464896",
+        "location": "🚪68",
+        "name": "冷青",
+        "pinned_tweet_id": "2063229807031382442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061498038972248064/and8nQDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 22,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 116
+        },
+        "username": "lbbandq20",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-31T00:49:14.000Z",
+        "description": "交友投稿/每日大赛/话题投稿/树洞吐槽/情感话题/碎碎念分享/认证女推/所有投稿将筛选后发出 私信没回代表被吞找小号@xiaot31 ✈️粉丝群：https://t.co/4xFR7IOq5M",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "xiaot31"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/tiancai31",
+                "end": 96,
+                "expanded_url": "https://t.me/tiancai31",
+                "start": 73,
+                "url": "https://t.co/4xFR7IOq5M"
+              }
+            ]
+          }
+        },
+        "id": "2165736150",
+        "location": "相逢已是上上签",
+        "name": "社恐的元大鹰",
+        "pinned_tweet_id": "2054776020692320747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013164874285658112/12AHYrdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132961,
+          "following_count": 233,
+          "like_count": 17753,
+          "listed_count": 143,
+          "media_count": 440,
+          "tweet_count": 2785
+        },
+        "username": "tiancai312",
+        "verified": true
+      }
+    ]
+  }
+}

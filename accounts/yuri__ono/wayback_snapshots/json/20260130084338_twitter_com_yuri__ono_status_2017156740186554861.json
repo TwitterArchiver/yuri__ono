@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2017156740186554861",
+    "created_at": "2026-01-30T08:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T09:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017156740186554861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/66dekongjian/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/66dekongjian/status/2016778781860778423",
+          "start": 19,
+          "url": "https://t.co/zR0izRppck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017156740186554861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016778781860778423",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男妈妈加油 请多多支持我们6老师😸😸 https://t.co/zR0izRppck"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 188380,
+        "height": 1280,
+        "media_key": "13_2016778463789928449",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016778463789928449/img/TrF9cvkFjK6QjJw3.jpg",
+        "public_metrics": {
+          "view_count": 64
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016778463789928449/vid/avc1/320x690/oiNSLhRG9aOKai2B.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016778463789928449/vid/avc1/480x1036/eaBLOhPiHSJjd3yh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016778463789928449/vid/avc1/592x1280/A45qle5vCH2ubosX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016778463789928449/pl/RUoAxB61yHDYCNqk.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2017156740186554861",
+        "created_at": "2026-01-30T08:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T09:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017156740186554861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/66dekongjian/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/66dekongjian/status/2016778781860778423",
+              "start": 19,
+              "url": "https://t.co/zR0izRppck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017156740186554861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016778781860778423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男妈妈加油 请多多支持我们6老师😸😸 https://t.co/zR0izRppck"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016778463789928449"
+          ]
+        },
+        "author_id": "1997228580846342144",
+        "conversation_id": "2016778781860778423",
+        "created_at": "2026-01-29T07:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T08:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016778781860778423"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男喘"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "女性向"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "纯爱"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1887075463698493440",
+              "start": 16,
+              "username": "sling123012"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RaWJumg2l",
+              "end": 71,
+              "expanded_url": "https://x.com/66dekongjian/status/2016778781860778423/video/1",
+              "media_key": "13_2016778463789928449",
+              "start": 48,
+              "url": "https://t.co/0RaWJumg2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016778781860778423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#男喘 #女性向 #纯爱 \n剧本@sling123012 \n昨天发错了，给剪了一半的发出来了。 https://t.co/0RaWJumg2l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "1997500254959419562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 237,
+          "like_count": 1197,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 247
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T08:56:23.000Z",
+        "description": "擦边男\\男喘\\M \\粘人精 想听什么关注之后私信，喜欢多多找我聊天的人",
+        "id": "1997228580846342144",
+        "name": "6",
+        "pinned_tweet_id": "2006576127830294990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003502567108804613/HztYtsI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 81,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 123
+        },
+        "username": "66dekongjian",
+        "verified": false
+      }
+    ]
+  }
+}

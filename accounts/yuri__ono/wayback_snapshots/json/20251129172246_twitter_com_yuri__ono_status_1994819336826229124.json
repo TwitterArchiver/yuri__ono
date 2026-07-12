@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1994819336826229124",
+    "created_at": "2025-11-29T17:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T18:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994819336826229124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oore02086112/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/oore02086112/status/1994733092196807061",
+          "start": 14,
+          "url": "https://t.co/1uE6TIeH9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994819336826229124",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994733092196807061",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/1uE6TIeH9c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_1994733082596052994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G663K4nbkAIdkAR.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1994819336826229124",
+        "created_at": "2025-11-29T17:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994819336826229124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oore02086112/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/oore02086112/status/1994733092196807061",
+              "start": 14,
+              "url": "https://t.co/1uE6TIeH9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994819336826229124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994733092196807061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/1uE6TIeH9c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994733082596052994"
+          ]
+        },
+        "author_id": "1604154566206926848",
+        "conversation_id": "1994733092196807061",
+        "created_at": "2025-11-29T11:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994733092196807061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SC3hSQqQVU",
+              "end": 23,
+              "expanded_url": "https://x.com/OoRe02086112/status/1994733092196807061/photo/1",
+              "media_key": "3_1994733082596052994",
+              "start": 0,
+              "url": "https://t.co/SC3hSQqQVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994733092196807061",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 517,
+          "impression_count": 337111,
+          "like_count": 5233,
+          "quote_count": 48,
+          "reply_count": 59,
+          "retweet_count": 314
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SC3hSQqQVU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 151,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 128
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T16:40:47.000Z",
+        "description": "叫我小o就好了☺️｜随便写写✍️｜偶尔写点抽象奖励自己｜录制前请先授权！发布请@ ｜接定制｜看置顶🔝",
+        "id": "1604154566206926848",
+        "name": "OO",
+        "pinned_tweet_id": "1917263464080498744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750602471830097921/4Mtu7c9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79283,
+          "following_count": 269,
+          "like_count": 5524,
+          "listed_count": 121,
+          "media_count": 286,
+          "tweet_count": 2084
+        },
+        "username": "OoRe02086112",
+        "verified": false
+      }
+    ]
+  }
+}

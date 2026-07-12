@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883174667114131456",
+        "3_1883174688890949632",
+        "3_1883174700127559680",
+        "3_1883174711619985408"
+      ],
+      "media_source_tweet_id": [
+        "1883174723493958128",
+        "1883174723493958128",
+        "1883174723493958128",
+        "1883174723493958128"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1973428160290234473",
+    "created_at": "2025-10-01T16:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T17:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973428160290234473"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "Yomber"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "967949038363410432",
+          "start": 3,
+          "username": "Gambler_carrd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wo0yI4D5Wc",
+          "end": 61,
+          "expanded_url": "https://x.com/Gambler_carrd/status/1883174723493958128/photo/1",
+          "media_key": "3_1883174667114131456",
+          "start": 38,
+          "url": "https://t.co/wo0yI4D5Wc"
+        },
+        {
+          "display_url": "pic.x.com/wo0yI4D5Wc",
+          "end": 61,
+          "expanded_url": "https://x.com/Gambler_carrd/status/1883174723493958128/photo/1",
+          "media_key": "3_1883174688890949632",
+          "start": 38,
+          "url": "https://t.co/wo0yI4D5Wc"
+        },
+        {
+          "display_url": "pic.x.com/wo0yI4D5Wc",
+          "end": 61,
+          "expanded_url": "https://x.com/Gambler_carrd/status/1883174723493958128/photo/1",
+          "media_key": "3_1883174700127559680",
+          "start": 38,
+          "url": "https://t.co/wo0yI4D5Wc"
+        },
+        {
+          "display_url": "pic.x.com/wo0yI4D5Wc",
+          "end": 61,
+          "expanded_url": "https://x.com/Gambler_carrd/status/1883174723493958128/photo/1",
+          "media_key": "3_1883174711619985408",
+          "start": 38,
+          "url": "https://t.co/wo0yI4D5Wc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973428160290234473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883174723493958128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gambler_carrd: 比赛结束之后就这样 🤲#Yomber https://t.co/wo0yI4D5Wc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1973428160290234473].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1973428160290234473",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1973428160290234473"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_1883174667114131456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJhYdtaMAA7Kf-.jpg",
+        "width": 1626
+      },
+      {
+        "height": 1438,
+        "media_key": "3_1883174688890949632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJhZu1aEAAgCCk.jpg",
+        "width": 1078
+      },
+      {
+        "height": 979,
+        "media_key": "3_1883174700127559680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJhaYsbIAA2E2T.jpg",
+        "width": 1305
+      },
+      {
+        "height": 1084,
+        "media_key": "3_1883174711619985408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJhbDgboAA8yzH.jpg",
+        "width": 813
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883174667114131456",
+            "3_1883174688890949632",
+            "3_1883174700127559680",
+            "3_1883174711619985408"
+          ]
+        },
+        "author_id": "967949038363410432",
+        "conversation_id": "1883174723493958128",
+        "created_at": "2025-01-25T15:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T16:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883174723493958128"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "Yomber"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wo0yI4D5Wc",
+              "end": 42,
+              "expanded_url": "https://x.com/Gambler_carrd/status/1883174723493958128/photo/1",
+              "media_key": "3_1883174667114131456",
+              "start": 19,
+              "url": "https://t.co/wo0yI4D5Wc"
+            },
+            {
+              "display_url": "pic.x.com/wo0yI4D5Wc",
+              "end": 42,
+              "expanded_url": "https://x.com/Gambler_carrd/status/1883174723493958128/photo/1",
+              "media_key": "3_1883174688890949632",
+              "start": 19,
+              "url": "https://t.co/wo0yI4D5Wc"
+            },
+            {
+              "display_url": "pic.x.com/wo0yI4D5Wc",
+              "end": 42,
+              "expanded_url": "https://x.com/Gambler_carrd/status/1883174723493958128/photo/1",
+              "media_key": "3_1883174700127559680",
+              "start": 19,
+              "url": "https://t.co/wo0yI4D5Wc"
+            },
+            {
+              "display_url": "pic.x.com/wo0yI4D5Wc",
+              "end": 42,
+              "expanded_url": "https://x.com/Gambler_carrd/status/1883174723493958128/photo/1",
+              "media_key": "3_1883174711619985408",
+              "start": 19,
+              "url": "https://t.co/wo0yI4D5Wc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883174723493958128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 33743,
+          "like_count": 465,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "比赛结束之后就这样 🤲#Yomber https://t.co/wo0yI4D5Wc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-26T02:26:49.000Z",
+        "description": "卡殿/Carrd \n自娱自乐的艺术家，感谢您的喜欢，转载我的作品请标注我的名字，再次感谢！\n🌈🃏🔞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/16012924",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/16012924",
+                "start": 0,
+                "url": "https://t.co/1ZCiigQAuX"
+              }
+            ]
+          }
+        },
+        "id": "967949038363410432",
+        "location": "Bilgewater",
+        "name": "Carrd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602119846921400325/LXhYdQxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69066,
+          "following_count": 758,
+          "like_count": 1470,
+          "listed_count": 153,
+          "media_count": 2705,
+          "tweet_count": 4211
+        },
+        "url": "https://t.co/1ZCiigQAuX",
+        "username": "Gambler_carrd",
+        "verified": false
+      }
+    ]
+  }
+}

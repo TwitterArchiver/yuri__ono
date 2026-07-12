@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2042260923948396685",
+    "created_at": "2026-04-09T15:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042260923948396685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796372334364053504",
+          "start": 3,
+          "username": "Krust3258"
+        },
+        {
+          "end": 25,
+          "id": "1622587760514158593",
+          "start": 15,
+          "username": "ForlikOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042260923948396685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042134734147326211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Krust3258: @ForlikOOO 我是卡塞尔学院毕业的，实习期杀了一个龙王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2042260923948396685",
+        "created_at": "2026-04-09T15:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042260923948396685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796372334364053504",
+              "start": 3,
+              "username": "Krust3258"
+            },
+            {
+              "end": 25,
+              "id": "1622587760514158593",
+              "start": 15,
+              "username": "ForlikOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042260923948396685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042134734147326211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Krust3258: @ForlikOOO 我是卡塞尔学院毕业的，实习期杀了一个龙王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796372334364053504",
+        "conversation_id": "2042130137412727107",
+        "created_at": "2026-04-09T06:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042134734147326211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1622587760514158593",
+              "start": 0,
+              "username": "ForlikOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042134734147326211",
+        "in_reply_to_user_id": "1622587760514158593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5674,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042130137412727107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForlikOOO 我是卡塞尔学院毕业的，实习期杀了一个龙王"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 296,
+          "like_count": 2502,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 565
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T02:47:08.000Z",
+        "description": "@Hanbnb9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Hanbnb9"
+              }
+            ]
+          }
+        },
+        "id": "1796372334364053504",
+        "location": "Turkiye Bursa",
+        "name": "𝒦𝓇𝓊𝓈𝓉ℳ",
+        "pinned_tweet_id": "2014553737352872045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039358097253355521/hCHsfuag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 385,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 297
+        },
+        "username": "Krust3258",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-06T13:27:34.000Z",
+        "description": "◉‿◉我的碎碎念垃圾箱。有对象感情非常好。随缘看私信，发弔拉黑，搞暧昧约炮恋爱尬聊的不回复。没有门槛，不喜欢建立在利益关系上的社交，不熟也别来找我要联系方式。incel/terf/pinky都滚。",
+        "id": "1622587760514158593",
+        "location": "München, Bayern",
+        "name": "Cyclo",
+        "pinned_tweet_id": "2039331394636374473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997310784519409664/YzWyhr7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 126,
+          "like_count": 36842,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 5054
+        },
+        "username": "ForlikOOO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2064747688575582501",
+    "created_at": "2026-06-11T15:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065093107981615277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049457308447735808",
+          "start": 0,
+          "username": "LittleGirlmTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065093107981615277",
+    "in_reply_to_user_id": "2049457308447735808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064767849726632313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleGirlmTvT 🥺贴贴Fork"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2064747688575582501",
+        "created_at": "2026-06-11T15:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065093107981615277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049457308447735808",
+              "start": 0,
+              "username": "LittleGirlmTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065093107981615277",
+        "in_reply_to_user_id": "2049457308447735808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064767849726632313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleGirlmTvT 🥺贴贴Fork"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049457308447735808",
+        "conversation_id": "2064747688575582501",
+        "created_at": "2026-06-10T17:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064767849726632313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064767849726632313",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064747688575582501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 宝宝你怎么这么可爱……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 630,
+          "like_count": 4915,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1567
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T11:57:09.000Z",
+        "description": "喜欢一个人静静碎碎念，话多什么都说，带有圈内幻想，不喜欢我请屏蔽，屏蔽你就是我害羞。(｡ì _ í｡)\n\n有提问箱可以向我提问好嘛！我也想玩！🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E5%85%94%E4%B8%8D%E4%B9%96",
+                "start": 0,
+                "url": "https://t.co/aRlCm0Nbs7"
+              }
+            ]
+          }
+        },
+        "id": "2049457308447735808",
+        "location": "外太空",
+        "name": "Fork",
+        "pinned_tweet_id": "2065060877276241985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065062281042706432/lfnyzzcW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 69,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 379
+        },
+        "url": "https://t.co/aRlCm0Nbs7",
+        "username": "LittleGirlmTvT",
+        "verified": false
+      }
+    ]
+  }
+}

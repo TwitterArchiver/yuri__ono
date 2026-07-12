@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2058929157858328754",
+    "created_at": "2026-05-25T15:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058930248167936497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001492256902217728",
+          "start": 0,
+          "username": "xixi16504"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058930248167936497",
+    "in_reply_to_user_id": "2001492256902217728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058929157858328754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi16504 小肚子也很可爱呀 此女是神来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4070,
+        "height": 720,
+        "media_key": "13_2058929132411453441",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058929132411453441/img/ksxgbi_efBYewxli.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058929132411453441/vid/avc1/480x270/iHnDlRrYXYZCR-Bb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058929132411453441/vid/avc1/640x360/7yhMaeCRn2KZrAXx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058929132411453441/vid/avc1/1280x720/D8z1Ku1mPSJFWLcl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058929132411453441/pl/ClaT1MbhT-trpvjY.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2058929157858328754",
+        "created_at": "2026-05-25T15:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058930248167936497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001492256902217728",
+              "start": 0,
+              "username": "xixi16504"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058930248167936497",
+        "in_reply_to_user_id": "2001492256902217728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058929157858328754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi16504 小肚子也很可爱呀 此女是神来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058929132411453441"
+          ]
+        },
+        "author_id": "2001492256902217728",
+        "conversation_id": "2058929157858328754",
+        "created_at": "2026-05-25T15:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058929157858328754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1aX7B75OoR",
+              "end": 47,
+              "expanded_url": "https://x.com/xixi16504/status/2058929157858328754/video/1",
+              "media_key": "13_2058929132411453441",
+              "start": 24,
+              "url": "https://t.co/1aX7B75OoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058929157858328754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有我不吃饭才可以拍点东西 吃了饭肚子会顶出来 https://t.co/1aX7B75OoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 452,
+          "like_count": 4387,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1146
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T03:18:43.000Z",
+        "description": "如果我不回私信可以评论催/162 48｜🚪详情介绍看主页置顶 ｜只回口令只回口令｜求daddy们支持 ｜入🚪直接发口令➕lx 我会自己➕您🥺｜先入🚪后再问东问西 否则拉黑🚪盗图犬 避雷一下@rouer07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 94,
+                "username": "rouer07"
+              }
+            ]
+          }
+        },
+        "id": "2001492256902217728",
+        "location": "52 99 188 288 520-1314",
+        "name": "碎碎的颖",
+        "pinned_tweet_id": "2056429734972788761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001493495497003009/7bzm2_bK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 8,
+          "like_count": 862,
+          "listed_count": 7,
+          "media_count": 183,
+          "tweet_count": 1137
+        },
+        "username": "xixi16504",
+        "verified": false
+      }
+    ]
+  }
+}

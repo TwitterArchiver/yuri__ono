@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "1962795666775654519",
+    "created_at": "2025-11-07T16:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T17:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986829751718449542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1799824209897525248",
+          "start": 0,
+          "username": "yaoi_thebest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986829751718449542",
+    "in_reply_to_user_id": "1799824209897525248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962795666775654519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaoi_thebest 好好代啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39833,
+        "height": 712,
+        "media_key": "13_1962795521942171648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962795521942171648/img/-ghL4WgZ4M2LdS0b.jpg",
+        "public_metrics": {
+          "view_count": 943815
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962795521942171648/vid/avc1/484x270/sa4SyMmhNj5zRr9a.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962795521942171648/vid/avc1/646x360/sexJUfipjGirDKYn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962795521942171648/vid/avc1/1280x712/qutlp_NagcFrX7-m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962795521942171648/pl/q7EV6cOdJT_zdEtw.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "1962795666775654519",
+        "created_at": "2025-11-07T16:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T17:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986829751718449542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1799824209897525248",
+              "start": 0,
+              "username": "yaoi_thebest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986829751718449542",
+        "in_reply_to_user_id": "1799824209897525248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962795666775654519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoi_thebest 好好代啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962795521942171648"
+          ]
+        },
+        "author_id": "1799824209897525248",
+        "conversation_id": "1962795666775654519",
+        "created_at": "2025-09-02T08:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962795666775654519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/li1wrUP5zK",
+              "end": 126,
+              "expanded_url": "https://x.com/yaoi_thebest/status/1962795666775654519/video/1",
+              "media_key": "13_1962795521942171648",
+              "start": 103,
+              "url": "https://t.co/li1wrUP5zK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962795666775654519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13532,
+          "impression_count": 1317838,
+          "like_count": 40578,
+          "quote_count": 98,
+          "reply_count": 105,
+          "retweet_count": 3295
+        },
+        "reply_settings": "everyone",
+        "text": "终于被我找到攻受高潮以后攻整个人瘫软身子俯下去找受要抱抱的了啊啊啊啊啊啊啊啊啊🥹刚开始真的特别猛受都要整个人被顶出去了连话都说不出来🥺攻射完以后就赶紧去找老婆要抱抱埋在老婆肩膀那😭家1就这么依赖家0🥺🤲🏻 https://t.co/li1wrUP5zK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 什么都看 欢迎互fo",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 95,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T15:21:54.000Z",
+        "description": "代餐不会涉及名字|全是设定和剧情描述,原创文案|视频没了就是原推删了,有原推都会直接用原推的视频(有想吃的代餐欢迎私信或匿名提问箱👇🏻没有任何私下粉丝群｜如果喜欢我的内容可以打赏任何金额我都会超开心！！🥺|BG分身@heteroneedhelp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 107,
+                "username": "heteroneedhelp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%85%A8%E9%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%85%A8%E9%83%BD%E6%98%AF%E9%A6%99%E9%A6%99%E7%9A%84%E4%BB%A3%E9%A4%90",
+                "start": 0,
+                "url": "https://t.co/QP2q8C54pf"
+              }
+            ]
+          }
+        },
+        "id": "1799824209897525248",
+        "name": "全都是香香的代餐",
+        "pinned_tweet_id": "1961440301664669736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799911681134415872/asZctzon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310685,
+          "following_count": 704,
+          "like_count": 17490,
+          "listed_count": 356,
+          "media_count": 1615,
+          "tweet_count": 7352
+        },
+        "url": "https://t.co/QP2q8C54pf",
+        "username": "yaoi_thebest",
+        "verified": false
+      }
+    ]
+  }
+}

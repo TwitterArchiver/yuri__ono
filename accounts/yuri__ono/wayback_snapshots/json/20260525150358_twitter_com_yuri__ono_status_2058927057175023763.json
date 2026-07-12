@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2058374372168225041",
+    "created_at": "2026-05-25T15:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058927057175023763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363778249277382656",
+          "start": 0,
+          "username": "JVltGillEasbaig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058927057175023763",
+    "in_reply_to_user_id": "1363778249277382656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058643120183734474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JVltGillEasbaig 震撼首发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2058374372168225041",
+        "created_at": "2026-05-25T15:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058927057175023763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363778249277382656",
+              "start": 0,
+              "username": "JVltGillEasbaig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058927057175023763",
+        "in_reply_to_user_id": "1363778249277382656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058643120183734474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JVltGillEasbaig 震撼首发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363778249277382656",
+        "conversation_id": "2058374372168225041",
+        "created_at": "2026-05-24T20:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058643120183734474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058643120183734474",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058374372168225041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 你只要自己开盒自己就没人会开盒你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 450,
+          "like_count": 4381,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1136
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T09:10:56.000Z",
+        "description": "ᛋᚨᚢᛚ:ᚺᚢᚷᚨᚱ:ᛚᛁᚲᛁᛚᛚᛁᚾᚾ:ᛏᛁᛚ:ᛚᛟᚠᛏᛊ:ᛚᛁᚠᛊ",
+        "id": "1363778249277382656",
+        "location": "Silent Hill, Maine, USA",
+        "name": "JoannaGillespuic",
+        "pinned_tweet_id": "2054057274277302458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054574979145220096/BH8Ellu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 532,
+          "like_count": 16175,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 8002
+        },
+        "username": "JVltGillEasbaig",
+        "verified": false
+      }
+    ]
+  }
+}

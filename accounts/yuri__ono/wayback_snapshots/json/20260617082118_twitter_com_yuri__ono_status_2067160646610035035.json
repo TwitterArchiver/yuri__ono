@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2066856072049287198",
+    "created_at": "2026-06-17T08:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067160646610035035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066093962348412928",
+          "start": 0,
+          "username": "SnowzzZ08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067160646610035035",
+    "in_reply_to_user_id": "2066093962348412928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066856072049287198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowzzZ08 你咋这么美！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5766,
+        "height": 1280,
+        "media_key": "13_2066855994098098176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066855994098098176/img/YaRjxS_hkrAE3JVv.jpg",
+        "public_metrics": {
+          "view_count": 1354
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066855994098098176/vid/avc1/320x568/Gc03AWDrbog61oXe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066855994098098176/vid/avc1/480x852/TfhF7HpKkwHgvx1F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066855994098098176/vid/avc1/720x1280/EwU8dWJD1-haFUra.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066855994098098176/pl/zQGITYm35aXEnSdw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2066856072049287198",
+        "created_at": "2026-06-17T08:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067160646610035035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066093962348412928",
+              "start": 0,
+              "username": "SnowzzZ08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067160646610035035",
+        "in_reply_to_user_id": "2066093962348412928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066856072049287198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowzzZ08 你咋这么美！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066855994098098176"
+          ]
+        },
+        "author_id": "2066093962348412928",
+        "conversation_id": "2066856072049287198",
+        "created_at": "2026-06-16T12:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066856072049287198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtPbkZVp4k",
+              "end": 59,
+              "expanded_url": "https://x.com/SnowzzZ08/status/2066856072049287198/video/1",
+              "media_key": "13_2066855994098098176",
+              "start": 36,
+              "url": "https://t.co/AtPbkZVp4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066856072049287198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4235,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没卖萌呀 我有个人格就是很萌 心情好了她就会出来 可能我本来就挺萌的 https://t.co/AtPbkZVp4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 719,
+          "like_count": 5058,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1704
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T09:45:09.000Z",
+        "description": "08 istp 私信会看随缘回\n不看不聊骚谢谢。线下不约。",
+        "id": "2066093962348412928",
+        "name": "Snow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066094765012402176/FytmI_k6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 56,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "username": "SnowzzZ08",
+        "verified": false
+      }
+    ]
+  }
+}

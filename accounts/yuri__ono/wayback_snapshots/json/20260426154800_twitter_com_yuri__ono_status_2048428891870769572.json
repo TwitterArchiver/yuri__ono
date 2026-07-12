@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2048428891870769572",
+    "created_at": "2026-04-26T15:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048428891870769572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yeshsbxhjs/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yeshsbxhjs/status/2047901273115222240",
+          "start": 8,
+          "url": "https://t.co/l98XviMBVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048428891870769572",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047901273115222240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "汤子航好似好似 https://t.co/l98XviMBVI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2048428891870769572",
+        "created_at": "2026-04-26T15:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048428891870769572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yeshsbxhjs/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yeshsbxhjs/status/2047901273115222240",
+              "start": 8,
+              "url": "https://t.co/l98XviMBVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048428891870769572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047901273115222240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "汤子航好似好似 https://t.co/l98XviMBVI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723546829454032896",
+        "conversation_id": "2047901273115222240",
+        "created_at": "2026-04-25T04:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047901273115222240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047901273115222240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 248349,
+          "like_count": 764,
+          "quote_count": 2,
+          "reply_count": 108,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "你婵姐也是过上警衣狱食的日子了 我笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 306,
+          "like_count": 2754,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 633
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T03:43:27.000Z",
+        "description": "这里是秋秋！09 （欢迎宝宝互fo 会查一下成分 ）我成分很复杂 我会视监每一个关注我的人🙌互fo的宝宝可以找我聊天🥹我很社恐 说话像人机 没回就是手机不在……或者我在睡觉 谢谢你们喜欢我呀！！",
+        "id": "1723546829454032896",
+        "location": "天堂",
+        "name": "秋秋OvO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035225888196108288/aOw29pev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 191,
+          "like_count": 363,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 339
+        },
+        "username": "yeshsbxhjs",
+        "verified": false
+      }
+    ]
+  }
+}

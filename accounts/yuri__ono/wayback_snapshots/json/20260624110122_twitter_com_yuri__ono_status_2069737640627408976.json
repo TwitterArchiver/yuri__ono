@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2069376477494439985",
+    "created_at": "2026-06-24T11:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069737640627408976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2068633150599929856",
+          "start": 0,
+          "username": "zlsalxoow"
+        },
+        {
+          "end": 19,
+          "id": "2068021503678136320",
+          "start": 11,
+          "username": "0v0_voo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069737640627408976",
+    "in_reply_to_user_id": "2068633150599929856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069734107228311991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zlsalxoow @0v0_voo 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2069376477494439985",
+        "created_at": "2026-06-24T11:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069737640627408976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2068633150599929856",
+              "start": 0,
+              "username": "zlsalxoow"
+            },
+            {
+              "end": 19,
+              "id": "2068021503678136320",
+              "start": 11,
+              "username": "0v0_voo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069737640627408976",
+        "in_reply_to_user_id": "2068633150599929856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069734107228311991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zlsalxoow @0v0_voo 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068633150599929856",
+        "conversation_id": "2069376477494439985",
+        "created_at": "2026-06-24T10:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069734107228311991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2068021503678136320",
+              "start": 0,
+              "username": "0v0_voo"
+            },
+            {
+              "end": 19,
+              "id": "1967234748704862208",
+              "start": 9,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069734107228311991",
+        "in_reply_to_user_id": "2068021503678136320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069444744749674992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0v0_voo @yuri__ono 你怎么知道我今天的晚饭就是肉片，但是外卖还是不如家附近的好吃，😭("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 810,
+          "like_count": 5406,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2064
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T09:53:29.000Z",
+        "description": "是不安 焦虑 自卑 恐惧感 揉杂出的抽象生物",
+        "id": "2068633150599929856",
+        "name": "zls alxo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068633491189932032/qbqD1EuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "zlsalxoow",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T17:25:05.000Z",
+        "description": "🤍",
+        "id": "2068021503678136320",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "OvO",
+        "pinned_tweet_id": "2069640003005870160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068075514695471104/LmbmI3Fv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "0v0_voo",
+        "verified": false
+      }
+    ]
+  }
+}

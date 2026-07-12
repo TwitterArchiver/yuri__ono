@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054214748078772224"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2054214760519110968",
+    "created_at": "2026-05-12T14:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054214760519110968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "分析你的 X 互动圈，找出最活跃的互动用户",
+          "display_url": "circle.catsuki.cc/zh/circle/q3rw…",
+          "end": 41,
+          "expanded_url": "https://circle.catsuki.cc/zh/circle/q3rwz5lv",
+          "start": 18,
+          "status": 200,
+          "title": "X 互动圈生成器 — NekoCircle",
+          "unwound_url": "https://circle.catsuki.cc/zh/circle/q3rwz5lv",
+          "url": "https://t.co/44aB2iCDo1"
+        },
+        {
+          "display_url": "pic.x.com/tmyUMGLCro",
+          "end": 83,
+          "expanded_url": "https://x.com/yuri__ono/status/2054214760519110968/photo/1",
+          "media_key": "3_2054214748078772224",
+          "start": 60,
+          "url": "https://t.co/tmyUMGLCro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054214760519110968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇哦。\n我的推特圈!\n快速寻找自己 https://t.co/44aB2iCDo1\n使用 NekoCircle 创建! https://t.co/tmyUMGLCro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2054214748078772224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIJbf-akAAb6DY.jpg",
+        "width": 2800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054214748078772224"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2054214760519110968",
+        "created_at": "2026-05-12T14:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054214760519110968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "分析你的 X 互动圈，找出最活跃的互动用户",
+              "display_url": "circle.catsuki.cc/zh/circle/q3rw…",
+              "end": 41,
+              "expanded_url": "https://circle.catsuki.cc/zh/circle/q3rwz5lv",
+              "start": 18,
+              "status": 200,
+              "title": "X 互动圈生成器 — NekoCircle",
+              "unwound_url": "https://circle.catsuki.cc/zh/circle/q3rwz5lv",
+              "url": "https://t.co/44aB2iCDo1"
+            },
+            {
+              "display_url": "pic.x.com/tmyUMGLCro",
+              "end": 83,
+              "expanded_url": "https://x.com/yuri__ono/status/2054214760519110968/photo/1",
+              "media_key": "3_2054214748078772224",
+              "start": 60,
+              "url": "https://t.co/tmyUMGLCro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054214760519110968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇哦。\n我的推特圈!\n快速寻找自己 https://t.co/44aB2iCDo1\n使用 NekoCircle 创建! https://t.co/tmyUMGLCro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 319,
+          "like_count": 3276,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 754
+        },
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2067609759851970586",
+    "created_at": "2026-06-18T16:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067648891739320338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630461303742697472",
+          "start": 0,
+          "username": "titanmini3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067648891739320338",
+    "in_reply_to_user_id": "1630461303742697472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067609759851970586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@titanmini3 震撼美味！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2067609748074364928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGgHHgbgAAw2WG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2067609759851970586",
+        "created_at": "2026-06-18T16:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067648891739320338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630461303742697472",
+              "start": 0,
+              "username": "titanmini3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067648891739320338",
+        "in_reply_to_user_id": "1630461303742697472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067609759851970586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@titanmini3 震撼美味！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067609748074364928"
+          ]
+        },
+        "author_id": "1630461303742697472",
+        "conversation_id": "2067609759851970586",
+        "created_at": "2026-06-18T14:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067609759851970586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9sXiPIDb9",
+              "end": 42,
+              "expanded_url": "https://x.com/titanmini3/status/2067609759851970586/photo/1",
+              "media_key": "3_2067609748074364928",
+              "start": 19,
+              "url": "https://t.co/k9sXiPIDb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067609759851970586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 572,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo了 我发个福利 明天删！ https://t.co/k9sXiPIDb9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 736,
+          "like_count": 5133,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1776
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T06:54:16.000Z",
+        "description": "05/推止于推/isfp/玻璃心小女孩/日常口嗨 别当真/sub/绿🚪52/黄🚪52000\n颜控 身材控 没有免费聊天的义务😅\n有问必答☺️https://t.co/9kuMV0X7ta",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lulu59400",
+                "end": 93,
+                "expanded_url": "https://ngl.link/lulu59400",
+                "start": 70,
+                "url": "https://t.co/9kuMV0X7ta"
+              }
+            ]
+          }
+        },
+        "id": "1630461303742697472",
+        "location": "你心里",
+        "name": "lulu",
+        "pinned_tweet_id": "2060679336630358299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049308455627038720/swZke1o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 330,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 668
+        },
+        "url": "",
+        "username": "titanmini3",
+        "verified": false
+      }
+    ]
+  }
+}

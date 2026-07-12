@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2067828276782080207",
+    "created_at": "2026-06-19T04:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T05:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067830795990151628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2006896037412352000",
+          "start": 0,
+          "username": "plh1649513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067830795990151628",
+    "in_reply_to_user_id": "2006896037412352000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067828276782080207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plh1649513 恭喜呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067828267458211841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJm2npbsAEebC8.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2067828276782080207",
+        "created_at": "2026-06-19T04:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067830795990151628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2006896037412352000",
+              "start": 0,
+              "username": "plh1649513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067830795990151628",
+        "in_reply_to_user_id": "2006896037412352000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067828276782080207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plh1649513 恭喜呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067828267458211841"
+          ]
+        },
+        "author_id": "2006896037412352000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067828276782080207",
+        "created_at": "2026-06-19T04:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067828276782080207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBcewMQIae",
+              "end": 40,
+              "expanded_url": "https://x.com/plh1649513/status/2067828276782080207/photo/1",
+              "media_key": "3_2067828267458211841",
+              "start": 17,
+              "url": "https://t.co/hBcewMQIae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067828276782080207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那么快就到500了？！感谢大家！ https://t.co/hBcewMQIae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 741,
+          "like_count": 5161,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1812
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T01:12:08.000Z",
+        "description": "乙一笔下的青/川端康成笔下的雪/\n不小心患上了文青病/会发点弱智推文/喜欢哲学/科幻/虚无主义/精神病患者在家休学中/负能/包容一切/情感小屋欢迎来坐/Oder/fo互关\n/#蓝V互关！！！世界上最好的姐姐：@osborn_11s",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "蓝V互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "osborn_11s"
+              }
+            ]
+          }
+        },
+        "id": "2006896037412352000",
+        "location": "广东深圳",
+        "name": "睁眼也不一定能活",
+        "pinned_tweet_id": "2067156550310076460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063583607122477056/ztR7JATt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 531,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "plh1649513",
+        "verified": true
+      }
+    ]
+  }
+}

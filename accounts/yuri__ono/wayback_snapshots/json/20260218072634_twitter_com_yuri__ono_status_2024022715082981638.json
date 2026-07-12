@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2023801658921357765",
+    "created_at": "2026-02-18T07:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024022715082981638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1589508609578176512",
+          "start": 0,
+          "username": "mifanmiaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024022715082981638",
+    "in_reply_to_user_id": "1589508609578176512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023801658921357765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mifanmiaomiao 抱歉刚刚在想中药的事🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1885,
+        "media_key": "3_2023801625224347648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBX82wdbAAA3RsQ.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2023801658921357765",
+        "created_at": "2026-02-18T07:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024022715082981638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589508609578176512",
+              "start": 0,
+              "username": "mifanmiaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024022715082981638",
+        "in_reply_to_user_id": "1589508609578176512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023801658921357765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mifanmiaomiao 抱歉刚刚在想中药的事🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023801625224347648"
+          ]
+        },
+        "author_id": "1589508609578176512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023801658921357765",
+        "created_at": "2026-02-17T16:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023801658921357765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCngNEj43p",
+              "end": 41,
+              "expanded_url": "https://x.com/mifanmiaomiao/status/2023801658921357765/photo/1",
+              "media_key": "3_2023801625224347648",
+              "start": 18,
+              "url": "https://t.co/pCngNEj43p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023801658921357765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3196,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "符水喝起来！神婆请起来！法做起来！ https://t.co/pCngNEj43p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "当朋友圈刷 发碎碎念 什么都看 女生可以加微信 不文爱不聊黄别来恶心我 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 258,
+          "like_count": 1617,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 328
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T06:42:57.000Z",
+        "description": "会互fo~（大部分时间在搞/写/发黄色介意可取关~）俺喜欢和大家交朋友！ 欢迎互转互粉互赞~正在努力学英语润出去.... 偶尔会写点抽象的满足自己！！会给互fo画画（不过技术不太好 /画的有些慢）希望宝宝会喜欢^•͈༝•^ฅ欢迎宝宝们来找我私信聊天哦🥰太冒昧的私信休怪我的刀不长眼！🔪🪓🗡",
+        "id": "1589508609578176512",
+        "name": "米花糖",
+        "pinned_tweet_id": "1998563648768487661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998359027051618304/QN4w_EJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 822,
+          "like_count": 8040,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 1806
+        },
+        "username": "mifanmiaomiao",
+        "verified": false
+      }
+    ]
+  }
+}

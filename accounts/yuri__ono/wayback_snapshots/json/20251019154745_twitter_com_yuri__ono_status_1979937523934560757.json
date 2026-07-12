@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978108598778490884"
+      ],
+      "media_source_tweet_id": [
+        "1978108609947906325"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "1979937523934560757",
+    "created_at": "2025-10-19T15:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T16:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979937523934560757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1967490812578852864",
+          "start": 3,
+          "username": "3ICxJEMhkY66253"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ea1C3KwAbZ",
+          "end": 54,
+          "expanded_url": "https://x.com/3ICxJEMhkY66253/status/1978108609947906325/photo/1",
+          "media_key": "3_1978108598778490884",
+          "start": 31,
+          "url": "https://t.co/Ea1C3KwAbZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979937523934560757",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 887
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978108609947906325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3ICxJEMhkY66253: 色素薄いよしきすき https://t.co/Ea1C3KwAbZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1010,
+        "media_key": "3_1978108598778490884",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OnSkVWcAQYM6i.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978108598778490884"
+          ],
+          "media_source_tweet_id": [
+            "1978108609947906325"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "1979937523934560757",
+        "created_at": "2025-10-19T15:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T16:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979937523934560757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1967490812578852864",
+              "start": 3,
+              "username": "3ICxJEMhkY66253"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ea1C3KwAbZ",
+              "end": 54,
+              "expanded_url": "https://x.com/3ICxJEMhkY66253/status/1978108609947906325/photo/1",
+              "media_key": "3_1978108598778490884",
+              "start": 31,
+              "url": "https://t.co/Ea1C3KwAbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979937523934560757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 887
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978108609947906325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3ICxJEMhkY66253: 色素薄いよしきすき https://t.co/Ea1C3KwAbZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978108598778490884"
+          ]
+        },
+        "author_id": "1967490812578852864",
+        "conversation_id": "1978108609947906325",
+        "created_at": "2025-10-14T14:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978108609947906325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ea1C3KwAbZ",
+              "end": 33,
+              "expanded_url": "https://x.com/3ICxJEMhkY66253/status/1978108609947906325/photo/1",
+              "media_key": "3_1978108598778490884",
+              "start": 10,
+              "url": "https://t.co/Ea1C3KwAbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978108609947906325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 683,
+          "impression_count": 91720,
+          "like_count": 11614,
+          "quote_count": 13,
+          "reply_count": 4,
+          "retweet_count": 887
+        },
+        "reply_settings": "everyone",
+        "text": "色素薄いよしきすき https://t.co/Ea1C3KwAbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "",
+        "id": "1967234748704862208",
+        "name": "yu ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 80,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T07:29:13.000Z",
+        "description": "反応遅いです。この世で1番dcstがすき。通知オフ",
+        "id": "1967490812578852864",
+        "name": "ｵﾍﾞﾝｷｮしな‼️",
+        "pinned_tweet_id": "1977556717740413114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967491040144990208/zniu0rTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6441,
+          "following_count": 106,
+          "like_count": 1522,
+          "listed_count": 16,
+          "media_count": 25,
+          "tweet_count": 35
+        },
+        "username": "3ICxJEMhkY66253",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048535366861471744"
+      ],
+      "media_source_tweet_id": [
+        "2048594230507938178"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2049168106082484378",
+    "created_at": "2026-04-28T16:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049168106082484378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1255191384207888389",
+          "start": 3,
+          "username": "depressionlesss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kMzey5FvcN",
+          "end": 44,
+          "expanded_url": "https://x.com/depressionlesss/status/2048594230507938178/photo/1",
+          "media_key": "3_2048535366861471744",
+          "start": 21,
+          "url": "https://t.co/kMzey5FvcN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049168106082484378",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13889
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048594230507938178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @depressionlesss: https://t.co/kMzey5FvcN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1767,
+        "media_key": "3_2048535366861471744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3cEAOaQAAInhN.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048535366861471744"
+          ],
+          "media_source_tweet_id": [
+            "2048594230507938178"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2049168106082484378",
+        "created_at": "2026-04-28T16:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049168106082484378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1255191384207888389",
+              "start": 3,
+              "username": "depressionlesss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kMzey5FvcN",
+              "end": 44,
+              "expanded_url": "https://x.com/depressionlesss/status/2048594230507938178/photo/1",
+              "media_key": "3_2048535366861471744",
+              "start": 21,
+              "url": "https://t.co/kMzey5FvcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049168106082484378",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13889
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048594230507938178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @depressionlesss: https://t.co/kMzey5FvcN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048535366861471744"
+          ]
+        },
+        "author_id": "1255191384207888389",
+        "conversation_id": "2048594230507938178",
+        "created_at": "2026-04-27T02:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048594230507938178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kMzey5FvcN",
+              "end": 23,
+              "expanded_url": "https://x.com/depressionlesss/status/2048594230507938178/photo/1",
+              "media_key": "3_2048535366861471744",
+              "start": 0,
+              "url": "https://t.co/kMzey5FvcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048594230507938178",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7252,
+          "impression_count": 2261916,
+          "like_count": 262604,
+          "quote_count": 258,
+          "reply_count": 450,
+          "retweet_count": 13889
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kMzey5FvcN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回",
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ",
+        "name": "yu ri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 307,
+          "like_count": 2881,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 666
+        },
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-28T17:45:33.000Z",
+        "description": "Follow for daily cute content 😺🩶 All copyrights belong to their respective owners. DM for credits/removal/submission.",
+        "id": "1255191384207888389",
+        "name": "Antidepressant Content",
+        "pinned_tweet_id": "1966245405345386629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734564468342796288/QvSbuN-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365025,
+          "following_count": 5593,
+          "like_count": 105044,
+          "listed_count": 802,
+          "media_count": 14833,
+          "tweet_count": 24671
+        },
+        "username": "depressionlesss",
+        "verified": true
+      }
+    ]
+  }
+}
