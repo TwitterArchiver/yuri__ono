@@ -10,10 +10,11 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 74,
-        "start": 64,
+        "end": 75,
+        "start": 65,
         "username": "Yuri__ovo"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg"
 }
