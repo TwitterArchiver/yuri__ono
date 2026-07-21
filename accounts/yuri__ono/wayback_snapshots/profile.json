@@ -1,7 +1,7 @@
 {
   "name": "yuri",
   "username": "@yuri__ono",
-  "bio": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+  "bio": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
   "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,8 +10,8 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 75,
-        "start": 65,
+        "end": 72,
+        "start": 62,
         "username": "Yuri__ovo"
       }
     ]
