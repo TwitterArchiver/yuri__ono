@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2077968505664848135",
+    "created_at": "2026-07-17T06:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078005229694640177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047867227328643072",
+          "start": 0,
+          "username": "wolfye219875"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078005229694640177",
+    "in_reply_to_user_id": "2047867227328643072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077996530586509584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wolfye219875 我做到了😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2077968505664848135",
+        "created_at": "2026-07-17T06:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078005229694640177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047867227328643072",
+              "start": 0,
+              "username": "wolfye219875"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078005229694640177",
+        "in_reply_to_user_id": "2047867227328643072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077996530586509584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wolfye219875 我做到了😼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047867227328643072",
+        "conversation_id": "2077968505664848135",
+        "created_at": "2026-07-17T05:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077996530586509584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077996530586509584",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077968505664848135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 949,
+          "like_count": 5868,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2451
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-25T02:36:29.000Z",
+        "description": "大专职高姐别来找存在感",
+        "id": "2047867227328643072",
+        "location": "Democratic People's Republic o",
+        "name": "wolfyi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048098123348885504/FPEw3HJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 65,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "wolfye219875",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2076582070709792978",
+    "created_at": "2026-07-13T13:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076656935886323924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1418919914409242631",
+          "start": 0,
+          "username": "88BExUpvIQ7sOC8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076656935886323924",
+    "in_reply_to_user_id": "1418919914409242631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076655306298524126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@88BExUpvIQ7sOC8 小环环 想你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2076582070709792978",
+        "created_at": "2026-07-13T13:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076656935886323924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1418919914409242631",
+              "start": 0,
+              "username": "88BExUpvIQ7sOC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076656935886323924",
+        "in_reply_to_user_id": "1418919914409242631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076655306298524126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@88BExUpvIQ7sOC8 小环环 想你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418919914409242631",
+        "conversation_id": "2076582070709792978",
+        "created_at": "2026-07-13T13:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076655306298524126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076655306298524126",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076582070709792978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 大姐姐你鼻子中间那个高高的是什么……我怎么没有………😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 945,
+          "like_count": 5785,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 2421
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-24T13:04:14.000Z",
+        "description": "窗外是佛罗伦萨，桌上是死。如果今天的我远离一切，那是因为除了爱和仰望，我别无所能。\n\n可以叫我环⭕️，永远17岁的女孩子(𓈒ʚ̴̶̷̷̥ ⩊ ɞ̴̶̷𓈒)",
+        "id": "1418919914409242631",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": "いくら",
+        "pinned_tweet_id": "1732002153747890630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687315775793831936/vWjoGNuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 855,
+          "like_count": 20024,
+          "listed_count": 9,
+          "media_count": 1021,
+          "tweet_count": 4876
+        },
+        "url": "",
+        "username": "88BExUpvIQ7sOC8",
+        "verified": false
+      }
+    ]
+  }
+}

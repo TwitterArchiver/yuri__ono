@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2077717575237349858",
+    "created_at": "2026-07-16T11:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077724394068291944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039986041218592768",
+          "start": 0,
+          "username": "7xEcuUp3Sf61887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077724394068291944",
+    "in_reply_to_user_id": "2039986041218592768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077717575237349858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xEcuUp3Sf61887 生日快乐呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077717572733333504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWJH8pbcAAwKvE.jpg",
+        "width": 942
+      },
+      {
+        "height": 654,
+        "media_key": "3_2077717572519346176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWJH72aQAACNiO.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2077717575237349858",
+        "created_at": "2026-07-16T11:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077724394068291944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039986041218592768",
+              "start": 0,
+              "username": "7xEcuUp3Sf61887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077724394068291944",
+        "in_reply_to_user_id": "2039986041218592768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077717575237349858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xEcuUp3Sf61887 生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077717572733333504",
+            "3_2077717572519346176"
+          ]
+        },
+        "author_id": "2039986041218592768",
+        "conversation_id": "2077717575237349858",
+        "created_at": "2026-07-16T11:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077717575237349858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5bwiuLx76J",
+              "end": 27,
+              "expanded_url": "https://x.com/7xEcuUp3Sf61887/status/2077717575237349858/photo/1",
+              "media_key": "3_2077717572733333504",
+              "start": 4,
+              "url": "https://t.co/5bwiuLx76J"
+            },
+            {
+              "display_url": "pic.x.com/5bwiuLx76J",
+              "end": 27,
+              "expanded_url": "https://x.com/7xEcuUp3Sf61887/status/2077717575237349858/photo/1",
+              "media_key": "3_2077717572519346176",
+              "start": 4,
+              "url": "https://t.co/5bwiuLx76J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077717575237349858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "17歲 https://t.co/5bwiuLx76J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄【私信乱发屌照死全家】喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 949,
+          "like_count": 5845,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2437
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜江浙滬正體字消腫逼一枚｜DM○",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4Ga5J"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2070813276167094635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 96,
+          "like_count": 6089,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/5WmYE4Ga5J",
+        "username": "7xEcuUp3Sf61887",
+        "verified": false
+      }
+    ]
+  }
+}

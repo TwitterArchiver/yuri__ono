@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2077838036520534132",
+    "created_at": "2026-07-16T19:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T20:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077838036520534132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "angel_OvO27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077838036520534132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077283388952854860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angel_OvO27: 我们还可以用青少年这个理由痛苦几年？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2077838036520534132",
+        "created_at": "2026-07-16T19:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077838036520534132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "angel_OvO27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077838036520534132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077283388952854860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angel_OvO27: 我们还可以用青少年这个理由痛苦几年？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2077283388952854860",
+        "created_at": "2026-07-15T06:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077283388952854860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077283388952854860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10411,
+          "like_count": 430,
+          "quote_count": 5,
+          "reply_count": 43,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "我们还可以用青少年这个理由痛苦几年？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 948,
+          "like_count": 5850,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2439
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "小众活法不喜勿喷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068721135324385280/FkNg_ewA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2775,
+          "following_count": 65,
+          "like_count": 2667,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 5393
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "angel_OvO27",
+        "verified": false
+      }
+    ]
+  }
+}

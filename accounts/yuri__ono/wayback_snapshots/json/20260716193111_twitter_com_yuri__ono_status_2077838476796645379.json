@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075681112693592064"
+      ],
+      "media_source_tweet_id": [
+        "2075681130695508422"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2077838476796645379",
+    "created_at": "2026-07-16T19:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T20:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077838476796645379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1915448291267153920",
+          "start": 3,
+          "username": "uoxxin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VotHvFQ7WS",
+          "end": 35,
+          "expanded_url": "https://x.com/uoxxin/status/2075681130695508422/photo/1",
+          "media_key": "3_2075681112693592064",
+          "start": 12,
+          "url": "https://t.co/VotHvFQ7WS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077838476796645379",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075681130695508422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uoxxin: https://t.co/VotHvFQ7WS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_2075681112693592064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5M-X0W0AA0u_i.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075681112693592064"
+          ]
+        },
+        "author_id": "1915448291267153920",
+        "conversation_id": "2075681130695508422",
+        "created_at": "2026-07-10T20:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075681130695508422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VotHvFQ7WS",
+              "end": 23,
+              "expanded_url": "https://x.com/uoxxin/status/2075681130695508422/photo/1",
+              "media_key": "3_2075681112693592064",
+              "start": 0,
+              "url": "https://t.co/VotHvFQ7WS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075681130695508422",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 12603,
+          "like_count": 819,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VotHvFQ7WS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075681112693592064"
+          ],
+          "media_source_tweet_id": [
+            "2075681130695508422"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2077838476796645379",
+        "created_at": "2026-07-16T19:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077838476796645379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1915448291267153920",
+              "start": 3,
+              "username": "uoxxin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VotHvFQ7WS",
+              "end": 35,
+              "expanded_url": "https://x.com/uoxxin/status/2075681130695508422/photo/1",
+              "media_key": "3_2075681112693592064",
+              "start": 12,
+              "url": "https://t.co/VotHvFQ7WS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077838476796645379",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075681130695508422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uoxxin: https://t.co/VotHvFQ7WS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 948,
+          "like_count": 5856,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2440
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-24T16:50:42.000Z",
+        "description": "",
+        "id": "1915448291267153920",
+        "name": "⃟",
+        "pinned_tweet_id": "2072632253331452308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060875058608779267/hWrlzZqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7871,
+          "following_count": 267,
+          "like_count": 16586,
+          "listed_count": 7,
+          "media_count": 354,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "uoxxin",
+        "verified": false
+      }
+    ]
+  }
+}

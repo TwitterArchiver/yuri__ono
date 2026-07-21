@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2076416502576935075",
+    "created_at": "2026-07-13T10:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076615337290924165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039986041218592768",
+          "start": 0,
+          "username": "7xEcuUp3Sf61887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076615337290924165",
+    "in_reply_to_user_id": "2039986041218592768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076416502576935075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xEcuUp3Sf61887 对……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2076416502576935075",
+        "created_at": "2026-07-13T10:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076615337290924165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039986041218592768",
+              "start": 0,
+              "username": "7xEcuUp3Sf61887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076615337290924165",
+        "in_reply_to_user_id": "2039986041218592768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076416502576935075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xEcuUp3Sf61887 对……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039986041218592768",
+        "conversation_id": "2076416502576935075",
+        "created_at": "2026-07-12T21:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T22:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076416502576935075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076416502576935075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我覺得所有好看的髮型第一要素就是要有個可愛的齊劉海。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 945,
+          "like_count": 5786,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 2417
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜江浙滬正體字消腫逼一枚｜DM○",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4Ga5J"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2070813276167094635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 96,
+          "like_count": 6026,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1394
+        },
+        "url": "https://t.co/5WmYE4Ga5J",
+        "username": "7xEcuUp3Sf61887",
+        "verified": false
+      }
+    ]
+  }
+}

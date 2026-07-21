@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2077968505664848135",
+    "created_at": "2026-07-17T06:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078005296669335606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1950255067447382016",
+          "start": 0,
+          "username": "Leky1667965750"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078005296669335606",
+    "in_reply_to_user_id": "1950255067447382016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077984778192855315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leky1667965750 谢谢leky呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2077968505664848135",
+        "created_at": "2026-07-17T06:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078005296669335606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1950255067447382016",
+              "start": 0,
+              "username": "Leky1667965750"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078005296669335606",
+        "in_reply_to_user_id": "1950255067447382016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077984778192855315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leky1667965750 谢谢leky呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950255067447382016",
+        "conversation_id": "2077968505664848135",
+        "created_at": "2026-07-17T05:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077984778192855315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077984778192855315",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077968505664848135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 恭喜！^ω^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 949,
+          "like_count": 5868,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2453
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-29T18:00:25.000Z",
+        "description": "🍥🏳️‍⚧️🏳️‍🌈 | XG全肯定 | 4i | 川内不知名211在读 | 不含糖 | 想要认识更多朋友 | 可爱的宝宝快来找我聊天",
+        "id": "1950255067447382016",
+        "name": "leky",
+        "pinned_tweet_id": "2040874683126673423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002431220664446978/MotAVdk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 863,
+          "like_count": 6118,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "Leky1667965750",
+        "verified": false
+      }
+    ]
+  }
+}

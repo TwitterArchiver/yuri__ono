@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2077227180183154891",
+    "created_at": "2026-07-15T06:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077278197008503135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828387816348491777",
+          "start": 0,
+          "username": "DongS41590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077278197008503135",
+    "in_reply_to_user_id": "1828387816348491777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077239814450237460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongS41590 宝贝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 702,
+        "media_key": "3_2077239808565624832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPWmabawAACK5Q.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2077227180183154891",
+        "created_at": "2026-07-15T06:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077278197008503135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828387816348491777",
+              "start": 0,
+              "username": "DongS41590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077278197008503135",
+        "in_reply_to_user_id": "1828387816348491777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077239814450237460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongS41590 宝贝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077239808565624832"
+          ]
+        },
+        "author_id": "1828387816348491777",
+        "conversation_id": "2077227180183154891",
+        "created_at": "2026-07-15T03:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077239814450237460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HomGM1otnm",
+              "end": 40,
+              "expanded_url": "https://x.com/DongS41590/status/2077239814450237460/photo/1",
+              "media_key": "3_2077239808565624832",
+              "start": 17,
+              "url": "https://t.co/HomGM1otnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077239814450237460",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077227180183154891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 我就这样: https://t.co/HomGM1otnm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 什么都看 喜欢可以投喂谢谢 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 949,
+          "like_count": 5810,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2428
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-27T11:03:28.000Z",
+        "description": "nsfw⚠️\n\n感谢你的喜欢\n有攻击性的哦。\n欢迎交友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/26640781",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/26640781",
+                "start": 0,
+                "url": "https://t.co/6HMVgT7Lja"
+              }
+            ]
+          }
+        },
+        "id": "1828387816348491777",
+        "location": "大东市",
+        "name": "冬蚀·",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058215096426569728/3nMVF0Dd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 76,
+          "like_count": 550,
+          "listed_count": 7,
+          "media_count": 37,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/6HMVgT7Lja",
+        "username": "DongS41590",
+        "verified": false
+      }
+    ]
+  }
+}
