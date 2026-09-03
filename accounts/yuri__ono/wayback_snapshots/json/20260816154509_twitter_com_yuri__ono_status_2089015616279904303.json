@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089015608881127424",
+        "3_2089015608822374400",
+        "3_2089015608876871680"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2089015616279904303",
+    "created_at": "2026-08-16T15:45:09.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089015616279904303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VgQf6AEn5N",
+          "end": 85,
+          "expanded_url": "https://x.com/yuri__ono/status/2089015616279904303/photo/1",
+          "media_key": "3_2089015608881127424",
+          "start": 62,
+          "url": "https://t.co/VgQf6AEn5N"
+        },
+        {
+          "display_url": "pic.x.com/VgQf6AEn5N",
+          "end": 85,
+          "expanded_url": "https://x.com/yuri__ono/status/2089015616279904303/photo/1",
+          "media_key": "3_2089015608822374400",
+          "start": 62,
+          "url": "https://t.co/VgQf6AEn5N"
+        },
+        {
+          "display_url": "pic.x.com/VgQf6AEn5N",
+          "end": 85,
+          "expanded_url": "https://x.com/yuri__ono/status/2089015616279904303/photo/1",
+          "media_key": "3_2089015608876871680",
+          "start": 62,
+          "url": "https://t.co/VgQf6AEn5N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089015616279904303",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089015608881127424"
+      },
+      {
+        "media_key": "3_2089015608822374400"
+      },
+      {
+        "media_key": "3_2089015608876871680"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "招聘一个粉丝，每个月给你一块钱，主要任务就是在我发自拍的时候无脑夸我，发段子的时候无脑回应我，有人嘴就使劲骂他，谁想应聘？ https://t.co/VgQf6AEn5N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2089015608881127424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2soNGbIAAxWMk.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2089015608822374400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2soM4aoAAbOya.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089015608876871680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2soNFaMAA0Ncp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089015608881127424",
+            "3_2089015608822374400",
+            "3_2089015608876871680"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2089015616279904303",
+        "created_at": "2026-08-16T15:45:09.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089015616279904303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VgQf6AEn5N",
+              "end": 85,
+              "expanded_url": "https://x.com/yuri__ono/status/2089015616279904303/photo/1",
+              "media_key": "3_2089015608881127424",
+              "start": 62,
+              "url": "https://t.co/VgQf6AEn5N"
+            },
+            {
+              "display_url": "pic.x.com/VgQf6AEn5N",
+              "end": 85,
+              "expanded_url": "https://x.com/yuri__ono/status/2089015616279904303/photo/1",
+              "media_key": "3_2089015608822374400",
+              "start": 62,
+              "url": "https://t.co/VgQf6AEn5N"
+            },
+            {
+              "display_url": "pic.x.com/VgQf6AEn5N",
+              "end": 85,
+              "expanded_url": "https://x.com/yuri__ono/status/2089015616279904303/photo/1",
+              "media_key": "3_2089015608876871680",
+              "start": 62,
+              "url": "https://t.co/VgQf6AEn5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089015616279904303",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089015608881127424"
+          },
+          {
+            "media_key": "3_2089015608822374400"
+          },
+          {
+            "media_key": "3_2089015608876871680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "招聘一个粉丝，每个月给你一块钱，主要任务就是在我发自拍的时候无脑夸我，发段子的时候无脑回应我，有人嘴就使劲骂他，谁想应聘？ https://t.co/VgQf6AEn5N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2089015616279904303",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 976,
+          "like_count": 6530,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2705
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

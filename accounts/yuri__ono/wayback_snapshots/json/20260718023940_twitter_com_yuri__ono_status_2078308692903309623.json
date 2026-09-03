@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2077968505664848135",
+    "created_at": "2026-07-18T02:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078308692903309623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1555063899870855168",
+          "start": 0,
+          "username": "NIREKAWA_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078308692903309623",
+    "in_reply_to_user_id": "1555063899870855168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078305430707765587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NIREKAWA_ 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2077968505664848135",
+        "created_at": "2026-07-18T02:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078308692903309623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1555063899870855168",
+              "start": 0,
+              "username": "NIREKAWA_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078308692903309623",
+        "in_reply_to_user_id": "1555063899870855168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078305430707765587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NIREKAWA_ 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555063899870855168",
+        "conversation_id": "2077968505664848135",
+        "created_at": "2026-07-18T02:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078305430707765587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078305430707765587",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077968505664848135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 你简直是天才！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 957,
+          "like_count": 5886,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2459
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-04T05:31:50.000Z",
+        "description": "我大部分时间觉得看谁都不顺眼，就想在网上骂一骂，我当时怀疑我也是狂躁症。后来我真的去医院看了，填了一堆调查问卷，那个医生说我什么事都没有，后来@NIREKAWA_扔根骨头我就好了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "NIREKAWA_"
+              }
+            ]
+          }
+        },
+        "id": "1555063899870855168",
+        "location": "アモイ",
+        "name": "負荷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555679215059472384/E0Ik1czT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 105,
+          "like_count": 964,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "NIREKAWA_",
+        "verified": false
+      }
+    ]
+  }
+}

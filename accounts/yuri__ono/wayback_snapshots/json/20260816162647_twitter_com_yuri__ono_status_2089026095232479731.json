@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2089015616279904303",
+    "created_at": "2026-08-16T16:26:47.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089026095232479731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1815364231065423872",
+          "start": 0,
+          "username": "yur12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089026095232479731",
+    "in_reply_to_user_id": "1815364231065423872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089023574107431038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yur12138 我亲亲你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2089015616279904303",
+        "created_at": "2026-08-16T16:26:47.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089026095232479731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1815364231065423872",
+              "start": 0,
+              "username": "yur12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089026095232479731",
+        "in_reply_to_user_id": "1815364231065423872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089023574107431038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yur12138 我亲亲你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815364231065423872",
+        "conversation_id": "2089015616279904303",
+        "created_at": "2026-08-16T16:16:46.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089023574107431038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089023574107431038",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089015616279904303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 太美吧宝宝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2089026095232479731",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 980,
+          "like_count": 6547,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2713
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-22T12:32:25.000Z",
+        "description": "🐻是小小的屁股是大大的脾气是不好的\n纯分享无🚪不加任何联系方式\n喜欢就打赏催更可定制穿什么哦\n喜欢看美女👩🏻‍🦰和大粉JJ\n除了晚上困白天也困🥱",
+        "id": "1815364231065423872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089023574107431038",
+        "name": "熊熊",
+        "pinned_tweet_id": "2072270658390593827",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1815364231065423872/1778855583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051220090667024384/GV_C-KG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4549,
+          "following_count": 32,
+          "like_count": 2,
+          "listed_count": 9,
+          "media_count": 78,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "yur12138",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

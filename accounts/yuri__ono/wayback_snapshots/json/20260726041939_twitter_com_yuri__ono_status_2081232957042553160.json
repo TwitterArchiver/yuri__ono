@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2081223745260474745",
+    "created_at": "2026-07-26T04:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081232957042553160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2067549451355639808",
+          "start": 0,
+          "username": "Iholdtheblade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081232957042553160",
+    "in_reply_to_user_id": "2067549451355639808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081223745260474745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iholdtheblade 艾斯帕团粉又在这引发世界大战"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2081223745260474745",
+        "created_at": "2026-07-26T04:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081232957042553160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2067549451355639808",
+              "start": 0,
+              "username": "Iholdtheblade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081232957042553160",
+        "in_reply_to_user_id": "2067549451355639808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081223745260474745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iholdtheblade 艾斯帕团粉又在这引发世界大战"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067549451355639808",
+        "conversation_id": "2081223745260474745",
+        "created_at": "2026-07-26T03:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081223745260474745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081223745260474745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我问你们 张元英还是柳智敏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 964,
+          "like_count": 6084,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2513
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-18T10:07:16.000Z",
+        "description": "hi，叫我隔阂就好\n苦逼高中生 不谈恋爱不聊骚 讨厌顺直男\n碎碎念，生活日常，猫咪，音乐就是我的全部啦\n看心情互fo\n别好奇关于我皮下的一切感谢！",
+        "id": "2067549451355639808",
+        "location": "在你左侧",
+        "name": "更痛更苦更隔阂",
+        "pinned_tweet_id": "2070540177811063284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067562656031293440/d1d-OGxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 43,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "Iholdtheblade",
+        "verified": false
+      }
+    ]
+  }
+}

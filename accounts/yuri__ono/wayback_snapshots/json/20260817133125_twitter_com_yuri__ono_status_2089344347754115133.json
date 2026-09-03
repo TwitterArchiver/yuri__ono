@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2089331173701062885",
+    "created_at": "2026-08-17T13:31:25.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089344347754115133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1592120524276002817",
+          "start": 0,
+          "username": "c17desuwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089344347754115133",
+    "in_reply_to_user_id": "1592120524276002817",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089334949480632698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c17desuwa mj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 161,
+        "media_key": "3_2089334943365419008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7PD6wbUAApeVL.jpg",
+        "width": 168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2089331173701062885",
+        "created_at": "2026-08-17T13:31:25.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089344347754115133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1592120524276002817",
+              "start": 0,
+              "username": "c17desuwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089344347754115133",
+        "in_reply_to_user_id": "1592120524276002817",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089334949480632698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c17desuwa mj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089334943365419008"
+          ]
+        },
+        "author_id": "1592120524276002817",
+        "conversation_id": "2089331173701062885",
+        "created_at": "2026-08-17T12:54:04.000Z",
+        "display_text_range": [
+          11,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089334949480632698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TkkiiPyo73",
+              "end": 63,
+              "expanded_url": "https://x.com/c17desuwa/status/2089334949480632698/photo/1",
+              "media_key": "3_2089334943365419008",
+              "start": 40,
+              "url": "https://t.co/TkkiiPyo73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089334949480632698",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089334943365419008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089331173701062885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 我同学像从来不上网一样，无聊的要死，只知道玩烂梗和刷抖音 https://t.co/TkkiiPyo73"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢有礼貌的人 不聊黄不线下 喜欢有礼貌的人 查成分回关 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2089344347754115133",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 1006,
+          "like_count": 6563,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2748
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-14T11:41:35.000Z",
+        "description": "交友大欢迎呀。ദ്ദി˶˃ ᵕ ˂ )✧\nhttps://t.co/6qCGM5cV42 欢迎！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/c17desuwa",
+                "end": 44,
+                "expanded_url": "https://ngl.link/c17desuwa",
+                "start": 21,
+                "url": "https://t.co/6qCGM5cV42"
+              }
+            ]
+          }
+        },
+        "id": "1592120524276002817",
+        "is_identity_verified": false,
+        "location": "距你114514m",
+        "most_recent_tweet_id": "2089335421230862356",
+        "name": "c17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592120524276002817/1763978208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051947732286439425/BrPQMAVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 309,
+          "like_count": 744,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 2175
+        },
+        "url": "",
+        "username": "c17desuwa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

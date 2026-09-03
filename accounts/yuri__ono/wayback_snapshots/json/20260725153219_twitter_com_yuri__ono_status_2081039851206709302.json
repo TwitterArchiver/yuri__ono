@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2080886432843862033",
+    "created_at": "2026-07-25T15:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081039851206709302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828387816348491777",
+          "start": 0,
+          "username": "DongS41590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081039851206709302",
+    "in_reply_to_user_id": "1828387816348491777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080886432843862033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongS41590 好牛逼。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2940,
+        "media_key": "3_2080886424233287682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODLLYZboAI7gc1.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2080886432843862033",
+        "created_at": "2026-07-25T15:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081039851206709302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828387816348491777",
+              "start": 0,
+              "username": "DongS41590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081039851206709302",
+        "in_reply_to_user_id": "1828387816348491777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080886432843862033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongS41590 好牛逼。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080886424233287682"
+          ]
+        },
+        "author_id": "1828387816348491777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2080886432843862033",
+        "created_at": "2026-07-25T05:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080886432843862033"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "Remielle"
+            },
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "ゼンレスゾーンゼロ"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "zzzero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mg5XePN8iI",
+              "end": 64,
+              "expanded_url": "https://x.com/DongS41590/status/2080886432843862033/photo/1",
+              "media_key": "3_2080886424233287682",
+              "start": 41,
+              "url": "https://t.co/mg5XePN8iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080886432843862033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 253,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#Remielle  #ゼンレスゾーンゼロ   #zzzero\nレミエール・ダン https://t.co/mg5XePN8iI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 960,
+          "like_count": 6050,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2508
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-27T11:03:28.000Z",
+        "description": "nsfw⚠️\n\n感谢你的喜欢\n有攻击性的哦。\n欢迎交友\n\nhttps://t.co/mm7RiVqQgY\n新号。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/127870236",
+                "end": 52,
+                "expanded_url": "https://www.pixiv.net/users/127870236",
+                "start": 29,
+                "url": "https://t.co/mm7RiVqQgY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/26640781",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/26640781",
+                "start": 0,
+                "url": "https://t.co/6HMVgT7Lja"
+              }
+            ]
+          }
+        },
+        "id": "1828387816348491777",
+        "location": "大东市",
+        "name": "冬蚀·",
+        "pinned_tweet_id": "2080624257361756363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058215096426569728/3nMVF0Dd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 78,
+          "like_count": 553,
+          "listed_count": 7,
+          "media_count": 41,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/6HMVgT7Lja",
+        "username": "DongS41590",
+        "verified": false
+      }
+    ]
+  }
+}

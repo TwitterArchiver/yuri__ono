@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2089015616279904303",
+    "created_at": "2026-08-16T15:53:59.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089017838610813018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942477191390097408",
+          "start": 0,
+          "username": "JiaYu32195"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089017838610813018",
+    "in_reply_to_user_id": "1942477191390097408",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089017680934424926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaYu32195 mua！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2089015616279904303",
+        "created_at": "2026-08-16T15:53:59.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089017838610813018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942477191390097408",
+              "start": 0,
+              "username": "JiaYu32195"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089017838610813018",
+        "in_reply_to_user_id": "1942477191390097408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089017680934424926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaYu32195 mua！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942477191390097408",
+        "conversation_id": "2089015616279904303",
+        "created_at": "2026-08-16T15:53:21.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089017680934424926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089017680934424926",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089015616279904303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 你太美了和我亲一下(*￣3￣)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2089017838610813018",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 976,
+          "like_count": 6540,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2706
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-08T06:54:26.000Z",
+        "description": "https://t.co/sTlsjlK2lO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xin64158",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xin64158",
+                "start": 0,
+                "url": "https://t.co/sTlsjlK2lO"
+              }
+            ]
+          }
+        },
+        "id": "1942477191390097408",
+        "is_identity_verified": false,
+        "location": "3.4㎞",
+        "most_recent_tweet_id": "2089017680934424926",
+        "name": "小猫病",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942477191390097408/1784814203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060972952452239360/OVNTZgNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 47,
+          "like_count": 565,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "JiaYu32195",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

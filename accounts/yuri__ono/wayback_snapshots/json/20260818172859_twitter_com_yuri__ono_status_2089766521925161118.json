@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089766514027266048"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2089766521925161118",
+    "created_at": "2026-08-18T17:28:59.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T18:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089766521925161118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FusOo8XZXw",
+          "end": 32,
+          "expanded_url": "https://x.com/yuri__ono/status/2089766521925161118/photo/1",
+          "media_key": "3_2089766514027266048",
+          "start": 9,
+          "url": "https://t.co/FusOo8XZXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089766521925161118",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089766514027266048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和我的粉丝们！ https://t.co/FusOo8XZXw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1993,
+        "media_key": "3_2089766514027266048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBXkowaAAAevns.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089766514027266048"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2089766521925161118",
+        "created_at": "2026-08-18T17:28:59.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089766521925161118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FusOo8XZXw",
+              "end": 32,
+              "expanded_url": "https://x.com/yuri__ono/status/2089766521925161118/photo/1",
+              "media_key": "3_2089766514027266048",
+              "start": 9,
+              "url": "https://t.co/FusOo8XZXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089766521925161118",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089766514027266048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和我的粉丝们！ https://t.co/FusOo8XZXw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢有礼貌的人 不聊黄不线下 喜欢有礼貌的人 查成分回关 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2089766521925161118",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 1023,
+          "like_count": 6594,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2778
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

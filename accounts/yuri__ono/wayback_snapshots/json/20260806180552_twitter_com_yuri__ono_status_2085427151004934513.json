@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2085356930743284071",
+    "created_at": "2026-08-06T18:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085427151004934513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083858416402079745",
+          "start": 0,
+          "username": "EvansRichter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085427151004934513",
+    "in_reply_to_user_id": "2083858416402079745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085356930743284071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvansRichter 可怜的mina唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2085356930743284071",
+        "created_at": "2026-08-06T18:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085427151004934513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083858416402079745",
+              "start": 0,
+              "username": "EvansRichter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085427151004934513",
+        "in_reply_to_user_id": "2083858416402079745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085356930743284071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvansRichter 可怜的mina唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083858416402079745",
+        "conversation_id": "2085356930743284071",
+        "created_at": "2026-08-06T13:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085356930743284071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "Mina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085356930743284071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要再传播 #Mina 的死亡视频了。一个人的死亡不是你们争论输赢的素材，也不是满足某些人猎奇心理的娱乐资料。这不但是在二次伤害一个已经逝去的人，也可能伤害那些正在经历痛苦的人。现在几乎是个人就知道mina是低位自缢去世的了，你们传她的视频是嫌学这个死的人不够多吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 963,
+          "like_count": 6330,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2623
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-02T10:13:53.000Z",
+        "description": "这里是一个转生号，我相信熟悉我前世风格的人是能看出来我是谁的。由于多种原因，我基本废弃了我的前世账号，所以大家也不用去那个号找我了。\n还是简单介绍一下自己：\n男  07  身高188体重78  自由意志共产主义者  马克思主义者  ENFP  医学生 互关扩列大欢迎",
+        "id": "2083858416402079745",
+        "name": "59Panzergrenadier-Regiment",
+        "pinned_tweet_id": "2085382210602041370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084379026190397440/EA9s5s7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 186,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "EvansRichter",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2089737283796906302",
+    "created_at": "2026-08-18T16:19:39.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089749071850602775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868905416924561408",
+          "start": 0,
+          "username": "Sren070728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089749071850602775",
+    "in_reply_to_user_id": "1868905416924561408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089740426907623600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sren070728 嘿嘿。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2089737283796906302",
+        "created_at": "2026-08-18T16:19:39.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089749071850602775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868905416924561408",
+              "start": 0,
+              "username": "Sren070728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089749071850602775",
+        "in_reply_to_user_id": "1868905416924561408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089740426907623600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sren070728 嘿嘿。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868905416924561408",
+        "conversation_id": "2089737283796906302",
+        "created_at": "2026-08-18T15:45:17.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089740426907623600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089740426907623600",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089737283796906302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 萌呀萌呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢有礼貌的人 不聊黄不线下 喜欢有礼貌的人 查成分回关 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2089749071850602775",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 1020,
+          "like_count": 6591,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2768
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-17T06:25:58.000Z",
+        "description": "07/infp 坐标：東京江東区\n纯自恋 自愿转账：🚪10 不闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sren34760",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sren34760",
+                "start": 0,
+                "url": "https://t.co/sBG7JBgxI2"
+              }
+            ]
+          }
+        },
+        "id": "1868905416924561408",
+        "is_identity_verified": false,
+        "location": "Shinjuku-ku, Tokyo",
+        "most_recent_tweet_id": "2089741085686059119",
+        "name": "せレン，梦想哭了",
+        "pinned_tweet_id": "2078875632855830732",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868905416924561408/1770109000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019106902001741828/PFPUepzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 187,
+          "like_count": 2046,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/sBG7JBgxI2",
+        "username": "Sren070728",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

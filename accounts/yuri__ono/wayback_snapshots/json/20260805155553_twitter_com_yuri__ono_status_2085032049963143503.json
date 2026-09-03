@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2085008430532796527",
+    "created_at": "2026-08-05T15:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085032049963143503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067079575377698816",
+          "start": 0,
+          "username": "duzihaoeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085032049963143503",
+    "in_reply_to_user_id": "2067079575377698816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085008430532796527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duzihaoeo 好想吃。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085008419451494400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9wHFMa4AAlC9C.jpg",
+        "width": 1924
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2085008419455635456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9wHFNaEAA37zl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2085008419480915968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9wHFTb0AAbWz9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2085008430532796527",
+        "created_at": "2026-08-05T15:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085032049963143503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067079575377698816",
+              "start": 0,
+              "username": "duzihaoeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085032049963143503",
+        "in_reply_to_user_id": "2067079575377698816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085008430532796527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duzihaoeo 好想吃。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085008419451494400",
+            "3_2085008419455635456",
+            "3_2085008419480915968"
+          ]
+        },
+        "author_id": "2067079575377698816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085008430532796527",
+        "created_at": "2026-08-05T14:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085008430532796527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJJhVZyo5I",
+              "end": 58,
+              "expanded_url": "https://x.com/duzihaoeo/status/2085008430532796527/photo/1",
+              "media_key": "3_2085008419451494400",
+              "start": 35,
+              "url": "https://t.co/gJJhVZyo5I"
+            },
+            {
+              "display_url": "pic.x.com/gJJhVZyo5I",
+              "end": 58,
+              "expanded_url": "https://x.com/duzihaoeo/status/2085008430532796527/photo/1",
+              "media_key": "3_2085008419455635456",
+              "start": 35,
+              "url": "https://t.co/gJJhVZyo5I"
+            },
+            {
+              "display_url": "pic.x.com/gJJhVZyo5I",
+              "end": 58,
+              "expanded_url": "https://x.com/duzihaoeo/status/2085008430532796527/photo/1",
+              "media_key": "3_2085008419480915968",
+              "start": 35,
+              "url": "https://t.co/gJJhVZyo5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085008430532796527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "巧克力燕麥杯+冷凍奇異果、藍莓\n昨天裝的便當\n\n最後一口好爽啊啊啊啊 https://t.co/gJJhVZyo5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 960,
+          "like_count": 6316,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 2615
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-17T03:03:07.000Z",
+        "description": "我家小貓咪超級可愛！！！！\n減肥中！看到我請叫我去喝水\n我只是一個愛口嗨碎碎念的大變態\n每天都在搞瑟瑟跟嘴饞之間來回跳動\n純愛戰士！",
+        "id": "2067079575377698816",
+        "name": "鮭魚肚",
+        "pinned_tweet_id": "2082760667199881477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068955870151745536/Sz5UmcpL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 213,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 907
+        },
+        "url": "",
+        "username": "duzihaoeo",
+        "verified": false
+      }
+    ]
+  }
+}

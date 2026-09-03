@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2080157363462607357",
+    "created_at": "2026-07-23T06:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080177093917483014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060565621042253824",
+          "start": 0,
+          "username": "Tomsdnsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080177093917483014",
+    "in_reply_to_user_id": "2060565621042253824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080172169439715440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tomsdnsb 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2080157363462607357",
+        "created_at": "2026-07-23T06:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080177093917483014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060565621042253824",
+              "start": 0,
+              "username": "Tomsdnsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080177093917483014",
+        "in_reply_to_user_id": "2060565621042253824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080172169439715440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tomsdnsb 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060565621042253824",
+        "conversation_id": "2080157363462607357",
+        "created_at": "2026-07-23T06:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080172169439715440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080172169439715440",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080157363462607357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 暹罗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 960,
+          "like_count": 5983,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2492
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T03:36:11.000Z",
+        "description": "⌯ᵔᗜᵔ⌯ಣ减肥成功的咸鱼，X不定时在线。",
+        "id": "2060565621042253824",
+        "location": "星火之城",
+        "name": "瑟瑟发抖",
+        "pinned_tweet_id": "2062933908073984351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060755372361785344/1LOQZRwH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 37,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "Tomsdnsb",
+        "verified": false
+      }
+    ]
+  }
+}

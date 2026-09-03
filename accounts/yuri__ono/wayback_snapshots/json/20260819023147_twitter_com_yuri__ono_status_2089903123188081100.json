@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2089766521925161118",
+    "created_at": "2026-08-19T02:31:47.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T03:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089903123188081100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698717116709703680",
+          "start": 0,
+          "username": "YiAn0421_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089903123188081100",
+    "in_reply_to_user_id": "1698717116709703680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089780986133557537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiAn0421_ 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2089766521925161118",
+        "created_at": "2026-08-19T02:31:47.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089903123188081100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698717116709703680",
+              "start": 0,
+              "username": "YiAn0421_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089903123188081100",
+        "in_reply_to_user_id": "1698717116709703680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089780986133557537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiAn0421_ 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698717116709703680",
+        "conversation_id": "2089766521925161118",
+        "created_at": "2026-08-18T18:26:28.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089780986133557537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089780986133557537",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089766521925161118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 嚎！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢有礼貌的人 不聊黄不线下 喜欢有礼貌的人 查成分回关 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2089903123188081100",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 1022,
+          "like_count": 6588,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2786
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-04T15:18:34.000Z",
+        "description": "日常推，纯绿！！｜一个喜欢发癫的疯子 ENFP｜“我洞悉你灵魂的每一寸荒芜与平庸，然而我依然爱你。”｜祝大家不会长口腔溃疡｜骂我和我互关朋友的整个嘴巴都长满口腔溃疡！并且这辈子发不了财😋｜欢迎私信我找我聊天，小号是🔞，如果不介意可以找我私信要｜可以叫我亦安或者小亦或者小姨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi97456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi97456",
+                "start": 0,
+                "url": "https://t.co/nD8MH2UBis"
+              }
+            ]
+          }
+        },
+        "id": "1698717116709703680",
+        "is_identity_verified": false,
+        "location": "想骂我先给我转🚪1314我拿来发红包给粉丝",
+        "most_recent_tweet_id": "2089874394093084842",
+        "name": "亦安",
+        "pinned_tweet_id": "1989025508617777626",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1698717116709703680/1724449384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083511754378940416/ZG7zQ4Ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 659,
+          "like_count": 13500,
+          "listed_count": 2,
+          "media_count": 662,
+          "tweet_count": 9116
+        },
+        "url": "https://t.co/nD8MH2UBis",
+        "username": "YiAn0421_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

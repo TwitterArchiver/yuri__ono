@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2080635498947826069",
+    "created_at": "2026-07-28T09:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082042158417322013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067079575377698816",
+          "start": 0,
+          "username": "duzihaoeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082042158417322013",
+    "in_reply_to_user_id": "2067079575377698816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080635498947826069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duzihaoeo 好圆润的咪哎呀小宝宝 好想摸摸她的脖子毛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 142591,
+        "height": 1280,
+        "media_key": "13_2080635380337106944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080635380337106944/img/593WcG3EjJumqr4y.jpg",
+        "public_metrics": {
+          "view_count": 136
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080635380337106944/vid/avc1/320x568/Ci2yx7yrjb32UFl_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080635380337106944/vid/avc1/480x852/GKSoGIAjnNSdt9Ir.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080635380337106944/vid/avc1/720x1280/x1i84EA-udIRE7wB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080635380337106944/pl/IhSBhp9ZC_DuW1WW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2080635498947826069",
+        "created_at": "2026-07-28T09:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082042158417322013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067079575377698816",
+              "start": 0,
+              "username": "duzihaoeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082042158417322013",
+        "in_reply_to_user_id": "2067079575377698816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080635498947826069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duzihaoeo 好圆润的咪哎呀小宝宝 好想摸摸她的脖子毛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080635380337106944"
+          ]
+        },
+        "author_id": "2067079575377698816",
+        "conversation_id": "2080635498947826069",
+        "created_at": "2026-07-24T12:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080635498947826069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hnNj51TwJp",
+              "end": 84,
+              "expanded_url": "https://x.com/duzihaoeo/status/2080635498947826069/video/1",
+              "media_key": "13_2080635380337106944",
+              "start": 61,
+              "url": "https://t.co/hnNj51TwJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080635498947826069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 533,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "討要凍乾失敗 然後一直坐著看我 對我喵喵叫\n我好幾次被她騙出去！結果她只是想吃凍乾！！我一出去她就直奔放凍乾的地方！！！ https://t.co/hnNj51TwJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 970,
+          "like_count": 6167,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2532
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-17T03:03:07.000Z",
+        "description": "我家小貓咪超級可愛！！！！\n減肥中！看到我請叫我去喝水\n我只是一個愛口嗨碎碎念的大變態\n每天都在搞瑟瑟跟嘴饞之間來回跳動\n純愛戰士！",
+        "id": "2067079575377698816",
+        "name": "鮭魚肚",
+        "pinned_tweet_id": "2080635498947826069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068955870151745536/Sz5UmcpL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 215,
+          "like_count": 952,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 796
+        },
+        "url": "",
+        "username": "duzihaoeo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2079968865807970604",
+    "created_at": "2026-07-23T15:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080309477199515976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605839529079984128",
+          "start": 0,
+          "username": "qian287"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080309477199515976",
+    "in_reply_to_user_id": "1605839529079984128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080292289214030171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian287 dy pdd都有卖！可以去看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2079968865807970604",
+        "created_at": "2026-07-23T15:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080309477199515976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605839529079984128",
+              "start": 0,
+              "username": "qian287"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080309477199515976",
+        "in_reply_to_user_id": "1605839529079984128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080292289214030171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian287 dy pdd都有卖！可以去看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605839529079984128",
+        "conversation_id": "2079968865807970604",
+        "created_at": "2026-07-23T14:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080292289214030171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080292289214030171",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079968865807970604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 啊哈哈哈哈哈哈我很需要了啊啊啊在哪里买的！！我将严肃贴上！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 963,
+          "like_count": 5989,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2497
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-22T08:16:11.000Z",
+        "description": "北美第一碎嘴子｜平平无奇好色纯洁小女孩｜xp很多很乱｜不是圈里人｜前程序员｜不教代码｜ISTJ｜不线下｜不加其他联系方式｜无🚪｜社恐｜有兴趣才会回私信｜说什么凭我心情｜经常左右脑互搏｜小号@Qian288",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 94,
+                "username": "Qian288"
+              }
+            ]
+          }
+        },
+        "id": "1605839529079984128",
+        "location": "VS studio",
+        "name": "千千不写码",
+        "pinned_tweet_id": "2076690036469219627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605839897696296960/c9rn-kIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 83,
+          "like_count": 292,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 1378
+        },
+        "url": "",
+        "username": "qian287",
+        "verified": false
+      }
+    ]
+  }
+}

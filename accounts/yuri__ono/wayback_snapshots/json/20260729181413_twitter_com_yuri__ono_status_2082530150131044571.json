@@ -1,0 +1,655 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079457316496449537"
+      ],
+      "media_source_tweet_id": [
+        "2079457343281221729"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      }
+    ],
+    "conversation_id": "2082530150131044571",
+    "created_at": "2026-07-29T18:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082530150131044571"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 59,
+          "tag": "IdentityV"
+        },
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "第五人格"
+        },
+        {
+          "end": 82,
+          "start": 76,
+          "tag": "エマの日常"
+        },
+        {
+          "end": 91,
+          "start": 83,
+          "tag": "第五人格8周年"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1381053480241000449",
+          "start": 3,
+          "username": "EmmaIdentityVJP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pr8uwb6eSX",
+          "end": 115,
+          "expanded_url": "https://x.com/EmmaIdentityVJP/status/2079457343281221729/photo/1",
+          "media_key": "3_2079457316496449537",
+          "start": 92,
+          "url": "https://t.co/pr8uwb6eSX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082530150131044571",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 760
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079457343281221729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EmmaIdentityVJP: 今日の発見：\n\n守衛さん、\nまさかスイカを切るのが得意だったなんて……🍉\n\n#IdentityV #第五人格\n#エマの日常\n#第五人格8周年 https://t.co/pr8uwb6eSX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1814,
+        "media_key": "3_2079457316496449537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNu3aXNboAEdGBA.jpg",
+        "width": 1209
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079457316496449537"
+          ]
+        },
+        "author_id": "1381053480241000449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2079457343281221729",
+        "created_at": "2026-07-21T06:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079457343281221729"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "IdentityV"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "第五人格"
+            },
+            {
+              "end": 61,
+              "start": 55,
+              "tag": "エマの日常"
+            },
+            {
+              "end": 70,
+              "start": 62,
+              "tag": "第五人格8周年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pr8uwb6eSX",
+              "end": 94,
+              "expanded_url": "https://x.com/EmmaIdentityVJP/status/2079457343281221729/photo/1",
+              "media_key": "3_2079457316496449537",
+              "start": 71,
+              "url": "https://t.co/pr8uwb6eSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079457343281221729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 108113,
+          "like_count": 6158,
+          "quote_count": 74,
+          "reply_count": 7,
+          "retweet_count": 760
+        },
+        "reply_settings": "everyone",
+        "text": "今日の発見：\n\n守衛さん、\nまさかスイカを切るのが得意だったなんて……🍉\n\n#IdentityV #第五人格\n#エマの日常\n#第五人格8周年 https://t.co/pr8uwb6eSX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079457316496449537"
+          ],
+          "media_source_tweet_id": [
+            "2079457343281221729"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2082530150131044571",
+        "created_at": "2026-07-29T18:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082530150131044571"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 59,
+              "tag": "IdentityV"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "第五人格"
+            },
+            {
+              "end": 82,
+              "start": 76,
+              "tag": "エマの日常"
+            },
+            {
+              "end": 91,
+              "start": 83,
+              "tag": "第五人格8周年"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1381053480241000449",
+              "start": 3,
+              "username": "EmmaIdentityVJP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pr8uwb6eSX",
+              "end": 115,
+              "expanded_url": "https://x.com/EmmaIdentityVJP/status/2079457343281221729/photo/1",
+              "media_key": "3_2079457316496449537",
+              "start": 92,
+              "url": "https://t.co/pr8uwb6eSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082530150131044571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 760
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079457343281221729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EmmaIdentityVJP: 今日の発見：\n\n守衛さん、\nまさかスイカを切るのが得意だったなんて……🍉\n\n#IdentityV #第五人格\n#エマの日常\n#第五人格8周年 https://t.co/pr8uwb6eSX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 968,
+          "like_count": 6221,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 2565
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-11T01:16:39.000Z",
+        "description": "エマなの！最新情報は(@IdentityVJP)をチェック！\nコラボやグッズ新情報、エマの日常を皆にお届けするの♪\n#エマのなんでも情報局",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 58,
+                "tag": "エマのなんでも情報局"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "IdentityVJP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "identityvgame.com/jp/",
+                "end": 23,
+                "expanded_url": "https://www.identityvgame.com/jp/",
+                "start": 0,
+                "url": "https://t.co/UNUtCsIwpv"
+              }
+            ]
+          }
+        },
+        "id": "1381053480241000449",
+        "location": "荘園",
+        "name": "エマ@なんでも情報局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646659889425715200/8lgP5PZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77969,
+          "following_count": 1,
+          "like_count": 1902,
+          "listed_count": 268,
+          "media_count": 794,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/UNUtCsIwpv",
+        "username": "EmmaIdentityVJP",
+        "verified": true
+      }
+    ]
+  }
+}

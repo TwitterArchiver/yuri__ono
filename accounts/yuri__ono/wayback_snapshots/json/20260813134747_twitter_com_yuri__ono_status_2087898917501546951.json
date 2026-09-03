@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087898887462014976"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2087898917501546951",
+    "created_at": "2026-08-13T13:47:47.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T14:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087898917501546951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bHgReCQ8ML",
+          "end": 28,
+          "expanded_url": "https://x.com/yuri__ono/status/2087898917501546951/video/1",
+          "media_key": "13_2087898887462014976",
+          "start": 5,
+          "url": "https://t.co/bHgReCQ8ML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087898917501546951",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087898887462014976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拆快递！ https://t.co/bHgReCQ8ML"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9105,
+        "height": 1920,
+        "media_key": "13_2087898887462014976",
+        "preview_image_url": "https://pbs.twimg.com/media/HPm0-dnaUAA6UVi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087898887462014976/vid/avc1/320x568/bDZfmYN1LwWhrhZz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087898887462014976/vid/avc1/480x852/grdmTEAEcsXQCbp9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087898887462014976/vid/avc1/720x1280/p-4NzT_xkkcB09SK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087898887462014976/pl/ZuxA2G3D6_WRl6DQ.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087898887462014976"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2087898917501546951",
+        "created_at": "2026-08-13T13:47:47.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087898917501546951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHgReCQ8ML",
+              "end": 28,
+              "expanded_url": "https://x.com/yuri__ono/status/2087898917501546951/video/1",
+              "media_key": "13_2087898887462014976",
+              "start": 5,
+              "url": "https://t.co/bHgReCQ8ML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087898917501546951",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087898887462014976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拆快递！ https://t.co/bHgReCQ8ML"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2087898917501546951",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 962,
+          "like_count": 6499,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 2678
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

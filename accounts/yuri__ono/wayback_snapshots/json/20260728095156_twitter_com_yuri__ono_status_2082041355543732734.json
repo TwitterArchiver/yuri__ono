@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2082014255860285492",
+    "created_at": "2026-07-28T09:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082041355543732734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010312682042429440",
+          "start": 0,
+          "username": "yukiiiiii004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082041355543732734",
+    "in_reply_to_user_id": "2010312682042429440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082014255860285492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiiiiii004 好奇特的口味 这个好吃吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082014247928889344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTM7XEagAAaxpP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2082014255860285492",
+        "created_at": "2026-07-28T09:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082041355543732734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010312682042429440",
+              "start": 0,
+              "username": "yukiiiiii004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082041355543732734",
+        "in_reply_to_user_id": "2010312682042429440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082014255860285492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiiiiii004 好奇特的口味 这个好吃吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082014247928889344"
+          ]
+        },
+        "author_id": "2010312682042429440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082014255860285492",
+        "created_at": "2026-07-28T08:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082014255860285492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjGne8bLuP",
+              "end": 33,
+              "expanded_url": "https://x.com/yukiiiiii004/status/2082014255860285492/photo/1",
+              "media_key": "3_2082014247928889344",
+              "start": 10,
+              "url": "https://t.co/JjGne8bLuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082014255860285492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 860,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要尝尝了！！ https://t.co/JjGne8bLuP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 970,
+          "like_count": 6163,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 2529
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T11:27:57.000Z",
+        "description": "谢谢你的喜欢^ᵕ^♡\n全平台仅此一个账号！",
+        "id": "2010312682042429440",
+        "name": "Yuki",
+        "pinned_tweet_id": "2058231053568102500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082025575565459456/7crD0Pmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6010,
+          "following_count": 53,
+          "like_count": 1903,
+          "listed_count": 12,
+          "media_count": 67,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "yukiiiiii004",
+        "verified": false
+      }
+    ]
+  }
+}

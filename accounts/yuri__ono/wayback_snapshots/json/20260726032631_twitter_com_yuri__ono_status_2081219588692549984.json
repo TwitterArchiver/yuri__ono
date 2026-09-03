@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2080645758186123751",
+    "created_at": "2026-07-26T03:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081219588692549984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1931380937033719808",
+          "start": 0,
+          "username": "qwq_ovoyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081219588692549984",
+    "in_reply_to_user_id": "1931380937033719808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081073715622957375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_ovoyy 一般吧 我感觉只有厨子会买单呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2080645758186123751",
+        "created_at": "2026-07-26T03:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081219588692549984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1931380937033719808",
+              "start": 0,
+              "username": "qwq_ovoyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081219588692549984",
+        "in_reply_to_user_id": "1931380937033719808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081073715622957375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_ovoyy 一般吧 我感觉只有厨子会买单呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931380937033719808",
+        "conversation_id": "2080645758186123751",
+        "created_at": "2026-07-25T17:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081073715622957375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081073715622957375",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080645758186123751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 这个皮肤手感好吗 我只有一个锁芯TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 963,
+          "like_count": 6083,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2511
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-07T16:01:22.000Z",
+        "description": "不知道有什么好看的",
+        "id": "1931380937033719808",
+        "name": "我现在有点累",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064566012775907328/dOVipw-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 77,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "qwq_ovoyy",
+        "verified": false
+      }
+    ]
+  }
+}

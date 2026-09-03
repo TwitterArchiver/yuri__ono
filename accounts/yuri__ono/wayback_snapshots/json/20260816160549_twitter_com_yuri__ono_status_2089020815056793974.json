@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2089015616279904303",
+    "created_at": "2026-08-16T16:05:49.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089020815056793974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630461303742697472",
+          "start": 0,
+          "username": "titanmini3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089020815056793974",
+    "in_reply_to_user_id": "1630461303742697472",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089019761648869389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@titanmini3 (｡ì _ í｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2089015616279904303",
+        "created_at": "2026-08-16T16:05:49.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089020815056793974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630461303742697472",
+              "start": 0,
+              "username": "titanmini3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089020815056793974",
+        "in_reply_to_user_id": "1630461303742697472",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089019761648869389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@titanmini3 (｡ì _ í｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630461303742697472",
+        "conversation_id": "2089015616279904303",
+        "created_at": "2026-08-16T16:01:37.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089019761648869389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089019761648869389",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089015616279904303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 我去 宝宝早说你长这样嘛~"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2089020815056793974",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 976,
+          "like_count": 6540,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2708
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-28T06:54:16.000Z",
+        "description": "05/推止于推/isfp/玻璃心小女孩 骂我默认自动出示全家死亡证明/日常碎碎念 /sub\n小号防走失@hximx121863\n颜控 身材控 没有免费聊天的义务😅\n有问必答☺️https://t.co/9kuMV0X7ta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "hximx121863"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lulu59400",
+                "end": 111,
+                "expanded_url": "https://ngl.link/lulu59400",
+                "start": 88,
+                "url": "https://t.co/9kuMV0X7ta"
+              }
+            ]
+          }
+        },
+        "id": "1630461303742697472",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2089019761648869389",
+        "name": "lulu",
+        "pinned_tweet_id": "2060679336630358299",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1630461303742697472/1780129054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070889991262412800/D87MrNb-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3042,
+          "following_count": 262,
+          "like_count": 2298,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1416
+        },
+        "url": "",
+        "username": "titanmini3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

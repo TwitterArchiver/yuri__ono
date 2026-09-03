@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2078892361518813403",
+    "created_at": "2026-07-20T01:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T02:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079017620721082801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1535201324643807232",
+          "start": 0,
+          "username": "07yyyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079017620721082801",
+    "in_reply_to_user_id": "1535201324643807232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078913737562685813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@07yyyuan 好那个。(*/ω＼*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2078892361518813403",
+        "created_at": "2026-07-20T01:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079017620721082801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1535201324643807232",
+              "start": 0,
+              "username": "07yyyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079017620721082801",
+        "in_reply_to_user_id": "1535201324643807232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078913737562685813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@07yyyuan 好那个。(*/ω＼*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535201324643807232",
+        "conversation_id": "2078892361518813403",
+        "created_at": "2026-07-19T18:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078913737562685813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078913737562685813",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078892361518813403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 好幸福。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 954,
+          "like_count": 5909,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 2463
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-10T10:05:10.000Z",
+        "description": "一个脆弱的小宝宝 \n喜欢碎碎念 单纯分享日常 \n可以互fo！喜欢有礼貌的人ovo\n欢迎和我做朋友！",
+        "id": "1535201324643807232",
+        "location": "Dublin City, Ireland",
+        "name": "差点以为自己又被爱了",
+        "pinned_tweet_id": "2041195413655752765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060016158586322944/3wnWc2Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 189,
+          "like_count": 10652,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "07yyyuan",
+        "verified": false
+      }
+    ]
+  }
+}

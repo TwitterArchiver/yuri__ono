@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2080157340154941440"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "conversation_id": "2080157363462607357",
+    "created_at": "2026-07-23T05:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080157363462607357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qzDvLylse2",
+          "end": 30,
+          "expanded_url": "https://x.com/yuri__ono/status/2080157363462607357/photo/1",
+          "media_key": "16_2080157340154941440",
+          "start": 7,
+          "url": "https://t.co/qzDvLylse2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080157363462607357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是啥子猫。 https://t.co/qzDvLylse2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2080157340154941440",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HN40FGjbUAA2rZs.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HN40FGjbUAA2rZs.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2080157340154941440"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2080157363462607357",
+        "created_at": "2026-07-23T05:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080157363462607357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qzDvLylse2",
+              "end": 30,
+              "expanded_url": "https://x.com/yuri__ono/status/2080157363462607357/photo/1",
+              "media_key": "16_2080157340154941440",
+              "start": 7,
+              "url": "https://t.co/qzDvLylse2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080157363462607357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是啥子猫。 https://t.co/qzDvLylse2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 960,
+          "like_count": 5980,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2490
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      }
+    ]
+  }
+}

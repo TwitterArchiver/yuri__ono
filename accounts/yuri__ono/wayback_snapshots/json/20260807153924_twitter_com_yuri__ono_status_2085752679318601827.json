@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085752651183243264",
+        "3_2085752651120312320",
+        "3_2085752651141259264"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2085752679318601827",
+    "created_at": "2026-08-07T15:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085752679318601827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n66VMahsg7",
+          "end": 29,
+          "expanded_url": "https://x.com/yuri__ono/status/2085752679318601827/photo/1",
+          "media_key": "3_2085752651183243264",
+          "start": 6,
+          "url": "https://t.co/n66VMahsg7"
+        },
+        {
+          "display_url": "pic.x.com/n66VMahsg7",
+          "end": 29,
+          "expanded_url": "https://x.com/yuri__ono/status/2085752679318601827/photo/1",
+          "media_key": "3_2085752651120312320",
+          "start": 6,
+          "url": "https://t.co/n66VMahsg7"
+        },
+        {
+          "display_url": "pic.x.com/n66VMahsg7",
+          "end": 29,
+          "expanded_url": "https://x.com/yuri__ono/status/2085752679318601827/photo/1",
+          "media_key": "3_2085752651141259264",
+          "start": 6,
+          "url": "https://t.co/n66VMahsg7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085752679318601827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "严肃吃饭！ https://t.co/n66VMahsg7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085752651183243264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIU_EcbQAAlQx2.jpg",
+        "width": 1820
+      },
+      {
+        "height": 1764,
+        "media_key": "3_2085752651120312320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIU_ENbAAAOSny.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2085752651141259264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIU_ESaoAAiy-T.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085752651183243264",
+            "3_2085752651120312320",
+            "3_2085752651141259264"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085752679318601827",
+        "created_at": "2026-08-07T15:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085752679318601827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n66VMahsg7",
+              "end": 29,
+              "expanded_url": "https://x.com/yuri__ono/status/2085752679318601827/photo/1",
+              "media_key": "3_2085752651183243264",
+              "start": 6,
+              "url": "https://t.co/n66VMahsg7"
+            },
+            {
+              "display_url": "pic.x.com/n66VMahsg7",
+              "end": 29,
+              "expanded_url": "https://x.com/yuri__ono/status/2085752679318601827/photo/1",
+              "media_key": "3_2085752651120312320",
+              "start": 6,
+              "url": "https://t.co/n66VMahsg7"
+            },
+            {
+              "display_url": "pic.x.com/n66VMahsg7",
+              "end": 29,
+              "expanded_url": "https://x.com/yuri__ono/status/2085752679318601827/photo/1",
+              "media_key": "3_2085752651141259264",
+              "start": 6,
+              "url": "https://t.co/n66VMahsg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085752679318601827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃吃饭！ https://t.co/n66VMahsg7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 959,
+          "like_count": 6358,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2630
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

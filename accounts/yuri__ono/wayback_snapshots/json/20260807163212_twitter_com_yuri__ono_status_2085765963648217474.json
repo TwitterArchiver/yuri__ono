@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2085752679318601827",
+    "created_at": "2026-08-07T16:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085765963648217474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2039890858976440320",
+          "start": 0,
+          "username": "Peaceeeeeeub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085765963648217474",
+    "in_reply_to_user_id": "2039890858976440320",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085761849979707759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Peaceeeeeeub mua"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2085752679318601827",
+        "created_at": "2026-08-07T16:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085765963648217474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2039890858976440320",
+              "start": 0,
+              "username": "Peaceeeeeeub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085765963648217474",
+        "in_reply_to_user_id": "2039890858976440320",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085761849979707759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Peaceeeeeeub mua"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039890858976440320",
+        "conversation_id": "2085752679318601827",
+        "created_at": "2026-08-07T16:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085761849979707759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085761849979707759",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085752679318601827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 好可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 959,
+          "like_count": 6373,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2633
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T02:22:56.000Z",
+        "description": "我只是一个20岁的阿宅。可以叫我锤锤！主页都是碎碎念转发和自拍。不加联系方式但是萌妹子互fo大欢迎🥺需要互fo可以私信我！（男的互fo我要审主页\nhttps://t.co/KFNKQI0eWv 欢迎来提问！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dachuiiii",
+                "end": 96,
+                "expanded_url": "http://ngl.link/dachuiiii",
+                "start": 73,
+                "url": "https://t.co/KFNKQI0eWv"
+              }
+            ]
+          }
+        },
+        "id": "2039890858976440320",
+        "name": "Dachuiiii",
+        "pinned_tweet_id": "2071784746385064101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085694264768647168/8Sh4tZGs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 124,
+          "like_count": 7212,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 1856
+        },
+        "url": "",
+        "username": "Peaceeeeeeub",
+        "verified": false
+      }
+    ]
+  }
+}

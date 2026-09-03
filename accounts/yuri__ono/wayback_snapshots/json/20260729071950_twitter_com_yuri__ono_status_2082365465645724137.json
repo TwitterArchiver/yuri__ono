@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2082114919118598368",
+    "created_at": "2026-07-29T07:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082365465645724137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081377853162369024",
+          "start": 0,
+          "username": "Iiholdtheblade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082365465645724137",
+    "in_reply_to_user_id": "2081377853162369024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082114919118598368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iiholdtheblade 无语。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2082114919118598368",
+        "created_at": "2026-07-29T07:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082365465645724137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081377853162369024",
+              "start": 0,
+              "username": "Iiholdtheblade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082365465645724137",
+        "in_reply_to_user_id": "2081377853162369024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082114919118598368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iiholdtheblade 无语。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081377853162369024",
+        "conversation_id": "2082114919118598368",
+        "created_at": "2026-07-28T14:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082114919118598368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082114919118598368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的乐子男朋友 每天都想做菜结果弄成胡闹厨房 陪你熬夜也熬不动 打游戏也菜 天天就是听歌听歌听歌😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 967,
+          "like_count": 6193,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 2550
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-26T13:56:26.000Z",
+        "description": "上一世我的号被莫名其妙冻结了 这一世我要拿回我的所有….",
+        "id": "2081377853162369024",
+        "name": "更痛更苦更隔阂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081378242729287680/Gqj4A5hV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 15,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "Iiholdtheblade",
+        "verified": false
+      }
+    ]
+  }
+}

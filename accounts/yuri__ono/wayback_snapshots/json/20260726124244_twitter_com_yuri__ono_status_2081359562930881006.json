@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2081356211270676572",
+    "created_at": "2026-07-26T12:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081359562930881006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868905416924561408",
+          "start": 0,
+          "username": "Sren070728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081359562930881006",
+    "in_reply_to_user_id": "1868905416924561408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081356211270676572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sren070728 啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081356199736246272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJ2b6hWAAANhDW.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2081356211270676572",
+        "created_at": "2026-07-26T12:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081359562930881006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868905416924561408",
+              "start": 0,
+              "username": "Sren070728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081359562930881006",
+        "in_reply_to_user_id": "1868905416924561408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081356211270676572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sren070728 啊啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081356199736246272"
+          ]
+        },
+        "author_id": "1868905416924561408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081356211270676572",
+        "created_at": "2026-07-26T12:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081356211270676572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxTAgPHDCy",
+              "end": 31,
+              "expanded_url": "https://x.com/Sren070728/status/2081356211270676572/photo/1",
+              "media_key": "3_2081356199736246272",
+              "start": 8,
+              "url": "https://t.co/uxTAgPHDCy"
+            },
+            {
+              "display_url": "x.com/yuri__ono/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/yuri__ono/status/2080987237274251555",
+              "start": 32,
+              "url": "https://t.co/MXjrNsLzVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081356211270676572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080987237274251555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这期我有发言权 https://t.co/uxTAgPHDCy https://t.co/MXjrNsLzVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 964,
+          "like_count": 6091,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2516
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-17T06:25:58.000Z",
+        "description": "07/infp 坐标：東京江東区\n纯自恋 自愿转账：🚪10 不闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/VSSnr7cWPB",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/VSSnr7cWPB",
+                "start": 0,
+                "url": "https://t.co/5iBWFbyAso"
+              }
+            ]
+          }
+        },
+        "id": "1868905416924561408",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "せレン，梦想哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019106902001741828/PFPUepzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 189,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 2048
+        },
+        "url": "https://t.co/5iBWFbyAso",
+        "username": "Sren070728",
+        "verified": false
+      }
+    ]
+  }
+}

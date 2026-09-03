@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2090487524577910899",
+    "created_at": "2026-08-20T17:13:59.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090487524577910899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960391879973036032",
+          "start": 3,
+          "username": "I_xco11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090487524577910899",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089761728779432428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @I_xco11: 子供産まないから生理なくなれ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2090487524577910899",
+        "created_at": "2026-08-20T17:13:59.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090487524577910899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960391879973036032",
+              "start": 3,
+              "username": "I_xco11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090487524577910899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089761728779432428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @I_xco11: 子供産まないから生理なくなれ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960391879973036032",
+        "conversation_id": "2089761728779432428",
+        "created_at": "2026-08-18T17:09:56.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089761728779432428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089761728779432428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 888549,
+          "like_count": 26533,
+          "quote_count": 203,
+          "reply_count": 61,
+          "retweet_count": 2112
+        },
+        "reply_settings": "everyone",
+        "text": "子供産まないから生理なくなれ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢有礼貌的人 不聊黄不线下 喜欢有礼貌的人 查成分回关 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2090487524577910899",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 1026,
+          "like_count": 6642,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2812
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-26T17:20:33.000Z",
+        "description": "𖤐ljc┊𖤐不登校┊𖤐♀︎┊𖤐バイ\n\nお姫様@nyanorz_66\n\n🗝⟡.·@munou_22\n\n無言フォロー失礼します.⋆𝜗𝜚 .",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "nyanorz_66"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "munou_22"
+              }
+            ]
+          }
+        },
+        "id": "1960391879973036032",
+        "is_identity_verified": false,
+        "location": "無能",
+        "most_recent_tweet_id": "2090486846853919108",
+        "name": "青年期失顔症",
+        "pinned_tweet_id": "2083182603302264964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1960391879973036032/1756229034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083179523080876032/3if5X_Ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 232,
+          "like_count": 10499,
+          "listed_count": 16,
+          "media_count": 74,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "I_xco11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

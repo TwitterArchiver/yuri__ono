@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2089737283796906302",
+    "created_at": "2026-08-18T15:37:34.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089738484382929105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1624202040489701377",
+          "start": 0,
+          "username": "XUHT_0512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089738484382929105",
+    "in_reply_to_user_id": "1624202040489701377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089738254887367127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUHT_0512 (｡ì _ í｡)谢谢馄饨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2089737283796906302",
+        "created_at": "2026-08-18T15:37:34.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089738484382929105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1624202040489701377",
+              "start": 0,
+              "username": "XUHT_0512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089738484382929105",
+        "in_reply_to_user_id": "1624202040489701377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089738254887367127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUHT_0512 (｡ì _ í｡)谢谢馄饨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624202040489701377",
+        "conversation_id": "2089737283796906302",
+        "created_at": "2026-08-18T15:36:40.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089738254887367127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089738254887367127",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089737283796906302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 萌！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢有礼貌的人 不聊黄不线下 喜欢有礼貌的人 查成分回关 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2089738484382929105",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 1019,
+          "like_count": 6587,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2762
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T00:22:06.000Z",
+        "description": "天蝎座 enfp 二次元 欧美向\n生理男 性别男",
+        "id": "1624202040489701377",
+        "is_identity_verified": false,
+        "location": "外太空",
+        "most_recent_tweet_id": "2089738473813254314",
+        "name": "小馄饨",
+        "pinned_tweet_id": "2083865079934828884",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624202040489701377/1699471392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087538768886816768/OGgoFzrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 304,
+          "like_count": 2586,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 3459
+        },
+        "url": "",
+        "username": "XUHT_0512",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2085519918058099127",
+    "created_at": "2026-08-07T15:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085756364857733259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989742696077168645",
+          "start": 0,
+          "username": "angel5554838581"
+        },
+        {
+          "end": 23,
+          "id": "2024068861134528512",
+          "start": 17,
+          "username": "1gdsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085756364857733259",
+    "in_reply_to_user_id": "1989742696077168645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085519918058099127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angel5554838581 @1gdsb 晚安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085519909405274112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFBTtwbMAAcf7s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2085519918058099127",
+        "created_at": "2026-08-07T15:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085756364857733259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989742696077168645",
+              "start": 0,
+              "username": "angel5554838581"
+            },
+            {
+              "end": 23,
+              "id": "2024068861134528512",
+              "start": 17,
+              "username": "1gdsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085756364857733259",
+        "in_reply_to_user_id": "1989742696077168645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085519918058099127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angel5554838581 @1gdsb 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085519909405274112"
+          ]
+        },
+        "author_id": "1989742696077168645",
+        "conversation_id": "2085519918058099127",
+        "created_at": "2026-08-07T00:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T01:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085519918058099127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IE1XFFw4vp",
+              "end": 26,
+              "expanded_url": "https://x.com/angel5554838581/status/2085519918058099127/photo/1",
+              "media_key": "3_2085519909405274112",
+              "start": 3,
+              "url": "https://t.co/IE1XFFw4vp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085519918058099127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12585,
+          "like_count": 127,
+          "quote_count": 2,
+          "reply_count": 100,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "再见 https://t.co/IE1XFFw4vp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 960,
+          "like_count": 6362,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2632
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T17:10:13.000Z",
+        "description": "每天都很懵逼",
+        "id": "1989742696077168645",
+        "location": "Tokyo-to, Japan",
+        "name": "angel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989968123639013377/_RFJ8qJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 39,
+          "like_count": 316,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "angel5554838581",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "死人微活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDgDGg"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "location": "广州海珠赤岗",
+        "name": "cn_1gdsb",
+        "pinned_tweet_id": "2082990267796521412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 609,
+          "like_count": 4730,
+          "listed_count": 2,
+          "media_count": 660,
+          "tweet_count": 2566
+        },
+        "url": "https://t.co/nDeqjDgDGg",
+        "username": "1gdsb",
+        "verified": true
+      }
+    ]
+  }
+}

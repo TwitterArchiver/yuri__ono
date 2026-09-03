@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2089042075379765435",
+    "created_at": "2026-08-16T17:33:59.000Z",
+    "display_text_range": [
+      11,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089043006620049419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1624202040489701377",
+          "start": 0,
+          "username": "XUHT_0512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089043006620049419",
+    "in_reply_to_user_id": "1624202040489701377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089042635164176717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUHT_0512 收到收到(｡ì _ í｡)好想找朋友一起去然后几个傻子开始大笑。和朋友在一起的时候我的笑点特别的低"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2089042075379765435",
+        "created_at": "2026-08-16T17:33:59.000Z",
+        "display_text_range": [
+          11,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089043006620049419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1624202040489701377",
+              "start": 0,
+              "username": "XUHT_0512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089043006620049419",
+        "in_reply_to_user_id": "1624202040489701377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089042635164176717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUHT_0512 收到收到(｡ì _ í｡)好想找朋友一起去然后几个傻子开始大笑。和朋友在一起的时候我的笑点特别的低"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624202040489701377",
+        "conversation_id": "2089042075379765435",
+        "created_at": "2026-08-16T17:32:31.000Z",
+        "display_text_range": [
+          11,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089042635164176717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089042635164176717",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089042075379765435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 20块钱以下可以去当一坨大便去看。前提是场子里要有其他人。有一种很纯粹的没有大脑的爽。人越多越好。票越便宜越好。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2089043006620049419",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 985,
+          "like_count": 6549,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2716
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T00:22:06.000Z",
+        "description": "天蝎座 enfp 二次元 欧美向\n生理男 性别男",
+        "id": "1624202040489701377",
+        "is_identity_verified": false,
+        "location": "外太空",
+        "most_recent_tweet_id": "2089042729070379365",
+        "name": "小馄饨",
+        "pinned_tweet_id": "2083865079934828884",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624202040489701377/1699471392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087538768886816768/OGgoFzrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 303,
+          "like_count": 2553,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 3447
+        },
+        "url": "",
+        "username": "XUHT_0512",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

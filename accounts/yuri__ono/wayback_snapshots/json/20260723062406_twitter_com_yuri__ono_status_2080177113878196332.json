@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2080157363462607357",
+    "created_at": "2026-07-23T06:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080177113878196332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3238412713",
+          "start": 0,
+          "username": "isle1021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080177113878196332",
+    "in_reply_to_user_id": "3238412713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080176533235515866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isle1021 暹罗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2080157363462607357",
+        "created_at": "2026-07-23T06:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080177113878196332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3238412713",
+              "start": 0,
+              "username": "isle1021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080177113878196332",
+        "in_reply_to_user_id": "3238412713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080176533235515866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isle1021 暹罗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3238412713",
+        "conversation_id": "2080157363462607357",
+        "created_at": "2026-07-23T06:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080176533235515866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080176533235515866",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080157363462607357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 波斯猫？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 960,
+          "like_count": 5983,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2492
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-07T01:50:39.000Z",
+        "description": "我叫李在焕。这里就爱好和一时感悟, 日报而我打算继续写。副号 →@Neptunus1027\n\n呜呼！！！！\n这是什么绝对的纯白领域啊！！！！！？？\n放眼望去，简直就像是一片银装素裹的雪景啊！！！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Neptunus1027"
+              }
+            ]
+          }
+        },
+        "id": "3238412713",
+        "location": "異能派芸人集団カスアベンジャーズ",
+        "name": "李在焕(旧名: 朝雾 千种, 仓光)",
+        "pinned_tweet_id": "2072991799271166435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079762268812869632/QN2OEQ5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 992,
+          "like_count": 46206,
+          "listed_count": 13,
+          "media_count": 9612,
+          "tweet_count": 81473
+        },
+        "url": "",
+        "username": "isle1021",
+        "verified": false
+      }
+    ]
+  }
+}

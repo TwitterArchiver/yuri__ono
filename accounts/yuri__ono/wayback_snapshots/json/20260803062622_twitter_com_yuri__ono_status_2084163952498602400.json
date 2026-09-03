@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083658287401054208"
+      ],
+      "media_source_tweet_id": [
+        "2083658307059777920"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084163952498602400",
+    "created_at": "2026-08-03T06:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084163952498602400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1915448291267153920",
+          "start": 3,
+          "username": "uoxxin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XFmvg8DqoH",
+          "end": 35,
+          "expanded_url": "https://x.com/uoxxin/status/2083658307059777920/video/1",
+          "media_key": "13_2083658287401054208",
+          "start": 12,
+          "url": "https://t.co/XFmvg8DqoH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084163952498602400",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3564
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083658307059777920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uoxxin: https://t.co/XFmvg8DqoH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7190,
+        "height": 706,
+        "media_key": "13_2083658287401054208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083658287401054208/img/PY_hCYUrKJNFuyoo.jpg",
+        "public_metrics": {
+          "view_count": 55069
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083658287401054208/vid/avc1/280x270/7kWKHx7M2KQFxo_q.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083658287401054208/vid/avc1/374x360/ft2Mz8452ksmdC7w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083658287401054208/vid/avc1/734x706/BRKA1jS9FxEpru_f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083658287401054208/pl/xlRVBIH0-zTMHVRg.m3u8"
+          }
+        ],
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083658287401054208"
+          ]
+        },
+        "author_id": "1915448291267153920",
+        "conversation_id": "2083658307059777920",
+        "created_at": "2026-08-01T20:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083658307059777920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFmvg8DqoH",
+              "end": 23,
+              "expanded_url": "https://x.com/uoxxin/status/2083658307059777920/video/1",
+              "media_key": "13_2083658287401054208",
+              "start": 0,
+              "url": "https://t.co/XFmvg8DqoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083658307059777920",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1648,
+          "impression_count": 140149,
+          "like_count": 15045,
+          "quote_count": 92,
+          "reply_count": 28,
+          "retweet_count": 3564
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XFmvg8DqoH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083658287401054208"
+          ],
+          "media_source_tweet_id": [
+            "2083658307059777920"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084163952498602400",
+        "created_at": "2026-08-03T06:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084163952498602400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1915448291267153920",
+              "start": 3,
+              "username": "uoxxin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFmvg8DqoH",
+              "end": 35,
+              "expanded_url": "https://x.com/uoxxin/status/2083658307059777920/video/1",
+              "media_key": "13_2083658287401054208",
+              "start": 12,
+              "url": "https://t.co/XFmvg8DqoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084163952498602400",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3564
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083658307059777920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uoxxin: https://t.co/XFmvg8DqoH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢可以投喂谢谢 不聊黄不线下 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 959,
+          "like_count": 6250,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2596
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T16:50:42.000Z",
+        "description": "",
+        "id": "1915448291267153920",
+        "name": "⃟",
+        "pinned_tweet_id": "2072632253331452308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060875058608779267/hWrlzZqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8484,
+          "following_count": 270,
+          "like_count": 16100,
+          "listed_count": 7,
+          "media_count": 362,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "uoxxin",
+        "verified": false
+      }
+    ]
+  }
+}

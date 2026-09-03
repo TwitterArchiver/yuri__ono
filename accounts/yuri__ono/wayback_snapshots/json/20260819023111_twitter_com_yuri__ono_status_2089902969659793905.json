@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967234748704862208",
+    "conversation_id": "2089766521925161118",
+    "created_at": "2026-08-19T02:31:11.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T03:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089902969659793905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1821945924756615170",
+          "start": 0,
+          "username": "ouo111122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089902969659793905",
+    "in_reply_to_user_id": "1821945924756615170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089861647011926056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouo111122 不客气！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2089766521925161118",
+        "created_at": "2026-08-19T02:31:11.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089902969659793905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1821945924756615170",
+              "start": 0,
+              "username": "ouo111122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089902969659793905",
+        "in_reply_to_user_id": "1821945924756615170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089861647011926056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouo111122 不客气！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821945924756615170",
+        "conversation_id": "2089766521925161118",
+        "created_at": "2026-08-18T23:46:59.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T00:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089861647011926056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089861647011926056",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089766521925161118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 谢谢！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢有礼貌的人 不聊黄不线下 喜欢有礼貌的人 查成分回关 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2089902969659793905",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 1022,
+          "like_count": 6588,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2783
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-09T16:25:47.000Z",
+        "description": "情商特低的一个小小小女孩。\n碎碎念日常欢迎找我互fo呀。\n脑残别靠近我 。拜托了。",
+        "id": "1821945924756615170",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089874376535740427",
+        "name": "野猫亨利6171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821945924756615170/1786639577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089593931411693568/826O-q_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 63,
+          "like_count": 4064,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "ouo111122",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
