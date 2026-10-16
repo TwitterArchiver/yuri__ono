@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108566160455446529",
+        "3_2108566160505819136"
+      ]
+    },
+    "author_id": "1967234748704862208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2108566178872672460",
+    "created_at": "2026-10-09T14:32:06.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T15:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108566178872672460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XqkfZYLwFv",
+          "end": 27,
+          "expanded_url": "https://x.com/yuri__ono/status/2108566178872672460/photo/1",
+          "media_key": "3_2108566160455446529",
+          "start": 4,
+          "url": "https://t.co/XqkfZYLwFv"
+        },
+        {
+          "display_url": "pic.x.com/XqkfZYLwFv",
+          "end": 27,
+          "expanded_url": "https://x.com/yuri__ono/status/2108566178872672460/photo/1",
+          "media_key": "3_2108566160505819136",
+          "start": 4,
+          "url": "https://t.co/XqkfZYLwFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108566178872672460",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2108566160455446529"
+      },
+      {
+        "media_key": "3_2108566160505819136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😍😍😍 https://t.co/XqkfZYLwFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 637,
+        "media_key": "3_2108566160455446529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMhwFNbMAEkNCk.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2108566160505819136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMhwFZb0AAwjFn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108566160455446529",
+            "3_2108566160505819136"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108566178872672460",
+        "created_at": "2026-10-09T14:32:06.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T15:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108566178872672460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqkfZYLwFv",
+              "end": 27,
+              "expanded_url": "https://x.com/yuri__ono/status/2108566178872672460/photo/1",
+              "media_key": "3_2108566160455446529",
+              "start": 4,
+              "url": "https://t.co/XqkfZYLwFv"
+            },
+            {
+              "display_url": "pic.x.com/XqkfZYLwFv",
+              "end": 27,
+              "expanded_url": "https://x.com/yuri__ono/status/2108566178872672460/photo/1",
+              "media_key": "3_2108566160505819136",
+              "start": 4,
+              "url": "https://t.co/XqkfZYLwFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108566178872672460",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2108566160455446529"
+          },
+          {
+            "media_key": "3_2108566160505819136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😍😍😍 https://t.co/XqkfZYLwFv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢有礼貌的人 不聊黄不线下 喜欢有礼貌的人 查成分回关 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2108566178872672460",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 988,
+          "like_count": 6438,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2847
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
